@@ -34,7 +34,7 @@ path_to_api("CompanyData", data)
 def read_root():
     return "Welcome to Company Data API -- See '/docs' for available queries"
 
-@app.get("/all/", summary = "Read All Data (Lacks Optimisation = slow)")
+@app.get("/all/", summary = "Read All Data (Returns all data - Lacks Optimisation = slow)")
 def read_all_data():
     return data
 
