@@ -1,0 +1,301 @@
+duns,line_item,year,value
+740676531,Cash flow statement,2024,
+740676531,Cash flow statement,2023,
+740676531,Cash flow statement,2022,
+740676531,Cash flow statement,2021,
+740676531,Cash flow statement,2020,-
+740676531,Cash flow statement,2019,-
+740676531,Cash flow statement,2018,-
+740676531,Cash flow statement,2017,-
+740676531,Cash flow statement,2016,-
+740676531,Cash flow statement,2015,-
+740676531,Receipts from customers ($000s),2024,"$39,621"
+740676531,Receipts from customers ($000s),2023,"$29,774"
+740676531,Receipts from customers ($000s),2022,"$28,503"
+740676531,Receipts from customers ($000s),2021,"$32,070"
+740676531,Receipts from customers ($000s),2020,"$35,344"
+740676531,Receipts from customers ($000s),2019,"$27,257"
+740676531,Receipts from customers ($000s),2018,"$24,796"
+740676531,Receipts from customers ($000s),2017,"$25,107"
+740676531,Receipts from customers ($000s),2016,"$20,772"
+740676531,Receipts from customers ($000s),2015,"$17,209"
+740676531,Payments to suppliers and employees ($000s),2024,"($34,094)"
+740676531,Payments to suppliers and employees ($000s),2023,"($26,930)"
+740676531,Payments to suppliers and employees ($000s),2022,"($24,586)"
+740676531,Payments to suppliers and employees ($000s),2021,"($28,201)"
+740676531,Payments to suppliers and employees ($000s),2020,"($30,454)"
+740676531,Payments to suppliers and employees ($000s),2019,"($27,931)"
+740676531,Payments to suppliers and employees ($000s),2018,"($27,696)"
+740676531,Payments to suppliers and employees ($000s),2017,"($27,428)"
+740676531,Payments to suppliers and employees ($000s),2016,"($20,072)"
+740676531,Payments to suppliers and employees ($000s),2015,"($18,327)"
+740676531,Interest paid ($000s),2024,($74)
+740676531,Interest paid ($000s),2023,($17)
+740676531,Interest paid ($000s),2022,($12)
+740676531,Interest paid ($000s),2021,($29)
+740676531,Interest paid ($000s),2020,($159)
+740676531,Interest paid ($000s),2019,($191)
+740676531,Interest paid ($000s),2018,($180)
+740676531,Interest paid ($000s),2017,($80)
+740676531,Interest paid ($000s),2016,($75)
+740676531,Interest paid ($000s),2015,($53)
+740676531,Tax paid ($000s),2024,"($1,486)"
+740676531,Tax paid ($000s),2023,($899)
+740676531,Tax paid ($000s),2022,"($1,269)"
+740676531,Tax paid ($000s),2021,"($1,212)"
+740676531,Tax paid ($000s),2020,$400
+740676531,Tax paid ($000s),2019,-
+740676531,Tax paid ($000s),2018,$704
+740676531,Tax paid ($000s),2017,$602
+740676531,Tax paid ($000s),2016,$199
+740676531,Tax paid ($000s),2015,-
+740676531,Other receipts ($000s),2024,$257
+740676531,Other receipts ($000s),2023,$82
+740676531,Other receipts ($000s),2022,$24
+740676531,Other receipts ($000s),2021,$15
+740676531,Other receipts ($000s),2020,$1
+740676531,Other receipts ($000s),2019,$1
+740676531,Other receipts ($000s),2018,$5
+740676531,Other receipts ($000s),2017,$4
+740676531,Other receipts ($000s),2016,$4
+740676531,Other receipts ($000s),2015,$0
+740676531,Other payments ($000s),2024,$0
+740676531,Other payments ($000s),2023,$0
+740676531,Other payments ($000s),2022,$0
+740676531,Other payments ($000s),2021,$0
+740676531,Other payments ($000s),2020,$0
+740676531,Other payments ($000s),2019,$0
+740676531,Other payments ($000s),2018,$0
+740676531,Other payments ($000s),2017,$0
+740676531,Other payments ($000s),2016,$0
+740676531,Other payments ($000s),2015,$0
+740676531,Net cashflow from/(used in) operating activities ($000s),2024,"$4,223"
+740676531,Net cashflow from/(used in) operating activities ($000s),2023,"$2,010"
+740676531,Net cashflow from/(used in) operating activities ($000s),2022,"$2,660"
+740676531,Net cashflow from/(used in) operating activities ($000s),2021,"$2,642"
+740676531,Net cashflow from/(used in) operating activities ($000s),2020,"$5,133"
+740676531,Net cashflow from/(used in) operating activities ($000s),2019,($864)
+740676531,Net cashflow from/(used in) operating activities ($000s),2018,"($2,371)"
+740676531,Net cashflow from/(used in) operating activities ($000s),2017,"($1,795)"
+740676531,Net cashflow from/(used in) operating activities ($000s),2016,$827
+740676531,Net cashflow from/(used in) operating activities ($000s),2015,"($1,170)"
+740676531,Purchase of property plant and equipment ($000s),2024,($146)
+740676531,Purchase of property plant and equipment ($000s),2023,($114)
+740676531,Purchase of property plant and equipment ($000s),2022,"($1,225)"
+740676531,Purchase of property plant and equipment ($000s),2021,($641)
+740676531,Purchase of property plant and equipment ($000s),2020,-
+740676531,Purchase of property plant and equipment ($000s),2019,($507)
+740676531,Purchase of property plant and equipment ($000s),2018,($9)
+740676531,Purchase of property plant and equipment ($000s),2017,($371)
+740676531,Purchase of property plant and equipment ($000s),2016,($142)
+740676531,Purchase of property plant and equipment ($000s),2015,($20)
+740676531,Purchase of intangibles ($000s),2024,
+740676531,Purchase of intangibles ($000s),2023,
+740676531,Purchase of intangibles ($000s),2022,
+740676531,Purchase of intangibles ($000s),2021,
+740676531,Purchase of intangibles ($000s),2020,-
+740676531,Purchase of intangibles ($000s),2019,-
+740676531,Purchase of intangibles ($000s),2018,-
+740676531,Purchase of intangibles ($000s),2017,-
+740676531,Purchase of intangibles ($000s),2016,-
+740676531,Purchase of intangibles ($000s),2015,-
+740676531,Proceeds from the sale of property plant and equipment ($000s),2024,$0
+740676531,Proceeds from the sale of property plant and equipment ($000s),2023,$0
+740676531,Proceeds from the sale of property plant and equipment ($000s),2022,$0
+740676531,Proceeds from the sale of property plant and equipment ($000s),2021,$0
+740676531,Proceeds from the sale of property plant and equipment ($000s),2020,$0
+740676531,Proceeds from the sale of property plant and equipment ($000s),2019,$8
+740676531,Proceeds from the sale of property plant and equipment ($000s),2018,$0
+740676531,Proceeds from the sale of property plant and equipment ($000s),2017,$0
+740676531,Proceeds from the sale of property plant and equipment ($000s),2016,$0
+740676531,Proceeds from the sale of property plant and equipment ($000s),2015,$0
+740676531,Proceeds from the disposal of investments/subsidiaries ($000s),2024,$0
+740676531,Proceeds from the disposal of investments/subsidiaries ($000s),2023,$0
+740676531,Proceeds from the disposal of investments/subsidiaries ($000s),2022,$0
+740676531,Proceeds from the disposal of investments/subsidiaries ($000s),2021,$0
+740676531,Proceeds from the disposal of investments/subsidiaries ($000s),2020,$0
+740676531,Proceeds from the disposal of investments/subsidiaries ($000s),2019,$0
+740676531,Proceeds from the disposal of investments/subsidiaries ($000s),2018,$0
+740676531,Proceeds from the disposal of investments/subsidiaries ($000s),2017,$0
+740676531,Proceeds from the disposal of investments/subsidiaries ($000s),2016,$0
+740676531,Proceeds from the disposal of investments/subsidiaries ($000s),2015,$0
+740676531,Purchase of subisidiary/investment ($000s),2024,$0
+740676531,Purchase of subisidiary/investment ($000s),2023,$0
+740676531,Purchase of subisidiary/investment ($000s),2022,$0
+740676531,Purchase of subisidiary/investment ($000s),2021,$0
+740676531,Purchase of subisidiary/investment ($000s),2020,$0
+740676531,Purchase of subisidiary/investment ($000s),2019,$0
+740676531,Purchase of subisidiary/investment ($000s),2018,$0
+740676531,Purchase of subisidiary/investment ($000s),2017,$0
+740676531,Purchase of subisidiary/investment ($000s),2016,$0
+740676531,Purchase of subisidiary/investment ($000s),2015,$0
+740676531,Interest received ($000s),2024,
+740676531,Interest received ($000s),2023,
+740676531,Interest received ($000s),2022,
+740676531,Interest received ($000s),2021,
+740676531,Interest received ($000s),2020,-
+740676531,Interest received ($000s),2019,-
+740676531,Interest received ($000s),2018,-
+740676531,Interest received ($000s),2017,-
+740676531,Interest received ($000s),2016,-
+740676531,Interest received ($000s),2015,-
+740676531,Dividends received ($000s),2024,
+740676531,Dividends received ($000s),2023,
+740676531,Dividends received ($000s),2022,
+740676531,Dividends received ($000s),2021,
+740676531,Dividends received ($000s),2020,-
+740676531,Dividends received ($000s),2019,-
+740676531,Dividends received ($000s),2018,-
+740676531,Dividends received ($000s),2017,-
+740676531,Dividends received ($000s),2016,-
+740676531,Dividends received ($000s),2015,-
+740676531,Other investing inflows/(outflows) ($000s),2024,$0
+740676531,Other investing inflows/(outflows) ($000s),2023,$0
+740676531,Other investing inflows/(outflows) ($000s),2022,$0
+740676531,Other investing inflows/(outflows) ($000s),2021,$0
+740676531,Other investing inflows/(outflows) ($000s),2020,$0
+740676531,Other investing inflows/(outflows) ($000s),2019,$0
+740676531,Other investing inflows/(outflows) ($000s),2018,$0
+740676531,Other investing inflows/(outflows) ($000s),2017,$0
+740676531,Other investing inflows/(outflows) ($000s),2016,$0
+740676531,Other investing inflows/(outflows) ($000s),2015,$0
+740676531,Net cashflow from/(used in) investing activities ($000s),2024,($146)
+740676531,Net cashflow from/(used in) investing activities ($000s),2023,($114)
+740676531,Net cashflow from/(used in) investing activities ($000s),2022,"($1,225)"
+740676531,Net cashflow from/(used in) investing activities ($000s),2021,($641)
+740676531,Net cashflow from/(used in) investing activities ($000s),2020,-
+740676531,Net cashflow from/(used in) investing activities ($000s),2019,($499)
+740676531,Net cashflow from/(used in) investing activities ($000s),2018,($9)
+740676531,Net cashflow from/(used in) investing activities ($000s),2017,($371)
+740676531,Net cashflow from/(used in) investing activities ($000s),2016,($142)
+740676531,Net cashflow from/(used in) investing activities ($000s),2015,($20)
+740676531,Proceeds from the issue of shares ($000s),2024,$0
+740676531,Proceeds from the issue of shares ($000s),2023,$0
+740676531,Proceeds from the issue of shares ($000s),2022,$0
+740676531,Proceeds from the issue of shares ($000s),2021,$0
+740676531,Proceeds from the issue of shares ($000s),2020,$0
+740676531,Proceeds from the issue of shares ($000s),2019,$0
+740676531,Proceeds from the issue of shares ($000s),2018,$0
+740676531,Proceeds from the issue of shares ($000s),2017,$0
+740676531,Proceeds from the issue of shares ($000s),2016,$0
+740676531,Proceeds from the issue of shares ($000s),2015,$0
+740676531,Proceeds from borrowings ($000s),2024,$0
+740676531,Proceeds from borrowings ($000s),2023,$0
+740676531,Proceeds from borrowings ($000s),2022,$0
+740676531,Proceeds from borrowings ($000s),2021,$0
+740676531,Proceeds from borrowings ($000s),2020,$0
+740676531,Proceeds from borrowings ($000s),2019,$0
+740676531,Proceeds from borrowings ($000s),2018,"$2,416"
+740676531,Proceeds from borrowings ($000s),2017,"$1,699"
+740676531,Proceeds from borrowings ($000s),2016,$120
+740676531,Proceeds from borrowings ($000s),2015,"$1,190"
+740676531,Repayment of borrowings  ($000s),2024,"($1,000)"
+740676531,Repayment of borrowings  ($000s),2023,-
+740676531,Repayment of borrowings  ($000s),2022,($750)
+740676531,Repayment of borrowings  ($000s),2021,"($1,126)"
+740676531,Repayment of borrowings  ($000s),2020,-
+740676531,Repayment of borrowings  ($000s),2019,-
+740676531,Repayment of borrowings  ($000s),2018,"($2,416)"
+740676531,Repayment of borrowings  ($000s),2017,"($1,699)"
+740676531,Repayment of borrowings  ($000s),2016,($120)
+740676531,Repayment of borrowings  ($000s),2015,"($1,190)"
+740676531,Repayment of finance lease liabilities ($000s),2024,($20)
+740676531,Repayment of finance lease liabilities ($000s),2023,($19)
+740676531,Repayment of finance lease liabilities ($000s),2022,($22)
+740676531,Repayment of finance lease liabilities ($000s),2021,($13)
+740676531,Repayment of finance lease liabilities ($000s),2020,($232)
+740676531,Repayment of finance lease liabilities ($000s),2019,-
+740676531,Repayment of finance lease liabilities ($000s),2018,-
+740676531,Repayment of finance lease liabilities ($000s),2017,-
+740676531,Repayment of finance lease liabilities ($000s),2016,-
+740676531,Repayment of finance lease liabilities ($000s),2015,-
+740676531,Interest Paid ($000s),2024,
+740676531,Interest Paid ($000s),2023,
+740676531,Interest Paid ($000s),2022,
+740676531,Interest Paid ($000s),2021,
+740676531,Interest Paid ($000s),2020,-
+740676531,Interest Paid ($000s),2019,-
+740676531,Interest Paid ($000s),2018,-
+740676531,Interest Paid ($000s),2017,-
+740676531,Interest Paid ($000s),2016,-
+740676531,Interest Paid ($000s),2015,-
+740676531,Dividends paid ($000s),2024,
+740676531,Dividends paid ($000s),2023,
+740676531,Dividends paid ($000s),2022,
+740676531,Dividends paid ($000s),2021,
+740676531,Dividends paid ($000s),2020,-
+740676531,Dividends paid ($000s),2019,-
+740676531,Dividends paid ($000s),2018,-
+740676531,Dividends paid ($000s),2017,-
+740676531,Dividends paid ($000s),2016,-
+740676531,Dividends paid ($000s),2015,-
+740676531,Other inflows/(outflows) from financing activities ($000s),2024,$0
+740676531,Other inflows/(outflows) from financing activities ($000s),2023,$0
+740676531,Other inflows/(outflows) from financing activities ($000s),2022,$0
+740676531,Other inflows/(outflows) from financing activities ($000s),2021,$0
+740676531,Other inflows/(outflows) from financing activities ($000s),2020,$0
+740676531,Other inflows/(outflows) from financing activities ($000s),2019,$386
+740676531,Other inflows/(outflows) from financing activities ($000s),2018,$0
+740676531,Other inflows/(outflows) from financing activities ($000s),2017,$0
+740676531,Other inflows/(outflows) from financing activities ($000s),2016,$0
+740676531,Other inflows/(outflows) from financing activities ($000s),2015,$0
+740676531,Net cash flows from/(used in) financing activities ($000s),2024,"($1,020)"
+740676531,Net cash flows from/(used in) financing activities ($000s),2023,($19)
+740676531,Net cash flows from/(used in) financing activities ($000s),2022,($772)
+740676531,Net cash flows from/(used in) financing activities ($000s),2021,"($1,139)"
+740676531,Net cash flows from/(used in) financing activities ($000s),2020,($232)
+740676531,Net cash flows from/(used in) financing activities ($000s),2019,$386
+740676531,Net cash flows from/(used in) financing activities ($000s),2018,-
+740676531,Net cash flows from/(used in) financing activities ($000s),2017,-
+740676531,Net cash flows from/(used in) financing activities ($000s),2016,-
+740676531,Net cash flows from/(used in) financing activities ($000s),2015,-
+740676531,Net increase/(decrease) in cash and cash equivalents ($000s),2024,"$3,058"
+740676531,Net increase/(decrease) in cash and cash equivalents ($000s),2023,"$1,877"
+740676531,Net increase/(decrease) in cash and cash equivalents ($000s),2022,$662
+740676531,Net increase/(decrease) in cash and cash equivalents ($000s),2021,$863
+740676531,Net increase/(decrease) in cash and cash equivalents ($000s),2020,"$4,901"
+740676531,Net increase/(decrease) in cash and cash equivalents ($000s),2019,($977)
+740676531,Net increase/(decrease) in cash and cash equivalents ($000s),2018,"($2,380)"
+740676531,Net increase/(decrease) in cash and cash equivalents ($000s),2017,"($2,166)"
+740676531,Net increase/(decrease) in cash and cash equivalents ($000s),2016,$686
+740676531,Net increase/(decrease) in cash and cash equivalents ($000s),2015,"($1,190)"
+740676531,Other increase/(decrease) in cash and cash equivalents ($000s),2024,
+740676531,Other increase/(decrease) in cash and cash equivalents ($000s),2023,
+740676531,Other increase/(decrease) in cash and cash equivalents ($000s),2022,
+740676531,Other increase/(decrease) in cash and cash equivalents ($000s),2021,
+740676531,Other increase/(decrease) in cash and cash equivalents ($000s),2020,-
+740676531,Other increase/(decrease) in cash and cash equivalents ($000s),2019,-
+740676531,Other increase/(decrease) in cash and cash equivalents ($000s),2018,-
+740676531,Other increase/(decrease) in cash and cash equivalents ($000s),2017,-
+740676531,Other increase/(decrease) in cash and cash equivalents ($000s),2016,-
+740676531,Other increase/(decrease) in cash and cash equivalents ($000s),2015,-
+740676531,Net foreign exchange differences ($000s),2024,
+740676531,Net foreign exchange differences ($000s),2023,
+740676531,Net foreign exchange differences ($000s),2022,
+740676531,Net foreign exchange differences ($000s),2021,
+740676531,Net foreign exchange differences ($000s),2020,-
+740676531,Net foreign exchange differences ($000s),2019,-
+740676531,Net foreign exchange differences ($000s),2018,-
+740676531,Net foreign exchange differences ($000s),2017,-
+740676531,Net foreign exchange differences ($000s),2016,-
+740676531,Net foreign exchange differences ($000s),2015,-
+740676531,Cash and cash equivalents at the beginning of the period ($000s),2024,"$1,075"
+740676531,Cash and cash equivalents at the beginning of the period ($000s),2023,($802)
+740676531,Cash and cash equivalents at the beginning of the period ($000s),2022,"($1,465)"
+740676531,Cash and cash equivalents at the beginning of the period ($000s),2021,"($2,328)"
+740676531,Cash and cash equivalents at the beginning of the period ($000s),2020,"($7,228)"
+740676531,Cash and cash equivalents at the beginning of the period ($000s),2019,"($6,252)"
+740676531,Cash and cash equivalents at the beginning of the period ($000s),2018,"($3,871)"
+740676531,Cash and cash equivalents at the beginning of the period ($000s),2017,"($1,706)"
+740676531,Cash and cash equivalents at the beginning of the period ($000s),2016,"($2,392)"
+740676531,Cash and cash equivalents at the beginning of the period ($000s),2015,"($1,201)"
+740676531,Cash and cash equivalents at the end of the period ($000s),2024,"$4,133"
+740676531,Cash and cash equivalents at the end of the period ($000s),2023,"$1,075"
+740676531,Cash and cash equivalents at the end of the period ($000s),2022,($802)
+740676531,Cash and cash equivalents at the end of the period ($000s),2021,"($1,465)"
+740676531,Cash and cash equivalents at the end of the period ($000s),2020,"($2,328)"
+740676531,Cash and cash equivalents at the end of the period ($000s),2019,"($7,228)"
+740676531,Cash and cash equivalents at the end of the period ($000s),2018,"($6,252)"
+740676531,Cash and cash equivalents at the end of the period ($000s),2017,"($3,871)"
+740676531,Cash and cash equivalents at the end of the period ($000s),2016,"($1,706)"
+740676531,Cash and cash equivalents at the end of the period ($000s),2015,"($2,392)"

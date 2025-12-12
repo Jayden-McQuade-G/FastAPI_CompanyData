@@ -1,0 +1,301 @@
+duns,line_item,year,value
+891012320,Cash flow statement,2024,
+891012320,Cash flow statement,2023,
+891012320,Cash flow statement,2022,
+891012320,Cash flow statement,2021,
+891012320,Cash flow statement,2020,-
+891012320,Cash flow statement,2019,-
+891012320,Cash flow statement,2018,-
+891012320,Cash flow statement,2017,-
+891012320,Cash flow statement,2016,-
+891012320,Cash flow statement,2015,-
+891012320,Receipts from customers ($000s),2024,"$40,403"
+891012320,Receipts from customers ($000s),2023,"$43,927"
+891012320,Receipts from customers ($000s),2022,"$102,307"
+891012320,Receipts from customers ($000s),2021,"$57,067"
+891012320,Receipts from customers ($000s),2020,"$49,442"
+891012320,Receipts from customers ($000s),2019,"$47,901"
+891012320,Receipts from customers ($000s),2018,"$55,197"
+891012320,Receipts from customers ($000s),2017,"$41,579"
+891012320,Receipts from customers ($000s),2016,"$23,045"
+891012320,Receipts from customers ($000s),2015,"$21,710"
+891012320,Payments to suppliers and employees ($000s),2024,"($42,531)"
+891012320,Payments to suppliers and employees ($000s),2023,"($38,992)"
+891012320,Payments to suppliers and employees ($000s),2022,"($67,898)"
+891012320,Payments to suppliers and employees ($000s),2021,"($45,059)"
+891012320,Payments to suppliers and employees ($000s),2020,"($40,285)"
+891012320,Payments to suppliers and employees ($000s),2019,"($49,711)"
+891012320,Payments to suppliers and employees ($000s),2018,"($49,078)"
+891012320,Payments to suppliers and employees ($000s),2017,"($40,255)"
+891012320,Payments to suppliers and employees ($000s),2016,"($18,125)"
+891012320,Payments to suppliers and employees ($000s),2015,"($14,620)"
+891012320,Interest paid ($000s),2024,($2)
+891012320,Interest paid ($000s),2023,($42)
+891012320,Interest paid ($000s),2022,($96)
+891012320,Interest paid ($000s),2021,($153)
+891012320,Interest paid ($000s),2020,($286)
+891012320,Interest paid ($000s),2019,-
+891012320,Interest paid ($000s),2018,-
+891012320,Interest paid ($000s),2017,-
+891012320,Interest paid ($000s),2016,-
+891012320,Interest paid ($000s),2015,-
+891012320,Tax paid ($000s),2024,$551
+891012320,Tax paid ($000s),2023,"($7,084)"
+891012320,Tax paid ($000s),2022,"($9,996)"
+891012320,Tax paid ($000s),2021,"($2,624)"
+891012320,Tax paid ($000s),2020,"($3,264)"
+891012320,Tax paid ($000s),2019,($272)
+891012320,Tax paid ($000s),2018,"($4,327)"
+891012320,Tax paid ($000s),2017,"($1,032)"
+891012320,Tax paid ($000s),2016,"($2,744)"
+891012320,Tax paid ($000s),2015,"($1,570)"
+891012320,Other receipts ($000s),2024,$917
+891012320,Other receipts ($000s),2023,"$2,279"
+891012320,Other receipts ($000s),2022,$837
+891012320,Other receipts ($000s),2021,"$1,152"
+891012320,Other receipts ($000s),2020,"$1,108"
+891012320,Other receipts ($000s),2019,$865
+891012320,Other receipts ($000s),2018,"$22,713"
+891012320,Other receipts ($000s),2017,"$27,604"
+891012320,Other receipts ($000s),2016,$419
+891012320,Other receipts ($000s),2015,$419
+891012320,Other payments ($000s),2024,"($55,384)"
+891012320,Other payments ($000s),2023,$0
+891012320,Other payments ($000s),2022,$0
+891012320,Other payments ($000s),2021,$0
+891012320,Other payments ($000s),2020,$0
+891012320,Other payments ($000s),2019,$0
+891012320,Other payments ($000s),2018,"($16,790)"
+891012320,Other payments ($000s),2017,"($2,245)"
+891012320,Other payments ($000s),2016,$0
+891012320,Other payments ($000s),2015,$0
+891012320,Net cashflow from/(used in) operating activities ($000s),2024,"($56,046)"
+891012320,Net cashflow from/(used in) operating activities ($000s),2023,$88
+891012320,Net cashflow from/(used in) operating activities ($000s),2022,"$25,154"
+891012320,Net cashflow from/(used in) operating activities ($000s),2021,"$10,383"
+891012320,Net cashflow from/(used in) operating activities ($000s),2020,"$6,715"
+891012320,Net cashflow from/(used in) operating activities ($000s),2019,"($1,217)"
+891012320,Net cashflow from/(used in) operating activities ($000s),2018,"$7,715"
+891012320,Net cashflow from/(used in) operating activities ($000s),2017,"$25,651"
+891012320,Net cashflow from/(used in) operating activities ($000s),2016,"$2,595"
+891012320,Net cashflow from/(used in) operating activities ($000s),2015,"$5,939"
+891012320,Purchase of property plant and equipment ($000s),2024,($54)
+891012320,Purchase of property plant and equipment ($000s),2023,($619)
+891012320,Purchase of property plant and equipment ($000s),2022,($98)
+891012320,Purchase of property plant and equipment ($000s),2021,($50)
+891012320,Purchase of property plant and equipment ($000s),2020,($102)
+891012320,Purchase of property plant and equipment ($000s),2019,($98)
+891012320,Purchase of property plant and equipment ($000s),2018,($85)
+891012320,Purchase of property plant and equipment ($000s),2017,($232)
+891012320,Purchase of property plant and equipment ($000s),2016,($55)
+891012320,Purchase of property plant and equipment ($000s),2015,($417)
+891012320,Purchase of intangibles ($000s),2024,($260)
+891012320,Purchase of intangibles ($000s),2023,-
+891012320,Purchase of intangibles ($000s),2022,-
+891012320,Purchase of intangibles ($000s),2021,-
+891012320,Purchase of intangibles ($000s),2020,($700)
+891012320,Purchase of intangibles ($000s),2019,-
+891012320,Purchase of intangibles ($000s),2018,-
+891012320,Purchase of intangibles ($000s),2017,-
+891012320,Purchase of intangibles ($000s),2016,-
+891012320,Purchase of intangibles ($000s),2015,-
+891012320,Proceeds from the sale of property plant and equipment ($000s),2024,$0
+891012320,Proceeds from the sale of property plant and equipment ($000s),2023,$0
+891012320,Proceeds from the sale of property plant and equipment ($000s),2022,$0
+891012320,Proceeds from the sale of property plant and equipment ($000s),2021,$0
+891012320,Proceeds from the sale of property plant and equipment ($000s),2020,$0
+891012320,Proceeds from the sale of property plant and equipment ($000s),2019,$0
+891012320,Proceeds from the sale of property plant and equipment ($000s),2018,$0
+891012320,Proceeds from the sale of property plant and equipment ($000s),2017,$0
+891012320,Proceeds from the sale of property plant and equipment ($000s),2016,$0
+891012320,Proceeds from the sale of property plant and equipment ($000s),2015,$0
+891012320,Proceeds from the disposal of investments/subsidiaries ($000s),2024,$103
+891012320,Proceeds from the disposal of investments/subsidiaries ($000s),2023,$0
+891012320,Proceeds from the disposal of investments/subsidiaries ($000s),2022,$0
+891012320,Proceeds from the disposal of investments/subsidiaries ($000s),2021,$0
+891012320,Proceeds from the disposal of investments/subsidiaries ($000s),2020,"$1,936"
+891012320,Proceeds from the disposal of investments/subsidiaries ($000s),2019,$65
+891012320,Proceeds from the disposal of investments/subsidiaries ($000s),2018,$0
+891012320,Proceeds from the disposal of investments/subsidiaries ($000s),2017,"$18,836"
+891012320,Proceeds from the disposal of investments/subsidiaries ($000s),2016,$0
+891012320,Proceeds from the disposal of investments/subsidiaries ($000s),2015,$0
+891012320,Purchase of subisidiary/investment ($000s),2024,$0
+891012320,Purchase of subisidiary/investment ($000s),2023,$0
+891012320,Purchase of subisidiary/investment ($000s),2022,$0
+891012320,Purchase of subisidiary/investment ($000s),2021,$0
+891012320,Purchase of subisidiary/investment ($000s),2020,$0
+891012320,Purchase of subisidiary/investment ($000s),2019,$0
+891012320,Purchase of subisidiary/investment ($000s),2018,$0
+891012320,Purchase of subisidiary/investment ($000s),2017,($553)
+891012320,Purchase of subisidiary/investment ($000s),2016,$0
+891012320,Purchase of subisidiary/investment ($000s),2015,$0
+891012320,Interest received ($000s),2024,
+891012320,Interest received ($000s),2023,
+891012320,Interest received ($000s),2022,
+891012320,Interest received ($000s),2021,
+891012320,Interest received ($000s),2020,-
+891012320,Interest received ($000s),2019,-
+891012320,Interest received ($000s),2018,-
+891012320,Interest received ($000s),2017,-
+891012320,Interest received ($000s),2016,-
+891012320,Interest received ($000s),2015,-
+891012320,Dividends received ($000s),2024,
+891012320,Dividends received ($000s),2023,
+891012320,Dividends received ($000s),2022,
+891012320,Dividends received ($000s),2021,
+891012320,Dividends received ($000s),2020,-
+891012320,Dividends received ($000s),2019,-
+891012320,Dividends received ($000s),2018,-
+891012320,Dividends received ($000s),2017,-
+891012320,Dividends received ($000s),2016,-
+891012320,Dividends received ($000s),2015,-
+891012320,Other investing inflows/(outflows) ($000s),2024,"($2,108)"
+891012320,Other investing inflows/(outflows) ($000s),2023,($453)
+891012320,Other investing inflows/(outflows) ($000s),2022,($190)
+891012320,Other investing inflows/(outflows) ($000s),2021,"$2,959"
+891012320,Other investing inflows/(outflows) ($000s),2020,"$3,050"
+891012320,Other investing inflows/(outflows) ($000s),2019,"$3,007"
+891012320,Other investing inflows/(outflows) ($000s),2018,"$7,734"
+891012320,Other investing inflows/(outflows) ($000s),2017,"($1,126)"
+891012320,Other investing inflows/(outflows) ($000s),2016,"($8,502)"
+891012320,Other investing inflows/(outflows) ($000s),2015,"($5,195)"
+891012320,Net cashflow from/(used in) investing activities ($000s),2024,"($2,319)"
+891012320,Net cashflow from/(used in) investing activities ($000s),2023,"($1,072)"
+891012320,Net cashflow from/(used in) investing activities ($000s),2022,($288)
+891012320,Net cashflow from/(used in) investing activities ($000s),2021,"$2,909"
+891012320,Net cashflow from/(used in) investing activities ($000s),2020,"$4,184"
+891012320,Net cashflow from/(used in) investing activities ($000s),2019,"$2,974"
+891012320,Net cashflow from/(used in) investing activities ($000s),2018,"$7,649"
+891012320,Net cashflow from/(used in) investing activities ($000s),2017,"$16,925"
+891012320,Net cashflow from/(used in) investing activities ($000s),2016,"($8,557)"
+891012320,Net cashflow from/(used in) investing activities ($000s),2015,"($5,612)"
+891012320,Proceeds from the issue of shares ($000s),2024,$417
+891012320,Proceeds from the issue of shares ($000s),2023,$416
+891012320,Proceeds from the issue of shares ($000s),2022,$401
+891012320,Proceeds from the issue of shares ($000s),2021,$191
+891012320,Proceeds from the issue of shares ($000s),2020,$0
+891012320,Proceeds from the issue of shares ($000s),2019,$0
+891012320,Proceeds from the issue of shares ($000s),2018,$0
+891012320,Proceeds from the issue of shares ($000s),2017,$0
+891012320,Proceeds from the issue of shares ($000s),2016,"$13,875"
+891012320,Proceeds from the issue of shares ($000s),2015,$0
+891012320,Proceeds from borrowings ($000s),2024,$0
+891012320,Proceeds from borrowings ($000s),2023,$0
+891012320,Proceeds from borrowings ($000s),2022,$0
+891012320,Proceeds from borrowings ($000s),2021,$184
+891012320,Proceeds from borrowings ($000s),2020,$0
+891012320,Proceeds from borrowings ($000s),2019,"$5,000"
+891012320,Proceeds from borrowings ($000s),2018,$246
+891012320,Proceeds from borrowings ($000s),2017,$436
+891012320,Proceeds from borrowings ($000s),2016,$0
+891012320,Proceeds from borrowings ($000s),2015,$0
+891012320,Repayment of borrowings  ($000s),2024,-
+891012320,Repayment of borrowings  ($000s),2023,"($1,250)"
+891012320,Repayment of borrowings  ($000s),2022,"($1,250)"
+891012320,Repayment of borrowings  ($000s),2021,"($1,250)"
+891012320,Repayment of borrowings  ($000s),2020,"($1,250)"
+891012320,Repayment of borrowings  ($000s),2019,-
+891012320,Repayment of borrowings  ($000s),2018,-
+891012320,Repayment of borrowings  ($000s),2017,"($18,905)"
+891012320,Repayment of borrowings  ($000s),2016,-
+891012320,Repayment of borrowings  ($000s),2015,-
+891012320,Repayment of finance lease liabilities ($000s),2024,($903)
+891012320,Repayment of finance lease liabilities ($000s),2023,($875)
+891012320,Repayment of finance lease liabilities ($000s),2022,($291)
+891012320,Repayment of finance lease liabilities ($000s),2021,($327)
+891012320,Repayment of finance lease liabilities ($000s),2020,($712)
+891012320,Repayment of finance lease liabilities ($000s),2019,-
+891012320,Repayment of finance lease liabilities ($000s),2018,-
+891012320,Repayment of finance lease liabilities ($000s),2017,-
+891012320,Repayment of finance lease liabilities ($000s),2016,-
+891012320,Repayment of finance lease liabilities ($000s),2015,-
+891012320,Interest Paid ($000s),2024,
+891012320,Interest Paid ($000s),2023,
+891012320,Interest Paid ($000s),2022,
+891012320,Interest Paid ($000s),2021,
+891012320,Interest Paid ($000s),2020,-
+891012320,Interest Paid ($000s),2019,-
+891012320,Interest Paid ($000s),2018,-
+891012320,Interest Paid ($000s),2017,-
+891012320,Interest Paid ($000s),2016,-
+891012320,Interest Paid ($000s),2015,-
+891012320,Dividends paid ($000s),2024,"($1,668)"
+891012320,Dividends paid ($000s),2023,"($8,485)"
+891012320,Dividends paid ($000s),2022,"($16,754)"
+891012320,Dividends paid ($000s),2021,"($7,531)"
+891012320,Dividends paid ($000s),2020,"($3,346)"
+891012320,Dividends paid ($000s),2019,"($8,381)"
+891012320,Dividends paid ($000s),2018,"($8,671)"
+891012320,Dividends paid ($000s),2017,"($10,249)"
+891012320,Dividends paid ($000s),2016,"($5,891)"
+891012320,Dividends paid ($000s),2015,"($3,088)"
+891012320,Other inflows/(outflows) from financing activities ($000s),2024,"$55,450"
+891012320,Other inflows/(outflows) from financing activities ($000s),2023,($305)
+891012320,Other inflows/(outflows) from financing activities ($000s),2022,"($1,346)"
+891012320,Other inflows/(outflows) from financing activities ($000s),2021,$0
+891012320,Other inflows/(outflows) from financing activities ($000s),2020,"($4,406)"
+891012320,Other inflows/(outflows) from financing activities ($000s),2019,$0
+891012320,Other inflows/(outflows) from financing activities ($000s),2018,"($11,080)"
+891012320,Other inflows/(outflows) from financing activities ($000s),2017,$0
+891012320,Other inflows/(outflows) from financing activities ($000s),2016,$1
+891012320,Other inflows/(outflows) from financing activities ($000s),2015,"$1,804"
+891012320,Net cash flows from/(used in) financing activities ($000s),2024,"$53,296"
+891012320,Net cash flows from/(used in) financing activities ($000s),2023,"($10,499)"
+891012320,Net cash flows from/(used in) financing activities ($000s),2022,"($19,240)"
+891012320,Net cash flows from/(used in) financing activities ($000s),2021,"($8,733)"
+891012320,Net cash flows from/(used in) financing activities ($000s),2020,"($9,714)"
+891012320,Net cash flows from/(used in) financing activities ($000s),2019,"($3,381)"
+891012320,Net cash flows from/(used in) financing activities ($000s),2018,"($19,505)"
+891012320,Net cash flows from/(used in) financing activities ($000s),2017,"($28,718)"
+891012320,Net cash flows from/(used in) financing activities ($000s),2016,"$7,985"
+891012320,Net cash flows from/(used in) financing activities ($000s),2015,"($1,284)"
+891012320,Net increase/(decrease) in cash and cash equivalents ($000s),2024,"($5,069)"
+891012320,Net increase/(decrease) in cash and cash equivalents ($000s),2023,"($11,483)"
+891012320,Net increase/(decrease) in cash and cash equivalents ($000s),2022,"$5,626"
+891012320,Net increase/(decrease) in cash and cash equivalents ($000s),2021,"$4,559"
+891012320,Net increase/(decrease) in cash and cash equivalents ($000s),2020,"$1,185"
+891012320,Net increase/(decrease) in cash and cash equivalents ($000s),2019,"($1,624)"
+891012320,Net increase/(decrease) in cash and cash equivalents ($000s),2018,"($4,141)"
+891012320,Net increase/(decrease) in cash and cash equivalents ($000s),2017,"$13,858"
+891012320,Net increase/(decrease) in cash and cash equivalents ($000s),2016,"$2,023"
+891012320,Net increase/(decrease) in cash and cash equivalents ($000s),2015,($957)
+891012320,Other increase/(decrease) in cash and cash equivalents ($000s),2024,
+891012320,Other increase/(decrease) in cash and cash equivalents ($000s),2023,
+891012320,Other increase/(decrease) in cash and cash equivalents ($000s),2022,
+891012320,Other increase/(decrease) in cash and cash equivalents ($000s),2021,
+891012320,Other increase/(decrease) in cash and cash equivalents ($000s),2020,-
+891012320,Other increase/(decrease) in cash and cash equivalents ($000s),2019,-
+891012320,Other increase/(decrease) in cash and cash equivalents ($000s),2018,-
+891012320,Other increase/(decrease) in cash and cash equivalents ($000s),2017,-
+891012320,Other increase/(decrease) in cash and cash equivalents ($000s),2016,-
+891012320,Other increase/(decrease) in cash and cash equivalents ($000s),2015,-
+891012320,Net foreign exchange differences ($000s),2024,-
+891012320,Net foreign exchange differences ($000s),2023,$7
+891012320,Net foreign exchange differences ($000s),2022,$130
+891012320,Net foreign exchange differences ($000s),2021,$32
+891012320,Net foreign exchange differences ($000s),2020,($322)
+891012320,Net foreign exchange differences ($000s),2019,-
+891012320,Net foreign exchange differences ($000s),2018,$44
+891012320,Net foreign exchange differences ($000s),2017,($38)
+891012320,Net foreign exchange differences ($000s),2016,-
+891012320,Net foreign exchange differences ($000s),2015,-
+891012320,Cash and cash equivalents at the beginning of the period ($000s),2024,"$14,180"
+891012320,Cash and cash equivalents at the beginning of the period ($000s),2023,"$25,656"
+891012320,Cash and cash equivalents at the beginning of the period ($000s),2022,"$19,900"
+891012320,Cash and cash equivalents at the beginning of the period ($000s),2021,"$15,309"
+891012320,Cash and cash equivalents at the beginning of the period ($000s),2020,"$14,446"
+891012320,Cash and cash equivalents at the beginning of the period ($000s),2019,"$16,070"
+891012320,Cash and cash equivalents at the beginning of the period ($000s),2018,"$20,167"
+891012320,Cash and cash equivalents at the beginning of the period ($000s),2017,"$6,347"
+891012320,Cash and cash equivalents at the beginning of the period ($000s),2016,"$14,238"
+891012320,Cash and cash equivalents at the beginning of the period ($000s),2015,"$15,195"
+891012320,Cash and cash equivalents at the end of the period ($000s),2024,"$9,111"
+891012320,Cash and cash equivalents at the end of the period ($000s),2023,"$14,180"
+891012320,Cash and cash equivalents at the end of the period ($000s),2022,"$25,656"
+891012320,Cash and cash equivalents at the end of the period ($000s),2021,"$19,900"
+891012320,Cash and cash equivalents at the end of the period ($000s),2020,"$15,309"
+891012320,Cash and cash equivalents at the end of the period ($000s),2019,"$14,446"
+891012320,Cash and cash equivalents at the end of the period ($000s),2018,"$16,070"
+891012320,Cash and cash equivalents at the end of the period ($000s),2017,"$20,167"
+891012320,Cash and cash equivalents at the end of the period ($000s),2016,"$16,261"
+891012320,Cash and cash equivalents at the end of the period ($000s),2015,"$14,238"

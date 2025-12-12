@@ -1,0 +1,301 @@
+duns,line_item,year,value
+758580054,Cash flow statement,2025,
+758580054,Cash flow statement,2024,
+758580054,Cash flow statement,2023,
+758580054,Cash flow statement,2022,
+758580054,Cash flow statement,2021,-
+758580054,Cash flow statement,2020,-
+758580054,Cash flow statement,2019,-
+758580054,Cash flow statement,2018,-
+758580054,Cash flow statement,2017,-
+758580054,Cash flow statement,2016,-
+758580054,Receipts from customers ($000s),2025,"$28,398"
+758580054,Receipts from customers ($000s),2024,"$29,313"
+758580054,Receipts from customers ($000s),2023,"$27,957"
+758580054,Receipts from customers ($000s),2022,-
+758580054,Receipts from customers ($000s),2021,-
+758580054,Receipts from customers ($000s),2020,-
+758580054,Receipts from customers ($000s),2019,"$17,731"
+758580054,Receipts from customers ($000s),2018,"$19,538"
+758580054,Receipts from customers ($000s),2017,"$15,228"
+758580054,Receipts from customers ($000s),2016,"$15,450"
+758580054,Payments to suppliers and employees ($000s),2025,"($24,514)"
+758580054,Payments to suppliers and employees ($000s),2024,"($31,064)"
+758580054,Payments to suppliers and employees ($000s),2023,"($24,969)"
+758580054,Payments to suppliers and employees ($000s),2022,-
+758580054,Payments to suppliers and employees ($000s),2021,-
+758580054,Payments to suppliers and employees ($000s),2020,-
+758580054,Payments to suppliers and employees ($000s),2019,"($15,703)"
+758580054,Payments to suppliers and employees ($000s),2018,"($16,434)"
+758580054,Payments to suppliers and employees ($000s),2017,"($14,536)"
+758580054,Payments to suppliers and employees ($000s),2016,"($12,894)"
+758580054,Interest paid ($000s),2025,($1)
+758580054,Interest paid ($000s),2024,($12)
+758580054,Interest paid ($000s),2023,-
+758580054,Interest paid ($000s),2022,-
+758580054,Interest paid ($000s),2021,-
+758580054,Interest paid ($000s),2020,-
+758580054,Interest paid ($000s),2019,($96)
+758580054,Interest paid ($000s),2018,($111)
+758580054,Interest paid ($000s),2017,($91)
+758580054,Interest paid ($000s),2016,($126)
+758580054,Tax paid ($000s),2025,($139)
+758580054,Tax paid ($000s),2024,$270
+758580054,Tax paid ($000s),2023,"($1,042)"
+758580054,Tax paid ($000s),2022,-
+758580054,Tax paid ($000s),2021,-
+758580054,Tax paid ($000s),2020,-
+758580054,Tax paid ($000s),2019,($424)
+758580054,Tax paid ($000s),2018,($975)
+758580054,Tax paid ($000s),2017,"($1,162)"
+758580054,Tax paid ($000s),2016,"($1,354)"
+758580054,Other receipts ($000s),2025,$40
+758580054,Other receipts ($000s),2024,$51
+758580054,Other receipts ($000s),2023,$64
+758580054,Other receipts ($000s),2022,-
+758580054,Other receipts ($000s),2021,-
+758580054,Other receipts ($000s),2020,-
+758580054,Other receipts ($000s),2019,$28
+758580054,Other receipts ($000s),2018,$35
+758580054,Other receipts ($000s),2017,$79
+758580054,Other receipts ($000s),2016,$78
+758580054,Other payments ($000s),2025,"($2,704)"
+758580054,Other payments ($000s),2024,$0
+758580054,Other payments ($000s),2023,$0
+758580054,Other payments ($000s),2022,-
+758580054,Other payments ($000s),2021,-
+758580054,Other payments ($000s),2020,-
+758580054,Other payments ($000s),2019,$0
+758580054,Other payments ($000s),2018,$0
+758580054,Other payments ($000s),2017,$0
+758580054,Other payments ($000s),2016,$0
+758580054,Net cashflow from/(used in) operating activities ($000s),2025,"$1,081"
+758580054,Net cashflow from/(used in) operating activities ($000s),2024,"($1,442)"
+758580054,Net cashflow from/(used in) operating activities ($000s),2023,"$2,009"
+758580054,Net cashflow from/(used in) operating activities ($000s),2022,-
+758580054,Net cashflow from/(used in) operating activities ($000s),2021,-
+758580054,Net cashflow from/(used in) operating activities ($000s),2020,-
+758580054,Net cashflow from/(used in) operating activities ($000s),2019,"$1,536"
+758580054,Net cashflow from/(used in) operating activities ($000s),2018,"$2,054"
+758580054,Net cashflow from/(used in) operating activities ($000s),2017,($482)
+758580054,Net cashflow from/(used in) operating activities ($000s),2016,"$1,154"
+758580054,Purchase of property plant and equipment ($000s),2025,"($1,145)"
+758580054,Purchase of property plant and equipment ($000s),2024,-
+758580054,Purchase of property plant and equipment ($000s),2023,-
+758580054,Purchase of property plant and equipment ($000s),2022,-
+758580054,Purchase of property plant and equipment ($000s),2021,-
+758580054,Purchase of property plant and equipment ($000s),2020,-
+758580054,Purchase of property plant and equipment ($000s),2019,"($1,238)"
+758580054,Purchase of property plant and equipment ($000s),2018,"($1,374)"
+758580054,Purchase of property plant and equipment ($000s),2017,($71)
+758580054,Purchase of property plant and equipment ($000s),2016,-
+758580054,Purchase of intangibles ($000s),2025,
+758580054,Purchase of intangibles ($000s),2024,
+758580054,Purchase of intangibles ($000s),2023,
+758580054,Purchase of intangibles ($000s),2022,
+758580054,Purchase of intangibles ($000s),2021,-
+758580054,Purchase of intangibles ($000s),2020,-
+758580054,Purchase of intangibles ($000s),2019,-
+758580054,Purchase of intangibles ($000s),2018,-
+758580054,Purchase of intangibles ($000s),2017,-
+758580054,Purchase of intangibles ($000s),2016,-
+758580054,Proceeds from the sale of property plant and equipment ($000s),2025,"$1,035"
+758580054,Proceeds from the sale of property plant and equipment ($000s),2024,$0
+758580054,Proceeds from the sale of property plant and equipment ($000s),2023,$0
+758580054,Proceeds from the sale of property plant and equipment ($000s),2022,-
+758580054,Proceeds from the sale of property plant and equipment ($000s),2021,-
+758580054,Proceeds from the sale of property plant and equipment ($000s),2020,-
+758580054,Proceeds from the sale of property plant and equipment ($000s),2019,$0
+758580054,Proceeds from the sale of property plant and equipment ($000s),2018,$0
+758580054,Proceeds from the sale of property plant and equipment ($000s),2017,$0
+758580054,Proceeds from the sale of property plant and equipment ($000s),2016,$0
+758580054,Proceeds from the disposal of investments/subsidiaries ($000s),2025,$0
+758580054,Proceeds from the disposal of investments/subsidiaries ($000s),2024,$0
+758580054,Proceeds from the disposal of investments/subsidiaries ($000s),2023,$0
+758580054,Proceeds from the disposal of investments/subsidiaries ($000s),2022,-
+758580054,Proceeds from the disposal of investments/subsidiaries ($000s),2021,-
+758580054,Proceeds from the disposal of investments/subsidiaries ($000s),2020,-
+758580054,Proceeds from the disposal of investments/subsidiaries ($000s),2019,$0
+758580054,Proceeds from the disposal of investments/subsidiaries ($000s),2018,$0
+758580054,Proceeds from the disposal of investments/subsidiaries ($000s),2017,($203)
+758580054,Proceeds from the disposal of investments/subsidiaries ($000s),2016,($290)
+758580054,Purchase of subisidiary/investment ($000s),2025,$0
+758580054,Purchase of subisidiary/investment ($000s),2024,$0
+758580054,Purchase of subisidiary/investment ($000s),2023,$0
+758580054,Purchase of subisidiary/investment ($000s),2022,-
+758580054,Purchase of subisidiary/investment ($000s),2021,-
+758580054,Purchase of subisidiary/investment ($000s),2020,-
+758580054,Purchase of subisidiary/investment ($000s),2019,$0
+758580054,Purchase of subisidiary/investment ($000s),2018,$0
+758580054,Purchase of subisidiary/investment ($000s),2017,$0
+758580054,Purchase of subisidiary/investment ($000s),2016,$0
+758580054,Interest received ($000s),2025,
+758580054,Interest received ($000s),2024,
+758580054,Interest received ($000s),2023,
+758580054,Interest received ($000s),2022,
+758580054,Interest received ($000s),2021,-
+758580054,Interest received ($000s),2020,-
+758580054,Interest received ($000s),2019,-
+758580054,Interest received ($000s),2018,-
+758580054,Interest received ($000s),2017,-
+758580054,Interest received ($000s),2016,-
+758580054,Dividends received ($000s),2025,
+758580054,Dividends received ($000s),2024,
+758580054,Dividends received ($000s),2023,
+758580054,Dividends received ($000s),2022,
+758580054,Dividends received ($000s),2021,-
+758580054,Dividends received ($000s),2020,-
+758580054,Dividends received ($000s),2019,-
+758580054,Dividends received ($000s),2018,-
+758580054,Dividends received ($000s),2017,-
+758580054,Dividends received ($000s),2016,-
+758580054,Other investing inflows/(outflows) ($000s),2025,$102
+758580054,Other investing inflows/(outflows) ($000s),2024,$0
+758580054,Other investing inflows/(outflows) ($000s),2023,$0
+758580054,Other investing inflows/(outflows) ($000s),2022,-
+758580054,Other investing inflows/(outflows) ($000s),2021,-
+758580054,Other investing inflows/(outflows) ($000s),2020,-
+758580054,Other investing inflows/(outflows) ($000s),2019,($17)
+758580054,Other investing inflows/(outflows) ($000s),2018,($44)
+758580054,Other investing inflows/(outflows) ($000s),2017,"($2,082)"
+758580054,Other investing inflows/(outflows) ($000s),2016,$580
+758580054,Net cashflow from/(used in) investing activities ($000s),2025,($8)
+758580054,Net cashflow from/(used in) investing activities ($000s),2024,-
+758580054,Net cashflow from/(used in) investing activities ($000s),2023,-
+758580054,Net cashflow from/(used in) investing activities ($000s),2022,-
+758580054,Net cashflow from/(used in) investing activities ($000s),2021,-
+758580054,Net cashflow from/(used in) investing activities ($000s),2020,-
+758580054,Net cashflow from/(used in) investing activities ($000s),2019,"($1,255)"
+758580054,Net cashflow from/(used in) investing activities ($000s),2018,"($1,417)"
+758580054,Net cashflow from/(used in) investing activities ($000s),2017,"($2,356)"
+758580054,Net cashflow from/(used in) investing activities ($000s),2016,$290
+758580054,Proceeds from the issue of shares ($000s),2025,$0
+758580054,Proceeds from the issue of shares ($000s),2024,$0
+758580054,Proceeds from the issue of shares ($000s),2023,$0
+758580054,Proceeds from the issue of shares ($000s),2022,-
+758580054,Proceeds from the issue of shares ($000s),2021,-
+758580054,Proceeds from the issue of shares ($000s),2020,-
+758580054,Proceeds from the issue of shares ($000s),2019,$0
+758580054,Proceeds from the issue of shares ($000s),2018,$0
+758580054,Proceeds from the issue of shares ($000s),2017,$0
+758580054,Proceeds from the issue of shares ($000s),2016,$0
+758580054,Proceeds from borrowings ($000s),2025,$0
+758580054,Proceeds from borrowings ($000s),2024,$10
+758580054,Proceeds from borrowings ($000s),2023,$0
+758580054,Proceeds from borrowings ($000s),2022,-
+758580054,Proceeds from borrowings ($000s),2021,-
+758580054,Proceeds from borrowings ($000s),2020,-
+758580054,Proceeds from borrowings ($000s),2019,$220
+758580054,Proceeds from borrowings ($000s),2018,$0
+758580054,Proceeds from borrowings ($000s),2017,$0
+758580054,Proceeds from borrowings ($000s),2016,$0
+758580054,Repayment of borrowings  ($000s),2025,-
+758580054,Repayment of borrowings  ($000s),2024,($323)
+758580054,Repayment of borrowings  ($000s),2023,($50)
+758580054,Repayment of borrowings  ($000s),2022,-
+758580054,Repayment of borrowings  ($000s),2021,-
+758580054,Repayment of borrowings  ($000s),2020,-
+758580054,Repayment of borrowings  ($000s),2019,-
+758580054,Repayment of borrowings  ($000s),2018,($26)
+758580054,Repayment of borrowings  ($000s),2017,($11)
+758580054,Repayment of borrowings  ($000s),2016,($133)
+758580054,Repayment of finance lease liabilities ($000s),2025,
+758580054,Repayment of finance lease liabilities ($000s),2024,
+758580054,Repayment of finance lease liabilities ($000s),2023,
+758580054,Repayment of finance lease liabilities ($000s),2022,
+758580054,Repayment of finance lease liabilities ($000s),2021,-
+758580054,Repayment of finance lease liabilities ($000s),2020,-
+758580054,Repayment of finance lease liabilities ($000s),2019,-
+758580054,Repayment of finance lease liabilities ($000s),2018,-
+758580054,Repayment of finance lease liabilities ($000s),2017,-
+758580054,Repayment of finance lease liabilities ($000s),2016,-
+758580054,Interest Paid ($000s),2025,
+758580054,Interest Paid ($000s),2024,
+758580054,Interest Paid ($000s),2023,
+758580054,Interest Paid ($000s),2022,
+758580054,Interest Paid ($000s),2021,-
+758580054,Interest Paid ($000s),2020,-
+758580054,Interest Paid ($000s),2019,-
+758580054,Interest Paid ($000s),2018,-
+758580054,Interest Paid ($000s),2017,-
+758580054,Interest Paid ($000s),2016,-
+758580054,Dividends paid ($000s),2025,-
+758580054,Dividends paid ($000s),2024,($246)
+758580054,Dividends paid ($000s),2023,($300)
+758580054,Dividends paid ($000s),2022,-
+758580054,Dividends paid ($000s),2021,-
+758580054,Dividends paid ($000s),2020,-
+758580054,Dividends paid ($000s),2019,($150)
+758580054,Dividends paid ($000s),2018,($150)
+758580054,Dividends paid ($000s),2017,($171)
+758580054,Dividends paid ($000s),2016,($160)
+758580054,Other inflows/(outflows) from financing activities ($000s),2025,$304
+758580054,Other inflows/(outflows) from financing activities ($000s),2024,$0
+758580054,Other inflows/(outflows) from financing activities ($000s),2023,$0
+758580054,Other inflows/(outflows) from financing activities ($000s),2022,-
+758580054,Other inflows/(outflows) from financing activities ($000s),2021,-
+758580054,Other inflows/(outflows) from financing activities ($000s),2020,-
+758580054,Other inflows/(outflows) from financing activities ($000s),2019,$0
+758580054,Other inflows/(outflows) from financing activities ($000s),2018,$0
+758580054,Other inflows/(outflows) from financing activities ($000s),2017,$0
+758580054,Other inflows/(outflows) from financing activities ($000s),2016,$0
+758580054,Net cash flows from/(used in) financing activities ($000s),2025,$304
+758580054,Net cash flows from/(used in) financing activities ($000s),2024,($559)
+758580054,Net cash flows from/(used in) financing activities ($000s),2023,($350)
+758580054,Net cash flows from/(used in) financing activities ($000s),2022,-
+758580054,Net cash flows from/(used in) financing activities ($000s),2021,-
+758580054,Net cash flows from/(used in) financing activities ($000s),2020,-
+758580054,Net cash flows from/(used in) financing activities ($000s),2019,$70
+758580054,Net cash flows from/(used in) financing activities ($000s),2018,($176)
+758580054,Net cash flows from/(used in) financing activities ($000s),2017,($182)
+758580054,Net cash flows from/(used in) financing activities ($000s),2016,($293)
+758580054,Net increase/(decrease) in cash and cash equivalents ($000s),2025,"$1,377"
+758580054,Net increase/(decrease) in cash and cash equivalents ($000s),2024,"($2,001)"
+758580054,Net increase/(decrease) in cash and cash equivalents ($000s),2023,"$1,658"
+758580054,Net increase/(decrease) in cash and cash equivalents ($000s),2022,-
+758580054,Net increase/(decrease) in cash and cash equivalents ($000s),2021,-
+758580054,Net increase/(decrease) in cash and cash equivalents ($000s),2020,-
+758580054,Net increase/(decrease) in cash and cash equivalents ($000s),2019,$351
+758580054,Net increase/(decrease) in cash and cash equivalents ($000s),2018,$460
+758580054,Net increase/(decrease) in cash and cash equivalents ($000s),2017,"($3,020)"
+758580054,Net increase/(decrease) in cash and cash equivalents ($000s),2016,"$1,152"
+758580054,Other increase/(decrease) in cash and cash equivalents ($000s),2025,
+758580054,Other increase/(decrease) in cash and cash equivalents ($000s),2024,
+758580054,Other increase/(decrease) in cash and cash equivalents ($000s),2023,
+758580054,Other increase/(decrease) in cash and cash equivalents ($000s),2022,
+758580054,Other increase/(decrease) in cash and cash equivalents ($000s),2021,-
+758580054,Other increase/(decrease) in cash and cash equivalents ($000s),2020,-
+758580054,Other increase/(decrease) in cash and cash equivalents ($000s),2019,-
+758580054,Other increase/(decrease) in cash and cash equivalents ($000s),2018,-
+758580054,Other increase/(decrease) in cash and cash equivalents ($000s),2017,-
+758580054,Other increase/(decrease) in cash and cash equivalents ($000s),2016,-
+758580054,Net foreign exchange differences ($000s),2025,
+758580054,Net foreign exchange differences ($000s),2024,
+758580054,Net foreign exchange differences ($000s),2023,
+758580054,Net foreign exchange differences ($000s),2022,
+758580054,Net foreign exchange differences ($000s),2021,-
+758580054,Net foreign exchange differences ($000s),2020,-
+758580054,Net foreign exchange differences ($000s),2019,-
+758580054,Net foreign exchange differences ($000s),2018,-
+758580054,Net foreign exchange differences ($000s),2017,-
+758580054,Net foreign exchange differences ($000s),2016,-
+758580054,Cash and cash equivalents at the beginning of the period ($000s),2025,"$1,665"
+758580054,Cash and cash equivalents at the beginning of the period ($000s),2024,"$3,665"
+758580054,Cash and cash equivalents at the beginning of the period ($000s),2023,"$2,007"
+758580054,Cash and cash equivalents at the beginning of the period ($000s),2022,-
+758580054,Cash and cash equivalents at the beginning of the period ($000s),2021,-
+758580054,Cash and cash equivalents at the beginning of the period ($000s),2020,-
+758580054,Cash and cash equivalents at the beginning of the period ($000s),2019,"$1,635"
+758580054,Cash and cash equivalents at the beginning of the period ($000s),2018,"$1,175"
+758580054,Cash and cash equivalents at the beginning of the period ($000s),2017,"$4,195"
+758580054,Cash and cash equivalents at the beginning of the period ($000s),2016,"$3,043"
+758580054,Cash and cash equivalents at the end of the period ($000s),2025,"$3,042"
+758580054,Cash and cash equivalents at the end of the period ($000s),2024,"$1,665"
+758580054,Cash and cash equivalents at the end of the period ($000s),2023,"$3,665"
+758580054,Cash and cash equivalents at the end of the period ($000s),2022,-
+758580054,Cash and cash equivalents at the end of the period ($000s),2021,-
+758580054,Cash and cash equivalents at the end of the period ($000s),2020,-
+758580054,Cash and cash equivalents at the end of the period ($000s),2019,"$1,986"
+758580054,Cash and cash equivalents at the end of the period ($000s),2018,"$1,635"
+758580054,Cash and cash equivalents at the end of the period ($000s),2017,"$1,175"
+758580054,Cash and cash equivalents at the end of the period ($000s),2016,"$4,195"

@@ -1,0 +1,601 @@
+duns,line_item,year,value
+746895341,Current Assets,2024,
+746895341,Current Assets,2023,
+746895341,Current Assets,2022,
+746895341,Current Assets,2021,
+746895341,Current Assets,2020,-
+746895341,Current Assets,2019,-
+746895341,Current Assets,2018,-
+746895341,Current Assets,2017,-
+746895341,Current Assets,2016,-
+746895341,Current Assets,2015,-
+746895341,Cash and cash equivalents ($000s),2024,"$8,184"
+746895341,Cash and cash equivalents ($000s),2023,"$2,928"
+746895341,Cash and cash equivalents ($000s),2022,"$3,751"
+746895341,Cash and cash equivalents ($000s),2021,"$2,846"
+746895341,Cash and cash equivalents ($000s),2020,"$4,396"
+746895341,Cash and cash equivalents ($000s),2019,"$1,573"
+746895341,Cash and cash equivalents ($000s),2018,"$1,527"
+746895341,Cash and cash equivalents ($000s),2017,"$1,913"
+746895341,Cash and cash equivalents ($000s),2016,"$2,824"
+746895341,Cash and cash equivalents ($000s),2015,-
+746895341,Growth,2024,179.51%
+746895341,Growth,2023,(21.94%)
+746895341,Growth,2022,31.80%
+746895341,Growth,2021,(35.26%)
+746895341,Growth,2020,179.47%
+746895341,Growth,2019,3.01%
+746895341,Growth,2018,(20.18%)
+746895341,Growth,2017,(32.26%)
+746895341,Growth,2016,-
+746895341,Growth,2015,-
+746895341,Trade receivables ($000s),2024,$167
+746895341,Trade receivables ($000s),2023,$126
+746895341,Trade receivables ($000s),2022,$248
+746895341,Trade receivables ($000s),2021,$281
+746895341,Trade receivables ($000s),2020,$217
+746895341,Trade receivables ($000s),2019,$248
+746895341,Trade receivables ($000s),2018,$270
+746895341,Trade receivables ($000s),2017,$409
+746895341,Trade receivables ($000s),2016,$357
+746895341,Trade receivables ($000s),2015,-
+746895341,Other receivables ($000s),2024,-
+746895341,Other receivables ($000s),2023,$206
+746895341,Other receivables ($000s),2022,$52
+746895341,Other receivables ($000s),2021,$552
+746895341,Other receivables ($000s),2020,$32
+746895341,Other receivables ($000s),2019,$20
+746895341,Other receivables ($000s),2018,$28
+746895341,Other receivables ($000s),2017,$27
+746895341,Other receivables ($000s),2016,$13
+746895341,Other receivables ($000s),2015,-
+746895341,Raw materials ($000s),2024,$0
+746895341,Raw materials ($000s),2023,$0
+746895341,Raw materials ($000s),2022,$0
+746895341,Raw materials ($000s),2021,$0
+746895341,Raw materials ($000s),2020,$0
+746895341,Raw materials ($000s),2019,$0
+746895341,Raw materials ($000s),2018,$0
+746895341,Raw materials ($000s),2017,$0
+746895341,Raw materials ($000s),2016,$0
+746895341,Raw materials ($000s),2015,-
+746895341,Work-in-progress ($000s),2024,
+746895341,Work-in-progress ($000s),2023,
+746895341,Work-in-progress ($000s),2022,
+746895341,Work-in-progress ($000s),2021,
+746895341,Work-in-progress ($000s),2020,-
+746895341,Work-in-progress ($000s),2019,-
+746895341,Work-in-progress ($000s),2018,-
+746895341,Work-in-progress ($000s),2017,-
+746895341,Work-in-progress ($000s),2016,-
+746895341,Work-in-progress ($000s),2015,-
+746895341,Finished goods ($000s),2024,$279
+746895341,Finished goods ($000s),2023,$327
+746895341,Finished goods ($000s),2022,$419
+746895341,Finished goods ($000s),2021,$439
+746895341,Finished goods ($000s),2020,$431
+746895341,Finished goods ($000s),2019,$483
+746895341,Finished goods ($000s),2018,$448
+746895341,Finished goods ($000s),2017,$422
+746895341,Finished goods ($000s),2016,$447
+746895341,Finished goods ($000s),2015,-
+746895341,Total inventories ($000s),2024,$279
+746895341,Total inventories ($000s),2023,$327
+746895341,Total inventories ($000s),2022,$419
+746895341,Total inventories ($000s),2021,$439
+746895341,Total inventories ($000s),2020,$431
+746895341,Total inventories ($000s),2019,$483
+746895341,Total inventories ($000s),2018,$448
+746895341,Total inventories ($000s),2017,$422
+746895341,Total inventories ($000s),2016,$447
+746895341,Total inventories ($000s),2015,-
+746895341,Prepayments ($000s),2024,$492
+746895341,Prepayments ($000s),2023,$572
+746895341,Prepayments ($000s),2022,$437
+746895341,Prepayments ($000s),2021,$414
+746895341,Prepayments ($000s),2020,$429
+746895341,Prepayments ($000s),2019,$445
+746895341,Prepayments ($000s),2018,$358
+746895341,Prepayments ($000s),2017,$295
+746895341,Prepayments ($000s),2016,$290
+746895341,Prepayments ($000s),2015,-
+746895341,Derivative financial instruments ($000s),2024,
+746895341,Derivative financial instruments ($000s),2023,
+746895341,Derivative financial instruments ($000s),2022,
+746895341,Derivative financial instruments ($000s),2021,
+746895341,Derivative financial instruments ($000s),2020,-
+746895341,Derivative financial instruments ($000s),2019,-
+746895341,Derivative financial instruments ($000s),2018,-
+746895341,Derivative financial instruments ($000s),2017,-
+746895341,Derivative financial instruments ($000s),2016,-
+746895341,Derivative financial instruments ($000s),2015,-
+746895341,Other current assets ($000s),2024,$0
+746895341,Other current assets ($000s),2023,$0
+746895341,Other current assets ($000s),2022,$0
+746895341,Other current assets ($000s),2021,$0
+746895341,Other current assets ($000s),2020,$0
+746895341,Other current assets ($000s),2019,$0
+746895341,Other current assets ($000s),2018,$0
+746895341,Other current assets ($000s),2017,$0
+746895341,Other current assets ($000s),2016,$0
+746895341,Other current assets ($000s),2015,-
+746895341,Total current assets for continuing operations ($000s),2024,"$9,121"
+746895341,Total current assets for continuing operations ($000s),2023,"$4,158"
+746895341,Total current assets for continuing operations ($000s),2022,"$4,907"
+746895341,Total current assets for continuing operations ($000s),2021,"$4,531"
+746895341,Total current assets for continuing operations ($000s),2020,"$5,505"
+746895341,Total current assets for continuing operations ($000s),2019,"$2,768"
+746895341,Total current assets for continuing operations ($000s),2018,"$2,632"
+746895341,Total current assets for continuing operations ($000s),2017,"$3,066"
+746895341,Total current assets for continuing operations ($000s),2016,"$3,931"
+746895341,Total current assets for continuing operations ($000s),2015,-
+746895341,Assets held for sale ($000s),2024,
+746895341,Assets held for sale ($000s),2023,
+746895341,Assets held for sale ($000s),2022,
+746895341,Assets held for sale ($000s),2021,
+746895341,Assets held for sale ($000s),2020,-
+746895341,Assets held for sale ($000s),2019,-
+746895341,Assets held for sale ($000s),2018,-
+746895341,Assets held for sale ($000s),2017,-
+746895341,Assets held for sale ($000s),2016,-
+746895341,Assets held for sale ($000s),2015,-
+746895341,Total current assets ($000s),2024,"$9,121"
+746895341,Total current assets ($000s),2023,"$4,158"
+746895341,Total current assets ($000s),2022,"$4,907"
+746895341,Total current assets ($000s),2021,"$4,531"
+746895341,Total current assets ($000s),2020,"$5,505"
+746895341,Total current assets ($000s),2019,"$2,768"
+746895341,Total current assets ($000s),2018,"$2,632"
+746895341,Total current assets ($000s),2017,"$3,066"
+746895341,Total current assets ($000s),2016,"$3,931"
+746895341,Total current assets ($000s),2015,-
+746895341,Non-current assets,2024,
+746895341,Non-current assets,2023,
+746895341,Non-current assets,2022,
+746895341,Non-current assets,2021,
+746895341,Non-current assets,2020,-
+746895341,Non-current assets,2019,-
+746895341,Non-current assets,2018,-
+746895341,Non-current assets,2017,-
+746895341,Non-current assets,2016,-
+746895341,Non-current assets,2015,-
+746895341,Receivables ($000s),2024,
+746895341,Receivables ($000s),2023,
+746895341,Receivables ($000s),2022,
+746895341,Receivables ($000s),2021,
+746895341,Receivables ($000s),2020,-
+746895341,Receivables ($000s),2019,-
+746895341,Receivables ($000s),2018,-
+746895341,Receivables ($000s),2017,-
+746895341,Receivables ($000s),2016,-
+746895341,Receivables ($000s),2015,-
+746895341,Investments in associates ($000s),2024,$0
+746895341,Investments in associates ($000s),2023,$0
+746895341,Investments in associates ($000s),2022,$0
+746895341,Investments in associates ($000s),2021,$0
+746895341,Investments in associates ($000s),2020,$0
+746895341,Investments in associates ($000s),2019,$0
+746895341,Investments in associates ($000s),2018,$0
+746895341,Investments in associates ($000s),2017,$0
+746895341,Investments in associates ($000s),2016,$0
+746895341,Investments in associates ($000s),2015,-
+746895341,Investments in subsidiaries ($000s),2024,
+746895341,Investments in subsidiaries ($000s),2023,
+746895341,Investments in subsidiaries ($000s),2022,
+746895341,Investments in subsidiaries ($000s),2021,
+746895341,Investments in subsidiaries ($000s),2020,-
+746895341,Investments in subsidiaries ($000s),2019,-
+746895341,Investments in subsidiaries ($000s),2018,-
+746895341,Investments in subsidiaries ($000s),2017,-
+746895341,Investments in subsidiaries ($000s),2016,-
+746895341,Investments in subsidiaries ($000s),2015,-
+746895341,Available for sale financial assets ($000s),2024,$0
+746895341,Available for sale financial assets ($000s),2023,$0
+746895341,Available for sale financial assets ($000s),2022,$0
+746895341,Available for sale financial assets ($000s),2021,$0
+746895341,Available for sale financial assets ($000s),2020,$0
+746895341,Available for sale financial assets ($000s),2019,$0
+746895341,Available for sale financial assets ($000s),2018,$0
+746895341,Available for sale financial assets ($000s),2017,$0
+746895341,Available for sale financial assets ($000s),2016,$0
+746895341,Available for sale financial assets ($000s),2015,-
+746895341,"Property, plant and equipment ($000s)",2024,"$54,198"
+746895341,"Property, plant and equipment ($000s)",2023,"$54,461"
+746895341,"Property, plant and equipment ($000s)",2022,"$55,823"
+746895341,"Property, plant and equipment ($000s)",2021,"$56,866"
+746895341,"Property, plant and equipment ($000s)",2020,"$58,433"
+746895341,"Property, plant and equipment ($000s)",2019,"$57,756"
+746895341,"Property, plant and equipment ($000s)",2018,"$59,420"
+746895341,"Property, plant and equipment ($000s)",2017,"$59,838"
+746895341,"Property, plant and equipment ($000s)",2016,"$43,325"
+746895341,"Property, plant and equipment ($000s)",2015,-
+746895341,Intangible assets and goodwill ($000s),2024,$168
+746895341,Intangible assets and goodwill ($000s),2023,$168
+746895341,Intangible assets and goodwill ($000s),2022,$168
+746895341,Intangible assets and goodwill ($000s),2021,$168
+746895341,Intangible assets and goodwill ($000s),2020,$168
+746895341,Intangible assets and goodwill ($000s),2019,$168
+746895341,Intangible assets and goodwill ($000s),2018,$168
+746895341,Intangible assets and goodwill ($000s),2017,$168
+746895341,Intangible assets and goodwill ($000s),2016,$168
+746895341,Intangible assets and goodwill ($000s),2015,-
+746895341,Deferred tax assets ($000s),2024,$144
+746895341,Deferred tax assets ($000s),2023,$506
+746895341,Deferred tax assets ($000s),2022,$454
+746895341,Deferred tax assets ($000s),2021,$440
+746895341,Deferred tax assets ($000s),2020,$205
+746895341,Deferred tax assets ($000s),2019,$208
+746895341,Deferred tax assets ($000s),2018,$719
+746895341,Deferred tax assets ($000s),2017,$707
+746895341,Deferred tax assets ($000s),2016,$685
+746895341,Deferred tax assets ($000s),2015,-
+746895341,Other non-current assets ($000s),2024,$1
+746895341,Other non-current assets ($000s),2023,$1
+746895341,Other non-current assets ($000s),2022,$1
+746895341,Other non-current assets ($000s),2021,$1
+746895341,Other non-current assets ($000s),2020,$1
+746895341,Other non-current assets ($000s),2019,$1
+746895341,Other non-current assets ($000s),2018,$1
+746895341,Other non-current assets ($000s),2017,$1
+746895341,Other non-current assets ($000s),2016,$1
+746895341,Other non-current assets ($000s),2015,-
+746895341,Total non-current assets ($000s),2024,"$54,510"
+746895341,Total non-current assets ($000s),2023,"$55,136"
+746895341,Total non-current assets ($000s),2022,"$56,446"
+746895341,Total non-current assets ($000s),2021,"$57,476"
+746895341,Total non-current assets ($000s),2020,"$58,808"
+746895341,Total non-current assets ($000s),2019,"$58,133"
+746895341,Total non-current assets ($000s),2018,"$60,308"
+746895341,Total non-current assets ($000s),2017,"$60,714"
+746895341,Total non-current assets ($000s),2016,"$44,180"
+746895341,Total non-current assets ($000s),2015,-
+746895341,TOTAL ASSETS ($000s),2024,"$63,632"
+746895341,TOTAL ASSETS ($000s),2023,"$59,295"
+746895341,TOTAL ASSETS ($000s),2022,"$61,354"
+746895341,TOTAL ASSETS ($000s),2021,"$62,007"
+746895341,TOTAL ASSETS ($000s),2020,"$64,313"
+746895341,TOTAL ASSETS ($000s),2019,"$60,901"
+746895341,TOTAL ASSETS ($000s),2018,"$62,940"
+746895341,TOTAL ASSETS ($000s),2017,"$63,780"
+746895341,TOTAL ASSETS ($000s),2016,"$48,111"
+746895341,TOTAL ASSETS ($000s),2015,-
+746895341,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2024,"$59,295"
+746895341,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2023,"$61,354"
+746895341,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2022,"$62,007"
+746895341,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2021,"$64,313"
+746895341,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2020,"$60,901"
+746895341,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2019,"$62,940"
+746895341,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2018,"$63,780"
+746895341,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2017,"$48,111"
+746895341,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2016,-
+746895341,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2015,-
+746895341,Current liabilities,2024,
+746895341,Current liabilities,2023,
+746895341,Current liabilities,2022,
+746895341,Current liabilities,2021,
+746895341,Current liabilities,2020,-
+746895341,Current liabilities,2019,-
+746895341,Current liabilities,2018,-
+746895341,Current liabilities,2017,-
+746895341,Current liabilities,2016,-
+746895341,Current liabilities,2015,-
+746895341,Trade payables ($000s),2024,-
+746895341,Trade payables ($000s),2023,-
+746895341,Trade payables ($000s),2022,-
+746895341,Trade payables ($000s),2021,-
+746895341,Trade payables ($000s),2020,-
+746895341,Trade payables ($000s),2019,"$1,315"
+746895341,Trade payables ($000s),2018,"$1,544"
+746895341,Trade payables ($000s),2017,"$1,387"
+746895341,Trade payables ($000s),2016,"$1,408"
+746895341,Trade payables ($000s),2015,-
+746895341,Other payables ($000s),2024,"$1,511"
+746895341,Other payables ($000s),2023,"$1,324"
+746895341,Other payables ($000s),2022,"$1,528"
+746895341,Other payables ($000s),2021,"$2,549"
+746895341,Other payables ($000s),2020,"$1,955"
+746895341,Other payables ($000s),2019,$10
+746895341,Other payables ($000s),2018,"$1,210"
+746895341,Other payables ($000s),2017,"$1,350"
+746895341,Other payables ($000s),2016,$404
+746895341,Other payables ($000s),2015,-
+746895341,Overdrafts ($000s),2024,-
+746895341,Overdrafts ($000s),2023,-
+746895341,Overdrafts ($000s),2022,-
+746895341,Overdrafts ($000s),2021,-
+746895341,Overdrafts ($000s),2020,-
+746895341,Overdrafts ($000s),2019,-
+746895341,Overdrafts ($000s),2018,-
+746895341,Overdrafts ($000s),2017,-
+746895341,Overdrafts ($000s),2016,$40
+746895341,Overdrafts ($000s),2015,-
+746895341,Loans - secured ($000s),2024,-
+746895341,Loans - secured ($000s),2023,-
+746895341,Loans - secured ($000s),2022,$500
+746895341,Loans - secured ($000s),2021,-
+746895341,Loans - secured ($000s),2020,$750
+746895341,Loans - secured ($000s),2019,-
+746895341,Loans - secured ($000s),2018,-
+746895341,Loans - secured ($000s),2017,-
+746895341,Loans - secured ($000s),2016,-
+746895341,Loans - secured ($000s),2015,-
+746895341,Loans - unsecured ($000s),2024,
+746895341,Loans - unsecured ($000s),2023,
+746895341,Loans - unsecured ($000s),2022,
+746895341,Loans - unsecured ($000s),2021,
+746895341,Loans - unsecured ($000s),2020,-
+746895341,Loans - unsecured ($000s),2019,-
+746895341,Loans - unsecured ($000s),2018,-
+746895341,Loans - unsecured ($000s),2017,-
+746895341,Loans - unsecured ($000s),2016,-
+746895341,Loans - unsecured ($000s),2015,-
+746895341,Obligations under finance leases and hire purchase ($000s),2024,
+746895341,Obligations under finance leases and hire purchase ($000s),2023,
+746895341,Obligations under finance leases and hire purchase ($000s),2022,
+746895341,Obligations under finance leases and hire purchase ($000s),2021,
+746895341,Obligations under finance leases and hire purchase ($000s),2020,-
+746895341,Obligations under finance leases and hire purchase ($000s),2019,-
+746895341,Obligations under finance leases and hire purchase ($000s),2018,-
+746895341,Obligations under finance leases and hire purchase ($000s),2017,-
+746895341,Obligations under finance leases and hire purchase ($000s),2016,-
+746895341,Obligations under finance leases and hire purchase ($000s),2015,-
+746895341,Loans from related parties ($000s),2024,
+746895341,Loans from related parties ($000s),2023,
+746895341,Loans from related parties ($000s),2022,
+746895341,Loans from related parties ($000s),2021,
+746895341,Loans from related parties ($000s),2020,-
+746895341,Loans from related parties ($000s),2019,-
+746895341,Loans from related parties ($000s),2018,-
+746895341,Loans from related parties ($000s),2017,-
+746895341,Loans from related parties ($000s),2016,-
+746895341,Loans from related parties ($000s),2015,-
+746895341,Total current interest-bearing loans and borrowings ($000s),2024,-
+746895341,Total current interest-bearing loans and borrowings ($000s),2023,-
+746895341,Total current interest-bearing loans and borrowings ($000s),2022,$500
+746895341,Total current interest-bearing loans and borrowings ($000s),2021,-
+746895341,Total current interest-bearing loans and borrowings ($000s),2020,$750
+746895341,Total current interest-bearing loans and borrowings ($000s),2019,-
+746895341,Total current interest-bearing loans and borrowings ($000s),2018,-
+746895341,Total current interest-bearing loans and borrowings ($000s),2017,-
+746895341,Total current interest-bearing loans and borrowings ($000s),2016,$40
+746895341,Total current interest-bearing loans and borrowings ($000s),2015,-
+746895341,Income tax payable/(refundable) ($000s),2024,"$2,092"
+746895341,Income tax payable/(refundable) ($000s),2023,"$1,201"
+746895341,Income tax payable/(refundable) ($000s),2022,"$1,138"
+746895341,Income tax payable/(refundable) ($000s),2021,$806
+746895341,Income tax payable/(refundable) ($000s),2020,$806
+746895341,Income tax payable/(refundable) ($000s),2019,$771
+746895341,Income tax payable/(refundable) ($000s),2018,$771
+746895341,Income tax payable/(refundable) ($000s),2017,$756
+746895341,Income tax payable/(refundable) ($000s),2016,$482
+746895341,Income tax payable/(refundable) ($000s),2015,-
+746895341,Provisions ($000s),2024,"$2,094"
+746895341,Provisions ($000s),2023,"$2,159"
+746895341,Provisions ($000s),2022,"$2,605"
+746895341,Provisions ($000s),2021,"$2,501"
+746895341,Provisions ($000s),2020,"$2,471"
+746895341,Provisions ($000s),2019,"$2,300"
+746895341,Provisions ($000s),2018,"$2,210"
+746895341,Provisions ($000s),2017,"$2,204"
+746895341,Provisions ($000s),2016,"$2,149"
+746895341,Provisions ($000s),2015,-
+746895341,Other current liabilities ($000s),2024,$136
+746895341,Other current liabilities ($000s),2023,$401
+746895341,Other current liabilities ($000s),2022,$113
+746895341,Other current liabilities ($000s),2021,$96
+746895341,Other current liabilities ($000s),2020,$117
+746895341,Other current liabilities ($000s),2019,$156
+746895341,Other current liabilities ($000s),2018,$154
+746895341,Other current liabilities ($000s),2017,$168
+746895341,Other current liabilities ($000s),2016,$133
+746895341,Other current liabilities ($000s),2015,-
+746895341,Total current liabilities for continuing operations ($000s),2024,"$5,834"
+746895341,Total current liabilities for continuing operations ($000s),2023,"$5,085"
+746895341,Total current liabilities for continuing operations ($000s),2022,"$5,884"
+746895341,Total current liabilities for continuing operations ($000s),2021,"$5,952"
+746895341,Total current liabilities for continuing operations ($000s),2020,"$6,099"
+746895341,Total current liabilities for continuing operations ($000s),2019,"$4,553"
+746895341,Total current liabilities for continuing operations ($000s),2018,"$5,889"
+746895341,Total current liabilities for continuing operations ($000s),2017,"$5,866"
+746895341,Total current liabilities for continuing operations ($000s),2016,"$4,616"
+746895341,Total current liabilities for continuing operations ($000s),2015,-
+746895341,Liabilities directly associated with assets held for sale ($000s),2024,
+746895341,Liabilities directly associated with assets held for sale ($000s),2023,
+746895341,Liabilities directly associated with assets held for sale ($000s),2022,
+746895341,Liabilities directly associated with assets held for sale ($000s),2021,
+746895341,Liabilities directly associated with assets held for sale ($000s),2020,-
+746895341,Liabilities directly associated with assets held for sale ($000s),2019,-
+746895341,Liabilities directly associated with assets held for sale ($000s),2018,-
+746895341,Liabilities directly associated with assets held for sale ($000s),2017,-
+746895341,Liabilities directly associated with assets held for sale ($000s),2016,-
+746895341,Liabilities directly associated with assets held for sale ($000s),2015,-
+746895341,Total current liabilities ($000s),2024,"$5,834"
+746895341,Total current liabilities ($000s),2023,"$5,085"
+746895341,Total current liabilities ($000s),2022,"$5,884"
+746895341,Total current liabilities ($000s),2021,"$5,952"
+746895341,Total current liabilities ($000s),2020,"$6,099"
+746895341,Total current liabilities ($000s),2019,"$4,553"
+746895341,Total current liabilities ($000s),2018,"$5,889"
+746895341,Total current liabilities ($000s),2017,"$5,866"
+746895341,Total current liabilities ($000s),2016,"$4,616"
+746895341,Total current liabilities ($000s),2015,-
+746895341,Total current liabilities for previous year ($000s),2024,"$5,085"
+746895341,Total current liabilities for previous year ($000s),2023,"$5,884"
+746895341,Total current liabilities for previous year ($000s),2022,"$5,952"
+746895341,Total current liabilities for previous year ($000s),2021,"$6,099"
+746895341,Total current liabilities for previous year ($000s),2020,"$4,553"
+746895341,Total current liabilities for previous year ($000s),2019,"$5,889"
+746895341,Total current liabilities for previous year ($000s),2018,"$5,866"
+746895341,Total current liabilities for previous year ($000s),2017,"$4,616"
+746895341,Total current liabilities for previous year ($000s),2016,-
+746895341,Total current liabilities for previous year ($000s),2015,-
+746895341,Non-current liabilities,2024,
+746895341,Non-current liabilities,2023,
+746895341,Non-current liabilities,2022,
+746895341,Non-current liabilities,2021,
+746895341,Non-current liabilities,2020,-
+746895341,Non-current liabilities,2019,-
+746895341,Non-current liabilities,2018,-
+746895341,Non-current liabilities,2017,-
+746895341,Non-current liabilities,2016,-
+746895341,Non-current liabilities,2015,-
+746895341,Total non-current interest-bearing loans and borrowings ($000s),2024,"$12,690"
+746895341,Total non-current interest-bearing loans and borrowings ($000s),2023,"$12,690"
+746895341,Total non-current interest-bearing loans and borrowings ($000s),2022,"$12,690"
+746895341,Total non-current interest-bearing loans and borrowings ($000s),2021,-
+746895341,Total non-current interest-bearing loans and borrowings ($000s),2020,"$13,690"
+746895341,Total non-current interest-bearing loans and borrowings ($000s),2019,-
+746895341,Total non-current interest-bearing loans and borrowings ($000s),2018,-
+746895341,Total non-current interest-bearing loans and borrowings ($000s),2017,-
+746895341,Total non-current interest-bearing loans and borrowings ($000s),2016,-
+746895341,Total non-current interest-bearing loans and borrowings ($000s),2015,-
+746895341,Deferred tax liabilities ($000s),2024,$308
+746895341,Deferred tax liabilities ($000s),2023,$307
+746895341,Deferred tax liabilities ($000s),2022,$307
+746895341,Deferred tax liabilities ($000s),2021,$307
+746895341,Deferred tax liabilities ($000s),2020,$322
+746895341,Deferred tax liabilities ($000s),2019,$309
+746895341,Deferred tax liabilities ($000s),2018,"$1,150"
+746895341,Deferred tax liabilities ($000s),2017,"$1,134"
+746895341,Deferred tax liabilities ($000s),2016,"$1,068"
+746895341,Deferred tax liabilities ($000s),2015,-
+746895341,Convertible redeemable preference shares ($000s),2024,
+746895341,Convertible redeemable preference shares ($000s),2023,
+746895341,Convertible redeemable preference shares ($000s),2022,
+746895341,Convertible redeemable preference shares ($000s),2021,
+746895341,Convertible redeemable preference shares ($000s),2020,-
+746895341,Convertible redeemable preference shares ($000s),2019,-
+746895341,Convertible redeemable preference shares ($000s),2018,-
+746895341,Convertible redeemable preference shares ($000s),2017,-
+746895341,Convertible redeemable preference shares ($000s),2016,-
+746895341,Convertible redeemable preference shares ($000s),2015,-
+746895341,Other non-current liabilities ($000s),2024,"$3,747"
+746895341,Other non-current liabilities ($000s),2023,"$2,717"
+746895341,Other non-current liabilities ($000s),2022,"$1,739"
+746895341,Other non-current liabilities ($000s),2021,"$13,374"
+746895341,Other non-current liabilities ($000s),2020,$181
+746895341,Other non-current liabilities ($000s),2019,"$12,701"
+746895341,Other non-current liabilities ($000s),2018,"$12,691"
+746895341,Other non-current liabilities ($000s),2017,"$13,691"
+746895341,Other non-current liabilities ($000s),2016,$177
+746895341,Other non-current liabilities ($000s),2015,-
+746895341,Total non-current liabilities ($000s),2024,"$16,887"
+746895341,Total non-current liabilities ($000s),2023,"$15,876"
+746895341,Total non-current liabilities ($000s),2022,"$14,878"
+746895341,Total non-current liabilities ($000s),2021,"$13,797"
+746895341,Total non-current liabilities ($000s),2020,"$14,303"
+746895341,Total non-current liabilities ($000s),2019,"$13,166"
+746895341,Total non-current liabilities ($000s),2018,"$13,993"
+746895341,Total non-current liabilities ($000s),2017,"$14,973"
+746895341,Total non-current liabilities ($000s),2016,"$1,368"
+746895341,Total non-current liabilities ($000s),2015,-
+746895341,TOTAL LIABILITIES ($000s),2024,"$22,721"
+746895341,TOTAL LIABILITIES ($000s),2023,"$20,961"
+746895341,TOTAL LIABILITIES ($000s),2022,"$20,762"
+746895341,TOTAL LIABILITIES ($000s),2021,"$19,749"
+746895341,TOTAL LIABILITIES ($000s),2020,"$20,402"
+746895341,TOTAL LIABILITIES ($000s),2019,"$17,720"
+746895341,TOTAL LIABILITIES ($000s),2018,"$19,881"
+746895341,TOTAL LIABILITIES ($000s),2017,"$20,839"
+746895341,TOTAL LIABILITIES ($000s),2016,"$5,984"
+746895341,TOTAL LIABILITIES ($000s),2015,-
+746895341,NET ASSETS ($000s),2024,"$40,910"
+746895341,NET ASSETS ($000s),2023,"$38,334"
+746895341,NET ASSETS ($000s),2022,"$40,592"
+746895341,NET ASSETS ($000s),2021,"$42,258"
+746895341,NET ASSETS ($000s),2020,"$43,910"
+746895341,NET ASSETS ($000s),2019,"$43,182"
+746895341,NET ASSETS ($000s),2018,"$43,059"
+746895341,NET ASSETS ($000s),2017,"$42,942"
+746895341,NET ASSETS ($000s),2016,"$42,127"
+746895341,NET ASSETS ($000s),2015,-
+746895341,Equity,2024,
+746895341,Equity,2023,
+746895341,Equity,2022,
+746895341,Equity,2021,
+746895341,Equity,2020,-
+746895341,Equity,2019,-
+746895341,Equity,2018,-
+746895341,Equity,2017,-
+746895341,Equity,2016,-
+746895341,Equity,2015,-
+746895341,Equity attributable to equity holders of the parent,2024,
+746895341,Equity attributable to equity holders of the parent,2023,
+746895341,Equity attributable to equity holders of the parent,2022,
+746895341,Equity attributable to equity holders of the parent,2021,
+746895341,Equity attributable to equity holders of the parent,2020,-
+746895341,Equity attributable to equity holders of the parent,2019,-
+746895341,Equity attributable to equity holders of the parent,2018,-
+746895341,Equity attributable to equity holders of the parent,2017,-
+746895341,Equity attributable to equity holders of the parent,2016,-
+746895341,Equity attributable to equity holders of the parent,2015,-
+746895341,Contributed equity ($000s),2024,$0
+746895341,Contributed equity ($000s),2023,$0
+746895341,Contributed equity ($000s),2022,$0
+746895341,Contributed equity ($000s),2021,$0
+746895341,Contributed equity ($000s),2020,$0
+746895341,Contributed equity ($000s),2019,$0
+746895341,Contributed equity ($000s),2018,$0
+746895341,Contributed equity ($000s),2017,$0
+746895341,Contributed equity ($000s),2016,$0
+746895341,Contributed equity ($000s),2015,-
+746895341,Retained earnings ($000s),2024,"$40,860"
+746895341,Retained earnings ($000s),2023,"$38,283"
+746895341,Retained earnings ($000s),2022,"$40,541"
+746895341,Retained earnings ($000s),2021,"$42,207"
+746895341,Retained earnings ($000s),2020,"$43,860"
+746895341,Retained earnings ($000s),2019,"$43,131"
+746895341,Retained earnings ($000s),2018,"$43,008"
+746895341,Retained earnings ($000s),2017,"$42,891"
+746895341,Retained earnings ($000s),2016,"$42,077"
+746895341,Retained earnings ($000s),2015,-
+746895341,Reserves ($000s),2024,$50
+746895341,Reserves ($000s),2023,$50
+746895341,Reserves ($000s),2022,$50
+746895341,Reserves ($000s),2021,$50
+746895341,Reserves ($000s),2020,$50
+746895341,Reserves ($000s),2019,$50
+746895341,Reserves ($000s),2018,$50
+746895341,Reserves ($000s),2017,$50
+746895341,Reserves ($000s),2016,$50
+746895341,Reserves ($000s),2015,-
+746895341,Total Parent interests ($000s),2024,"$40,910"
+746895341,Total Parent interests ($000s),2023,"$38,334"
+746895341,Total Parent interests ($000s),2022,"$40,592"
+746895341,Total Parent interests ($000s),2021,"$42,258"
+746895341,Total Parent interests ($000s),2020,"$43,910"
+746895341,Total Parent interests ($000s),2019,"$43,182"
+746895341,Total Parent interests ($000s),2018,"$43,059"
+746895341,Total Parent interests ($000s),2017,"$42,942"
+746895341,Total Parent interests ($000s),2016,"$42,127"
+746895341,Total Parent interests ($000s),2015,-
+746895341,Minority interests ($000s),2024,
+746895341,Minority interests ($000s),2023,
+746895341,Minority interests ($000s),2022,
+746895341,Minority interests ($000s),2021,
+746895341,Minority interests ($000s),2020,-
+746895341,Minority interests ($000s),2019,-
+746895341,Minority interests ($000s),2018,-
+746895341,Minority interests ($000s),2017,-
+746895341,Minority interests ($000s),2016,-
+746895341,Minority interests ($000s),2015,-
+746895341,TOTAL EQUITY ($000s),2024,"$40,910"
+746895341,TOTAL EQUITY ($000s),2023,"$38,334"
+746895341,TOTAL EQUITY ($000s),2022,"$40,592"
+746895341,TOTAL EQUITY ($000s),2021,"$42,258"
+746895341,TOTAL EQUITY ($000s),2020,"$43,910"
+746895341,TOTAL EQUITY ($000s),2019,"$43,182"
+746895341,TOTAL EQUITY ($000s),2018,"$43,059"
+746895341,TOTAL EQUITY ($000s),2017,"$42,942"
+746895341,TOTAL EQUITY ($000s),2016,"$42,127"
+746895341,TOTAL EQUITY ($000s),2015,-
+746895341,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2024,"$38,334"
+746895341,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2023,"$40,592"
+746895341,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2022,"$42,258"
+746895341,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2021,"$43,910"
+746895341,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2020,"$43,182"
+746895341,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2019,"$43,059"
+746895341,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2018,"$42,942"
+746895341,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2017,"$42,127"
+746895341,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2016,-
+746895341,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2015,-

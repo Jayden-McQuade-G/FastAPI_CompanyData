@@ -1,0 +1,471 @@
+duns,line_item,year,value
+755525701,Revenue from continuing operations ($000s),2025,"$37,364"
+755525701,Revenue from continuing operations ($000s),2024,"$39,625"
+755525701,Revenue from continuing operations ($000s),2023,"$50,127"
+755525701,Revenue from continuing operations ($000s),2022,"$62,107"
+755525701,Revenue from continuing operations ($000s),2021,"$59,743"
+755525701,Revenue from continuing operations ($000s),2020,"$50,018"
+755525701,Revenue from continuing operations ($000s),2019,"$42,607"
+755525701,Revenue from continuing operations ($000s),2018,"$37,405"
+755525701,Revenue from continuing operations ($000s),2017,"$37,330"
+755525701,Revenue from continuing operations ($000s),2016,"$42,125"
+755525701,Growth,2025,(5.71%)
+755525701,Growth,2024,(20.95%)
+755525701,Growth,2023,(19.29%)
+755525701,Growth,2022,3.96%
+755525701,Growth,2021,19.44%
+755525701,Growth,2020,17.39%
+755525701,Growth,2019,13.91%
+755525701,Growth,2018,0.20%
+755525701,Growth,2017,(11.38%)
+755525701,Growth,2016,-
+755525701,Cost of sales ($000s),2025,"($24,207)"
+755525701,Cost of sales ($000s),2024,"($25,330)"
+755525701,Cost of sales ($000s),2023,"($31,169)"
+755525701,Cost of sales ($000s),2022,"($36,382)"
+755525701,Cost of sales ($000s),2021,"($35,252)"
+755525701,Cost of sales ($000s),2020,"($29,051)"
+755525701,Cost of sales ($000s),2019,"($24,322)"
+755525701,Cost of sales ($000s),2018,"($20,919)"
+755525701,Cost of sales ($000s),2017,"($21,450)"
+755525701,Cost of sales ($000s),2016,"($26,665)"
+755525701,Gross profit ($000s),2025,"$13,157"
+755525701,Gross profit ($000s),2024,"$14,296"
+755525701,Gross profit ($000s),2023,"$18,959"
+755525701,Gross profit ($000s),2022,"$25,725"
+755525701,Gross profit ($000s),2021,"$24,491"
+755525701,Gross profit ($000s),2020,"$20,967"
+755525701,Gross profit ($000s),2019,"$18,285"
+755525701,Gross profit ($000s),2018,"$16,487"
+755525701,Gross profit ($000s),2017,"$15,880"
+755525701,Gross profit ($000s),2016,"$15,460"
+755525701,Other income ($000s),2025,-
+755525701,Other income ($000s),2024,$376
+755525701,Other income ($000s),2023,-
+755525701,Other income ($000s),2022,"$1,429"
+755525701,Other income ($000s),2021,"$1,507"
+755525701,Other income ($000s),2020,"$1,593"
+755525701,Other income ($000s),2019,"$1,207"
+755525701,Other income ($000s),2018,"$1,274"
+755525701,Other income ($000s),2017,$815
+755525701,Other income ($000s),2016,$860
+755525701,Administrative expenses ($000s),2025,"($11,022)"
+755525701,Administrative expenses ($000s),2024,"($10,438)"
+755525701,Administrative expenses ($000s),2023,"($12,660)"
+755525701,Administrative expenses ($000s),2022,"($11,605)"
+755525701,Administrative expenses ($000s),2021,"($18,363)"
+755525701,Administrative expenses ($000s),2020,"($17,563)"
+755525701,Administrative expenses ($000s),2019,"($15,950)"
+755525701,Administrative expenses ($000s),2018,"($14,272)"
+755525701,Administrative expenses ($000s),2017,"($13,323)"
+755525701,Administrative expenses ($000s),2016,"($15,299)"
+755525701,Finance costs ($000s),2025,$0
+755525701,Finance costs ($000s),2024,$0
+755525701,Finance costs ($000s),2023,$0
+755525701,Finance costs ($000s),2022,$0
+755525701,Finance costs ($000s),2021,$0
+755525701,Finance costs ($000s),2020,$0
+755525701,Finance costs ($000s),2019,$0
+755525701,Finance costs ($000s),2018,$0
+755525701,Finance costs ($000s),2017,$0
+755525701,Finance costs ($000s),2016,($19)
+755525701,Share of associate profits/(losses) ($000s),2025,
+755525701,Share of associate profits/(losses) ($000s),2024,
+755525701,Share of associate profits/(losses) ($000s),2023,
+755525701,Share of associate profits/(losses) ($000s),2022,
+755525701,Share of associate profits/(losses) ($000s),2021,-
+755525701,Share of associate profits/(losses) ($000s),2020,-
+755525701,Share of associate profits/(losses) ($000s),2019,-
+755525701,Share of associate profits/(losses) ($000s),2018,-
+755525701,Share of associate profits/(losses) ($000s),2017,-
+755525701,Share of associate profits/(losses) ($000s),2016,-
+755525701,Profit/(loss) from continuing operations before income tax ($000s),2025,"($3,211)"
+755525701,Profit/(loss) from continuing operations before income tax ($000s),2024,"($1,634)"
+755525701,Profit/(loss) from continuing operations before income tax ($000s),2023,$318
+755525701,Profit/(loss) from continuing operations before income tax ($000s),2022,"$6,771"
+755525701,Profit/(loss) from continuing operations before income tax ($000s),2021,"$7,635"
+755525701,Profit/(loss) from continuing operations before income tax ($000s),2020,"$4,997"
+755525701,Profit/(loss) from continuing operations before income tax ($000s),2019,"$3,018"
+755525701,Profit/(loss) from continuing operations before income tax ($000s),2018,"$3,356"
+755525701,Profit/(loss) from continuing operations before income tax ($000s),2017,"$3,372"
+755525701,Profit/(loss) from continuing operations before income tax ($000s),2016,"$1,331"
+755525701,Income tax expense ($000s),2025,$879
+755525701,Income tax expense ($000s),2024,$827
+755525701,Income tax expense ($000s),2023,$553
+755525701,Income tax expense ($000s),2022,($659)
+755525701,Income tax expense ($000s),2021,"($1,322)"
+755525701,Income tax expense ($000s),2020,($13)
+755525701,Income tax expense ($000s),2019,($17)
+755525701,Income tax expense ($000s),2018,($29)
+755525701,Income tax expense ($000s),2017,($29)
+755525701,Income tax expense ($000s),2016,-
+755525701,Profit from continuing operations after income tax ($000s),2025,"($2,332)"
+755525701,Profit from continuing operations after income tax ($000s),2024,($807)
+755525701,Profit from continuing operations after income tax ($000s),2023,$871
+755525701,Profit from continuing operations after income tax ($000s),2022,"$6,112"
+755525701,Profit from continuing operations after income tax ($000s),2021,"$6,313"
+755525701,Profit from continuing operations after income tax ($000s),2020,"$4,984"
+755525701,Profit from continuing operations after income tax ($000s),2019,"$3,001"
+755525701,Profit from continuing operations after income tax ($000s),2018,"$3,327"
+755525701,Profit from continuing operations after income tax ($000s),2017,"$3,343"
+755525701,Profit from continuing operations after income tax ($000s),2016,"$1,331"
+755525701,Profit/(loss) from discontinued operations after tax ($000s),2025,
+755525701,Profit/(loss) from discontinued operations after tax ($000s),2024,
+755525701,Profit/(loss) from discontinued operations after tax ($000s),2023,
+755525701,Profit/(loss) from discontinued operations after tax ($000s),2022,
+755525701,Profit/(loss) from discontinued operations after tax ($000s),2021,-
+755525701,Profit/(loss) from discontinued operations after tax ($000s),2020,-
+755525701,Profit/(loss) from discontinued operations after tax ($000s),2019,-
+755525701,Profit/(loss) from discontinued operations after tax ($000s),2018,-
+755525701,Profit/(loss) from discontinued operations after tax ($000s),2017,-
+755525701,Profit/(loss) from discontinued operations after tax ($000s),2016,-
+755525701,Profit/(loss) from restructuring activites after tax ($000s),2025,
+755525701,Profit/(loss) from restructuring activites after tax ($000s),2024,
+755525701,Profit/(loss) from restructuring activites after tax ($000s),2023,
+755525701,Profit/(loss) from restructuring activites after tax ($000s),2022,
+755525701,Profit/(loss) from restructuring activites after tax ($000s),2021,-
+755525701,Profit/(loss) from restructuring activites after tax ($000s),2020,-
+755525701,Profit/(loss) from restructuring activites after tax ($000s),2019,-
+755525701,Profit/(loss) from restructuring activites after tax ($000s),2018,-
+755525701,Profit/(loss) from restructuring activites after tax ($000s),2017,-
+755525701,Profit/(loss) from restructuring activites after tax ($000s),2016,-
+755525701,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2025,
+755525701,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2024,
+755525701,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2023,
+755525701,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2022,
+755525701,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2021,-
+755525701,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2020,-
+755525701,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2019,-
+755525701,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2018,-
+755525701,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2017,-
+755525701,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2016,-
+755525701,Profit/(loss) from disposals of investments after tax ($000s),2025,
+755525701,Profit/(loss) from disposals of investments after tax ($000s),2024,
+755525701,Profit/(loss) from disposals of investments after tax ($000s),2023,
+755525701,Profit/(loss) from disposals of investments after tax ($000s),2022,
+755525701,Profit/(loss) from disposals of investments after tax ($000s),2021,-
+755525701,Profit/(loss) from disposals of investments after tax ($000s),2020,-
+755525701,Profit/(loss) from disposals of investments after tax ($000s),2019,-
+755525701,Profit/(loss) from disposals of investments after tax ($000s),2018,-
+755525701,Profit/(loss) from disposals of investments after tax ($000s),2017,-
+755525701,Profit/(loss) from disposals of investments after tax ($000s),2016,-
+755525701,Net profit for the period ($000s),2025,"($2,332)"
+755525701,Net profit for the period ($000s),2024,($807)
+755525701,Net profit for the period ($000s),2023,$871
+755525701,Net profit for the period ($000s),2022,"$6,112"
+755525701,Net profit for the period ($000s),2021,"$6,313"
+755525701,Net profit for the period ($000s),2020,"$4,984"
+755525701,Net profit for the period ($000s),2019,"$3,001"
+755525701,Net profit for the period ($000s),2018,"$3,327"
+755525701,Net profit for the period ($000s),2017,"$3,343"
+755525701,Net profit for the period ($000s),2016,"$1,331"
+755525701,Attributable To:,2025,
+755525701,Attributable To:,2024,
+755525701,Attributable To:,2023,
+755525701,Attributable To:,2022,
+755525701,Attributable To:,2021,-
+755525701,Attributable To:,2020,-
+755525701,Attributable To:,2019,-
+755525701,Attributable To:,2018,-
+755525701,Attributable To:,2017,-
+755525701,Attributable To:,2016,-
+755525701,Minority interest ($000s),2025,
+755525701,Minority interest ($000s),2024,
+755525701,Minority interest ($000s),2023,
+755525701,Minority interest ($000s),2022,
+755525701,Minority interest ($000s),2021,-
+755525701,Minority interest ($000s),2020,-
+755525701,Minority interest ($000s),2019,-
+755525701,Minority interest ($000s),2018,-
+755525701,Minority interest ($000s),2017,-
+755525701,Minority interest ($000s),2016,-
+755525701,Members of the parent ($000s),2025,"($2,332)"
+755525701,Members of the parent ($000s),2024,-
+755525701,Members of the parent ($000s),2023,$871
+755525701,Members of the parent ($000s),2022,"$6,112"
+755525701,Members of the parent ($000s),2021,-
+755525701,Members of the parent ($000s),2020,-
+755525701,Members of the parent ($000s),2019,-
+755525701,Members of the parent ($000s),2018,-
+755525701,Members of the parent ($000s),2017,-
+755525701,Members of the parent ($000s),2016,-
+755525701,Weighted average number of ordinary shares for basic earnings per share (000s),2025,
+755525701,Weighted average number of ordinary shares for basic earnings per share (000s),2024,
+755525701,Weighted average number of ordinary shares for basic earnings per share (000s),2023,
+755525701,Weighted average number of ordinary shares for basic earnings per share (000s),2022,
+755525701,Weighted average number of ordinary shares for basic earnings per share (000s),2021,-
+755525701,Weighted average number of ordinary shares for basic earnings per share (000s),2020,-
+755525701,Weighted average number of ordinary shares for basic earnings per share (000s),2019,-
+755525701,Weighted average number of ordinary shares for basic earnings per share (000s),2018,-
+755525701,Weighted average number of ordinary shares for basic earnings per share (000s),2017,-
+755525701,Weighted average number of ordinary shares for basic earnings per share (000s),2016,-
+755525701,Weighted average number of ordinary shares for diluted earnings per share (000s),2025,
+755525701,Weighted average number of ordinary shares for diluted earnings per share (000s),2024,
+755525701,Weighted average number of ordinary shares for diluted earnings per share (000s),2023,
+755525701,Weighted average number of ordinary shares for diluted earnings per share (000s),2022,
+755525701,Weighted average number of ordinary shares for diluted earnings per share (000s),2021,-
+755525701,Weighted average number of ordinary shares for diluted earnings per share (000s),2020,-
+755525701,Weighted average number of ordinary shares for diluted earnings per share (000s),2019,-
+755525701,Weighted average number of ordinary shares for diluted earnings per share (000s),2018,-
+755525701,Weighted average number of ordinary shares for diluted earnings per share (000s),2017,-
+755525701,Weighted average number of ordinary shares for diluted earnings per share (000s),2016,-
+755525701,Basic earnings per share from continuing operations (cents),2025,
+755525701,Basic earnings per share from continuing operations (cents),2024,
+755525701,Basic earnings per share from continuing operations (cents),2023,
+755525701,Basic earnings per share from continuing operations (cents),2022,
+755525701,Basic earnings per share from continuing operations (cents),2021,-
+755525701,Basic earnings per share from continuing operations (cents),2020,-
+755525701,Basic earnings per share from continuing operations (cents),2019,-
+755525701,Basic earnings per share from continuing operations (cents),2018,-
+755525701,Basic earnings per share from continuing operations (cents),2017,-
+755525701,Basic earnings per share from continuing operations (cents),2016,-
+755525701,Diluted earnings per share from continuing operations (cents),2025,
+755525701,Diluted earnings per share from continuing operations (cents),2024,
+755525701,Diluted earnings per share from continuing operations (cents),2023,
+755525701,Diluted earnings per share from continuing operations (cents),2022,
+755525701,Diluted earnings per share from continuing operations (cents),2021,-
+755525701,Diluted earnings per share from continuing operations (cents),2020,-
+755525701,Diluted earnings per share from continuing operations (cents),2019,-
+755525701,Diluted earnings per share from continuing operations (cents),2018,-
+755525701,Diluted earnings per share from continuing operations (cents),2017,-
+755525701,Diluted earnings per share from continuing operations (cents),2016,-
+755525701,Basic earnings per share (cents),2025,
+755525701,Basic earnings per share (cents),2024,
+755525701,Basic earnings per share (cents),2023,
+755525701,Basic earnings per share (cents),2022,
+755525701,Basic earnings per share (cents),2021,-
+755525701,Basic earnings per share (cents),2020,-
+755525701,Basic earnings per share (cents),2019,-
+755525701,Basic earnings per share (cents),2018,-
+755525701,Basic earnings per share (cents),2017,-
+755525701,Basic earnings per share (cents),2016,-
+755525701,Diluted earnings per share (cents),2025,
+755525701,Diluted earnings per share (cents),2024,
+755525701,Diluted earnings per share (cents),2023,
+755525701,Diluted earnings per share (cents),2022,
+755525701,Diluted earnings per share (cents),2021,-
+755525701,Diluted earnings per share (cents),2020,-
+755525701,Diluted earnings per share (cents),2019,-
+755525701,Diluted earnings per share (cents),2018,-
+755525701,Diluted earnings per share (cents),2017,-
+755525701,Diluted earnings per share (cents),2016,-
+755525701,EBITDA ($000s),2025,"($2,828)"
+755525701,EBITDA ($000s),2024,($898)
+755525701,EBITDA ($000s),2023,"$1,018"
+755525701,EBITDA ($000s),2022,"$7,445"
+755525701,EBITDA ($000s),2021,"$8,003"
+755525701,EBITDA ($000s),2020,"$5,357"
+755525701,EBITDA ($000s),2019,"$3,288"
+755525701,EBITDA ($000s),2018,"$3,577"
+755525701,EBITDA ($000s),2017,"$3,597"
+755525701,EBITDA ($000s),2016,"$1,869"
+755525701,EBIT ($000s),2025,"($3,211)"
+755525701,EBIT ($000s),2024,"($1,634)"
+755525701,EBIT ($000s),2023,$318
+755525701,EBIT ($000s),2022,"$6,771"
+755525701,EBIT ($000s),2021,"$7,635"
+755525701,EBIT ($000s),2020,"$4,997"
+755525701,EBIT ($000s),2019,"$3,018"
+755525701,EBIT ($000s),2018,"$3,356"
+755525701,EBIT ($000s),2017,"$3,372"
+755525701,EBIT ($000s),2016,"$1,350"
+755525701,Expenses included in income statement,2025,
+755525701,Expenses included in income statement,2024,
+755525701,Expenses included in income statement,2023,
+755525701,Expenses included in income statement,2022,
+755525701,Expenses included in income statement,2021,-
+755525701,Expenses included in income statement,2020,-
+755525701,Expenses included in income statement,2019,-
+755525701,Expenses included in income statement,2018,-
+755525701,Expenses included in income statement,2017,-
+755525701,Expenses included in income statement,2016,-
+755525701,Depreciation of property plant and equipment ($000s),2025,($383)
+755525701,Depreciation of property plant and equipment ($000s),2024,($736)
+755525701,Depreciation of property plant and equipment ($000s),2023,($700)
+755525701,Depreciation of property plant and equipment ($000s),2022,($674)
+755525701,Depreciation of property plant and equipment ($000s),2021,($368)
+755525701,Depreciation of property plant and equipment ($000s),2020,($189)
+755525701,Depreciation of property plant and equipment ($000s),2019,($270)
+755525701,Depreciation of property plant and equipment ($000s),2018,($222)
+755525701,Depreciation of property plant and equipment ($000s),2017,($225)
+755525701,Depreciation of property plant and equipment ($000s),2016,($519)
+755525701,Impairment of property plant and equipment ($000s),2025,$0
+755525701,Impairment of property plant and equipment ($000s),2024,$0
+755525701,Impairment of property plant and equipment ($000s),2023,$0
+755525701,Impairment of property plant and equipment ($000s),2022,$0
+755525701,Impairment of property plant and equipment ($000s),2021,$0
+755525701,Impairment of property plant and equipment ($000s),2020,$0
+755525701,Impairment of property plant and equipment ($000s),2019,$0
+755525701,Impairment of property plant and equipment ($000s),2018,$0
+755525701,Impairment of property plant and equipment ($000s),2017,$0
+755525701,Impairment of property plant and equipment ($000s),2016,$0
+755525701,Amortisation of intangible assets ($000s),2025,$0
+755525701,Amortisation of intangible assets ($000s),2024,$0
+755525701,Amortisation of intangible assets ($000s),2023,$0
+755525701,Amortisation of intangible assets ($000s),2022,$0
+755525701,Amortisation of intangible assets ($000s),2021,$0
+755525701,Amortisation of intangible assets ($000s),2020,($171)
+755525701,Amortisation of intangible assets ($000s),2019,$0
+755525701,Amortisation of intangible assets ($000s),2018,$0
+755525701,Amortisation of intangible assets ($000s),2017,$0
+755525701,Amortisation of intangible assets ($000s),2016,$0
+755525701,Other Depreciation and Amortisation Expense ($000s),2025,-
+755525701,Other Depreciation and Amortisation Expense ($000s),2024,-
+755525701,Other Depreciation and Amortisation Expense ($000s),2023,-
+755525701,Other Depreciation and Amortisation Expense ($000s),2022,-
+755525701,Other Depreciation and Amortisation Expense ($000s),2021,$0
+755525701,Other Depreciation and Amortisation Expense ($000s),2020,$0
+755525701,Other Depreciation and Amortisation Expense ($000s),2019,$0
+755525701,Other Depreciation and Amortisation Expense ($000s),2018,$0
+755525701,Other Depreciation and Amortisation Expense ($000s),2017,$0
+755525701,Other Depreciation and Amortisation Expense ($000s),2016,$0
+755525701,Impairment of intangible assets ($000s),2025,$0
+755525701,Impairment of intangible assets ($000s),2024,$0
+755525701,Impairment of intangible assets ($000s),2023,$0
+755525701,Impairment of intangible assets ($000s),2022,$0
+755525701,Impairment of intangible assets ($000s),2021,$0
+755525701,Impairment of intangible assets ($000s),2020,$0
+755525701,Impairment of intangible assets ($000s),2019,$0
+755525701,Impairment of intangible assets ($000s),2018,$0
+755525701,Impairment of intangible assets ($000s),2017,$0
+755525701,Impairment of intangible assets ($000s),2016,$0
+755525701,"Total depreciation, amortisation and impairment ($000s)",2025,($383)
+755525701,"Total depreciation, amortisation and impairment ($000s)",2024,($736)
+755525701,"Total depreciation, amortisation and impairment ($000s)",2023,($700)
+755525701,"Total depreciation, amortisation and impairment ($000s)",2022,($674)
+755525701,"Total depreciation, amortisation and impairment ($000s)",2021,($368)
+755525701,"Total depreciation, amortisation and impairment ($000s)",2020,($360)
+755525701,"Total depreciation, amortisation and impairment ($000s)",2019,($270)
+755525701,"Total depreciation, amortisation and impairment ($000s)",2018,($222)
+755525701,"Total depreciation, amortisation and impairment ($000s)",2017,($225)
+755525701,"Total depreciation, amortisation and impairment ($000s)",2016,($519)
+755525701,Salaries and wages ($000s),2025,
+755525701,Salaries and wages ($000s),2024,
+755525701,Salaries and wages ($000s),2023,
+755525701,Salaries and wages ($000s),2022,
+755525701,Salaries and wages ($000s),2021,-
+755525701,Salaries and wages ($000s),2020,-
+755525701,Salaries and wages ($000s),2019,-
+755525701,Salaries and wages ($000s),2018,-
+755525701,Salaries and wages ($000s),2017,-
+755525701,Salaries and wages ($000s),2016,-
+755525701,Defined contribution superannuation expense ($000s),2025,
+755525701,Defined contribution superannuation expense ($000s),2024,
+755525701,Defined contribution superannuation expense ($000s),2023,
+755525701,Defined contribution superannuation expense ($000s),2022,
+755525701,Defined contribution superannuation expense ($000s),2021,-
+755525701,Defined contribution superannuation expense ($000s),2020,-
+755525701,Defined contribution superannuation expense ($000s),2019,-
+755525701,Defined contribution superannuation expense ($000s),2018,-
+755525701,Defined contribution superannuation expense ($000s),2017,-
+755525701,Defined contribution superannuation expense ($000s),2016,-
+755525701,Defined benefit superannuation expense ($000s),2025,
+755525701,Defined benefit superannuation expense ($000s),2024,
+755525701,Defined benefit superannuation expense ($000s),2023,
+755525701,Defined benefit superannuation expense ($000s),2022,
+755525701,Defined benefit superannuation expense ($000s),2021,-
+755525701,Defined benefit superannuation expense ($000s),2020,-
+755525701,Defined benefit superannuation expense ($000s),2019,-
+755525701,Defined benefit superannuation expense ($000s),2018,-
+755525701,Defined benefit superannuation expense ($000s),2017,-
+755525701,Defined benefit superannuation expense ($000s),2016,-
+755525701,Share-based payments expense ($000s),2025,
+755525701,Share-based payments expense ($000s),2024,
+755525701,Share-based payments expense ($000s),2023,
+755525701,Share-based payments expense ($000s),2022,
+755525701,Share-based payments expense ($000s),2021,-
+755525701,Share-based payments expense ($000s),2020,-
+755525701,Share-based payments expense ($000s),2019,-
+755525701,Share-based payments expense ($000s),2018,-
+755525701,Share-based payments expense ($000s),2017,-
+755525701,Share-based payments expense ($000s),2016,-
+755525701,Other employee benefits expense ($000s),2025,"($4,963)"
+755525701,Other employee benefits expense ($000s),2024,"($5,132)"
+755525701,Other employee benefits expense ($000s),2023,"($5,280)"
+755525701,Other employee benefits expense ($000s),2022,"($8,104)"
+755525701,Other employee benefits expense ($000s),2021,($435)
+755525701,Other employee benefits expense ($000s),2020,$0
+755525701,Other employee benefits expense ($000s),2019,($346)
+755525701,Other employee benefits expense ($000s),2018,($339)
+755525701,Other employee benefits expense ($000s),2017,($342)
+755525701,Other employee benefits expense ($000s),2016,($393)
+755525701,Total employee benefits expense ($000s),2025,"($4,963)"
+755525701,Total employee benefits expense ($000s),2024,"($5,132)"
+755525701,Total employee benefits expense ($000s),2023,"($5,280)"
+755525701,Total employee benefits expense ($000s),2022,"($8,104)"
+755525701,Total employee benefits expense ($000s),2021,($435)
+755525701,Total employee benefits expense ($000s),2020,-
+755525701,Total employee benefits expense ($000s),2019,($346)
+755525701,Total employee benefits expense ($000s),2018,($339)
+755525701,Total employee benefits expense ($000s),2017,($342)
+755525701,Total employee benefits expense ($000s),2016,($393)
+755525701,Number of employees,2025,32
+755525701,Number of employees,2024,38
+755525701,Number of employees,2023,35
+755525701,Number of employees,2022,59
+755525701,Number of employees,2021,57
+755525701,Number of employees,2020,49
+755525701,Number of employees,2019,-
+755525701,Number of employees,2018,-
+755525701,Number of employees,2017,54
+755525701,Number of employees,2016,53
+755525701,Lease payments included in income statement ($000s),2025,
+755525701,Lease payments included in income statement ($000s),2024,
+755525701,Lease payments included in income statement ($000s),2023,
+755525701,Lease payments included in income statement ($000s),2022,
+755525701,Lease payments included in income statement ($000s),2021,-
+755525701,Lease payments included in income statement ($000s),2020,-
+755525701,Lease payments included in income statement ($000s),2019,-
+755525701,Lease payments included in income statement ($000s),2018,-
+755525701,Lease payments included in income statement ($000s),2017,-
+755525701,Lease payments included in income statement ($000s),2016,-
+755525701,Interest expense  ($000s),2025,-
+755525701,Interest expense  ($000s),2024,-
+755525701,Interest expense  ($000s),2023,-
+755525701,Interest expense  ($000s),2022,-
+755525701,Interest expense  ($000s),2021,-
+755525701,Interest expense  ($000s),2020,-
+755525701,Interest expense  ($000s),2019,-
+755525701,Interest expense  ($000s),2018,-
+755525701,Interest expense  ($000s),2017,-
+755525701,Interest expense  ($000s),2016,($19)
+755525701,Finance charges payable under finance leases and hire purchase ($000s),2025,
+755525701,Finance charges payable under finance leases and hire purchase ($000s),2024,
+755525701,Finance charges payable under finance leases and hire purchase ($000s),2023,
+755525701,Finance charges payable under finance leases and hire purchase ($000s),2022,
+755525701,Finance charges payable under finance leases and hire purchase ($000s),2021,-
+755525701,Finance charges payable under finance leases and hire purchase ($000s),2020,-
+755525701,Finance charges payable under finance leases and hire purchase ($000s),2019,-
+755525701,Finance charges payable under finance leases and hire purchase ($000s),2018,-
+755525701,Finance charges payable under finance leases and hire purchase ($000s),2017,-
+755525701,Finance charges payable under finance leases and hire purchase ($000s),2016,-
+755525701,Other finance costs ($000s),2025,
+755525701,Other finance costs ($000s),2024,
+755525701,Other finance costs ($000s),2023,
+755525701,Other finance costs ($000s),2022,
+755525701,Other finance costs ($000s),2021,-
+755525701,Other finance costs ($000s),2020,-
+755525701,Other finance costs ($000s),2019,-
+755525701,Other finance costs ($000s),2018,-
+755525701,Other finance costs ($000s),2017,-
+755525701,Other finance costs ($000s),2016,-
+755525701,Total finance costs ($000s),2025,-
+755525701,Total finance costs ($000s),2024,-
+755525701,Total finance costs ($000s),2023,-
+755525701,Total finance costs ($000s),2022,-
+755525701,Total finance costs ($000s),2021,-
+755525701,Total finance costs ($000s),2020,-
+755525701,Total finance costs ($000s),2019,-
+755525701,Total finance costs ($000s),2018,-
+755525701,Total finance costs ($000s),2017,-
+755525701,Total finance costs ($000s),2016,($19)
+755525701,Research and development costs ($000s),2025,
+755525701,Research and development costs ($000s),2024,
+755525701,Research and development costs ($000s),2023,
+755525701,Research and development costs ($000s),2022,
+755525701,Research and development costs ($000s),2021,-
+755525701,Research and development costs ($000s),2020,-
+755525701,Research and development costs ($000s),2019,-
+755525701,Research and development costs ($000s),2018,-
+755525701,Research and development costs ($000s),2017,-
+755525701,Research and development costs ($000s),2016,-

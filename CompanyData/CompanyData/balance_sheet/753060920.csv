@@ -1,0 +1,601 @@
+duns,line_item,year,value
+753060920,Current Assets,2024,
+753060920,Current Assets,2023,
+753060920,Current Assets,2022,
+753060920,Current Assets,2021,
+753060920,Current Assets,2020,-
+753060920,Current Assets,2019,-
+753060920,Current Assets,2018,-
+753060920,Current Assets,2017,-
+753060920,Current Assets,2016,-
+753060920,Current Assets,2015,-
+753060920,Cash and cash equivalents ($000s),2024,"$18,060"
+753060920,Cash and cash equivalents ($000s),2023,"$18,519"
+753060920,Cash and cash equivalents ($000s),2022,"$10,399"
+753060920,Cash and cash equivalents ($000s),2021,"$1,308"
+753060920,Cash and cash equivalents ($000s),2020,"$1,635"
+753060920,Cash and cash equivalents ($000s),2019,$587
+753060920,Cash and cash equivalents ($000s),2018,"$1,493"
+753060920,Cash and cash equivalents ($000s),2017,$786
+753060920,Cash and cash equivalents ($000s),2016,$824
+753060920,Cash and cash equivalents ($000s),2015,"$3,074"
+753060920,Growth,2024,(2.48%)
+753060920,Growth,2023,78.08%
+753060920,Growth,2022,695.03%
+753060920,Growth,2021,(20.00%)
+753060920,Growth,2020,178.53%
+753060920,Growth,2019,(60.68%)
+753060920,Growth,2018,89.95%
+753060920,Growth,2017,(4.61%)
+753060920,Growth,2016,(73.19%)
+753060920,Growth,2015,-
+753060920,Trade receivables ($000s),2024,"$12,480"
+753060920,Trade receivables ($000s),2023,"$10,831"
+753060920,Trade receivables ($000s),2022,"$12,324"
+753060920,Trade receivables ($000s),2021,-
+753060920,Trade receivables ($000s),2020,$185
+753060920,Trade receivables ($000s),2019,$228
+753060920,Trade receivables ($000s),2018,$960
+753060920,Trade receivables ($000s),2017,$250
+753060920,Trade receivables ($000s),2016,$341
+753060920,Trade receivables ($000s),2015,$281
+753060920,Other receivables ($000s),2024,"$23,673"
+753060920,Other receivables ($000s),2023,"$18,775"
+753060920,Other receivables ($000s),2022,"$17,610"
+753060920,Other receivables ($000s),2021,"$21,266"
+753060920,Other receivables ($000s),2020,"$14,388"
+753060920,Other receivables ($000s),2019,$531
+753060920,Other receivables ($000s),2018,$973
+753060920,Other receivables ($000s),2017,$140
+753060920,Other receivables ($000s),2016,$191
+753060920,Other receivables ($000s),2015,$25
+753060920,Raw materials ($000s),2024,$0
+753060920,Raw materials ($000s),2023,$0
+753060920,Raw materials ($000s),2022,$0
+753060920,Raw materials ($000s),2021,$0
+753060920,Raw materials ($000s),2020,$0
+753060920,Raw materials ($000s),2019,$0
+753060920,Raw materials ($000s),2018,$0
+753060920,Raw materials ($000s),2017,$0
+753060920,Raw materials ($000s),2016,$0
+753060920,Raw materials ($000s),2015,$0
+753060920,Work-in-progress ($000s),2024,
+753060920,Work-in-progress ($000s),2023,
+753060920,Work-in-progress ($000s),2022,
+753060920,Work-in-progress ($000s),2021,
+753060920,Work-in-progress ($000s),2020,-
+753060920,Work-in-progress ($000s),2019,-
+753060920,Work-in-progress ($000s),2018,-
+753060920,Work-in-progress ($000s),2017,-
+753060920,Work-in-progress ($000s),2016,-
+753060920,Work-in-progress ($000s),2015,-
+753060920,Finished goods ($000s),2024,$0
+753060920,Finished goods ($000s),2023,$0
+753060920,Finished goods ($000s),2022,$0
+753060920,Finished goods ($000s),2021,$0
+753060920,Finished goods ($000s),2020,$0
+753060920,Finished goods ($000s),2019,$0
+753060920,Finished goods ($000s),2018,$0
+753060920,Finished goods ($000s),2017,$0
+753060920,Finished goods ($000s),2016,$0
+753060920,Finished goods ($000s),2015,$0
+753060920,Total inventories ($000s),2024,$0
+753060920,Total inventories ($000s),2023,$0
+753060920,Total inventories ($000s),2022,$0
+753060920,Total inventories ($000s),2021,$0
+753060920,Total inventories ($000s),2020,$0
+753060920,Total inventories ($000s),2019,$0
+753060920,Total inventories ($000s),2018,$0
+753060920,Total inventories ($000s),2017,$0
+753060920,Total inventories ($000s),2016,$0
+753060920,Total inventories ($000s),2015,$0
+753060920,Prepayments ($000s),2024,"$1,787"
+753060920,Prepayments ($000s),2023,$542
+753060920,Prepayments ($000s),2022,$599
+753060920,Prepayments ($000s),2021,$167
+753060920,Prepayments ($000s),2020,$264
+753060920,Prepayments ($000s),2019,$44
+753060920,Prepayments ($000s),2018,$115
+753060920,Prepayments ($000s),2017,$86
+753060920,Prepayments ($000s),2016,$116
+753060920,Prepayments ($000s),2015,$96
+753060920,Derivative financial instruments ($000s),2024,
+753060920,Derivative financial instruments ($000s),2023,
+753060920,Derivative financial instruments ($000s),2022,
+753060920,Derivative financial instruments ($000s),2021,
+753060920,Derivative financial instruments ($000s),2020,-
+753060920,Derivative financial instruments ($000s),2019,-
+753060920,Derivative financial instruments ($000s),2018,-
+753060920,Derivative financial instruments ($000s),2017,-
+753060920,Derivative financial instruments ($000s),2016,-
+753060920,Derivative financial instruments ($000s),2015,-
+753060920,Other current assets ($000s),2024,$179
+753060920,Other current assets ($000s),2023,$254
+753060920,Other current assets ($000s),2022,$35
+753060920,Other current assets ($000s),2021,$0
+753060920,Other current assets ($000s),2020,"$1,179"
+753060920,Other current assets ($000s),2019,"$1,320"
+753060920,Other current assets ($000s),2018,"$1,090"
+753060920,Other current assets ($000s),2017,$0
+753060920,Other current assets ($000s),2016,$0
+753060920,Other current assets ($000s),2015,$0
+753060920,Total current assets for continuing operations ($000s),2024,"$56,179"
+753060920,Total current assets for continuing operations ($000s),2023,"$48,921"
+753060920,Total current assets for continuing operations ($000s),2022,"$40,966"
+753060920,Total current assets for continuing operations ($000s),2021,"$22,742"
+753060920,Total current assets for continuing operations ($000s),2020,"$17,650"
+753060920,Total current assets for continuing operations ($000s),2019,"$2,711"
+753060920,Total current assets for continuing operations ($000s),2018,"$4,632"
+753060920,Total current assets for continuing operations ($000s),2017,"$1,262"
+753060920,Total current assets for continuing operations ($000s),2016,"$1,472"
+753060920,Total current assets for continuing operations ($000s),2015,"$3,476"
+753060920,Assets held for sale ($000s),2024,
+753060920,Assets held for sale ($000s),2023,
+753060920,Assets held for sale ($000s),2022,
+753060920,Assets held for sale ($000s),2021,
+753060920,Assets held for sale ($000s),2020,-
+753060920,Assets held for sale ($000s),2019,-
+753060920,Assets held for sale ($000s),2018,-
+753060920,Assets held for sale ($000s),2017,-
+753060920,Assets held for sale ($000s),2016,-
+753060920,Assets held for sale ($000s),2015,-
+753060920,Total current assets ($000s),2024,"$56,179"
+753060920,Total current assets ($000s),2023,"$48,921"
+753060920,Total current assets ($000s),2022,"$40,966"
+753060920,Total current assets ($000s),2021,"$22,742"
+753060920,Total current assets ($000s),2020,"$17,650"
+753060920,Total current assets ($000s),2019,"$2,711"
+753060920,Total current assets ($000s),2018,"$4,632"
+753060920,Total current assets ($000s),2017,"$1,262"
+753060920,Total current assets ($000s),2016,"$1,472"
+753060920,Total current assets ($000s),2015,"$3,476"
+753060920,Non-current assets,2024,
+753060920,Non-current assets,2023,
+753060920,Non-current assets,2022,
+753060920,Non-current assets,2021,
+753060920,Non-current assets,2020,-
+753060920,Non-current assets,2019,-
+753060920,Non-current assets,2018,-
+753060920,Non-current assets,2017,-
+753060920,Non-current assets,2016,-
+753060920,Non-current assets,2015,-
+753060920,Receivables ($000s),2024,-
+753060920,Receivables ($000s),2023,-
+753060920,Receivables ($000s),2022,-
+753060920,Receivables ($000s),2021,$192
+753060920,Receivables ($000s),2020,"$1,692"
+753060920,Receivables ($000s),2019,"$15,159"
+753060920,Receivables ($000s),2018,"$6,934"
+753060920,Receivables ($000s),2017,"$7,249"
+753060920,Receivables ($000s),2016,"$4,768"
+753060920,Receivables ($000s),2015,-
+753060920,Investments in associates ($000s),2024,$0
+753060920,Investments in associates ($000s),2023,$0
+753060920,Investments in associates ($000s),2022,"$17,027"
+753060920,Investments in associates ($000s),2021,$0
+753060920,Investments in associates ($000s),2020,$0
+753060920,Investments in associates ($000s),2019,$0
+753060920,Investments in associates ($000s),2018,$0
+753060920,Investments in associates ($000s),2017,$0
+753060920,Investments in associates ($000s),2016,$0
+753060920,Investments in associates ($000s),2015,$0
+753060920,Investments in subsidiaries ($000s),2024,
+753060920,Investments in subsidiaries ($000s),2023,
+753060920,Investments in subsidiaries ($000s),2022,
+753060920,Investments in subsidiaries ($000s),2021,
+753060920,Investments in subsidiaries ($000s),2020,-
+753060920,Investments in subsidiaries ($000s),2019,-
+753060920,Investments in subsidiaries ($000s),2018,-
+753060920,Investments in subsidiaries ($000s),2017,-
+753060920,Investments in subsidiaries ($000s),2016,-
+753060920,Investments in subsidiaries ($000s),2015,-
+753060920,Available for sale financial assets ($000s),2024,$0
+753060920,Available for sale financial assets ($000s),2023,$0
+753060920,Available for sale financial assets ($000s),2022,$0
+753060920,Available for sale financial assets ($000s),2021,$0
+753060920,Available for sale financial assets ($000s),2020,$0
+753060920,Available for sale financial assets ($000s),2019,$0
+753060920,Available for sale financial assets ($000s),2018,$0
+753060920,Available for sale financial assets ($000s),2017,$0
+753060920,Available for sale financial assets ($000s),2016,$0
+753060920,Available for sale financial assets ($000s),2015,$0
+753060920,"Property, plant and equipment ($000s)",2024,"$2,013"
+753060920,"Property, plant and equipment ($000s)",2023,$640
+753060920,"Property, plant and equipment ($000s)",2022,$703
+753060920,"Property, plant and equipment ($000s)",2021,$780
+753060920,"Property, plant and equipment ($000s)",2020,$664
+753060920,"Property, plant and equipment ($000s)",2019,$575
+753060920,"Property, plant and equipment ($000s)",2018,$510
+753060920,"Property, plant and equipment ($000s)",2017,$545
+753060920,"Property, plant and equipment ($000s)",2016,$818
+753060920,"Property, plant and equipment ($000s)",2015,"$1,062"
+753060920,Intangible assets and goodwill ($000s),2024,$46
+753060920,Intangible assets and goodwill ($000s),2023,$46
+753060920,Intangible assets and goodwill ($000s),2022,$46
+753060920,Intangible assets and goodwill ($000s),2021,$46
+753060920,Intangible assets and goodwill ($000s),2020,$46
+753060920,Intangible assets and goodwill ($000s),2019,$528
+753060920,Intangible assets and goodwill ($000s),2018,$46
+753060920,Intangible assets and goodwill ($000s),2017,$46
+753060920,Intangible assets and goodwill ($000s),2016,$186
+753060920,Intangible assets and goodwill ($000s),2015,"$2,589"
+753060920,Deferred tax assets ($000s),2024,$224
+753060920,Deferred tax assets ($000s),2023,"$1,040"
+753060920,Deferred tax assets ($000s),2022,"$1,048"
+753060920,Deferred tax assets ($000s),2021,$875
+753060920,Deferred tax assets ($000s),2020,"$1,043"
+753060920,Deferred tax assets ($000s),2019,"$1,640"
+753060920,Deferred tax assets ($000s),2018,"$1,762"
+753060920,Deferred tax assets ($000s),2017,"$1,786"
+753060920,Deferred tax assets ($000s),2016,"$2,203"
+753060920,Deferred tax assets ($000s),2015,"$2,339"
+753060920,Other non-current assets ($000s),2024,"$162,595"
+753060920,Other non-current assets ($000s),2023,"$104,410"
+753060920,Other non-current assets ($000s),2022,$746
+753060920,Other non-current assets ($000s),2021,"$1,020"
+753060920,Other non-current assets ($000s),2020,"$1,477"
+753060920,Other non-current assets ($000s),2019,$0
+753060920,Other non-current assets ($000s),2018,$0
+753060920,Other non-current assets ($000s),2017,$0
+753060920,Other non-current assets ($000s),2016,$0
+753060920,Other non-current assets ($000s),2015,"$1,755"
+753060920,Total non-current assets ($000s),2024,"$164,878"
+753060920,Total non-current assets ($000s),2023,"$106,137"
+753060920,Total non-current assets ($000s),2022,"$19,571"
+753060920,Total non-current assets ($000s),2021,"$2,914"
+753060920,Total non-current assets ($000s),2020,"$4,923"
+753060920,Total non-current assets ($000s),2019,"$17,902"
+753060920,Total non-current assets ($000s),2018,"$9,252"
+753060920,Total non-current assets ($000s),2017,"$9,627"
+753060920,Total non-current assets ($000s),2016,"$7,976"
+753060920,Total non-current assets ($000s),2015,"$7,746"
+753060920,TOTAL ASSETS ($000s),2024,"$221,057"
+753060920,TOTAL ASSETS ($000s),2023,"$155,058"
+753060920,TOTAL ASSETS ($000s),2022,"$60,537"
+753060920,TOTAL ASSETS ($000s),2021,"$25,655"
+753060920,TOTAL ASSETS ($000s),2020,"$22,573"
+753060920,TOTAL ASSETS ($000s),2019,"$20,613"
+753060920,TOTAL ASSETS ($000s),2018,"$13,884"
+753060920,TOTAL ASSETS ($000s),2017,"$10,889"
+753060920,TOTAL ASSETS ($000s),2016,"$9,448"
+753060920,TOTAL ASSETS ($000s),2015,"$11,222"
+753060920,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2024,"$155,058"
+753060920,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2023,"$60,537"
+753060920,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2022,"$25,655"
+753060920,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2021,"$22,573"
+753060920,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2020,"$20,613"
+753060920,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2019,"$13,884"
+753060920,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2018,"$10,889"
+753060920,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2017,"$9,448"
+753060920,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2016,"$11,222"
+753060920,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2015,"$10,922"
+753060920,Current liabilities,2024,
+753060920,Current liabilities,2023,
+753060920,Current liabilities,2022,
+753060920,Current liabilities,2021,
+753060920,Current liabilities,2020,-
+753060920,Current liabilities,2019,-
+753060920,Current liabilities,2018,-
+753060920,Current liabilities,2017,-
+753060920,Current liabilities,2016,-
+753060920,Current liabilities,2015,-
+753060920,Trade payables ($000s),2024,"$6,867"
+753060920,Trade payables ($000s),2023,"$2,532"
+753060920,Trade payables ($000s),2022,$597
+753060920,Trade payables ($000s),2021,$495
+753060920,Trade payables ($000s),2020,$274
+753060920,Trade payables ($000s),2019,$389
+753060920,Trade payables ($000s),2018,$487
+753060920,Trade payables ($000s),2017,$822
+753060920,Trade payables ($000s),2016,$344
+753060920,Trade payables ($000s),2015,$155
+753060920,Other payables ($000s),2024,"$3,030"
+753060920,Other payables ($000s),2023,$765
+753060920,Other payables ($000s),2022,$351
+753060920,Other payables ($000s),2021,$746
+753060920,Other payables ($000s),2020,$746
+753060920,Other payables ($000s),2019,$837
+753060920,Other payables ($000s),2018,$90
+753060920,Other payables ($000s),2017,"$1,617"
+753060920,Other payables ($000s),2016,"$1,725"
+753060920,Other payables ($000s),2015,"$1,429"
+753060920,Overdrafts ($000s),2024,
+753060920,Overdrafts ($000s),2023,
+753060920,Overdrafts ($000s),2022,
+753060920,Overdrafts ($000s),2021,
+753060920,Overdrafts ($000s),2020,-
+753060920,Overdrafts ($000s),2019,-
+753060920,Overdrafts ($000s),2018,-
+753060920,Overdrafts ($000s),2017,-
+753060920,Overdrafts ($000s),2016,-
+753060920,Overdrafts ($000s),2015,-
+753060920,Loans - secured ($000s),2024,
+753060920,Loans - secured ($000s),2023,
+753060920,Loans - secured ($000s),2022,
+753060920,Loans - secured ($000s),2021,
+753060920,Loans - secured ($000s),2020,-
+753060920,Loans - secured ($000s),2019,-
+753060920,Loans - secured ($000s),2018,-
+753060920,Loans - secured ($000s),2017,-
+753060920,Loans - secured ($000s),2016,-
+753060920,Loans - secured ($000s),2015,-
+753060920,Loans - unsecured ($000s),2024,
+753060920,Loans - unsecured ($000s),2023,
+753060920,Loans - unsecured ($000s),2022,
+753060920,Loans - unsecured ($000s),2021,
+753060920,Loans - unsecured ($000s),2020,-
+753060920,Loans - unsecured ($000s),2019,-
+753060920,Loans - unsecured ($000s),2018,-
+753060920,Loans - unsecured ($000s),2017,-
+753060920,Loans - unsecured ($000s),2016,-
+753060920,Loans - unsecured ($000s),2015,-
+753060920,Obligations under finance leases and hire purchase ($000s),2024,$248
+753060920,Obligations under finance leases and hire purchase ($000s),2023,$104
+753060920,Obligations under finance leases and hire purchase ($000s),2022,$514
+753060920,Obligations under finance leases and hire purchase ($000s),2021,$487
+753060920,Obligations under finance leases and hire purchase ($000s),2020,$414
+753060920,Obligations under finance leases and hire purchase ($000s),2019,$418
+753060920,Obligations under finance leases and hire purchase ($000s),2018,-
+753060920,Obligations under finance leases and hire purchase ($000s),2017,-
+753060920,Obligations under finance leases and hire purchase ($000s),2016,-
+753060920,Obligations under finance leases and hire purchase ($000s),2015,-
+753060920,Loans from related parties ($000s),2024,"$16,114"
+753060920,Loans from related parties ($000s),2023,"$20,372"
+753060920,Loans from related parties ($000s),2022,"$4,056"
+753060920,Loans from related parties ($000s),2021,"$4,696"
+753060920,Loans from related parties ($000s),2020,-
+753060920,Loans from related parties ($000s),2019,-
+753060920,Loans from related parties ($000s),2018,-
+753060920,Loans from related parties ($000s),2017,-
+753060920,Loans from related parties ($000s),2016,-
+753060920,Loans from related parties ($000s),2015,-
+753060920,Total current interest-bearing loans and borrowings ($000s),2024,"$16,363"
+753060920,Total current interest-bearing loans and borrowings ($000s),2023,"$20,476"
+753060920,Total current interest-bearing loans and borrowings ($000s),2022,"$4,570"
+753060920,Total current interest-bearing loans and borrowings ($000s),2021,"$5,183"
+753060920,Total current interest-bearing loans and borrowings ($000s),2020,$414
+753060920,Total current interest-bearing loans and borrowings ($000s),2019,$418
+753060920,Total current interest-bearing loans and borrowings ($000s),2018,-
+753060920,Total current interest-bearing loans and borrowings ($000s),2017,-
+753060920,Total current interest-bearing loans and borrowings ($000s),2016,-
+753060920,Total current interest-bearing loans and borrowings ($000s),2015,-
+753060920,Income tax payable/(refundable) ($000s),2024,"$1,596"
+753060920,Income tax payable/(refundable) ($000s),2023,$986
+753060920,Income tax payable/(refundable) ($000s),2022,"$1,075"
+753060920,Income tax payable/(refundable) ($000s),2021,$116
+753060920,Income tax payable/(refundable) ($000s),2020,-
+753060920,Income tax payable/(refundable) ($000s),2019,-
+753060920,Income tax payable/(refundable) ($000s),2018,-
+753060920,Income tax payable/(refundable) ($000s),2017,-
+753060920,Income tax payable/(refundable) ($000s),2016,-
+753060920,Income tax payable/(refundable) ($000s),2015,-
+753060920,Provisions ($000s),2024,"$2,273"
+753060920,Provisions ($000s),2023,"$3,372"
+753060920,Provisions ($000s),2022,"$2,529"
+753060920,Provisions ($000s),2021,"$2,568"
+753060920,Provisions ($000s),2020,"$2,259"
+753060920,Provisions ($000s),2019,$499
+753060920,Provisions ($000s),2018,$480
+753060920,Provisions ($000s),2017,$430
+753060920,Provisions ($000s),2016,$386
+753060920,Provisions ($000s),2015,$288
+753060920,Other current liabilities ($000s),2024,"$59,011"
+753060920,Other current liabilities ($000s),2023,"$3,251"
+753060920,Other current liabilities ($000s),2022,"$1,342"
+753060920,Other current liabilities ($000s),2021,"$6,660"
+753060920,Other current liabilities ($000s),2020,"$6,367"
+753060920,Other current liabilities ($000s),2019,"$5,599"
+753060920,Other current liabilities ($000s),2018,"$4,530"
+753060920,Other current liabilities ($000s),2017,"$1,471"
+753060920,Other current liabilities ($000s),2016,"$2,883"
+753060920,Other current liabilities ($000s),2015,"$4,516"
+753060920,Total current liabilities for continuing operations ($000s),2024,"$89,141"
+753060920,Total current liabilities for continuing operations ($000s),2023,"$31,382"
+753060920,Total current liabilities for continuing operations ($000s),2022,"$10,465"
+753060920,Total current liabilities for continuing operations ($000s),2021,"$15,768"
+753060920,Total current liabilities for continuing operations ($000s),2020,"$10,060"
+753060920,Total current liabilities for continuing operations ($000s),2019,"$7,742"
+753060920,Total current liabilities for continuing operations ($000s),2018,"$5,587"
+753060920,Total current liabilities for continuing operations ($000s),2017,"$4,340"
+753060920,Total current liabilities for continuing operations ($000s),2016,"$5,338"
+753060920,Total current liabilities for continuing operations ($000s),2015,"$6,387"
+753060920,Liabilities directly associated with assets held for sale ($000s),2024,
+753060920,Liabilities directly associated with assets held for sale ($000s),2023,
+753060920,Liabilities directly associated with assets held for sale ($000s),2022,
+753060920,Liabilities directly associated with assets held for sale ($000s),2021,
+753060920,Liabilities directly associated with assets held for sale ($000s),2020,-
+753060920,Liabilities directly associated with assets held for sale ($000s),2019,-
+753060920,Liabilities directly associated with assets held for sale ($000s),2018,-
+753060920,Liabilities directly associated with assets held for sale ($000s),2017,-
+753060920,Liabilities directly associated with assets held for sale ($000s),2016,-
+753060920,Liabilities directly associated with assets held for sale ($000s),2015,-
+753060920,Total current liabilities ($000s),2024,"$89,141"
+753060920,Total current liabilities ($000s),2023,"$31,382"
+753060920,Total current liabilities ($000s),2022,"$10,465"
+753060920,Total current liabilities ($000s),2021,"$15,768"
+753060920,Total current liabilities ($000s),2020,"$10,060"
+753060920,Total current liabilities ($000s),2019,"$7,742"
+753060920,Total current liabilities ($000s),2018,"$5,587"
+753060920,Total current liabilities ($000s),2017,"$4,340"
+753060920,Total current liabilities ($000s),2016,"$5,338"
+753060920,Total current liabilities ($000s),2015,"$6,387"
+753060920,Total current liabilities for previous year ($000s),2024,"$31,382"
+753060920,Total current liabilities for previous year ($000s),2023,"$10,465"
+753060920,Total current liabilities for previous year ($000s),2022,"$15,768"
+753060920,Total current liabilities for previous year ($000s),2021,"$10,060"
+753060920,Total current liabilities for previous year ($000s),2020,"$7,742"
+753060920,Total current liabilities for previous year ($000s),2019,"$5,587"
+753060920,Total current liabilities for previous year ($000s),2018,"$4,340"
+753060920,Total current liabilities for previous year ($000s),2017,"$5,338"
+753060920,Total current liabilities for previous year ($000s),2016,"$6,387"
+753060920,Total current liabilities for previous year ($000s),2015,"$14,439"
+753060920,Non-current liabilities,2024,
+753060920,Non-current liabilities,2023,
+753060920,Non-current liabilities,2022,
+753060920,Non-current liabilities,2021,
+753060920,Non-current liabilities,2020,-
+753060920,Non-current liabilities,2019,-
+753060920,Non-current liabilities,2018,-
+753060920,Non-current liabilities,2017,-
+753060920,Non-current liabilities,2016,-
+753060920,Non-current liabilities,2015,-
+753060920,Total non-current interest-bearing loans and borrowings ($000s),2024,$735
+753060920,Total non-current interest-bearing loans and borrowings ($000s),2023,$120
+753060920,Total non-current interest-bearing loans and borrowings ($000s),2022,$87
+753060920,Total non-current interest-bearing loans and borrowings ($000s),2021,$601
+753060920,Total non-current interest-bearing loans and borrowings ($000s),2020,"$1,089"
+753060920,Total non-current interest-bearing loans and borrowings ($000s),2019,$71
+753060920,Total non-current interest-bearing loans and borrowings ($000s),2018,-
+753060920,Total non-current interest-bearing loans and borrowings ($000s),2017,-
+753060920,Total non-current interest-bearing loans and borrowings ($000s),2016,-
+753060920,Total non-current interest-bearing loans and borrowings ($000s),2015,-
+753060920,Deferred tax liabilities ($000s),2024,
+753060920,Deferred tax liabilities ($000s),2023,
+753060920,Deferred tax liabilities ($000s),2022,
+753060920,Deferred tax liabilities ($000s),2021,
+753060920,Deferred tax liabilities ($000s),2020,-
+753060920,Deferred tax liabilities ($000s),2019,-
+753060920,Deferred tax liabilities ($000s),2018,-
+753060920,Deferred tax liabilities ($000s),2017,-
+753060920,Deferred tax liabilities ($000s),2016,-
+753060920,Deferred tax liabilities ($000s),2015,-
+753060920,Convertible redeemable preference shares ($000s),2024,
+753060920,Convertible redeemable preference shares ($000s),2023,
+753060920,Convertible redeemable preference shares ($000s),2022,
+753060920,Convertible redeemable preference shares ($000s),2021,
+753060920,Convertible redeemable preference shares ($000s),2020,-
+753060920,Convertible redeemable preference shares ($000s),2019,-
+753060920,Convertible redeemable preference shares ($000s),2018,-
+753060920,Convertible redeemable preference shares ($000s),2017,-
+753060920,Convertible redeemable preference shares ($000s),2016,-
+753060920,Convertible redeemable preference shares ($000s),2015,-
+753060920,Other non-current liabilities ($000s),2024,"$145,595"
+753060920,Other non-current liabilities ($000s),2023,"$135,211"
+753060920,Other non-current liabilities ($000s),2022,"$55,820"
+753060920,Other non-current liabilities ($000s),2021,"$10,902"
+753060920,Other non-current liabilities ($000s),2020,"$10,462"
+753060920,Other non-current liabilities ($000s),2019,"$7,415"
+753060920,Other non-current liabilities ($000s),2018,"$3,690"
+753060920,Other non-current liabilities ($000s),2017,"$1,595"
+753060920,Other non-current liabilities ($000s),2016,"$1,995"
+753060920,Other non-current liabilities ($000s),2015,"$3,056"
+753060920,Total non-current liabilities ($000s),2024,"$146,489"
+753060920,Total non-current liabilities ($000s),2023,"$135,446"
+753060920,Total non-current liabilities ($000s),2022,"$55,961"
+753060920,Total non-current liabilities ($000s),2021,"$11,546"
+753060920,Total non-current liabilities ($000s),2020,"$11,565"
+753060920,Total non-current liabilities ($000s),2019,"$7,767"
+753060920,Total non-current liabilities ($000s),2018,"$3,998"
+753060920,Total non-current liabilities ($000s),2017,"$1,851"
+753060920,Total non-current liabilities ($000s),2016,"$2,144"
+753060920,Total non-current liabilities ($000s),2015,"$3,139"
+753060920,TOTAL LIABILITIES ($000s),2024,"$235,629"
+753060920,TOTAL LIABILITIES ($000s),2023,"$166,828"
+753060920,TOTAL LIABILITIES ($000s),2022,"$66,425"
+753060920,TOTAL LIABILITIES ($000s),2021,"$27,315"
+753060920,TOTAL LIABILITIES ($000s),2020,"$21,625"
+753060920,TOTAL LIABILITIES ($000s),2019,"$15,509"
+753060920,TOTAL LIABILITIES ($000s),2018,"$9,585"
+753060920,TOTAL LIABILITIES ($000s),2017,"$6,192"
+753060920,TOTAL LIABILITIES ($000s),2016,"$7,482"
+753060920,TOTAL LIABILITIES ($000s),2015,"$9,526"
+753060920,NET ASSETS ($000s),2024,"($14,573)"
+753060920,NET ASSETS ($000s),2023,"($11,770)"
+753060920,NET ASSETS ($000s),2022,"($5,888)"
+753060920,NET ASSETS ($000s),2021,"($1,659)"
+753060920,NET ASSETS ($000s),2020,$948
+753060920,NET ASSETS ($000s),2019,"$5,104"
+753060920,NET ASSETS ($000s),2018,"$4,299"
+753060920,NET ASSETS ($000s),2017,"$4,697"
+753060920,NET ASSETS ($000s),2016,"$1,966"
+753060920,NET ASSETS ($000s),2015,"$1,696"
+753060920,Equity,2024,
+753060920,Equity,2023,
+753060920,Equity,2022,
+753060920,Equity,2021,
+753060920,Equity,2020,-
+753060920,Equity,2019,-
+753060920,Equity,2018,-
+753060920,Equity,2017,-
+753060920,Equity,2016,-
+753060920,Equity,2015,-
+753060920,Equity attributable to equity holders of the parent,2024,
+753060920,Equity attributable to equity holders of the parent,2023,
+753060920,Equity attributable to equity holders of the parent,2022,
+753060920,Equity attributable to equity holders of the parent,2021,
+753060920,Equity attributable to equity holders of the parent,2020,-
+753060920,Equity attributable to equity holders of the parent,2019,-
+753060920,Equity attributable to equity holders of the parent,2018,-
+753060920,Equity attributable to equity holders of the parent,2017,-
+753060920,Equity attributable to equity holders of the parent,2016,-
+753060920,Equity attributable to equity holders of the parent,2015,-
+753060920,Contributed equity ($000s),2024,"$18,614"
+753060920,Contributed equity ($000s),2023,"$18,614"
+753060920,Contributed equity ($000s),2022,"$18,614"
+753060920,Contributed equity ($000s),2021,"$18,614"
+753060920,Contributed equity ($000s),2020,"$18,614"
+753060920,Contributed equity ($000s),2019,"$18,614"
+753060920,Contributed equity ($000s),2018,"$18,614"
+753060920,Contributed equity ($000s),2017,"$18,614"
+753060920,Contributed equity ($000s),2016,"$18,612"
+753060920,Contributed equity ($000s),2015,"$18,612"
+753060920,Retained earnings ($000s),2024,"($34,052)"
+753060920,Retained earnings ($000s),2023,"($31,197)"
+753060920,Retained earnings ($000s),2022,"($25,074)"
+753060920,Retained earnings ($000s),2021,"($19,998)"
+753060920,Retained earnings ($000s),2020,"($17,363)"
+753060920,Retained earnings ($000s),2019,"($13,693)"
+753060920,Retained earnings ($000s),2018,"($14,489)"
+753060920,Retained earnings ($000s),2017,"($13,980)"
+753060920,Retained earnings ($000s),2016,"($16,764)"
+753060920,Retained earnings ($000s),2015,"($17,009)"
+753060920,Reserves ($000s),2024,$865
+753060920,Reserves ($000s),2023,$812
+753060920,Reserves ($000s),2022,$572
+753060920,Reserves ($000s),2021,($275)
+753060920,Reserves ($000s),2020,($303)
+753060920,Reserves ($000s),2019,$183
+753060920,Reserves ($000s),2018,$174
+753060920,Reserves ($000s),2017,$63
+753060920,Reserves ($000s),2016,$118
+753060920,Reserves ($000s),2015,$93
+753060920,Total Parent interests ($000s),2024,"($14,573)"
+753060920,Total Parent interests ($000s),2023,"($11,770)"
+753060920,Total Parent interests ($000s),2022,"($5,888)"
+753060920,Total Parent interests ($000s),2021,"($1,659)"
+753060920,Total Parent interests ($000s),2020,$948
+753060920,Total Parent interests ($000s),2019,"$5,104"
+753060920,Total Parent interests ($000s),2018,"$4,299"
+753060920,Total Parent interests ($000s),2017,"$4,697"
+753060920,Total Parent interests ($000s),2016,"$1,966"
+753060920,Total Parent interests ($000s),2015,"$1,696"
+753060920,Minority interests ($000s),2024,
+753060920,Minority interests ($000s),2023,
+753060920,Minority interests ($000s),2022,
+753060920,Minority interests ($000s),2021,
+753060920,Minority interests ($000s),2020,-
+753060920,Minority interests ($000s),2019,-
+753060920,Minority interests ($000s),2018,-
+753060920,Minority interests ($000s),2017,-
+753060920,Minority interests ($000s),2016,-
+753060920,Minority interests ($000s),2015,-
+753060920,TOTAL EQUITY ($000s),2024,"($14,573)"
+753060920,TOTAL EQUITY ($000s),2023,"($11,770)"
+753060920,TOTAL EQUITY ($000s),2022,"($5,888)"
+753060920,TOTAL EQUITY ($000s),2021,"($1,659)"
+753060920,TOTAL EQUITY ($000s),2020,$948
+753060920,TOTAL EQUITY ($000s),2019,"$5,104"
+753060920,TOTAL EQUITY ($000s),2018,"$4,299"
+753060920,TOTAL EQUITY ($000s),2017,"$4,697"
+753060920,TOTAL EQUITY ($000s),2016,"$1,966"
+753060920,TOTAL EQUITY ($000s),2015,"$1,696"
+753060920,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2024,"($11,770)"
+753060920,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2023,"($5,888)"
+753060920,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2022,"($1,659)"
+753060920,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2021,$948
+753060920,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2020,"$5,104"
+753060920,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2019,"$4,299"
+753060920,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2018,"$4,697"
+753060920,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2017,"$1,966"
+753060920,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2016,"$1,696"
+753060920,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2015,"($8,267)"

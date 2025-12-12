@@ -1,0 +1,541 @@
+duns,line_item,year,value
+742503808,Current Assets,2024,
+742503808,Current Assets,2023,
+742503808,Current Assets,2022,
+742503808,Current Assets,2021,
+742503808,Current Assets,2020,-
+742503808,Current Assets,2019,-
+742503808,Current Assets,2018,-
+742503808,Current Assets,2017,-
+742503808,Current Assets,2016,-
+742503808,Cash and cash equivalents ($000s),2024,"$1,601"
+742503808,Cash and cash equivalents ($000s),2023,"$2,054"
+742503808,Cash and cash equivalents ($000s),2022,"$2,659"
+742503808,Cash and cash equivalents ($000s),2021,"$2,179"
+742503808,Cash and cash equivalents ($000s),2020,"$2,567"
+742503808,Cash and cash equivalents ($000s),2019,"$2,044"
+742503808,Cash and cash equivalents ($000s),2018,"$1,739"
+742503808,Cash and cash equivalents ($000s),2017,"$1,033"
+742503808,Cash and cash equivalents ($000s),2016,$828
+742503808,Growth,2024,(22.05%)
+742503808,Growth,2023,(22.75%)
+742503808,Growth,2022,22.03%
+742503808,Growth,2021,(15.11%)
+742503808,Growth,2020,25.59%
+742503808,Growth,2019,17.54%
+742503808,Growth,2018,68.34%
+742503808,Growth,2017,24.76%
+742503808,Growth,2016,-
+742503808,Trade receivables ($000s),2024,"$4,602"
+742503808,Trade receivables ($000s),2023,"$6,975"
+742503808,Trade receivables ($000s),2022,"$4,326"
+742503808,Trade receivables ($000s),2021,"$5,254"
+742503808,Trade receivables ($000s),2020,"$3,748"
+742503808,Trade receivables ($000s),2019,"$4,590"
+742503808,Trade receivables ($000s),2018,"$5,230"
+742503808,Trade receivables ($000s),2017,"$7,010"
+742503808,Trade receivables ($000s),2016,"$3,702"
+742503808,Other receivables ($000s),2024,
+742503808,Other receivables ($000s),2023,
+742503808,Other receivables ($000s),2022,
+742503808,Other receivables ($000s),2021,
+742503808,Other receivables ($000s),2020,-
+742503808,Other receivables ($000s),2019,-
+742503808,Other receivables ($000s),2018,-
+742503808,Other receivables ($000s),2017,-
+742503808,Other receivables ($000s),2016,-
+742503808,Raw materials ($000s),2024,$0
+742503808,Raw materials ($000s),2023,$0
+742503808,Raw materials ($000s),2022,$0
+742503808,Raw materials ($000s),2021,$0
+742503808,Raw materials ($000s),2020,$0
+742503808,Raw materials ($000s),2019,$0
+742503808,Raw materials ($000s),2018,$0
+742503808,Raw materials ($000s),2017,$0
+742503808,Raw materials ($000s),2016,$0
+742503808,Work-in-progress ($000s),2024,
+742503808,Work-in-progress ($000s),2023,
+742503808,Work-in-progress ($000s),2022,
+742503808,Work-in-progress ($000s),2021,
+742503808,Work-in-progress ($000s),2020,-
+742503808,Work-in-progress ($000s),2019,-
+742503808,Work-in-progress ($000s),2018,-
+742503808,Work-in-progress ($000s),2017,-
+742503808,Work-in-progress ($000s),2016,-
+742503808,Finished goods ($000s),2024,"$13,683"
+742503808,Finished goods ($000s),2023,"$12,734"
+742503808,Finished goods ($000s),2022,"$12,636"
+742503808,Finished goods ($000s),2021,"$7,812"
+742503808,Finished goods ($000s),2020,"$6,979"
+742503808,Finished goods ($000s),2019,"$6,927"
+742503808,Finished goods ($000s),2018,"$6,565"
+742503808,Finished goods ($000s),2017,"$4,491"
+742503808,Finished goods ($000s),2016,"$3,977"
+742503808,Total inventories ($000s),2024,"$13,683"
+742503808,Total inventories ($000s),2023,"$12,734"
+742503808,Total inventories ($000s),2022,"$12,636"
+742503808,Total inventories ($000s),2021,"$7,812"
+742503808,Total inventories ($000s),2020,"$6,979"
+742503808,Total inventories ($000s),2019,"$6,927"
+742503808,Total inventories ($000s),2018,"$6,565"
+742503808,Total inventories ($000s),2017,"$4,491"
+742503808,Total inventories ($000s),2016,"$3,977"
+742503808,Prepayments ($000s),2024,$173
+742503808,Prepayments ($000s),2023,$137
+742503808,Prepayments ($000s),2022,$113
+742503808,Prepayments ($000s),2021,$104
+742503808,Prepayments ($000s),2020,$67
+742503808,Prepayments ($000s),2019,$102
+742503808,Prepayments ($000s),2018,$98
+742503808,Prepayments ($000s),2017,$94
+742503808,Prepayments ($000s),2016,$141
+742503808,Derivative financial instruments ($000s),2024,
+742503808,Derivative financial instruments ($000s),2023,
+742503808,Derivative financial instruments ($000s),2022,
+742503808,Derivative financial instruments ($000s),2021,
+742503808,Derivative financial instruments ($000s),2020,-
+742503808,Derivative financial instruments ($000s),2019,-
+742503808,Derivative financial instruments ($000s),2018,-
+742503808,Derivative financial instruments ($000s),2017,-
+742503808,Derivative financial instruments ($000s),2016,-
+742503808,Other current assets ($000s),2024,$0
+742503808,Other current assets ($000s),2023,$0
+742503808,Other current assets ($000s),2022,$65
+742503808,Other current assets ($000s),2021,$3
+742503808,Other current assets ($000s),2020,$0
+742503808,Other current assets ($000s),2019,$287
+742503808,Other current assets ($000s),2018,$0
+742503808,Other current assets ($000s),2017,$0
+742503808,Other current assets ($000s),2016,$0
+742503808,Total current assets for continuing operations ($000s),2024,"$20,058"
+742503808,Total current assets for continuing operations ($000s),2023,"$21,900"
+742503808,Total current assets for continuing operations ($000s),2022,"$19,799"
+742503808,Total current assets for continuing operations ($000s),2021,"$15,352"
+742503808,Total current assets for continuing operations ($000s),2020,"$13,361"
+742503808,Total current assets for continuing operations ($000s),2019,"$13,950"
+742503808,Total current assets for continuing operations ($000s),2018,"$13,632"
+742503808,Total current assets for continuing operations ($000s),2017,"$12,627"
+742503808,Total current assets for continuing operations ($000s),2016,"$8,647"
+742503808,Assets held for sale ($000s),2024,
+742503808,Assets held for sale ($000s),2023,
+742503808,Assets held for sale ($000s),2022,
+742503808,Assets held for sale ($000s),2021,
+742503808,Assets held for sale ($000s),2020,-
+742503808,Assets held for sale ($000s),2019,-
+742503808,Assets held for sale ($000s),2018,-
+742503808,Assets held for sale ($000s),2017,-
+742503808,Assets held for sale ($000s),2016,-
+742503808,Total current assets ($000s),2024,"$20,058"
+742503808,Total current assets ($000s),2023,"$21,900"
+742503808,Total current assets ($000s),2022,"$19,799"
+742503808,Total current assets ($000s),2021,"$15,352"
+742503808,Total current assets ($000s),2020,"$13,361"
+742503808,Total current assets ($000s),2019,"$13,950"
+742503808,Total current assets ($000s),2018,"$13,632"
+742503808,Total current assets ($000s),2017,"$12,627"
+742503808,Total current assets ($000s),2016,"$8,647"
+742503808,Non-current assets,2024,
+742503808,Non-current assets,2023,
+742503808,Non-current assets,2022,
+742503808,Non-current assets,2021,
+742503808,Non-current assets,2020,-
+742503808,Non-current assets,2019,-
+742503808,Non-current assets,2018,-
+742503808,Non-current assets,2017,-
+742503808,Non-current assets,2016,-
+742503808,Receivables ($000s),2024,-
+742503808,Receivables ($000s),2023,-
+742503808,Receivables ($000s),2022,-
+742503808,Receivables ($000s),2021,-
+742503808,Receivables ($000s),2020,-
+742503808,Receivables ($000s),2019,-
+742503808,Receivables ($000s),2018,-
+742503808,Receivables ($000s),2017,$168
+742503808,Receivables ($000s),2016,$168
+742503808,Investments in associates ($000s),2024,$0
+742503808,Investments in associates ($000s),2023,$0
+742503808,Investments in associates ($000s),2022,$0
+742503808,Investments in associates ($000s),2021,$0
+742503808,Investments in associates ($000s),2020,$0
+742503808,Investments in associates ($000s),2019,$0
+742503808,Investments in associates ($000s),2018,$0
+742503808,Investments in associates ($000s),2017,$0
+742503808,Investments in associates ($000s),2016,$0
+742503808,Investments in subsidiaries ($000s),2024,
+742503808,Investments in subsidiaries ($000s),2023,
+742503808,Investments in subsidiaries ($000s),2022,
+742503808,Investments in subsidiaries ($000s),2021,
+742503808,Investments in subsidiaries ($000s),2020,-
+742503808,Investments in subsidiaries ($000s),2019,-
+742503808,Investments in subsidiaries ($000s),2018,-
+742503808,Investments in subsidiaries ($000s),2017,-
+742503808,Investments in subsidiaries ($000s),2016,-
+742503808,Available for sale financial assets ($000s),2024,$0
+742503808,Available for sale financial assets ($000s),2023,$0
+742503808,Available for sale financial assets ($000s),2022,$0
+742503808,Available for sale financial assets ($000s),2021,$0
+742503808,Available for sale financial assets ($000s),2020,$0
+742503808,Available for sale financial assets ($000s),2019,$0
+742503808,Available for sale financial assets ($000s),2018,$0
+742503808,Available for sale financial assets ($000s),2017,$0
+742503808,Available for sale financial assets ($000s),2016,$0
+742503808,"Property, plant and equipment ($000s)",2024,$77
+742503808,"Property, plant and equipment ($000s)",2023,$146
+742503808,"Property, plant and equipment ($000s)",2022,$273
+742503808,"Property, plant and equipment ($000s)",2021,$578
+742503808,"Property, plant and equipment ($000s)",2020,$877
+742503808,"Property, plant and equipment ($000s)",2019,"$1,206"
+742503808,"Property, plant and equipment ($000s)",2018,$668
+742503808,"Property, plant and equipment ($000s)",2017,$846
+742503808,"Property, plant and equipment ($000s)",2016,"$1,004"
+742503808,Intangible assets and goodwill ($000s),2024,$0
+742503808,Intangible assets and goodwill ($000s),2023,$0
+742503808,Intangible assets and goodwill ($000s),2022,$0
+742503808,Intangible assets and goodwill ($000s),2021,$0
+742503808,Intangible assets and goodwill ($000s),2020,$0
+742503808,Intangible assets and goodwill ($000s),2019,$0
+742503808,Intangible assets and goodwill ($000s),2018,$0
+742503808,Intangible assets and goodwill ($000s),2017,$0
+742503808,Intangible assets and goodwill ($000s),2016,$647
+742503808,Deferred tax assets ($000s),2024,$861
+742503808,Deferred tax assets ($000s),2023,$764
+742503808,Deferred tax assets ($000s),2022,$697
+742503808,Deferred tax assets ($000s),2021,$669
+742503808,Deferred tax assets ($000s),2020,$582
+742503808,Deferred tax assets ($000s),2019,$673
+742503808,Deferred tax assets ($000s),2018,$609
+742503808,Deferred tax assets ($000s),2017,$699
+742503808,Deferred tax assets ($000s),2016,-
+742503808,Other non-current assets ($000s),2024,"$1,473"
+742503808,Other non-current assets ($000s),2023,"$1,170"
+742503808,Other non-current assets ($000s),2022,"$1,667"
+742503808,Other non-current assets ($000s),2021,"$2,144"
+742503808,Other non-current assets ($000s),2020,"$2,564"
+742503808,Other non-current assets ($000s),2019,"$2,984"
+742503808,Other non-current assets ($000s),2018,$168
+742503808,Other non-current assets ($000s),2017,$0
+742503808,Other non-current assets ($000s),2016,$0
+742503808,Total non-current assets ($000s),2024,"$2,411"
+742503808,Total non-current assets ($000s),2023,"$2,080"
+742503808,Total non-current assets ($000s),2022,"$2,637"
+742503808,Total non-current assets ($000s),2021,"$3,392"
+742503808,Total non-current assets ($000s),2020,"$4,023"
+742503808,Total non-current assets ($000s),2019,"$4,863"
+742503808,Total non-current assets ($000s),2018,"$1,445"
+742503808,Total non-current assets ($000s),2017,"$1,713"
+742503808,Total non-current assets ($000s),2016,"$1,818"
+742503808,TOTAL ASSETS ($000s),2024,"$22,470"
+742503808,TOTAL ASSETS ($000s),2023,"$23,980"
+742503808,TOTAL ASSETS ($000s),2022,"$22,436"
+742503808,TOTAL ASSETS ($000s),2021,"$18,744"
+742503808,TOTAL ASSETS ($000s),2020,"$17,385"
+742503808,TOTAL ASSETS ($000s),2019,"$18,813"
+742503808,TOTAL ASSETS ($000s),2018,"$15,077"
+742503808,TOTAL ASSETS ($000s),2017,"$14,340"
+742503808,TOTAL ASSETS ($000s),2016,"$10,465"
+742503808,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2024,"$23,980"
+742503808,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2023,"$22,436"
+742503808,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2022,"$18,744"
+742503808,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2021,"$17,385"
+742503808,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2020,"$18,813"
+742503808,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2019,"$15,077"
+742503808,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2018,"$14,340"
+742503808,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2017,"$10,465"
+742503808,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2016,-
+742503808,Current liabilities,2024,
+742503808,Current liabilities,2023,
+742503808,Current liabilities,2022,
+742503808,Current liabilities,2021,
+742503808,Current liabilities,2020,-
+742503808,Current liabilities,2019,-
+742503808,Current liabilities,2018,-
+742503808,Current liabilities,2017,-
+742503808,Current liabilities,2016,-
+742503808,Trade payables ($000s),2024,"$8,588"
+742503808,Trade payables ($000s),2023,"$11,178"
+742503808,Trade payables ($000s),2022,"$9,583"
+742503808,Trade payables ($000s),2021,"$6,265"
+742503808,Trade payables ($000s),2020,"$4,492"
+742503808,Trade payables ($000s),2019,"$5,972"
+742503808,Trade payables ($000s),2018,"$5,270"
+742503808,Trade payables ($000s),2017,"$4,198"
+742503808,Trade payables ($000s),2016,"$4,638"
+742503808,Other payables ($000s),2024,$988
+742503808,Other payables ($000s),2023,"$1,021"
+742503808,Other payables ($000s),2022,"$1,208"
+742503808,Other payables ($000s),2021,$857
+742503808,Other payables ($000s),2020,$926
+742503808,Other payables ($000s),2019,-
+742503808,Other payables ($000s),2018,$977
+742503808,Other payables ($000s),2017,"$1,474"
+742503808,Other payables ($000s),2016,$962
+742503808,Overdrafts ($000s),2024,
+742503808,Overdrafts ($000s),2023,
+742503808,Overdrafts ($000s),2022,
+742503808,Overdrafts ($000s),2021,
+742503808,Overdrafts ($000s),2020,-
+742503808,Overdrafts ($000s),2019,-
+742503808,Overdrafts ($000s),2018,-
+742503808,Overdrafts ($000s),2017,-
+742503808,Overdrafts ($000s),2016,-
+742503808,Loans - secured ($000s),2024,
+742503808,Loans - secured ($000s),2023,
+742503808,Loans - secured ($000s),2022,
+742503808,Loans - secured ($000s),2021,
+742503808,Loans - secured ($000s),2020,-
+742503808,Loans - secured ($000s),2019,-
+742503808,Loans - secured ($000s),2018,-
+742503808,Loans - secured ($000s),2017,-
+742503808,Loans - secured ($000s),2016,-
+742503808,Loans - unsecured ($000s),2024,
+742503808,Loans - unsecured ($000s),2023,
+742503808,Loans - unsecured ($000s),2022,
+742503808,Loans - unsecured ($000s),2021,
+742503808,Loans - unsecured ($000s),2020,-
+742503808,Loans - unsecured ($000s),2019,-
+742503808,Loans - unsecured ($000s),2018,-
+742503808,Loans - unsecured ($000s),2017,-
+742503808,Loans - unsecured ($000s),2016,-
+742503808,Obligations under finance leases and hire purchase ($000s),2024,$499
+742503808,Obligations under finance leases and hire purchase ($000s),2023,$525
+742503808,Obligations under finance leases and hire purchase ($000s),2022,$501
+742503808,Obligations under finance leases and hire purchase ($000s),2021,$416
+742503808,Obligations under finance leases and hire purchase ($000s),2020,$384
+742503808,Obligations under finance leases and hire purchase ($000s),2019,$336
+742503808,Obligations under finance leases and hire purchase ($000s),2018,-
+742503808,Obligations under finance leases and hire purchase ($000s),2017,-
+742503808,Obligations under finance leases and hire purchase ($000s),2016,-
+742503808,Loans from related parties ($000s),2024,-
+742503808,Loans from related parties ($000s),2023,-
+742503808,Loans from related parties ($000s),2022,-
+742503808,Loans from related parties ($000s),2021,-
+742503808,Loans from related parties ($000s),2020,-
+742503808,Loans from related parties ($000s),2019,-
+742503808,Loans from related parties ($000s),2018,-
+742503808,Loans from related parties ($000s),2017,$221
+742503808,Loans from related parties ($000s),2016,$973
+742503808,Total current interest-bearing loans and borrowings ($000s),2024,$499
+742503808,Total current interest-bearing loans and borrowings ($000s),2023,$525
+742503808,Total current interest-bearing loans and borrowings ($000s),2022,$501
+742503808,Total current interest-bearing loans and borrowings ($000s),2021,$416
+742503808,Total current interest-bearing loans and borrowings ($000s),2020,$384
+742503808,Total current interest-bearing loans and borrowings ($000s),2019,$336
+742503808,Total current interest-bearing loans and borrowings ($000s),2018,-
+742503808,Total current interest-bearing loans and borrowings ($000s),2017,$221
+742503808,Total current interest-bearing loans and borrowings ($000s),2016,$973
+742503808,Income tax payable/(refundable) ($000s),2024,$365
+742503808,Income tax payable/(refundable) ($000s),2023,$115
+742503808,Income tax payable/(refundable) ($000s),2022,-
+742503808,Income tax payable/(refundable) ($000s),2021,-
+742503808,Income tax payable/(refundable) ($000s),2020,$102
+742503808,Income tax payable/(refundable) ($000s),2019,-
+742503808,Income tax payable/(refundable) ($000s),2018,$137
+742503808,Income tax payable/(refundable) ($000s),2017,$187
+742503808,Income tax payable/(refundable) ($000s),2016,-
+742503808,Provisions ($000s),2024,$493
+742503808,Provisions ($000s),2023,$469
+742503808,Provisions ($000s),2022,$420
+742503808,Provisions ($000s),2021,$376
+742503808,Provisions ($000s),2020,$257
+742503808,Provisions ($000s),2019,$289
+742503808,Provisions ($000s),2018,$318
+742503808,Provisions ($000s),2017,$477
+742503808,Provisions ($000s),2016,$521
+742503808,Other current liabilities ($000s),2024,$0
+742503808,Other current liabilities ($000s),2023,$0
+742503808,Other current liabilities ($000s),2022,$0
+742503808,Other current liabilities ($000s),2021,$0
+742503808,Other current liabilities ($000s),2020,$0
+742503808,Other current liabilities ($000s),2019,$945
+742503808,Other current liabilities ($000s),2018,$0
+742503808,Other current liabilities ($000s),2017,$0
+742503808,Other current liabilities ($000s),2016,$0
+742503808,Total current liabilities for continuing operations ($000s),2024,"$10,933"
+742503808,Total current liabilities for continuing operations ($000s),2023,"$13,309"
+742503808,Total current liabilities for continuing operations ($000s),2022,"$11,711"
+742503808,Total current liabilities for continuing operations ($000s),2021,"$7,913"
+742503808,Total current liabilities for continuing operations ($000s),2020,"$6,162"
+742503808,Total current liabilities for continuing operations ($000s),2019,"$7,543"
+742503808,Total current liabilities for continuing operations ($000s),2018,"$6,701"
+742503808,Total current liabilities for continuing operations ($000s),2017,"$6,558"
+742503808,Total current liabilities for continuing operations ($000s),2016,"$7,094"
+742503808,Liabilities directly associated with assets held for sale ($000s),2024,
+742503808,Liabilities directly associated with assets held for sale ($000s),2023,
+742503808,Liabilities directly associated with assets held for sale ($000s),2022,
+742503808,Liabilities directly associated with assets held for sale ($000s),2021,
+742503808,Liabilities directly associated with assets held for sale ($000s),2020,-
+742503808,Liabilities directly associated with assets held for sale ($000s),2019,-
+742503808,Liabilities directly associated with assets held for sale ($000s),2018,-
+742503808,Liabilities directly associated with assets held for sale ($000s),2017,-
+742503808,Liabilities directly associated with assets held for sale ($000s),2016,-
+742503808,Total current liabilities ($000s),2024,"$10,933"
+742503808,Total current liabilities ($000s),2023,"$13,309"
+742503808,Total current liabilities ($000s),2022,"$11,711"
+742503808,Total current liabilities ($000s),2021,"$7,913"
+742503808,Total current liabilities ($000s),2020,"$6,162"
+742503808,Total current liabilities ($000s),2019,"$7,543"
+742503808,Total current liabilities ($000s),2018,"$6,701"
+742503808,Total current liabilities ($000s),2017,"$6,558"
+742503808,Total current liabilities ($000s),2016,"$7,094"
+742503808,Total current liabilities for previous year ($000s),2024,"$13,309"
+742503808,Total current liabilities for previous year ($000s),2023,"$11,711"
+742503808,Total current liabilities for previous year ($000s),2022,"$7,913"
+742503808,Total current liabilities for previous year ($000s),2021,"$6,162"
+742503808,Total current liabilities for previous year ($000s),2020,"$7,543"
+742503808,Total current liabilities for previous year ($000s),2019,"$6,701"
+742503808,Total current liabilities for previous year ($000s),2018,"$6,558"
+742503808,Total current liabilities for previous year ($000s),2017,"$7,094"
+742503808,Total current liabilities for previous year ($000s),2016,-
+742503808,Non-current liabilities,2024,
+742503808,Non-current liabilities,2023,
+742503808,Non-current liabilities,2022,
+742503808,Non-current liabilities,2021,
+742503808,Non-current liabilities,2020,-
+742503808,Non-current liabilities,2019,-
+742503808,Non-current liabilities,2018,-
+742503808,Non-current liabilities,2017,-
+742503808,Non-current liabilities,2016,-
+742503808,Total non-current interest-bearing loans and borrowings ($000s),2024,"$1,129"
+742503808,Total non-current interest-bearing loans and borrowings ($000s),2023,$841
+742503808,Total non-current interest-bearing loans and borrowings ($000s),2022,"$1,386"
+742503808,Total non-current interest-bearing loans and borrowings ($000s),2021,"$1,724"
+742503808,Total non-current interest-bearing loans and borrowings ($000s),2020,"$2,139"
+742503808,Total non-current interest-bearing loans and borrowings ($000s),2019,"$2,485"
+742503808,Total non-current interest-bearing loans and borrowings ($000s),2018,-
+742503808,Total non-current interest-bearing loans and borrowings ($000s),2017,-
+742503808,Total non-current interest-bearing loans and borrowings ($000s),2016,-
+742503808,Deferred tax liabilities ($000s),2024,
+742503808,Deferred tax liabilities ($000s),2023,
+742503808,Deferred tax liabilities ($000s),2022,
+742503808,Deferred tax liabilities ($000s),2021,
+742503808,Deferred tax liabilities ($000s),2020,-
+742503808,Deferred tax liabilities ($000s),2019,-
+742503808,Deferred tax liabilities ($000s),2018,-
+742503808,Deferred tax liabilities ($000s),2017,-
+742503808,Deferred tax liabilities ($000s),2016,-
+742503808,Convertible redeemable preference shares ($000s),2024,
+742503808,Convertible redeemable preference shares ($000s),2023,
+742503808,Convertible redeemable preference shares ($000s),2022,
+742503808,Convertible redeemable preference shares ($000s),2021,
+742503808,Convertible redeemable preference shares ($000s),2020,-
+742503808,Convertible redeemable preference shares ($000s),2019,-
+742503808,Convertible redeemable preference shares ($000s),2018,-
+742503808,Convertible redeemable preference shares ($000s),2017,-
+742503808,Convertible redeemable preference shares ($000s),2016,-
+742503808,Other non-current liabilities ($000s),2024,$0
+742503808,Other non-current liabilities ($000s),2023,$0
+742503808,Other non-current liabilities ($000s),2022,$0
+742503808,Other non-current liabilities ($000s),2021,$0
+742503808,Other non-current liabilities ($000s),2020,$0
+742503808,Other non-current liabilities ($000s),2019,$0
+742503808,Other non-current liabilities ($000s),2018,$0
+742503808,Other non-current liabilities ($000s),2017,$0
+742503808,Other non-current liabilities ($000s),2016,$0
+742503808,Total non-current liabilities ($000s),2024,"$1,186"
+742503808,Total non-current liabilities ($000s),2023,$908
+742503808,Total non-current liabilities ($000s),2022,"$1,473"
+742503808,Total non-current liabilities ($000s),2021,"$1,806"
+742503808,Total non-current liabilities ($000s),2020,"$2,225"
+742503808,Total non-current liabilities ($000s),2019,"$2,548"
+742503808,Total non-current liabilities ($000s),2018,$45
+742503808,Total non-current liabilities ($000s),2017,$59
+742503808,Total non-current liabilities ($000s),2016,-
+742503808,TOTAL LIABILITIES ($000s),2024,"$12,119"
+742503808,TOTAL LIABILITIES ($000s),2023,"$14,217"
+742503808,TOTAL LIABILITIES ($000s),2022,"$13,184"
+742503808,TOTAL LIABILITIES ($000s),2021,"$9,719"
+742503808,TOTAL LIABILITIES ($000s),2020,"$8,387"
+742503808,TOTAL LIABILITIES ($000s),2019,"$10,091"
+742503808,TOTAL LIABILITIES ($000s),2018,"$6,746"
+742503808,TOTAL LIABILITIES ($000s),2017,"$6,617"
+742503808,TOTAL LIABILITIES ($000s),2016,"$7,094"
+742503808,NET ASSETS ($000s),2024,"$10,351"
+742503808,NET ASSETS ($000s),2023,"$9,763"
+742503808,NET ASSETS ($000s),2022,"$9,252"
+742503808,NET ASSETS ($000s),2021,"$9,025"
+742503808,NET ASSETS ($000s),2020,"$8,998"
+742503808,NET ASSETS ($000s),2019,"$8,722"
+742503808,NET ASSETS ($000s),2018,"$8,331"
+742503808,NET ASSETS ($000s),2017,"$7,723"
+742503808,NET ASSETS ($000s),2016,"$3,371"
+742503808,Equity,2024,
+742503808,Equity,2023,
+742503808,Equity,2022,
+742503808,Equity,2021,
+742503808,Equity,2020,-
+742503808,Equity,2019,-
+742503808,Equity,2018,-
+742503808,Equity,2017,-
+742503808,Equity,2016,-
+742503808,Equity attributable to equity holders of the parent,2024,
+742503808,Equity attributable to equity holders of the parent,2023,
+742503808,Equity attributable to equity holders of the parent,2022,
+742503808,Equity attributable to equity holders of the parent,2021,
+742503808,Equity attributable to equity holders of the parent,2020,-
+742503808,Equity attributable to equity holders of the parent,2019,-
+742503808,Equity attributable to equity holders of the parent,2018,-
+742503808,Equity attributable to equity holders of the parent,2017,-
+742503808,Equity attributable to equity holders of the parent,2016,-
+742503808,Contributed equity ($000s),2024,"$6,150"
+742503808,Contributed equity ($000s),2023,"$6,150"
+742503808,Contributed equity ($000s),2022,"$6,150"
+742503808,Contributed equity ($000s),2021,"$6,150"
+742503808,Contributed equity ($000s),2020,"$6,150"
+742503808,Contributed equity ($000s),2019,"$6,150"
+742503808,Contributed equity ($000s),2018,"$6,150"
+742503808,Contributed equity ($000s),2017,"$6,150"
+742503808,Contributed equity ($000s),2016,"$6,150"
+742503808,Retained earnings ($000s),2024,"$4,201"
+742503808,Retained earnings ($000s),2023,"$3,613"
+742503808,Retained earnings ($000s),2022,"$3,102"
+742503808,Retained earnings ($000s),2021,"$2,875"
+742503808,Retained earnings ($000s),2020,"$2,848"
+742503808,Retained earnings ($000s),2019,"$2,573"
+742503808,Retained earnings ($000s),2018,"$2,181"
+742503808,Retained earnings ($000s),2017,"$1,574"
+742503808,Retained earnings ($000s),2016,"($2,779)"
+742503808,Reserves ($000s),2024,$0
+742503808,Reserves ($000s),2023,$0
+742503808,Reserves ($000s),2022,$0
+742503808,Reserves ($000s),2021,$0
+742503808,Reserves ($000s),2020,$0
+742503808,Reserves ($000s),2019,$0
+742503808,Reserves ($000s),2018,$0
+742503808,Reserves ($000s),2017,$0
+742503808,Reserves ($000s),2016,$0
+742503808,Total Parent interests ($000s),2024,"$10,351"
+742503808,Total Parent interests ($000s),2023,"$9,763"
+742503808,Total Parent interests ($000s),2022,"$9,252"
+742503808,Total Parent interests ($000s),2021,"$9,025"
+742503808,Total Parent interests ($000s),2020,"$8,998"
+742503808,Total Parent interests ($000s),2019,"$8,722"
+742503808,Total Parent interests ($000s),2018,"$8,331"
+742503808,Total Parent interests ($000s),2017,"$7,723"
+742503808,Total Parent interests ($000s),2016,"$3,371"
+742503808,Minority interests ($000s),2024,
+742503808,Minority interests ($000s),2023,
+742503808,Minority interests ($000s),2022,
+742503808,Minority interests ($000s),2021,
+742503808,Minority interests ($000s),2020,-
+742503808,Minority interests ($000s),2019,-
+742503808,Minority interests ($000s),2018,-
+742503808,Minority interests ($000s),2017,-
+742503808,Minority interests ($000s),2016,-
+742503808,TOTAL EQUITY ($000s),2024,"$10,351"
+742503808,TOTAL EQUITY ($000s),2023,"$9,763"
+742503808,TOTAL EQUITY ($000s),2022,"$9,252"
+742503808,TOTAL EQUITY ($000s),2021,"$9,025"
+742503808,TOTAL EQUITY ($000s),2020,"$8,998"
+742503808,TOTAL EQUITY ($000s),2019,"$8,722"
+742503808,TOTAL EQUITY ($000s),2018,"$8,331"
+742503808,TOTAL EQUITY ($000s),2017,"$7,723"
+742503808,TOTAL EQUITY ($000s),2016,"$3,371"
+742503808,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2024,"$9,763"
+742503808,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2023,"$9,252"
+742503808,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2022,"$9,025"
+742503808,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2021,"$8,998"
+742503808,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2020,"$8,722"
+742503808,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2019,"$8,331"
+742503808,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2018,"$7,723"
+742503808,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2017,"$3,371"
+742503808,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2016,-

@@ -1,0 +1,301 @@
+duns,line_item,year,value
+740039581,Cash flow statement,2024,
+740039581,Cash flow statement,2023,
+740039581,Cash flow statement,2022,
+740039581,Cash flow statement,2021,
+740039581,Cash flow statement,2020,-
+740039581,Cash flow statement,2019,-
+740039581,Cash flow statement,2018,-
+740039581,Cash flow statement,2017,-
+740039581,Cash flow statement,2016,-
+740039581,Cash flow statement,2015,-
+740039581,Receipts from customers ($000s),2024,"$42,723"
+740039581,Receipts from customers ($000s),2023,"$47,589"
+740039581,Receipts from customers ($000s),2022,"$42,749"
+740039581,Receipts from customers ($000s),2021,"$40,402"
+740039581,Receipts from customers ($000s),2020,"$32,741"
+740039581,Receipts from customers ($000s),2019,"$32,741"
+740039581,Receipts from customers ($000s),2018,"$29,938"
+740039581,Receipts from customers ($000s),2017,"$29,428"
+740039581,Receipts from customers ($000s),2016,"$29,489"
+740039581,Receipts from customers ($000s),2015,"$20,906"
+740039581,Payments to suppliers and employees ($000s),2024,"($34,984)"
+740039581,Payments to suppliers and employees ($000s),2023,"($36,456)"
+740039581,Payments to suppliers and employees ($000s),2022,"($32,105)"
+740039581,Payments to suppliers and employees ($000s),2021,"($25,867)"
+740039581,Payments to suppliers and employees ($000s),2020,"($25,593)"
+740039581,Payments to suppliers and employees ($000s),2019,"($26,844)"
+740039581,Payments to suppliers and employees ($000s),2018,"($23,380)"
+740039581,Payments to suppliers and employees ($000s),2017,"($22,502)"
+740039581,Payments to suppliers and employees ($000s),2016,"($20,738)"
+740039581,Payments to suppliers and employees ($000s),2015,"($14,137)"
+740039581,Interest paid ($000s),2024,($60)
+740039581,Interest paid ($000s),2023,($101)
+740039581,Interest paid ($000s),2022,($68)
+740039581,Interest paid ($000s),2021,($101)
+740039581,Interest paid ($000s),2020,($44)
+740039581,Interest paid ($000s),2019,($14)
+740039581,Interest paid ($000s),2018,($15)
+740039581,Interest paid ($000s),2017,($17)
+740039581,Interest paid ($000s),2016,($14)
+740039581,Interest paid ($000s),2015,($21)
+740039581,Tax paid ($000s),2024,"($1,067)"
+740039581,Tax paid ($000s),2023,"($2,439)"
+740039581,Tax paid ($000s),2022,"($3,199)"
+740039581,Tax paid ($000s),2021,"($2,282)"
+740039581,Tax paid ($000s),2020,($961)
+740039581,Tax paid ($000s),2019,"($1,852)"
+740039581,Tax paid ($000s),2018,"($1,953)"
+740039581,Tax paid ($000s),2017,"($2,667)"
+740039581,Tax paid ($000s),2016,"($1,669)"
+740039581,Tax paid ($000s),2015,"($1,142)"
+740039581,Other receipts ($000s),2024,$0
+740039581,Other receipts ($000s),2023,$0
+740039581,Other receipts ($000s),2022,$0
+740039581,Other receipts ($000s),2021,$0
+740039581,Other receipts ($000s),2020,$0
+740039581,Other receipts ($000s),2019,$0
+740039581,Other receipts ($000s),2018,$0
+740039581,Other receipts ($000s),2017,$0
+740039581,Other receipts ($000s),2016,$0
+740039581,Other receipts ($000s),2015,$0
+740039581,Other payments ($000s),2024,$0
+740039581,Other payments ($000s),2023,$0
+740039581,Other payments ($000s),2022,$0
+740039581,Other payments ($000s),2021,$0
+740039581,Other payments ($000s),2020,$0
+740039581,Other payments ($000s),2019,$0
+740039581,Other payments ($000s),2018,$0
+740039581,Other payments ($000s),2017,$0
+740039581,Other payments ($000s),2016,$0
+740039581,Other payments ($000s),2015,$0
+740039581,Net cashflow from/(used in) operating activities ($000s),2024,"$6,612"
+740039581,Net cashflow from/(used in) operating activities ($000s),2023,"$8,593"
+740039581,Net cashflow from/(used in) operating activities ($000s),2022,"$7,376"
+740039581,Net cashflow from/(used in) operating activities ($000s),2021,"$12,151"
+740039581,Net cashflow from/(used in) operating activities ($000s),2020,"$6,143"
+740039581,Net cashflow from/(used in) operating activities ($000s),2019,"$4,030"
+740039581,Net cashflow from/(used in) operating activities ($000s),2018,"$4,590"
+740039581,Net cashflow from/(used in) operating activities ($000s),2017,"$4,242"
+740039581,Net cashflow from/(used in) operating activities ($000s),2016,"$7,067"
+740039581,Net cashflow from/(used in) operating activities ($000s),2015,"$5,605"
+740039581,Purchase of property plant and equipment ($000s),2024,($390)
+740039581,Purchase of property plant and equipment ($000s),2023,($265)
+740039581,Purchase of property plant and equipment ($000s),2022,($523)
+740039581,Purchase of property plant and equipment ($000s),2021,($277)
+740039581,Purchase of property plant and equipment ($000s),2020,($180)
+740039581,Purchase of property plant and equipment ($000s),2019,($268)
+740039581,Purchase of property plant and equipment ($000s),2018,($693)
+740039581,Purchase of property plant and equipment ($000s),2017,($217)
+740039581,Purchase of property plant and equipment ($000s),2016,($370)
+740039581,Purchase of property plant and equipment ($000s),2015,"($1,358)"
+740039581,Purchase of intangibles ($000s),2024,
+740039581,Purchase of intangibles ($000s),2023,
+740039581,Purchase of intangibles ($000s),2022,
+740039581,Purchase of intangibles ($000s),2021,
+740039581,Purchase of intangibles ($000s),2020,-
+740039581,Purchase of intangibles ($000s),2019,-
+740039581,Purchase of intangibles ($000s),2018,-
+740039581,Purchase of intangibles ($000s),2017,-
+740039581,Purchase of intangibles ($000s),2016,-
+740039581,Purchase of intangibles ($000s),2015,-
+740039581,Proceeds from the sale of property plant and equipment ($000s),2024,"$1,251"
+740039581,Proceeds from the sale of property plant and equipment ($000s),2023,$0
+740039581,Proceeds from the sale of property plant and equipment ($000s),2022,$0
+740039581,Proceeds from the sale of property plant and equipment ($000s),2021,$0
+740039581,Proceeds from the sale of property plant and equipment ($000s),2020,$4
+740039581,Proceeds from the sale of property plant and equipment ($000s),2019,$14
+740039581,Proceeds from the sale of property plant and equipment ($000s),2018,$34
+740039581,Proceeds from the sale of property plant and equipment ($000s),2017,$89
+740039581,Proceeds from the sale of property plant and equipment ($000s),2016,$10
+740039581,Proceeds from the sale of property plant and equipment ($000s),2015,$0
+740039581,Proceeds from the disposal of investments/subsidiaries ($000s),2024,$0
+740039581,Proceeds from the disposal of investments/subsidiaries ($000s),2023,$0
+740039581,Proceeds from the disposal of investments/subsidiaries ($000s),2022,$0
+740039581,Proceeds from the disposal of investments/subsidiaries ($000s),2021,$0
+740039581,Proceeds from the disposal of investments/subsidiaries ($000s),2020,$0
+740039581,Proceeds from the disposal of investments/subsidiaries ($000s),2019,$0
+740039581,Proceeds from the disposal of investments/subsidiaries ($000s),2018,$0
+740039581,Proceeds from the disposal of investments/subsidiaries ($000s),2017,$0
+740039581,Proceeds from the disposal of investments/subsidiaries ($000s),2016,$0
+740039581,Proceeds from the disposal of investments/subsidiaries ($000s),2015,$0
+740039581,Purchase of subisidiary/investment ($000s),2024,$0
+740039581,Purchase of subisidiary/investment ($000s),2023,$0
+740039581,Purchase of subisidiary/investment ($000s),2022,$0
+740039581,Purchase of subisidiary/investment ($000s),2021,$0
+740039581,Purchase of subisidiary/investment ($000s),2020,$0
+740039581,Purchase of subisidiary/investment ($000s),2019,$0
+740039581,Purchase of subisidiary/investment ($000s),2018,$0
+740039581,Purchase of subisidiary/investment ($000s),2017,$0
+740039581,Purchase of subisidiary/investment ($000s),2016,$0
+740039581,Purchase of subisidiary/investment ($000s),2015,$0
+740039581,Interest received ($000s),2024,$590
+740039581,Interest received ($000s),2023,-
+740039581,Interest received ($000s),2022,$29
+740039581,Interest received ($000s),2021,$37
+740039581,Interest received ($000s),2020,$65
+740039581,Interest received ($000s),2019,$87
+740039581,Interest received ($000s),2018,$104
+740039581,Interest received ($000s),2017,$128
+740039581,Interest received ($000s),2016,-
+740039581,Interest received ($000s),2015,-
+740039581,Dividends received ($000s),2024,-
+740039581,Dividends received ($000s),2023,-
+740039581,Dividends received ($000s),2022,$0
+740039581,Dividends received ($000s),2021,$0
+740039581,Dividends received ($000s),2020,$1
+740039581,Dividends received ($000s),2019,$1
+740039581,Dividends received ($000s),2018,$0
+740039581,Dividends received ($000s),2017,-
+740039581,Dividends received ($000s),2016,-
+740039581,Dividends received ($000s),2015,-
+740039581,Other investing inflows/(outflows) ($000s),2024,"($4,835)"
+740039581,Other investing inflows/(outflows) ($000s),2023,$177
+740039581,Other investing inflows/(outflows) ($000s),2022,"($1,077)"
+740039581,Other investing inflows/(outflows) ($000s),2021,($420)
+740039581,Other investing inflows/(outflows) ($000s),2020,$0
+740039581,Other investing inflows/(outflows) ($000s),2019,$0
+740039581,Other investing inflows/(outflows) ($000s),2018,$0
+740039581,Other investing inflows/(outflows) ($000s),2017,($21)
+740039581,Other investing inflows/(outflows) ($000s),2016,$98
+740039581,Other investing inflows/(outflows) ($000s),2015,($650)
+740039581,Net cashflow from/(used in) investing activities ($000s),2024,"($3,384)"
+740039581,Net cashflow from/(used in) investing activities ($000s),2023,($88)
+740039581,Net cashflow from/(used in) investing activities ($000s),2022,"($1,571)"
+740039581,Net cashflow from/(used in) investing activities ($000s),2021,($660)
+740039581,Net cashflow from/(used in) investing activities ($000s),2020,($111)
+740039581,Net cashflow from/(used in) investing activities ($000s),2019,($167)
+740039581,Net cashflow from/(used in) investing activities ($000s),2018,($554)
+740039581,Net cashflow from/(used in) investing activities ($000s),2017,($21)
+740039581,Net cashflow from/(used in) investing activities ($000s),2016,($261)
+740039581,Net cashflow from/(used in) investing activities ($000s),2015,"($2,008)"
+740039581,Proceeds from the issue of shares ($000s),2024,$0
+740039581,Proceeds from the issue of shares ($000s),2023,$0
+740039581,Proceeds from the issue of shares ($000s),2022,$0
+740039581,Proceeds from the issue of shares ($000s),2021,$0
+740039581,Proceeds from the issue of shares ($000s),2020,$0
+740039581,Proceeds from the issue of shares ($000s),2019,$0
+740039581,Proceeds from the issue of shares ($000s),2018,$0
+740039581,Proceeds from the issue of shares ($000s),2017,$0
+740039581,Proceeds from the issue of shares ($000s),2016,$0
+740039581,Proceeds from the issue of shares ($000s),2015,$0
+740039581,Proceeds from borrowings ($000s),2024,$0
+740039581,Proceeds from borrowings ($000s),2023,$0
+740039581,Proceeds from borrowings ($000s),2022,$0
+740039581,Proceeds from borrowings ($000s),2021,$0
+740039581,Proceeds from borrowings ($000s),2020,$0
+740039581,Proceeds from borrowings ($000s),2019,$0
+740039581,Proceeds from borrowings ($000s),2018,$86
+740039581,Proceeds from borrowings ($000s),2017,$0
+740039581,Proceeds from borrowings ($000s),2016,$0
+740039581,Proceeds from borrowings ($000s),2015,$0
+740039581,Repayment of borrowings  ($000s),2024,-
+740039581,Repayment of borrowings  ($000s),2023,-
+740039581,Repayment of borrowings  ($000s),2022,-
+740039581,Repayment of borrowings  ($000s),2021,-
+740039581,Repayment of borrowings  ($000s),2020,-
+740039581,Repayment of borrowings  ($000s),2019,($26)
+740039581,Repayment of borrowings  ($000s),2018,-
+740039581,Repayment of borrowings  ($000s),2017,($30)
+740039581,Repayment of borrowings  ($000s),2016,($28)
+740039581,Repayment of borrowings  ($000s),2015,($26)
+740039581,Repayment of finance lease liabilities ($000s),2024,"($1,018)"
+740039581,Repayment of finance lease liabilities ($000s),2023,"($1,121)"
+740039581,Repayment of finance lease liabilities ($000s),2022,"($1,138)"
+740039581,Repayment of finance lease liabilities ($000s),2021,"($1,022)"
+740039581,Repayment of finance lease liabilities ($000s),2020,($476)
+740039581,Repayment of finance lease liabilities ($000s),2019,-
+740039581,Repayment of finance lease liabilities ($000s),2018,-
+740039581,Repayment of finance lease liabilities ($000s),2017,-
+740039581,Repayment of finance lease liabilities ($000s),2016,-
+740039581,Repayment of finance lease liabilities ($000s),2015,-
+740039581,Interest Paid ($000s),2024,
+740039581,Interest Paid ($000s),2023,
+740039581,Interest Paid ($000s),2022,
+740039581,Interest Paid ($000s),2021,
+740039581,Interest Paid ($000s),2020,-
+740039581,Interest Paid ($000s),2019,-
+740039581,Interest Paid ($000s),2018,-
+740039581,Interest Paid ($000s),2017,-
+740039581,Interest Paid ($000s),2016,-
+740039581,Interest Paid ($000s),2015,-
+740039581,Dividends paid ($000s),2024,"($1,067)"
+740039581,Dividends paid ($000s),2023,"($1,923)"
+740039581,Dividends paid ($000s),2022,"($1,276)"
+740039581,Dividends paid ($000s),2021,"($2,662)"
+740039581,Dividends paid ($000s),2020,"($1,557)"
+740039581,Dividends paid ($000s),2019,"($2,017)"
+740039581,Dividends paid ($000s),2018,"($2,776)"
+740039581,Dividends paid ($000s),2017,"($3,551)"
+740039581,Dividends paid ($000s),2016,"($1,676)"
+740039581,Dividends paid ($000s),2015,"($2,634)"
+740039581,Other inflows/(outflows) from financing activities ($000s),2024,$0
+740039581,Other inflows/(outflows) from financing activities ($000s),2023,$0
+740039581,Other inflows/(outflows) from financing activities ($000s),2022,$0
+740039581,Other inflows/(outflows) from financing activities ($000s),2021,$0
+740039581,Other inflows/(outflows) from financing activities ($000s),2020,$0
+740039581,Other inflows/(outflows) from financing activities ($000s),2019,$0
+740039581,Other inflows/(outflows) from financing activities ($000s),2018,$0
+740039581,Other inflows/(outflows) from financing activities ($000s),2017,$0
+740039581,Other inflows/(outflows) from financing activities ($000s),2016,$0
+740039581,Other inflows/(outflows) from financing activities ($000s),2015,$0
+740039581,Net cash flows from/(used in) financing activities ($000s),2024,"($2,085)"
+740039581,Net cash flows from/(used in) financing activities ($000s),2023,"($3,044)"
+740039581,Net cash flows from/(used in) financing activities ($000s),2022,"($2,414)"
+740039581,Net cash flows from/(used in) financing activities ($000s),2021,"($3,684)"
+740039581,Net cash flows from/(used in) financing activities ($000s),2020,"($2,033)"
+740039581,Net cash flows from/(used in) financing activities ($000s),2019,"($2,043)"
+740039581,Net cash flows from/(used in) financing activities ($000s),2018,"($2,690)"
+740039581,Net cash flows from/(used in) financing activities ($000s),2017,"($3,581)"
+740039581,Net cash flows from/(used in) financing activities ($000s),2016,"($1,704)"
+740039581,Net cash flows from/(used in) financing activities ($000s),2015,"($2,661)"
+740039581,Net increase/(decrease) in cash and cash equivalents ($000s),2024,"$1,143"
+740039581,Net increase/(decrease) in cash and cash equivalents ($000s),2023,"$5,461"
+740039581,Net increase/(decrease) in cash and cash equivalents ($000s),2022,"$3,391"
+740039581,Net increase/(decrease) in cash and cash equivalents ($000s),2021,"$7,807"
+740039581,Net increase/(decrease) in cash and cash equivalents ($000s),2020,"$3,999"
+740039581,Net increase/(decrease) in cash and cash equivalents ($000s),2019,"$1,820"
+740039581,Net increase/(decrease) in cash and cash equivalents ($000s),2018,"$1,346"
+740039581,Net increase/(decrease) in cash and cash equivalents ($000s),2017,$640
+740039581,Net increase/(decrease) in cash and cash equivalents ($000s),2016,"$5,102"
+740039581,Net increase/(decrease) in cash and cash equivalents ($000s),2015,$936
+740039581,Other increase/(decrease) in cash and cash equivalents ($000s),2024,
+740039581,Other increase/(decrease) in cash and cash equivalents ($000s),2023,
+740039581,Other increase/(decrease) in cash and cash equivalents ($000s),2022,
+740039581,Other increase/(decrease) in cash and cash equivalents ($000s),2021,
+740039581,Other increase/(decrease) in cash and cash equivalents ($000s),2020,-
+740039581,Other increase/(decrease) in cash and cash equivalents ($000s),2019,-
+740039581,Other increase/(decrease) in cash and cash equivalents ($000s),2018,-
+740039581,Other increase/(decrease) in cash and cash equivalents ($000s),2017,-
+740039581,Other increase/(decrease) in cash and cash equivalents ($000s),2016,-
+740039581,Other increase/(decrease) in cash and cash equivalents ($000s),2015,-
+740039581,Net foreign exchange differences ($000s),2024,
+740039581,Net foreign exchange differences ($000s),2023,
+740039581,Net foreign exchange differences ($000s),2022,
+740039581,Net foreign exchange differences ($000s),2021,
+740039581,Net foreign exchange differences ($000s),2020,-
+740039581,Net foreign exchange differences ($000s),2019,-
+740039581,Net foreign exchange differences ($000s),2018,-
+740039581,Net foreign exchange differences ($000s),2017,-
+740039581,Net foreign exchange differences ($000s),2016,-
+740039581,Net foreign exchange differences ($000s),2015,-
+740039581,Cash and cash equivalents at the beginning of the period ($000s),2024,"$34,104"
+740039581,Cash and cash equivalents at the beginning of the period ($000s),2023,"$29,924"
+740039581,Cash and cash equivalents at the beginning of the period ($000s),2022,"$26,533"
+740039581,Cash and cash equivalents at the beginning of the period ($000s),2021,"$18,726"
+740039581,Cash and cash equivalents at the beginning of the period ($000s),2020,"$14,830"
+740039581,Cash and cash equivalents at the beginning of the period ($000s),2019,"$13,010"
+740039581,Cash and cash equivalents at the beginning of the period ($000s),2018,"$11,664"
+740039581,Cash and cash equivalents at the beginning of the period ($000s),2017,"$11,024"
+740039581,Cash and cash equivalents at the beginning of the period ($000s),2016,"$5,922"
+740039581,Cash and cash equivalents at the beginning of the period ($000s),2015,"$4,986"
+740039581,Cash and cash equivalents at the end of the period ($000s),2024,"$35,247"
+740039581,Cash and cash equivalents at the end of the period ($000s),2023,"$35,385"
+740039581,Cash and cash equivalents at the end of the period ($000s),2022,"$29,924"
+740039581,Cash and cash equivalents at the end of the period ($000s),2021,"$26,533"
+740039581,Cash and cash equivalents at the end of the period ($000s),2020,"$18,829"
+740039581,Cash and cash equivalents at the end of the period ($000s),2019,"$14,830"
+740039581,Cash and cash equivalents at the end of the period ($000s),2018,"$13,010"
+740039581,Cash and cash equivalents at the end of the period ($000s),2017,"$11,664"
+740039581,Cash and cash equivalents at the end of the period ($000s),2016,"$11,024"
+740039581,Cash and cash equivalents at the end of the period ($000s),2015,"$5,922"

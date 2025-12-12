@@ -1,0 +1,601 @@
+duns,line_item,year,value
+746031124,Current Assets,2023,
+746031124,Current Assets,2022,
+746031124,Current Assets,2021,
+746031124,Current Assets,2020,
+746031124,Current Assets,2019,-
+746031124,Current Assets,2018,-
+746031124,Current Assets,2017,-
+746031124,Current Assets,2016,-
+746031124,Current Assets,2015,-
+746031124,Current Assets,2014,-
+746031124,Cash and cash equivalents ($000s),2023,"$3,770"
+746031124,Cash and cash equivalents ($000s),2022,"$2,673"
+746031124,Cash and cash equivalents ($000s),2021,$482
+746031124,Cash and cash equivalents ($000s),2020,"$2,068"
+746031124,Cash and cash equivalents ($000s),2019,"$2,006"
+746031124,Cash and cash equivalents ($000s),2018,$961
+746031124,Cash and cash equivalents ($000s),2017,$857
+746031124,Cash and cash equivalents ($000s),2016,"$3,241"
+746031124,Cash and cash equivalents ($000s),2015,$755
+746031124,Cash and cash equivalents ($000s),2014,"$1,788"
+746031124,Growth,2023,41.04%
+746031124,Growth,2022,454.56%
+746031124,Growth,2021,(76.69%)
+746031124,Growth,2020,3.09%
+746031124,Growth,2019,108.74%
+746031124,Growth,2018,12.14%
+746031124,Growth,2017,(73.56%)
+746031124,Growth,2016,329.27%
+746031124,Growth,2015,(57.77%)
+746031124,Growth,2014,-
+746031124,Trade receivables ($000s),2023,"$7,779"
+746031124,Trade receivables ($000s),2022,"$7,502"
+746031124,Trade receivables ($000s),2021,"$11,439"
+746031124,Trade receivables ($000s),2020,"$5,907"
+746031124,Trade receivables ($000s),2019,"$4,964"
+746031124,Trade receivables ($000s),2018,"$7,517"
+746031124,Trade receivables ($000s),2017,"$6,866"
+746031124,Trade receivables ($000s),2016,"$5,170"
+746031124,Trade receivables ($000s),2015,"$9,022"
+746031124,Trade receivables ($000s),2014,"$4,759"
+746031124,Other receivables ($000s),2023,-
+746031124,Other receivables ($000s),2022,-
+746031124,Other receivables ($000s),2021,-
+746031124,Other receivables ($000s),2020,-
+746031124,Other receivables ($000s),2019,-
+746031124,Other receivables ($000s),2018,$1
+746031124,Other receivables ($000s),2017,$3
+746031124,Other receivables ($000s),2016,$6
+746031124,Other receivables ($000s),2015,$7
+746031124,Other receivables ($000s),2014,$6
+746031124,Raw materials ($000s),2023,"$2,831"
+746031124,Raw materials ($000s),2022,"$4,290"
+746031124,Raw materials ($000s),2021,"$3,794"
+746031124,Raw materials ($000s),2020,"$2,734"
+746031124,Raw materials ($000s),2019,"$2,575"
+746031124,Raw materials ($000s),2018,"$2,567"
+746031124,Raw materials ($000s),2017,"$1,644"
+746031124,Raw materials ($000s),2016,"$1,788"
+746031124,Raw materials ($000s),2015,"$1,548"
+746031124,Raw materials ($000s),2014,"$2,317"
+746031124,Work-in-progress ($000s),2023,-
+746031124,Work-in-progress ($000s),2022,-
+746031124,Work-in-progress ($000s),2021,-
+746031124,Work-in-progress ($000s),2020,"$1,536"
+746031124,Work-in-progress ($000s),2019,-
+746031124,Work-in-progress ($000s),2018,-
+746031124,Work-in-progress ($000s),2017,-
+746031124,Work-in-progress ($000s),2016,-
+746031124,Work-in-progress ($000s),2015,-
+746031124,Work-in-progress ($000s),2014,-
+746031124,Finished goods ($000s),2023,"$1,716"
+746031124,Finished goods ($000s),2022,"$1,315"
+746031124,Finished goods ($000s),2021,"$1,416"
+746031124,Finished goods ($000s),2020,$236
+746031124,Finished goods ($000s),2019,"$2,693"
+746031124,Finished goods ($000s),2018,"$2,387"
+746031124,Finished goods ($000s),2017,"$2,050"
+746031124,Finished goods ($000s),2016,"$3,413"
+746031124,Finished goods ($000s),2015,"$4,198"
+746031124,Finished goods ($000s),2014,"$2,359"
+746031124,Total inventories ($000s),2023,"$4,546"
+746031124,Total inventories ($000s),2022,"$5,604"
+746031124,Total inventories ($000s),2021,"$5,210"
+746031124,Total inventories ($000s),2020,"$4,506"
+746031124,Total inventories ($000s),2019,"$5,268"
+746031124,Total inventories ($000s),2018,"$4,954"
+746031124,Total inventories ($000s),2017,"$3,694"
+746031124,Total inventories ($000s),2016,"$5,201"
+746031124,Total inventories ($000s),2015,"$5,746"
+746031124,Total inventories ($000s),2014,"$4,675"
+746031124,Prepayments ($000s),2023,$17
+746031124,Prepayments ($000s),2022,$15
+746031124,Prepayments ($000s),2021,$51
+746031124,Prepayments ($000s),2020,$36
+746031124,Prepayments ($000s),2019,$20
+746031124,Prepayments ($000s),2018,$21
+746031124,Prepayments ($000s),2017,$19
+746031124,Prepayments ($000s),2016,$26
+746031124,Prepayments ($000s),2015,$118
+746031124,Prepayments ($000s),2014,$121
+746031124,Derivative financial instruments ($000s),2023,
+746031124,Derivative financial instruments ($000s),2022,
+746031124,Derivative financial instruments ($000s),2021,
+746031124,Derivative financial instruments ($000s),2020,
+746031124,Derivative financial instruments ($000s),2019,-
+746031124,Derivative financial instruments ($000s),2018,-
+746031124,Derivative financial instruments ($000s),2017,-
+746031124,Derivative financial instruments ($000s),2016,-
+746031124,Derivative financial instruments ($000s),2015,-
+746031124,Derivative financial instruments ($000s),2014,-
+746031124,Other current assets ($000s),2023,$0
+746031124,Other current assets ($000s),2022,$0
+746031124,Other current assets ($000s),2021,$0
+746031124,Other current assets ($000s),2020,$0
+746031124,Other current assets ($000s),2019,$0
+746031124,Other current assets ($000s),2018,$0
+746031124,Other current assets ($000s),2017,$271
+746031124,Other current assets ($000s),2016,$0
+746031124,Other current assets ($000s),2015,$0
+746031124,Other current assets ($000s),2014,$0
+746031124,Total current assets for continuing operations ($000s),2023,"$16,112"
+746031124,Total current assets for continuing operations ($000s),2022,"$15,795"
+746031124,Total current assets for continuing operations ($000s),2021,"$17,182"
+746031124,Total current assets for continuing operations ($000s),2020,"$12,516"
+746031124,Total current assets for continuing operations ($000s),2019,"$12,259"
+746031124,Total current assets for continuing operations ($000s),2018,"$13,454"
+746031124,Total current assets for continuing operations ($000s),2017,"$11,710"
+746031124,Total current assets for continuing operations ($000s),2016,"$13,644"
+746031124,Total current assets for continuing operations ($000s),2015,"$15,648"
+746031124,Total current assets for continuing operations ($000s),2014,"$11,349"
+746031124,Assets held for sale ($000s),2023,
+746031124,Assets held for sale ($000s),2022,
+746031124,Assets held for sale ($000s),2021,
+746031124,Assets held for sale ($000s),2020,
+746031124,Assets held for sale ($000s),2019,-
+746031124,Assets held for sale ($000s),2018,-
+746031124,Assets held for sale ($000s),2017,-
+746031124,Assets held for sale ($000s),2016,-
+746031124,Assets held for sale ($000s),2015,-
+746031124,Assets held for sale ($000s),2014,-
+746031124,Total current assets ($000s),2023,"$16,112"
+746031124,Total current assets ($000s),2022,"$15,795"
+746031124,Total current assets ($000s),2021,"$17,182"
+746031124,Total current assets ($000s),2020,"$12,516"
+746031124,Total current assets ($000s),2019,"$12,259"
+746031124,Total current assets ($000s),2018,"$13,454"
+746031124,Total current assets ($000s),2017,"$11,710"
+746031124,Total current assets ($000s),2016,"$13,644"
+746031124,Total current assets ($000s),2015,"$15,648"
+746031124,Total current assets ($000s),2014,"$11,349"
+746031124,Non-current assets,2023,
+746031124,Non-current assets,2022,
+746031124,Non-current assets,2021,
+746031124,Non-current assets,2020,
+746031124,Non-current assets,2019,-
+746031124,Non-current assets,2018,-
+746031124,Non-current assets,2017,-
+746031124,Non-current assets,2016,-
+746031124,Non-current assets,2015,-
+746031124,Non-current assets,2014,-
+746031124,Receivables ($000s),2023,
+746031124,Receivables ($000s),2022,
+746031124,Receivables ($000s),2021,
+746031124,Receivables ($000s),2020,
+746031124,Receivables ($000s),2019,-
+746031124,Receivables ($000s),2018,-
+746031124,Receivables ($000s),2017,-
+746031124,Receivables ($000s),2016,-
+746031124,Receivables ($000s),2015,-
+746031124,Receivables ($000s),2014,-
+746031124,Investments in associates ($000s),2023,$0
+746031124,Investments in associates ($000s),2022,$0
+746031124,Investments in associates ($000s),2021,$0
+746031124,Investments in associates ($000s),2020,$0
+746031124,Investments in associates ($000s),2019,$0
+746031124,Investments in associates ($000s),2018,$0
+746031124,Investments in associates ($000s),2017,$0
+746031124,Investments in associates ($000s),2016,$0
+746031124,Investments in associates ($000s),2015,$0
+746031124,Investments in associates ($000s),2014,$0
+746031124,Investments in subsidiaries ($000s),2023,
+746031124,Investments in subsidiaries ($000s),2022,
+746031124,Investments in subsidiaries ($000s),2021,
+746031124,Investments in subsidiaries ($000s),2020,
+746031124,Investments in subsidiaries ($000s),2019,-
+746031124,Investments in subsidiaries ($000s),2018,-
+746031124,Investments in subsidiaries ($000s),2017,-
+746031124,Investments in subsidiaries ($000s),2016,-
+746031124,Investments in subsidiaries ($000s),2015,-
+746031124,Investments in subsidiaries ($000s),2014,-
+746031124,Available for sale financial assets ($000s),2023,$0
+746031124,Available for sale financial assets ($000s),2022,$0
+746031124,Available for sale financial assets ($000s),2021,$0
+746031124,Available for sale financial assets ($000s),2020,$0
+746031124,Available for sale financial assets ($000s),2019,$0
+746031124,Available for sale financial assets ($000s),2018,$0
+746031124,Available for sale financial assets ($000s),2017,$0
+746031124,Available for sale financial assets ($000s),2016,$0
+746031124,Available for sale financial assets ($000s),2015,$0
+746031124,Available for sale financial assets ($000s),2014,$0
+746031124,"Property, plant and equipment ($000s)",2023,$815
+746031124,"Property, plant and equipment ($000s)",2022,$869
+746031124,"Property, plant and equipment ($000s)",2021,$975
+746031124,"Property, plant and equipment ($000s)",2020,"$1,096"
+746031124,"Property, plant and equipment ($000s)",2019,"$1,227"
+746031124,"Property, plant and equipment ($000s)",2018,"$1,298"
+746031124,"Property, plant and equipment ($000s)",2017,"$1,372"
+746031124,"Property, plant and equipment ($000s)",2016,"$1,472"
+746031124,"Property, plant and equipment ($000s)",2015,"$1,602"
+746031124,"Property, plant and equipment ($000s)",2014,"$1,640"
+746031124,Intangible assets and goodwill ($000s),2023,$0
+746031124,Intangible assets and goodwill ($000s),2022,$0
+746031124,Intangible assets and goodwill ($000s),2021,$0
+746031124,Intangible assets and goodwill ($000s),2020,$0
+746031124,Intangible assets and goodwill ($000s),2019,$0
+746031124,Intangible assets and goodwill ($000s),2018,$0
+746031124,Intangible assets and goodwill ($000s),2017,$0
+746031124,Intangible assets and goodwill ($000s),2016,$0
+746031124,Intangible assets and goodwill ($000s),2015,$0
+746031124,Intangible assets and goodwill ($000s),2014,$0
+746031124,Deferred tax assets ($000s),2023,$926
+746031124,Deferred tax assets ($000s),2022,$976
+746031124,Deferred tax assets ($000s),2021,$923
+746031124,Deferred tax assets ($000s),2020,$887
+746031124,Deferred tax assets ($000s),2019,$939
+746031124,Deferred tax assets ($000s),2018,"$1,059"
+746031124,Deferred tax assets ($000s),2017,"$1,115"
+746031124,Deferred tax assets ($000s),2016,"$1,179"
+746031124,Deferred tax assets ($000s),2015,"$1,221"
+746031124,Deferred tax assets ($000s),2014,"$1,345"
+746031124,Other non-current assets ($000s),2023,$0
+746031124,Other non-current assets ($000s),2022,$0
+746031124,Other non-current assets ($000s),2021,$9
+746031124,Other non-current assets ($000s),2020,$9
+746031124,Other non-current assets ($000s),2019,$9
+746031124,Other non-current assets ($000s),2018,$39
+746031124,Other non-current assets ($000s),2017,$30
+746031124,Other non-current assets ($000s),2016,$30
+746031124,Other non-current assets ($000s),2015,$30
+746031124,Other non-current assets ($000s),2014,$30
+746031124,Total non-current assets ($000s),2023,"$1,741"
+746031124,Total non-current assets ($000s),2022,"$1,845"
+746031124,Total non-current assets ($000s),2021,"$1,908"
+746031124,Total non-current assets ($000s),2020,"$1,992"
+746031124,Total non-current assets ($000s),2019,"$2,175"
+746031124,Total non-current assets ($000s),2018,"$2,396"
+746031124,Total non-current assets ($000s),2017,"$2,517"
+746031124,Total non-current assets ($000s),2016,"$2,680"
+746031124,Total non-current assets ($000s),2015,"$2,853"
+746031124,Total non-current assets ($000s),2014,"$3,015"
+746031124,TOTAL ASSETS ($000s),2023,"$17,853"
+746031124,TOTAL ASSETS ($000s),2022,"$17,639"
+746031124,TOTAL ASSETS ($000s),2021,"$19,089"
+746031124,TOTAL ASSETS ($000s),2020,"$14,508"
+746031124,TOTAL ASSETS ($000s),2019,"$14,434"
+746031124,TOTAL ASSETS ($000s),2018,"$15,850"
+746031124,TOTAL ASSETS ($000s),2017,"$14,227"
+746031124,TOTAL ASSETS ($000s),2016,"$16,324"
+746031124,TOTAL ASSETS ($000s),2015,"$18,501"
+746031124,TOTAL ASSETS ($000s),2014,"$14,364"
+746031124,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2023,"$17,639"
+746031124,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2022,"$19,089"
+746031124,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2021,"$14,508"
+746031124,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2020,"$14,434"
+746031124,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2019,"$15,850"
+746031124,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2018,"$14,227"
+746031124,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2017,"$16,324"
+746031124,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2016,"$18,501"
+746031124,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2015,"$14,364"
+746031124,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2014,"$15,318"
+746031124,Current liabilities,2023,
+746031124,Current liabilities,2022,
+746031124,Current liabilities,2021,
+746031124,Current liabilities,2020,
+746031124,Current liabilities,2019,-
+746031124,Current liabilities,2018,-
+746031124,Current liabilities,2017,-
+746031124,Current liabilities,2016,-
+746031124,Current liabilities,2015,-
+746031124,Current liabilities,2014,-
+746031124,Trade payables ($000s),2023,$573
+746031124,Trade payables ($000s),2022,$261
+746031124,Trade payables ($000s),2021,$976
+746031124,Trade payables ($000s),2020,$400
+746031124,Trade payables ($000s),2019,$338
+746031124,Trade payables ($000s),2018,$682
+746031124,Trade payables ($000s),2017,$374
+746031124,Trade payables ($000s),2016,$832
+746031124,Trade payables ($000s),2015,$998
+746031124,Trade payables ($000s),2014,$362
+746031124,Other payables ($000s),2023,$322
+746031124,Other payables ($000s),2022,$443
+746031124,Other payables ($000s),2021,$412
+746031124,Other payables ($000s),2020,$247
+746031124,Other payables ($000s),2019,$206
+746031124,Other payables ($000s),2018,$536
+746031124,Other payables ($000s),2017,$501
+746031124,Other payables ($000s),2016,$409
+746031124,Other payables ($000s),2015,"$2,337"
+746031124,Other payables ($000s),2014,"$1,033"
+746031124,Overdrafts ($000s),2023,
+746031124,Overdrafts ($000s),2022,
+746031124,Overdrafts ($000s),2021,
+746031124,Overdrafts ($000s),2020,
+746031124,Overdrafts ($000s),2019,-
+746031124,Overdrafts ($000s),2018,-
+746031124,Overdrafts ($000s),2017,-
+746031124,Overdrafts ($000s),2016,-
+746031124,Overdrafts ($000s),2015,-
+746031124,Overdrafts ($000s),2014,-
+746031124,Loans - secured ($000s),2023,
+746031124,Loans - secured ($000s),2022,
+746031124,Loans - secured ($000s),2021,
+746031124,Loans - secured ($000s),2020,
+746031124,Loans - secured ($000s),2019,-
+746031124,Loans - secured ($000s),2018,-
+746031124,Loans - secured ($000s),2017,-
+746031124,Loans - secured ($000s),2016,-
+746031124,Loans - secured ($000s),2015,-
+746031124,Loans - secured ($000s),2014,-
+746031124,Loans - unsecured ($000s),2023,
+746031124,Loans - unsecured ($000s),2022,
+746031124,Loans - unsecured ($000s),2021,
+746031124,Loans - unsecured ($000s),2020,
+746031124,Loans - unsecured ($000s),2019,-
+746031124,Loans - unsecured ($000s),2018,-
+746031124,Loans - unsecured ($000s),2017,-
+746031124,Loans - unsecured ($000s),2016,-
+746031124,Loans - unsecured ($000s),2015,-
+746031124,Loans - unsecured ($000s),2014,-
+746031124,Obligations under finance leases and hire purchase ($000s),2023,-
+746031124,Obligations under finance leases and hire purchase ($000s),2022,-
+746031124,Obligations under finance leases and hire purchase ($000s),2021,"$2,281"
+746031124,Obligations under finance leases and hire purchase ($000s),2020,-
+746031124,Obligations under finance leases and hire purchase ($000s),2019,-
+746031124,Obligations under finance leases and hire purchase ($000s),2018,-
+746031124,Obligations under finance leases and hire purchase ($000s),2017,-
+746031124,Obligations under finance leases and hire purchase ($000s),2016,-
+746031124,Obligations under finance leases and hire purchase ($000s),2015,-
+746031124,Obligations under finance leases and hire purchase ($000s),2014,-
+746031124,Loans from related parties ($000s),2023,-
+746031124,Loans from related parties ($000s),2022,-
+746031124,Loans from related parties ($000s),2021,-
+746031124,Loans from related parties ($000s),2020,$212
+746031124,Loans from related parties ($000s),2019,$178
+746031124,Loans from related parties ($000s),2018,$701
+746031124,Loans from related parties ($000s),2017,-
+746031124,Loans from related parties ($000s),2016,-
+746031124,Loans from related parties ($000s),2015,-
+746031124,Loans from related parties ($000s),2014,-
+746031124,Total current interest-bearing loans and borrowings ($000s),2023,-
+746031124,Total current interest-bearing loans and borrowings ($000s),2022,-
+746031124,Total current interest-bearing loans and borrowings ($000s),2021,"$2,281"
+746031124,Total current interest-bearing loans and borrowings ($000s),2020,$212
+746031124,Total current interest-bearing loans and borrowings ($000s),2019,$178
+746031124,Total current interest-bearing loans and borrowings ($000s),2018,$701
+746031124,Total current interest-bearing loans and borrowings ($000s),2017,-
+746031124,Total current interest-bearing loans and borrowings ($000s),2016,-
+746031124,Total current interest-bearing loans and borrowings ($000s),2015,-
+746031124,Total current interest-bearing loans and borrowings ($000s),2014,-
+746031124,Income tax payable/(refundable) ($000s),2023,$253
+746031124,Income tax payable/(refundable) ($000s),2022,$212
+746031124,Income tax payable/(refundable) ($000s),2021,$410
+746031124,Income tax payable/(refundable) ($000s),2020,$110
+746031124,Income tax payable/(refundable) ($000s),2019,$148
+746031124,Income tax payable/(refundable) ($000s),2018,$116
+746031124,Income tax payable/(refundable) ($000s),2017,$95
+746031124,Income tax payable/(refundable) ($000s),2016,$173
+746031124,Income tax payable/(refundable) ($000s),2015,$520
+746031124,Income tax payable/(refundable) ($000s),2014,$362
+746031124,Provisions ($000s),2023,"$1,010"
+746031124,Provisions ($000s),2022,$965
+746031124,Provisions ($000s),2021,$815
+746031124,Provisions ($000s),2020,$760
+746031124,Provisions ($000s),2019,$763
+746031124,Provisions ($000s),2018,$971
+746031124,Provisions ($000s),2017,$910
+746031124,Provisions ($000s),2016,$873
+746031124,Provisions ($000s),2015,$783
+746031124,Provisions ($000s),2014,$737
+746031124,Other current liabilities ($000s),2023,$0
+746031124,Other current liabilities ($000s),2022,$0
+746031124,Other current liabilities ($000s),2021,$0
+746031124,Other current liabilities ($000s),2020,$0
+746031124,Other current liabilities ($000s),2019,$0
+746031124,Other current liabilities ($000s),2018,$0
+746031124,Other current liabilities ($000s),2017,$0
+746031124,Other current liabilities ($000s),2016,$0
+746031124,Other current liabilities ($000s),2015,$0
+746031124,Other current liabilities ($000s),2014,$0
+746031124,Total current liabilities for continuing operations ($000s),2023,"$2,158"
+746031124,Total current liabilities for continuing operations ($000s),2022,"$1,882"
+746031124,Total current liabilities for continuing operations ($000s),2021,"$4,894"
+746031124,Total current liabilities for continuing operations ($000s),2020,"$1,731"
+746031124,Total current liabilities for continuing operations ($000s),2019,"$1,633"
+746031124,Total current liabilities for continuing operations ($000s),2018,"$3,006"
+746031124,Total current liabilities for continuing operations ($000s),2017,"$1,881"
+746031124,Total current liabilities for continuing operations ($000s),2016,"$2,288"
+746031124,Total current liabilities for continuing operations ($000s),2015,"$4,638"
+746031124,Total current liabilities for continuing operations ($000s),2014,"$2,495"
+746031124,Liabilities directly associated with assets held for sale ($000s),2023,
+746031124,Liabilities directly associated with assets held for sale ($000s),2022,
+746031124,Liabilities directly associated with assets held for sale ($000s),2021,
+746031124,Liabilities directly associated with assets held for sale ($000s),2020,
+746031124,Liabilities directly associated with assets held for sale ($000s),2019,-
+746031124,Liabilities directly associated with assets held for sale ($000s),2018,-
+746031124,Liabilities directly associated with assets held for sale ($000s),2017,-
+746031124,Liabilities directly associated with assets held for sale ($000s),2016,-
+746031124,Liabilities directly associated with assets held for sale ($000s),2015,-
+746031124,Liabilities directly associated with assets held for sale ($000s),2014,-
+746031124,Total current liabilities ($000s),2023,"$2,158"
+746031124,Total current liabilities ($000s),2022,"$1,882"
+746031124,Total current liabilities ($000s),2021,"$4,894"
+746031124,Total current liabilities ($000s),2020,"$1,731"
+746031124,Total current liabilities ($000s),2019,"$1,633"
+746031124,Total current liabilities ($000s),2018,"$3,006"
+746031124,Total current liabilities ($000s),2017,"$1,881"
+746031124,Total current liabilities ($000s),2016,"$2,288"
+746031124,Total current liabilities ($000s),2015,"$4,638"
+746031124,Total current liabilities ($000s),2014,"$2,495"
+746031124,Total current liabilities for previous year ($000s),2023,"$1,882"
+746031124,Total current liabilities for previous year ($000s),2022,"$4,894"
+746031124,Total current liabilities for previous year ($000s),2021,"$1,731"
+746031124,Total current liabilities for previous year ($000s),2020,"$1,633"
+746031124,Total current liabilities for previous year ($000s),2019,"$3,006"
+746031124,Total current liabilities for previous year ($000s),2018,"$1,881"
+746031124,Total current liabilities for previous year ($000s),2017,"$2,288"
+746031124,Total current liabilities for previous year ($000s),2016,"$4,638"
+746031124,Total current liabilities for previous year ($000s),2015,"$2,495"
+746031124,Total current liabilities for previous year ($000s),2014,"$1,961"
+746031124,Non-current liabilities,2023,
+746031124,Non-current liabilities,2022,
+746031124,Non-current liabilities,2021,
+746031124,Non-current liabilities,2020,
+746031124,Non-current liabilities,2019,-
+746031124,Non-current liabilities,2018,-
+746031124,Non-current liabilities,2017,-
+746031124,Non-current liabilities,2016,-
+746031124,Non-current liabilities,2015,-
+746031124,Non-current liabilities,2014,-
+746031124,Total non-current interest-bearing loans and borrowings ($000s),2023,
+746031124,Total non-current interest-bearing loans and borrowings ($000s),2022,
+746031124,Total non-current interest-bearing loans and borrowings ($000s),2021,
+746031124,Total non-current interest-bearing loans and borrowings ($000s),2020,
+746031124,Total non-current interest-bearing loans and borrowings ($000s),2019,-
+746031124,Total non-current interest-bearing loans and borrowings ($000s),2018,-
+746031124,Total non-current interest-bearing loans and borrowings ($000s),2017,-
+746031124,Total non-current interest-bearing loans and borrowings ($000s),2016,-
+746031124,Total non-current interest-bearing loans and borrowings ($000s),2015,-
+746031124,Total non-current interest-bearing loans and borrowings ($000s),2014,-
+746031124,Deferred tax liabilities ($000s),2023,
+746031124,Deferred tax liabilities ($000s),2022,
+746031124,Deferred tax liabilities ($000s),2021,
+746031124,Deferred tax liabilities ($000s),2020,
+746031124,Deferred tax liabilities ($000s),2019,-
+746031124,Deferred tax liabilities ($000s),2018,-
+746031124,Deferred tax liabilities ($000s),2017,-
+746031124,Deferred tax liabilities ($000s),2016,-
+746031124,Deferred tax liabilities ($000s),2015,-
+746031124,Deferred tax liabilities ($000s),2014,-
+746031124,Convertible redeemable preference shares ($000s),2023,
+746031124,Convertible redeemable preference shares ($000s),2022,
+746031124,Convertible redeemable preference shares ($000s),2021,
+746031124,Convertible redeemable preference shares ($000s),2020,
+746031124,Convertible redeemable preference shares ($000s),2019,-
+746031124,Convertible redeemable preference shares ($000s),2018,-
+746031124,Convertible redeemable preference shares ($000s),2017,-
+746031124,Convertible redeemable preference shares ($000s),2016,-
+746031124,Convertible redeemable preference shares ($000s),2015,-
+746031124,Convertible redeemable preference shares ($000s),2014,-
+746031124,Other non-current liabilities ($000s),2023,$0
+746031124,Other non-current liabilities ($000s),2022,$0
+746031124,Other non-current liabilities ($000s),2021,$0
+746031124,Other non-current liabilities ($000s),2020,$0
+746031124,Other non-current liabilities ($000s),2019,$0
+746031124,Other non-current liabilities ($000s),2018,$0
+746031124,Other non-current liabilities ($000s),2017,$0
+746031124,Other non-current liabilities ($000s),2016,$0
+746031124,Other non-current liabilities ($000s),2015,$0
+746031124,Other non-current liabilities ($000s),2014,$0
+746031124,Total non-current liabilities ($000s),2023,$6
+746031124,Total non-current liabilities ($000s),2022,$7
+746031124,Total non-current liabilities ($000s),2021,$9
+746031124,Total non-current liabilities ($000s),2020,$14
+746031124,Total non-current liabilities ($000s),2019,$6
+746031124,Total non-current liabilities ($000s),2018,$9
+746031124,Total non-current liabilities ($000s),2017,$40
+746031124,Total non-current liabilities ($000s),2016,$39
+746031124,Total non-current liabilities ($000s),2015,$9
+746031124,Total non-current liabilities ($000s),2014,$6
+746031124,TOTAL LIABILITIES ($000s),2023,"$2,163"
+746031124,TOTAL LIABILITIES ($000s),2022,"$1,889"
+746031124,TOTAL LIABILITIES ($000s),2021,"$4,903"
+746031124,TOTAL LIABILITIES ($000s),2020,"$1,745"
+746031124,TOTAL LIABILITIES ($000s),2019,"$1,638"
+746031124,TOTAL LIABILITIES ($000s),2018,"$3,015"
+746031124,TOTAL LIABILITIES ($000s),2017,"$1,921"
+746031124,TOTAL LIABILITIES ($000s),2016,"$2,327"
+746031124,TOTAL LIABILITIES ($000s),2015,"$4,647"
+746031124,TOTAL LIABILITIES ($000s),2014,"$2,501"
+746031124,NET ASSETS ($000s),2023,"$15,689"
+746031124,NET ASSETS ($000s),2022,"$15,751"
+746031124,NET ASSETS ($000s),2021,"$14,186"
+746031124,NET ASSETS ($000s),2020,"$12,763"
+746031124,NET ASSETS ($000s),2019,"$12,796"
+746031124,NET ASSETS ($000s),2018,"$12,835"
+746031124,NET ASSETS ($000s),2017,"$12,307"
+746031124,NET ASSETS ($000s),2016,"$13,997"
+746031124,NET ASSETS ($000s),2015,"$13,854"
+746031124,NET ASSETS ($000s),2014,"$11,863"
+746031124,Equity,2023,
+746031124,Equity,2022,
+746031124,Equity,2021,
+746031124,Equity,2020,
+746031124,Equity,2019,-
+746031124,Equity,2018,-
+746031124,Equity,2017,-
+746031124,Equity,2016,-
+746031124,Equity,2015,-
+746031124,Equity,2014,-
+746031124,Equity attributable to equity holders of the parent,2023,
+746031124,Equity attributable to equity holders of the parent,2022,
+746031124,Equity attributable to equity holders of the parent,2021,
+746031124,Equity attributable to equity holders of the parent,2020,
+746031124,Equity attributable to equity holders of the parent,2019,-
+746031124,Equity attributable to equity holders of the parent,2018,-
+746031124,Equity attributable to equity holders of the parent,2017,-
+746031124,Equity attributable to equity holders of the parent,2016,-
+746031124,Equity attributable to equity holders of the parent,2015,-
+746031124,Equity attributable to equity holders of the parent,2014,-
+746031124,Contributed equity ($000s),2023,"$13,777"
+746031124,Contributed equity ($000s),2022,"$13,777"
+746031124,Contributed equity ($000s),2021,"$13,777"
+746031124,Contributed equity ($000s),2020,"$13,777"
+746031124,Contributed equity ($000s),2019,"$13,777"
+746031124,Contributed equity ($000s),2018,"$13,777"
+746031124,Contributed equity ($000s),2017,"$13,777"
+746031124,Contributed equity ($000s),2016,"$13,777"
+746031124,Contributed equity ($000s),2015,"$13,777"
+746031124,Contributed equity ($000s),2014,"$13,777"
+746031124,Retained earnings ($000s),2023,"$1,912"
+746031124,Retained earnings ($000s),2022,"$1,974"
+746031124,Retained earnings ($000s),2021,$409
+746031124,Retained earnings ($000s),2020,"($1,014)"
+746031124,Retained earnings ($000s),2019,($981)
+746031124,Retained earnings ($000s),2018,($942)
+746031124,Retained earnings ($000s),2017,"($1,470)"
+746031124,Retained earnings ($000s),2016,$220
+746031124,Retained earnings ($000s),2015,$77
+746031124,Retained earnings ($000s),2014,"($1,914)"
+746031124,Reserves ($000s),2023,$0
+746031124,Reserves ($000s),2022,$0
+746031124,Reserves ($000s),2021,$0
+746031124,Reserves ($000s),2020,$0
+746031124,Reserves ($000s),2019,$0
+746031124,Reserves ($000s),2018,$0
+746031124,Reserves ($000s),2017,$0
+746031124,Reserves ($000s),2016,$0
+746031124,Reserves ($000s),2015,$0
+746031124,Reserves ($000s),2014,$0
+746031124,Total Parent interests ($000s),2023,"$15,689"
+746031124,Total Parent interests ($000s),2022,"$15,751"
+746031124,Total Parent interests ($000s),2021,"$14,186"
+746031124,Total Parent interests ($000s),2020,"$12,763"
+746031124,Total Parent interests ($000s),2019,"$12,796"
+746031124,Total Parent interests ($000s),2018,"$12,835"
+746031124,Total Parent interests ($000s),2017,"$12,307"
+746031124,Total Parent interests ($000s),2016,"$13,997"
+746031124,Total Parent interests ($000s),2015,"$13,854"
+746031124,Total Parent interests ($000s),2014,"$11,863"
+746031124,Minority interests ($000s),2023,
+746031124,Minority interests ($000s),2022,
+746031124,Minority interests ($000s),2021,
+746031124,Minority interests ($000s),2020,
+746031124,Minority interests ($000s),2019,-
+746031124,Minority interests ($000s),2018,-
+746031124,Minority interests ($000s),2017,-
+746031124,Minority interests ($000s),2016,-
+746031124,Minority interests ($000s),2015,-
+746031124,Minority interests ($000s),2014,-
+746031124,TOTAL EQUITY ($000s),2023,"$15,689"
+746031124,TOTAL EQUITY ($000s),2022,"$15,751"
+746031124,TOTAL EQUITY ($000s),2021,"$14,186"
+746031124,TOTAL EQUITY ($000s),2020,"$12,763"
+746031124,TOTAL EQUITY ($000s),2019,"$12,796"
+746031124,TOTAL EQUITY ($000s),2018,"$12,835"
+746031124,TOTAL EQUITY ($000s),2017,"$12,307"
+746031124,TOTAL EQUITY ($000s),2016,"$13,997"
+746031124,TOTAL EQUITY ($000s),2015,"$13,854"
+746031124,TOTAL EQUITY ($000s),2014,"$11,863"
+746031124,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2023,"$15,751"
+746031124,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2022,"$14,186"
+746031124,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2021,"$12,763"
+746031124,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2020,"$12,796"
+746031124,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2019,"$12,835"
+746031124,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2018,"$12,307"
+746031124,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2017,"$13,997"
+746031124,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2016,"$13,854"
+746031124,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2015,"$11,863"
+746031124,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2014,"$13,334"

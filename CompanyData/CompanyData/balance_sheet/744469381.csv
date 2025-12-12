@@ -1,0 +1,601 @@
+duns,line_item,year,value
+744469381,Current Assets,2023,
+744469381,Current Assets,2022,
+744469381,Current Assets,2021,
+744469381,Current Assets,2020,
+744469381,Current Assets,2019,-
+744469381,Current Assets,2018,-
+744469381,Current Assets,2017,-
+744469381,Current Assets,2016,-
+744469381,Current Assets,2015,-
+744469381,Current Assets,2014,-
+744469381,Cash and cash equivalents ($000s),2023,$451
+744469381,Cash and cash equivalents ($000s),2022,"$1,149"
+744469381,Cash and cash equivalents ($000s),2021,-
+744469381,Cash and cash equivalents ($000s),2020,$123
+744469381,Cash and cash equivalents ($000s),2019,$682
+744469381,Cash and cash equivalents ($000s),2018,"$1,103"
+744469381,Cash and cash equivalents ($000s),2017,$783
+744469381,Cash and cash equivalents ($000s),2016,-
+744469381,Cash and cash equivalents ($000s),2015,-
+744469381,Cash and cash equivalents ($000s),2014,-
+744469381,Growth,2023,(60.75%)
+744469381,Growth,2022,-
+744469381,Growth,2021,-
+744469381,Growth,2020,(81.96%)
+744469381,Growth,2019,(38.17%)
+744469381,Growth,2018,40.87%
+744469381,Growth,2017,-
+744469381,Growth,2016,-
+744469381,Growth,2015,-
+744469381,Growth,2014,-
+744469381,Trade receivables ($000s),2023,"$3,853"
+744469381,Trade receivables ($000s),2022,"$3,036"
+744469381,Trade receivables ($000s),2021,-
+744469381,Trade receivables ($000s),2020,-
+744469381,Trade receivables ($000s),2019,-
+744469381,Trade receivables ($000s),2018,-
+744469381,Trade receivables ($000s),2017,-
+744469381,Trade receivables ($000s),2016,-
+744469381,Trade receivables ($000s),2015,-
+744469381,Trade receivables ($000s),2014,-
+744469381,Other receivables ($000s),2023,$287
+744469381,Other receivables ($000s),2022,$364
+744469381,Other receivables ($000s),2021,$76
+744469381,Other receivables ($000s),2020,$106
+744469381,Other receivables ($000s),2019,$223
+744469381,Other receivables ($000s),2018,$165
+744469381,Other receivables ($000s),2017,"$1,429"
+744469381,Other receivables ($000s),2016,-
+744469381,Other receivables ($000s),2015,-
+744469381,Other receivables ($000s),2014,-
+744469381,Raw materials ($000s),2023,$0
+744469381,Raw materials ($000s),2022,$0
+744469381,Raw materials ($000s),2021,$0
+744469381,Raw materials ($000s),2020,$0
+744469381,Raw materials ($000s),2019,$0
+744469381,Raw materials ($000s),2018,$0
+744469381,Raw materials ($000s),2017,$0
+744469381,Raw materials ($000s),2016,-
+744469381,Raw materials ($000s),2015,-
+744469381,Raw materials ($000s),2014,-
+744469381,Work-in-progress ($000s),2023,
+744469381,Work-in-progress ($000s),2022,
+744469381,Work-in-progress ($000s),2021,
+744469381,Work-in-progress ($000s),2020,
+744469381,Work-in-progress ($000s),2019,-
+744469381,Work-in-progress ($000s),2018,-
+744469381,Work-in-progress ($000s),2017,-
+744469381,Work-in-progress ($000s),2016,-
+744469381,Work-in-progress ($000s),2015,-
+744469381,Work-in-progress ($000s),2014,-
+744469381,Finished goods ($000s),2023,"$5,922"
+744469381,Finished goods ($000s),2022,"$4,048"
+744469381,Finished goods ($000s),2021,$0
+744469381,Finished goods ($000s),2020,$0
+744469381,Finished goods ($000s),2019,$0
+744469381,Finished goods ($000s),2018,$0
+744469381,Finished goods ($000s),2017,$0
+744469381,Finished goods ($000s),2016,-
+744469381,Finished goods ($000s),2015,-
+744469381,Finished goods ($000s),2014,-
+744469381,Total inventories ($000s),2023,"$5,922"
+744469381,Total inventories ($000s),2022,"$4,048"
+744469381,Total inventories ($000s),2021,$0
+744469381,Total inventories ($000s),2020,$0
+744469381,Total inventories ($000s),2019,$0
+744469381,Total inventories ($000s),2018,$0
+744469381,Total inventories ($000s),2017,$0
+744469381,Total inventories ($000s),2016,-
+744469381,Total inventories ($000s),2015,-
+744469381,Total inventories ($000s),2014,-
+744469381,Prepayments ($000s),2023,
+744469381,Prepayments ($000s),2022,
+744469381,Prepayments ($000s),2021,
+744469381,Prepayments ($000s),2020,
+744469381,Prepayments ($000s),2019,-
+744469381,Prepayments ($000s),2018,-
+744469381,Prepayments ($000s),2017,-
+744469381,Prepayments ($000s),2016,-
+744469381,Prepayments ($000s),2015,-
+744469381,Prepayments ($000s),2014,-
+744469381,Derivative financial instruments ($000s),2023,
+744469381,Derivative financial instruments ($000s),2022,
+744469381,Derivative financial instruments ($000s),2021,
+744469381,Derivative financial instruments ($000s),2020,
+744469381,Derivative financial instruments ($000s),2019,-
+744469381,Derivative financial instruments ($000s),2018,-
+744469381,Derivative financial instruments ($000s),2017,-
+744469381,Derivative financial instruments ($000s),2016,-
+744469381,Derivative financial instruments ($000s),2015,-
+744469381,Derivative financial instruments ($000s),2014,-
+744469381,Other current assets ($000s),2023,"$11,540"
+744469381,Other current assets ($000s),2022,"$2,354"
+744469381,Other current assets ($000s),2021,$0
+744469381,Other current assets ($000s),2020,"$3,622"
+744469381,Other current assets ($000s),2019,"$11,085"
+744469381,Other current assets ($000s),2018,$0
+744469381,Other current assets ($000s),2017,$0
+744469381,Other current assets ($000s),2016,-
+744469381,Other current assets ($000s),2015,-
+744469381,Other current assets ($000s),2014,-
+744469381,Total current assets for continuing operations ($000s),2023,"$22,054"
+744469381,Total current assets for continuing operations ($000s),2022,"$10,951"
+744469381,Total current assets for continuing operations ($000s),2021,$76
+744469381,Total current assets for continuing operations ($000s),2020,"$3,851"
+744469381,Total current assets for continuing operations ($000s),2019,"$11,990"
+744469381,Total current assets for continuing operations ($000s),2018,"$1,268"
+744469381,Total current assets for continuing operations ($000s),2017,"$2,211"
+744469381,Total current assets for continuing operations ($000s),2016,-
+744469381,Total current assets for continuing operations ($000s),2015,-
+744469381,Total current assets for continuing operations ($000s),2014,-
+744469381,Assets held for sale ($000s),2023,-
+744469381,Assets held for sale ($000s),2022,-
+744469381,Assets held for sale ($000s),2021,-
+744469381,Assets held for sale ($000s),2020,-
+744469381,Assets held for sale ($000s),2019,"$2,813"
+744469381,Assets held for sale ($000s),2018,"$2,360"
+744469381,Assets held for sale ($000s),2017,"$5,044"
+744469381,Assets held for sale ($000s),2016,-
+744469381,Assets held for sale ($000s),2015,-
+744469381,Assets held for sale ($000s),2014,-
+744469381,Total current assets ($000s),2023,"$22,054"
+744469381,Total current assets ($000s),2022,"$10,951"
+744469381,Total current assets ($000s),2021,$76
+744469381,Total current assets ($000s),2020,"$3,851"
+744469381,Total current assets ($000s),2019,"$14,802"
+744469381,Total current assets ($000s),2018,"$3,629"
+744469381,Total current assets ($000s),2017,"$7,256"
+744469381,Total current assets ($000s),2016,-
+744469381,Total current assets ($000s),2015,-
+744469381,Total current assets ($000s),2014,-
+744469381,Non-current assets,2023,
+744469381,Non-current assets,2022,
+744469381,Non-current assets,2021,
+744469381,Non-current assets,2020,
+744469381,Non-current assets,2019,-
+744469381,Non-current assets,2018,-
+744469381,Non-current assets,2017,-
+744469381,Non-current assets,2016,-
+744469381,Non-current assets,2015,-
+744469381,Non-current assets,2014,-
+744469381,Receivables ($000s),2023,-
+744469381,Receivables ($000s),2022,-
+744469381,Receivables ($000s),2021,-
+744469381,Receivables ($000s),2020,-
+744469381,Receivables ($000s),2019,-
+744469381,Receivables ($000s),2018,"$20,553"
+744469381,Receivables ($000s),2017,"$19,790"
+744469381,Receivables ($000s),2016,-
+744469381,Receivables ($000s),2015,-
+744469381,Receivables ($000s),2014,-
+744469381,Investments in associates ($000s),2023,$0
+744469381,Investments in associates ($000s),2022,$0
+744469381,Investments in associates ($000s),2021,$0
+744469381,Investments in associates ($000s),2020,$0
+744469381,Investments in associates ($000s),2019,$0
+744469381,Investments in associates ($000s),2018,$0
+744469381,Investments in associates ($000s),2017,$0
+744469381,Investments in associates ($000s),2016,-
+744469381,Investments in associates ($000s),2015,-
+744469381,Investments in associates ($000s),2014,-
+744469381,Investments in subsidiaries ($000s),2023,
+744469381,Investments in subsidiaries ($000s),2022,
+744469381,Investments in subsidiaries ($000s),2021,
+744469381,Investments in subsidiaries ($000s),2020,
+744469381,Investments in subsidiaries ($000s),2019,-
+744469381,Investments in subsidiaries ($000s),2018,-
+744469381,Investments in subsidiaries ($000s),2017,-
+744469381,Investments in subsidiaries ($000s),2016,-
+744469381,Investments in subsidiaries ($000s),2015,-
+744469381,Investments in subsidiaries ($000s),2014,-
+744469381,Available for sale financial assets ($000s),2023,$0
+744469381,Available for sale financial assets ($000s),2022,$0
+744469381,Available for sale financial assets ($000s),2021,$0
+744469381,Available for sale financial assets ($000s),2020,$0
+744469381,Available for sale financial assets ($000s),2019,$0
+744469381,Available for sale financial assets ($000s),2018,$0
+744469381,Available for sale financial assets ($000s),2017,$0
+744469381,Available for sale financial assets ($000s),2016,-
+744469381,Available for sale financial assets ($000s),2015,-
+744469381,Available for sale financial assets ($000s),2014,-
+744469381,"Property, plant and equipment ($000s)",2023,"$3,324"
+744469381,"Property, plant and equipment ($000s)",2022,"$2,550"
+744469381,"Property, plant and equipment ($000s)",2021,"$1,433"
+744469381,"Property, plant and equipment ($000s)",2020,$353
+744469381,"Property, plant and equipment ($000s)",2019,"$1,539"
+744469381,"Property, plant and equipment ($000s)",2018,$83
+744469381,"Property, plant and equipment ($000s)",2017,$113
+744469381,"Property, plant and equipment ($000s)",2016,-
+744469381,"Property, plant and equipment ($000s)",2015,-
+744469381,"Property, plant and equipment ($000s)",2014,-
+744469381,Intangible assets and goodwill ($000s),2023,"$1,552"
+744469381,Intangible assets and goodwill ($000s),2022,"$1,552"
+744469381,Intangible assets and goodwill ($000s),2021,$0
+744469381,Intangible assets and goodwill ($000s),2020,$0
+744469381,Intangible assets and goodwill ($000s),2019,$0
+744469381,Intangible assets and goodwill ($000s),2018,$1
+744469381,Intangible assets and goodwill ($000s),2017,$2
+744469381,Intangible assets and goodwill ($000s),2016,-
+744469381,Intangible assets and goodwill ($000s),2015,-
+744469381,Intangible assets and goodwill ($000s),2014,-
+744469381,Deferred tax assets ($000s),2023,"$56,180"
+744469381,Deferred tax assets ($000s),2022,$603
+744469381,Deferred tax assets ($000s),2021,$502
+744469381,Deferred tax assets ($000s),2020,"$10,775"
+744469381,Deferred tax assets ($000s),2019,$239
+744469381,Deferred tax assets ($000s),2018,$145
+744469381,Deferred tax assets ($000s),2017,$123
+744469381,Deferred tax assets ($000s),2016,-
+744469381,Deferred tax assets ($000s),2015,-
+744469381,Deferred tax assets ($000s),2014,-
+744469381,Other non-current assets ($000s),2023,$0
+744469381,Other non-current assets ($000s),2022,$0
+744469381,Other non-current assets ($000s),2021,$0
+744469381,Other non-current assets ($000s),2020,$0
+744469381,Other non-current assets ($000s),2019,$0
+744469381,Other non-current assets ($000s),2018,$0
+744469381,Other non-current assets ($000s),2017,$0
+744469381,Other non-current assets ($000s),2016,-
+744469381,Other non-current assets ($000s),2015,-
+744469381,Other non-current assets ($000s),2014,-
+744469381,Total non-current assets ($000s),2023,"$61,055"
+744469381,Total non-current assets ($000s),2022,"$4,704"
+744469381,Total non-current assets ($000s),2021,"$1,935"
+744469381,Total non-current assets ($000s),2020,"$11,128"
+744469381,Total non-current assets ($000s),2019,"$1,778"
+744469381,Total non-current assets ($000s),2018,"$20,782"
+744469381,Total non-current assets ($000s),2017,"$20,028"
+744469381,Total non-current assets ($000s),2016,-
+744469381,Total non-current assets ($000s),2015,-
+744469381,Total non-current assets ($000s),2014,-
+744469381,TOTAL ASSETS ($000s),2023,"$83,109"
+744469381,TOTAL ASSETS ($000s),2022,"$15,656"
+744469381,TOTAL ASSETS ($000s),2021,"$2,011"
+744469381,TOTAL ASSETS ($000s),2020,"$14,979"
+744469381,TOTAL ASSETS ($000s),2019,"$16,581"
+744469381,TOTAL ASSETS ($000s),2018,"$24,411"
+744469381,TOTAL ASSETS ($000s),2017,"$27,284"
+744469381,TOTAL ASSETS ($000s),2016,-
+744469381,TOTAL ASSETS ($000s),2015,-
+744469381,TOTAL ASSETS ($000s),2014,-
+744469381,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2023,"$15,656"
+744469381,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2022,"$2,011"
+744469381,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2021,"$14,979"
+744469381,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2020,"$16,581"
+744469381,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2019,"$24,411"
+744469381,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2018,"$27,284"
+744469381,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2017,-
+744469381,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2016,-
+744469381,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2015,-
+744469381,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2014,-
+744469381,Current liabilities,2023,
+744469381,Current liabilities,2022,
+744469381,Current liabilities,2021,
+744469381,Current liabilities,2020,
+744469381,Current liabilities,2019,-
+744469381,Current liabilities,2018,-
+744469381,Current liabilities,2017,-
+744469381,Current liabilities,2016,-
+744469381,Current liabilities,2015,-
+744469381,Current liabilities,2014,-
+744469381,Trade payables ($000s),2023,
+744469381,Trade payables ($000s),2022,
+744469381,Trade payables ($000s),2021,
+744469381,Trade payables ($000s),2020,
+744469381,Trade payables ($000s),2019,-
+744469381,Trade payables ($000s),2018,-
+744469381,Trade payables ($000s),2017,-
+744469381,Trade payables ($000s),2016,-
+744469381,Trade payables ($000s),2015,-
+744469381,Trade payables ($000s),2014,-
+744469381,Other payables ($000s),2023,"$9,006"
+744469381,Other payables ($000s),2022,"$6,943"
+744469381,Other payables ($000s),2021,$696
+744469381,Other payables ($000s),2020,$334
+744469381,Other payables ($000s),2019,$278
+744469381,Other payables ($000s),2018,"$1,011"
+744469381,Other payables ($000s),2017,"$1,834"
+744469381,Other payables ($000s),2016,-
+744469381,Other payables ($000s),2015,-
+744469381,Other payables ($000s),2014,-
+744469381,Overdrafts ($000s),2023,
+744469381,Overdrafts ($000s),2022,
+744469381,Overdrafts ($000s),2021,
+744469381,Overdrafts ($000s),2020,
+744469381,Overdrafts ($000s),2019,-
+744469381,Overdrafts ($000s),2018,-
+744469381,Overdrafts ($000s),2017,-
+744469381,Overdrafts ($000s),2016,-
+744469381,Overdrafts ($000s),2015,-
+744469381,Overdrafts ($000s),2014,-
+744469381,Loans - secured ($000s),2023,
+744469381,Loans - secured ($000s),2022,
+744469381,Loans - secured ($000s),2021,
+744469381,Loans - secured ($000s),2020,
+744469381,Loans - secured ($000s),2019,-
+744469381,Loans - secured ($000s),2018,-
+744469381,Loans - secured ($000s),2017,-
+744469381,Loans - secured ($000s),2016,-
+744469381,Loans - secured ($000s),2015,-
+744469381,Loans - secured ($000s),2014,-
+744469381,Loans - unsecured ($000s),2023,
+744469381,Loans - unsecured ($000s),2022,
+744469381,Loans - unsecured ($000s),2021,
+744469381,Loans - unsecured ($000s),2020,
+744469381,Loans - unsecured ($000s),2019,-
+744469381,Loans - unsecured ($000s),2018,-
+744469381,Loans - unsecured ($000s),2017,-
+744469381,Loans - unsecured ($000s),2016,-
+744469381,Loans - unsecured ($000s),2015,-
+744469381,Loans - unsecured ($000s),2014,-
+744469381,Obligations under finance leases and hire purchase ($000s),2023,$407
+744469381,Obligations under finance leases and hire purchase ($000s),2022,$444
+744469381,Obligations under finance leases and hire purchase ($000s),2021,$181
+744469381,Obligations under finance leases and hire purchase ($000s),2020,$184
+744469381,Obligations under finance leases and hire purchase ($000s),2019,$208
+744469381,Obligations under finance leases and hire purchase ($000s),2018,-
+744469381,Obligations under finance leases and hire purchase ($000s),2017,-
+744469381,Obligations under finance leases and hire purchase ($000s),2016,-
+744469381,Obligations under finance leases and hire purchase ($000s),2015,-
+744469381,Obligations under finance leases and hire purchase ($000s),2014,-
+744469381,Loans from related parties ($000s),2023,
+744469381,Loans from related parties ($000s),2022,
+744469381,Loans from related parties ($000s),2021,
+744469381,Loans from related parties ($000s),2020,
+744469381,Loans from related parties ($000s),2019,-
+744469381,Loans from related parties ($000s),2018,-
+744469381,Loans from related parties ($000s),2017,-
+744469381,Loans from related parties ($000s),2016,-
+744469381,Loans from related parties ($000s),2015,-
+744469381,Loans from related parties ($000s),2014,-
+744469381,Total current interest-bearing loans and borrowings ($000s),2023,$407
+744469381,Total current interest-bearing loans and borrowings ($000s),2022,$444
+744469381,Total current interest-bearing loans and borrowings ($000s),2021,$181
+744469381,Total current interest-bearing loans and borrowings ($000s),2020,$184
+744469381,Total current interest-bearing loans and borrowings ($000s),2019,$208
+744469381,Total current interest-bearing loans and borrowings ($000s),2018,-
+744469381,Total current interest-bearing loans and borrowings ($000s),2017,-
+744469381,Total current interest-bearing loans and borrowings ($000s),2016,-
+744469381,Total current interest-bearing loans and borrowings ($000s),2015,-
+744469381,Total current interest-bearing loans and borrowings ($000s),2014,-
+744469381,Income tax payable/(refundable) ($000s),2023,-
+744469381,Income tax payable/(refundable) ($000s),2022,"$44,507"
+744469381,Income tax payable/(refundable) ($000s),2021,"$62,222"
+744469381,Income tax payable/(refundable) ($000s),2020,-
+744469381,Income tax payable/(refundable) ($000s),2019,-
+744469381,Income tax payable/(refundable) ($000s),2018,"$14,985"
+744469381,Income tax payable/(refundable) ($000s),2017,"$34,824"
+744469381,Income tax payable/(refundable) ($000s),2016,-
+744469381,Income tax payable/(refundable) ($000s),2015,-
+744469381,Income tax payable/(refundable) ($000s),2014,-
+744469381,Provisions ($000s),2023,"$1,689"
+744469381,Provisions ($000s),2022,"$1,638"
+744469381,Provisions ($000s),2021,"$1,011"
+744469381,Provisions ($000s),2020,$881
+744469381,Provisions ($000s),2019,$738
+744469381,Provisions ($000s),2018,$500
+744469381,Provisions ($000s),2017,$357
+744469381,Provisions ($000s),2016,-
+744469381,Provisions ($000s),2015,-
+744469381,Provisions ($000s),2014,-
+744469381,Other current liabilities ($000s),2023,"$33,500"
+744469381,Other current liabilities ($000s),2022,"$1,300"
+744469381,Other current liabilities ($000s),2021,$0
+744469381,Other current liabilities ($000s),2020,$0
+744469381,Other current liabilities ($000s),2019,$0
+744469381,Other current liabilities ($000s),2018,$0
+744469381,Other current liabilities ($000s),2017,$0
+744469381,Other current liabilities ($000s),2016,-
+744469381,Other current liabilities ($000s),2015,-
+744469381,Other current liabilities ($000s),2014,-
+744469381,Total current liabilities for continuing operations ($000s),2023,"$44,602"
+744469381,Total current liabilities for continuing operations ($000s),2022,"$54,832"
+744469381,Total current liabilities for continuing operations ($000s),2021,"$64,111"
+744469381,Total current liabilities for continuing operations ($000s),2020,"$1,400"
+744469381,Total current liabilities for continuing operations ($000s),2019,"$1,224"
+744469381,Total current liabilities for continuing operations ($000s),2018,"$16,497"
+744469381,Total current liabilities for continuing operations ($000s),2017,"$37,015"
+744469381,Total current liabilities for continuing operations ($000s),2016,-
+744469381,Total current liabilities for continuing operations ($000s),2015,-
+744469381,Total current liabilities for continuing operations ($000s),2014,-
+744469381,Liabilities directly associated with assets held for sale ($000s),2023,
+744469381,Liabilities directly associated with assets held for sale ($000s),2022,
+744469381,Liabilities directly associated with assets held for sale ($000s),2021,
+744469381,Liabilities directly associated with assets held for sale ($000s),2020,
+744469381,Liabilities directly associated with assets held for sale ($000s),2019,-
+744469381,Liabilities directly associated with assets held for sale ($000s),2018,-
+744469381,Liabilities directly associated with assets held for sale ($000s),2017,-
+744469381,Liabilities directly associated with assets held for sale ($000s),2016,-
+744469381,Liabilities directly associated with assets held for sale ($000s),2015,-
+744469381,Liabilities directly associated with assets held for sale ($000s),2014,-
+744469381,Total current liabilities ($000s),2023,"$44,602"
+744469381,Total current liabilities ($000s),2022,"$54,832"
+744469381,Total current liabilities ($000s),2021,"$64,111"
+744469381,Total current liabilities ($000s),2020,"$1,400"
+744469381,Total current liabilities ($000s),2019,"$1,224"
+744469381,Total current liabilities ($000s),2018,"$16,497"
+744469381,Total current liabilities ($000s),2017,"$37,015"
+744469381,Total current liabilities ($000s),2016,-
+744469381,Total current liabilities ($000s),2015,-
+744469381,Total current liabilities ($000s),2014,-
+744469381,Total current liabilities for previous year ($000s),2023,"$54,832"
+744469381,Total current liabilities for previous year ($000s),2022,"$64,111"
+744469381,Total current liabilities for previous year ($000s),2021,"$1,400"
+744469381,Total current liabilities for previous year ($000s),2020,"$1,224"
+744469381,Total current liabilities for previous year ($000s),2019,"$16,497"
+744469381,Total current liabilities for previous year ($000s),2018,"$37,015"
+744469381,Total current liabilities for previous year ($000s),2017,-
+744469381,Total current liabilities for previous year ($000s),2016,-
+744469381,Total current liabilities for previous year ($000s),2015,-
+744469381,Total current liabilities for previous year ($000s),2014,-
+744469381,Non-current liabilities,2023,
+744469381,Non-current liabilities,2022,
+744469381,Non-current liabilities,2021,
+744469381,Non-current liabilities,2020,
+744469381,Non-current liabilities,2019,-
+744469381,Non-current liabilities,2018,-
+744469381,Non-current liabilities,2017,-
+744469381,Non-current liabilities,2016,-
+744469381,Non-current liabilities,2015,-
+744469381,Non-current liabilities,2014,-
+744469381,Total non-current interest-bearing loans and borrowings ($000s),2023,$496
+744469381,Total non-current interest-bearing loans and borrowings ($000s),2022,$858
+744469381,Total non-current interest-bearing loans and borrowings ($000s),2021,$930
+744469381,Total non-current interest-bearing loans and borrowings ($000s),2020,-
+744469381,Total non-current interest-bearing loans and borrowings ($000s),2019,$804
+744469381,Total non-current interest-bearing loans and borrowings ($000s),2018,-
+744469381,Total non-current interest-bearing loans and borrowings ($000s),2017,-
+744469381,Total non-current interest-bearing loans and borrowings ($000s),2016,-
+744469381,Total non-current interest-bearing loans and borrowings ($000s),2015,-
+744469381,Total non-current interest-bearing loans and borrowings ($000s),2014,-
+744469381,Deferred tax liabilities ($000s),2023,
+744469381,Deferred tax liabilities ($000s),2022,
+744469381,Deferred tax liabilities ($000s),2021,
+744469381,Deferred tax liabilities ($000s),2020,
+744469381,Deferred tax liabilities ($000s),2019,-
+744469381,Deferred tax liabilities ($000s),2018,-
+744469381,Deferred tax liabilities ($000s),2017,-
+744469381,Deferred tax liabilities ($000s),2016,-
+744469381,Deferred tax liabilities ($000s),2015,-
+744469381,Deferred tax liabilities ($000s),2014,-
+744469381,Convertible redeemable preference shares ($000s),2023,
+744469381,Convertible redeemable preference shares ($000s),2022,
+744469381,Convertible redeemable preference shares ($000s),2021,
+744469381,Convertible redeemable preference shares ($000s),2020,
+744469381,Convertible redeemable preference shares ($000s),2019,-
+744469381,Convertible redeemable preference shares ($000s),2018,-
+744469381,Convertible redeemable preference shares ($000s),2017,-
+744469381,Convertible redeemable preference shares ($000s),2016,-
+744469381,Convertible redeemable preference shares ($000s),2015,-
+744469381,Convertible redeemable preference shares ($000s),2014,-
+744469381,Other non-current liabilities ($000s),2023,$0
+744469381,Other non-current liabilities ($000s),2022,$0
+744469381,Other non-current liabilities ($000s),2021,$0
+744469381,Other non-current liabilities ($000s),2020,$0
+744469381,Other non-current liabilities ($000s),2019,$0
+744469381,Other non-current liabilities ($000s),2018,$0
+744469381,Other non-current liabilities ($000s),2017,$0
+744469381,Other non-current liabilities ($000s),2016,-
+744469381,Other non-current liabilities ($000s),2015,-
+744469381,Other non-current liabilities ($000s),2014,-
+744469381,Total non-current liabilities ($000s),2023,$496
+744469381,Total non-current liabilities ($000s),2022,$858
+744469381,Total non-current liabilities ($000s),2021,$930
+744469381,Total non-current liabilities ($000s),2020,-
+744469381,Total non-current liabilities ($000s),2019,$804
+744469381,Total non-current liabilities ($000s),2018,-
+744469381,Total non-current liabilities ($000s),2017,-
+744469381,Total non-current liabilities ($000s),2016,-
+744469381,Total non-current liabilities ($000s),2015,-
+744469381,Total non-current liabilities ($000s),2014,-
+744469381,TOTAL LIABILITIES ($000s),2023,"$45,098"
+744469381,TOTAL LIABILITIES ($000s),2022,"$55,691"
+744469381,TOTAL LIABILITIES ($000s),2021,"$65,041"
+744469381,TOTAL LIABILITIES ($000s),2020,"$1,400"
+744469381,TOTAL LIABILITIES ($000s),2019,"$2,028"
+744469381,TOTAL LIABILITIES ($000s),2018,"$16,497"
+744469381,TOTAL LIABILITIES ($000s),2017,"$37,015"
+744469381,TOTAL LIABILITIES ($000s),2016,-
+744469381,TOTAL LIABILITIES ($000s),2015,-
+744469381,TOTAL LIABILITIES ($000s),2014,-
+744469381,NET ASSETS ($000s),2023,"$38,011"
+744469381,NET ASSETS ($000s),2022,"($40,035)"
+744469381,NET ASSETS ($000s),2021,"($63,030)"
+744469381,NET ASSETS ($000s),2020,"$13,579"
+744469381,NET ASSETS ($000s),2019,"$14,553"
+744469381,NET ASSETS ($000s),2018,"$7,914"
+744469381,NET ASSETS ($000s),2017,"($9,731)"
+744469381,NET ASSETS ($000s),2016,-
+744469381,NET ASSETS ($000s),2015,-
+744469381,NET ASSETS ($000s),2014,-
+744469381,Equity,2023,
+744469381,Equity,2022,
+744469381,Equity,2021,
+744469381,Equity,2020,
+744469381,Equity,2019,-
+744469381,Equity,2018,-
+744469381,Equity,2017,-
+744469381,Equity,2016,-
+744469381,Equity,2015,-
+744469381,Equity,2014,-
+744469381,Equity attributable to equity holders of the parent,2023,
+744469381,Equity attributable to equity holders of the parent,2022,
+744469381,Equity attributable to equity holders of the parent,2021,
+744469381,Equity attributable to equity holders of the parent,2020,
+744469381,Equity attributable to equity holders of the parent,2019,-
+744469381,Equity attributable to equity holders of the parent,2018,-
+744469381,Equity attributable to equity holders of the parent,2017,-
+744469381,Equity attributable to equity holders of the parent,2016,-
+744469381,Equity attributable to equity holders of the parent,2015,-
+744469381,Equity attributable to equity holders of the parent,2014,-
+744469381,Contributed equity ($000s),2023,$0
+744469381,Contributed equity ($000s),2022,$0
+744469381,Contributed equity ($000s),2021,$0
+744469381,Contributed equity ($000s),2020,$0
+744469381,Contributed equity ($000s),2019,$0
+744469381,Contributed equity ($000s),2018,$0
+744469381,Contributed equity ($000s),2017,$0
+744469381,Contributed equity ($000s),2016,-
+744469381,Contributed equity ($000s),2015,-
+744469381,Contributed equity ($000s),2014,-
+744469381,Retained earnings ($000s),2023,"($60,480)"
+744469381,Retained earnings ($000s),2022,"($38,593)"
+744469381,Retained earnings ($000s),2021,"($27,189)"
+744469381,Retained earnings ($000s),2020,"($21,277)"
+744469381,Retained earnings ($000s),2019,"($13,424)"
+744469381,Retained earnings ($000s),2018,"($4,572)"
+744469381,Retained earnings ($000s),2017,"($1,159)"
+744469381,Retained earnings ($000s),2016,-
+744469381,Retained earnings ($000s),2015,-
+744469381,Retained earnings ($000s),2014,-
+744469381,Reserves ($000s),2023,"$97,264"
+744469381,Reserves ($000s),2022,"($1,822)"
+744469381,Reserves ($000s),2021,"($35,841)"
+744469381,Reserves ($000s),2020,"$34,857"
+744469381,Reserves ($000s),2019,"$27,977"
+744469381,Reserves ($000s),2018,"$12,486"
+744469381,Reserves ($000s),2017,"($8,572)"
+744469381,Reserves ($000s),2016,-
+744469381,Reserves ($000s),2015,-
+744469381,Reserves ($000s),2014,-
+744469381,Total Parent interests ($000s),2023,"$36,784"
+744469381,Total Parent interests ($000s),2022,"($40,416)"
+744469381,Total Parent interests ($000s),2021,"($63,030)"
+744469381,Total Parent interests ($000s),2020,"$13,579"
+744469381,Total Parent interests ($000s),2019,"$14,553"
+744469381,Total Parent interests ($000s),2018,"$7,914"
+744469381,Total Parent interests ($000s),2017,"($9,731)"
+744469381,Total Parent interests ($000s),2016,-
+744469381,Total Parent interests ($000s),2015,-
+744469381,Total Parent interests ($000s),2014,-
+744469381,Minority interests ($000s),2023,"$1,227"
+744469381,Minority interests ($000s),2022,$381
+744469381,Minority interests ($000s),2021,-
+744469381,Minority interests ($000s),2020,-
+744469381,Minority interests ($000s),2019,-
+744469381,Minority interests ($000s),2018,-
+744469381,Minority interests ($000s),2017,-
+744469381,Minority interests ($000s),2016,-
+744469381,Minority interests ($000s),2015,-
+744469381,Minority interests ($000s),2014,-
+744469381,TOTAL EQUITY ($000s),2023,"$38,011"
+744469381,TOTAL EQUITY ($000s),2022,"($40,035)"
+744469381,TOTAL EQUITY ($000s),2021,"($63,030)"
+744469381,TOTAL EQUITY ($000s),2020,"$13,579"
+744469381,TOTAL EQUITY ($000s),2019,"$14,553"
+744469381,TOTAL EQUITY ($000s),2018,"$7,914"
+744469381,TOTAL EQUITY ($000s),2017,"($9,731)"
+744469381,TOTAL EQUITY ($000s),2016,-
+744469381,TOTAL EQUITY ($000s),2015,-
+744469381,TOTAL EQUITY ($000s),2014,-
+744469381,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2023,"($40,035)"
+744469381,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2022,"($63,030)"
+744469381,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2021,"$13,579"
+744469381,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2020,"$14,553"
+744469381,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2019,"$7,914"
+744469381,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2018,"($9,731)"
+744469381,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2017,-
+744469381,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2016,-
+744469381,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2015,-
+744469381,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2014,-

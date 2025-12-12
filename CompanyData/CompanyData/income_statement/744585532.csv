@@ -1,0 +1,471 @@
+duns,line_item,year,value
+744585532,Revenue from continuing operations ($000s),2025,"$21,583"
+744585532,Revenue from continuing operations ($000s),2024,"$33,194"
+744585532,Revenue from continuing operations ($000s),2023,"$32,916"
+744585532,Revenue from continuing operations ($000s),2022,"$21,834"
+744585532,Revenue from continuing operations ($000s),2021,"$42,150"
+744585532,Revenue from continuing operations ($000s),2020,"$34,621"
+744585532,Revenue from continuing operations ($000s),2019,"$43,596"
+744585532,Revenue from continuing operations ($000s),2018,-
+744585532,Revenue from continuing operations ($000s),2017,-
+744585532,Revenue from continuing operations ($000s),2016,-
+744585532,Growth,2025,(34.98%)
+744585532,Growth,2024,0.84%
+744585532,Growth,2023,50.76%
+744585532,Growth,2022,(48.20%)
+744585532,Growth,2021,21.75%
+744585532,Growth,2020,(20.59%)
+744585532,Growth,2019,-
+744585532,Growth,2018,-
+744585532,Growth,2017,-
+744585532,Growth,2016,-
+744585532,Cost of sales ($000s),2025,"($21,583)"
+744585532,Cost of sales ($000s),2024,"($33,194)"
+744585532,Cost of sales ($000s),2023,"($32,916)"
+744585532,Cost of sales ($000s),2022,"($21,834)"
+744585532,Cost of sales ($000s),2021,"($42,150)"
+744585532,Cost of sales ($000s),2020,"($34,621)"
+744585532,Cost of sales ($000s),2019,"($43,596)"
+744585532,Cost of sales ($000s),2018,-
+744585532,Cost of sales ($000s),2017,-
+744585532,Cost of sales ($000s),2016,-
+744585532,Gross profit ($000s),2025,$0
+744585532,Gross profit ($000s),2024,$0
+744585532,Gross profit ($000s),2023,$0
+744585532,Gross profit ($000s),2022,$0
+744585532,Gross profit ($000s),2021,$0
+744585532,Gross profit ($000s),2020,$0
+744585532,Gross profit ($000s),2019,$0
+744585532,Gross profit ($000s),2018,-
+744585532,Gross profit ($000s),2017,-
+744585532,Gross profit ($000s),2016,-
+744585532,Other income ($000s),2025,-
+744585532,Other income ($000s),2024,-
+744585532,Other income ($000s),2023,-
+744585532,Other income ($000s),2022,-
+744585532,Other income ($000s),2021,$126
+744585532,Other income ($000s),2020,$261
+744585532,Other income ($000s),2019,$74
+744585532,Other income ($000s),2018,-
+744585532,Other income ($000s),2017,-
+744585532,Other income ($000s),2016,-
+744585532,Administrative expenses ($000s),2025,-
+744585532,Administrative expenses ($000s),2024,"($2,524)"
+744585532,Administrative expenses ($000s),2023,"($2,624)"
+744585532,Administrative expenses ($000s),2022,"($2,770)"
+744585532,Administrative expenses ($000s),2021,"($2,570)"
+744585532,Administrative expenses ($000s),2020,"($2,617)"
+744585532,Administrative expenses ($000s),2019,"($2,133)"
+744585532,Administrative expenses ($000s),2018,-
+744585532,Administrative expenses ($000s),2017,-
+744585532,Administrative expenses ($000s),2016,-
+744585532,Finance costs ($000s),2025,($418)
+744585532,Finance costs ($000s),2024,($306)
+744585532,Finance costs ($000s),2023,($312)
+744585532,Finance costs ($000s),2022,($958)
+744585532,Finance costs ($000s),2021,($924)
+744585532,Finance costs ($000s),2020,($833)
+744585532,Finance costs ($000s),2019,($614)
+744585532,Finance costs ($000s),2018,-
+744585532,Finance costs ($000s),2017,-
+744585532,Finance costs ($000s),2016,-
+744585532,Share of associate profits/(losses) ($000s),2025,
+744585532,Share of associate profits/(losses) ($000s),2024,
+744585532,Share of associate profits/(losses) ($000s),2023,
+744585532,Share of associate profits/(losses) ($000s),2022,
+744585532,Share of associate profits/(losses) ($000s),2021,-
+744585532,Share of associate profits/(losses) ($000s),2020,-
+744585532,Share of associate profits/(losses) ($000s),2019,-
+744585532,Share of associate profits/(losses) ($000s),2018,-
+744585532,Share of associate profits/(losses) ($000s),2017,-
+744585532,Share of associate profits/(losses) ($000s),2016,-
+744585532,Profit/(loss) from continuing operations before income tax ($000s),2025,"$3,257"
+744585532,Profit/(loss) from continuing operations before income tax ($000s),2024,"($4,795)"
+744585532,Profit/(loss) from continuing operations before income tax ($000s),2023,"($2,926)"
+744585532,Profit/(loss) from continuing operations before income tax ($000s),2022,"($86,326)"
+744585532,Profit/(loss) from continuing operations before income tax ($000s),2021,"($10,274)"
+744585532,Profit/(loss) from continuing operations before income tax ($000s),2020,$145
+744585532,Profit/(loss) from continuing operations before income tax ($000s),2019,"$9,968"
+744585532,Profit/(loss) from continuing operations before income tax ($000s),2018,-
+744585532,Profit/(loss) from continuing operations before income tax ($000s),2017,-
+744585532,Profit/(loss) from continuing operations before income tax ($000s),2016,-
+744585532,Income tax expense ($000s),2025,-
+744585532,Income tax expense ($000s),2024,-
+744585532,Income tax expense ($000s),2023,-
+744585532,Income tax expense ($000s),2022,"($4,950)"
+744585532,Income tax expense ($000s),2021,"$3,212"
+744585532,Income tax expense ($000s),2020,($227)
+744585532,Income tax expense ($000s),2019,"($3,003)"
+744585532,Income tax expense ($000s),2018,-
+744585532,Income tax expense ($000s),2017,-
+744585532,Income tax expense ($000s),2016,-
+744585532,Profit from continuing operations after income tax ($000s),2025,"$3,257"
+744585532,Profit from continuing operations after income tax ($000s),2024,"($4,795)"
+744585532,Profit from continuing operations after income tax ($000s),2023,"($2,926)"
+744585532,Profit from continuing operations after income tax ($000s),2022,"($91,276)"
+744585532,Profit from continuing operations after income tax ($000s),2021,"($7,062)"
+744585532,Profit from continuing operations after income tax ($000s),2020,($82)
+744585532,Profit from continuing operations after income tax ($000s),2019,"$6,965"
+744585532,Profit from continuing operations after income tax ($000s),2018,-
+744585532,Profit from continuing operations after income tax ($000s),2017,-
+744585532,Profit from continuing operations after income tax ($000s),2016,-
+744585532,Profit/(loss) from discontinued operations after tax ($000s),2025,
+744585532,Profit/(loss) from discontinued operations after tax ($000s),2024,
+744585532,Profit/(loss) from discontinued operations after tax ($000s),2023,
+744585532,Profit/(loss) from discontinued operations after tax ($000s),2022,
+744585532,Profit/(loss) from discontinued operations after tax ($000s),2021,-
+744585532,Profit/(loss) from discontinued operations after tax ($000s),2020,-
+744585532,Profit/(loss) from discontinued operations after tax ($000s),2019,-
+744585532,Profit/(loss) from discontinued operations after tax ($000s),2018,-
+744585532,Profit/(loss) from discontinued operations after tax ($000s),2017,-
+744585532,Profit/(loss) from discontinued operations after tax ($000s),2016,-
+744585532,Profit/(loss) from restructuring activites after tax ($000s),2025,
+744585532,Profit/(loss) from restructuring activites after tax ($000s),2024,
+744585532,Profit/(loss) from restructuring activites after tax ($000s),2023,
+744585532,Profit/(loss) from restructuring activites after tax ($000s),2022,
+744585532,Profit/(loss) from restructuring activites after tax ($000s),2021,-
+744585532,Profit/(loss) from restructuring activites after tax ($000s),2020,-
+744585532,Profit/(loss) from restructuring activites after tax ($000s),2019,-
+744585532,Profit/(loss) from restructuring activites after tax ($000s),2018,-
+744585532,Profit/(loss) from restructuring activites after tax ($000s),2017,-
+744585532,Profit/(loss) from restructuring activites after tax ($000s),2016,-
+744585532,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2025,
+744585532,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2024,
+744585532,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2023,
+744585532,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2022,
+744585532,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2021,-
+744585532,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2020,-
+744585532,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2019,-
+744585532,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2018,-
+744585532,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2017,-
+744585532,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2016,-
+744585532,Profit/(loss) from disposals of investments after tax ($000s),2025,
+744585532,Profit/(loss) from disposals of investments after tax ($000s),2024,
+744585532,Profit/(loss) from disposals of investments after tax ($000s),2023,
+744585532,Profit/(loss) from disposals of investments after tax ($000s),2022,
+744585532,Profit/(loss) from disposals of investments after tax ($000s),2021,-
+744585532,Profit/(loss) from disposals of investments after tax ($000s),2020,-
+744585532,Profit/(loss) from disposals of investments after tax ($000s),2019,-
+744585532,Profit/(loss) from disposals of investments after tax ($000s),2018,-
+744585532,Profit/(loss) from disposals of investments after tax ($000s),2017,-
+744585532,Profit/(loss) from disposals of investments after tax ($000s),2016,-
+744585532,Net profit for the period ($000s),2025,"$3,257"
+744585532,Net profit for the period ($000s),2024,"($4,795)"
+744585532,Net profit for the period ($000s),2023,"($2,926)"
+744585532,Net profit for the period ($000s),2022,"($91,276)"
+744585532,Net profit for the period ($000s),2021,"($7,062)"
+744585532,Net profit for the period ($000s),2020,($82)
+744585532,Net profit for the period ($000s),2019,"$6,965"
+744585532,Net profit for the period ($000s),2018,-
+744585532,Net profit for the period ($000s),2017,-
+744585532,Net profit for the period ($000s),2016,-
+744585532,Attributable To:,2025,
+744585532,Attributable To:,2024,
+744585532,Attributable To:,2023,
+744585532,Attributable To:,2022,
+744585532,Attributable To:,2021,-
+744585532,Attributable To:,2020,-
+744585532,Attributable To:,2019,-
+744585532,Attributable To:,2018,-
+744585532,Attributable To:,2017,-
+744585532,Attributable To:,2016,-
+744585532,Minority interest ($000s),2025,
+744585532,Minority interest ($000s),2024,
+744585532,Minority interest ($000s),2023,
+744585532,Minority interest ($000s),2022,
+744585532,Minority interest ($000s),2021,-
+744585532,Minority interest ($000s),2020,-
+744585532,Minority interest ($000s),2019,-
+744585532,Minority interest ($000s),2018,-
+744585532,Minority interest ($000s),2017,-
+744585532,Minority interest ($000s),2016,-
+744585532,Members of the parent ($000s),2025,-
+744585532,Members of the parent ($000s),2024,-
+744585532,Members of the parent ($000s),2023,"($2,926)"
+744585532,Members of the parent ($000s),2022,-
+744585532,Members of the parent ($000s),2021,-
+744585532,Members of the parent ($000s),2020,-
+744585532,Members of the parent ($000s),2019,-
+744585532,Members of the parent ($000s),2018,-
+744585532,Members of the parent ($000s),2017,-
+744585532,Members of the parent ($000s),2016,-
+744585532,Weighted average number of ordinary shares for basic earnings per share (000s),2025,
+744585532,Weighted average number of ordinary shares for basic earnings per share (000s),2024,
+744585532,Weighted average number of ordinary shares for basic earnings per share (000s),2023,
+744585532,Weighted average number of ordinary shares for basic earnings per share (000s),2022,
+744585532,Weighted average number of ordinary shares for basic earnings per share (000s),2021,-
+744585532,Weighted average number of ordinary shares for basic earnings per share (000s),2020,-
+744585532,Weighted average number of ordinary shares for basic earnings per share (000s),2019,-
+744585532,Weighted average number of ordinary shares for basic earnings per share (000s),2018,-
+744585532,Weighted average number of ordinary shares for basic earnings per share (000s),2017,-
+744585532,Weighted average number of ordinary shares for basic earnings per share (000s),2016,-
+744585532,Weighted average number of ordinary shares for diluted earnings per share (000s),2025,
+744585532,Weighted average number of ordinary shares for diluted earnings per share (000s),2024,
+744585532,Weighted average number of ordinary shares for diluted earnings per share (000s),2023,
+744585532,Weighted average number of ordinary shares for diluted earnings per share (000s),2022,
+744585532,Weighted average number of ordinary shares for diluted earnings per share (000s),2021,-
+744585532,Weighted average number of ordinary shares for diluted earnings per share (000s),2020,-
+744585532,Weighted average number of ordinary shares for diluted earnings per share (000s),2019,-
+744585532,Weighted average number of ordinary shares for diluted earnings per share (000s),2018,-
+744585532,Weighted average number of ordinary shares for diluted earnings per share (000s),2017,-
+744585532,Weighted average number of ordinary shares for diluted earnings per share (000s),2016,-
+744585532,Basic earnings per share from continuing operations (cents),2025,
+744585532,Basic earnings per share from continuing operations (cents),2024,
+744585532,Basic earnings per share from continuing operations (cents),2023,
+744585532,Basic earnings per share from continuing operations (cents),2022,
+744585532,Basic earnings per share from continuing operations (cents),2021,-
+744585532,Basic earnings per share from continuing operations (cents),2020,-
+744585532,Basic earnings per share from continuing operations (cents),2019,-
+744585532,Basic earnings per share from continuing operations (cents),2018,-
+744585532,Basic earnings per share from continuing operations (cents),2017,-
+744585532,Basic earnings per share from continuing operations (cents),2016,-
+744585532,Diluted earnings per share from continuing operations (cents),2025,
+744585532,Diluted earnings per share from continuing operations (cents),2024,
+744585532,Diluted earnings per share from continuing operations (cents),2023,
+744585532,Diluted earnings per share from continuing operations (cents),2022,
+744585532,Diluted earnings per share from continuing operations (cents),2021,-
+744585532,Diluted earnings per share from continuing operations (cents),2020,-
+744585532,Diluted earnings per share from continuing operations (cents),2019,-
+744585532,Diluted earnings per share from continuing operations (cents),2018,-
+744585532,Diluted earnings per share from continuing operations (cents),2017,-
+744585532,Diluted earnings per share from continuing operations (cents),2016,-
+744585532,Basic earnings per share (cents),2025,
+744585532,Basic earnings per share (cents),2024,
+744585532,Basic earnings per share (cents),2023,
+744585532,Basic earnings per share (cents),2022,
+744585532,Basic earnings per share (cents),2021,-
+744585532,Basic earnings per share (cents),2020,-
+744585532,Basic earnings per share (cents),2019,-
+744585532,Basic earnings per share (cents),2018,-
+744585532,Basic earnings per share (cents),2017,-
+744585532,Basic earnings per share (cents),2016,-
+744585532,Diluted earnings per share (cents),2025,
+744585532,Diluted earnings per share (cents),2024,
+744585532,Diluted earnings per share (cents),2023,
+744585532,Diluted earnings per share (cents),2022,
+744585532,Diluted earnings per share (cents),2021,-
+744585532,Diluted earnings per share (cents),2020,-
+744585532,Diluted earnings per share (cents),2019,-
+744585532,Diluted earnings per share (cents),2018,-
+744585532,Diluted earnings per share (cents),2017,-
+744585532,Diluted earnings per share (cents),2016,-
+744585532,EBITDA ($000s),2025,"$3,674"
+744585532,EBITDA ($000s),2024,($380)
+744585532,EBITDA ($000s),2023,"($2,614)"
+744585532,EBITDA ($000s),2022,"($9,548)"
+744585532,EBITDA ($000s),2021,"($8,475)"
+744585532,EBITDA ($000s),2020,"$2,431"
+744585532,EBITDA ($000s),2019,"$10,582"
+744585532,EBITDA ($000s),2018,-
+744585532,EBITDA ($000s),2017,-
+744585532,EBITDA ($000s),2016,-
+744585532,EBIT ($000s),2025,"$3,674"
+744585532,EBIT ($000s),2024,"($4,489)"
+744585532,EBIT ($000s),2023,"($2,614)"
+744585532,EBIT ($000s),2022,"($85,368)"
+744585532,EBIT ($000s),2021,"($9,351)"
+744585532,EBIT ($000s),2020,$978
+744585532,EBIT ($000s),2019,"$10,582"
+744585532,EBIT ($000s),2018,-
+744585532,EBIT ($000s),2017,-
+744585532,EBIT ($000s),2016,-
+744585532,Expenses included in income statement,2025,
+744585532,Expenses included in income statement,2024,
+744585532,Expenses included in income statement,2023,
+744585532,Expenses included in income statement,2022,
+744585532,Expenses included in income statement,2021,-
+744585532,Expenses included in income statement,2020,-
+744585532,Expenses included in income statement,2019,-
+744585532,Expenses included in income statement,2018,-
+744585532,Expenses included in income statement,2017,-
+744585532,Expenses included in income statement,2016,-
+744585532,Depreciation of property plant and equipment ($000s),2025,$0
+744585532,Depreciation of property plant and equipment ($000s),2024,"($4,108)"
+744585532,Depreciation of property plant and equipment ($000s),2023,$0
+744585532,Depreciation of property plant and equipment ($000s),2022,$0
+744585532,Depreciation of property plant and equipment ($000s),2021,($876)
+744585532,Depreciation of property plant and equipment ($000s),2020,"($1,453)"
+744585532,Depreciation of property plant and equipment ($000s),2019,$0
+744585532,Depreciation of property plant and equipment ($000s),2018,-
+744585532,Depreciation of property plant and equipment ($000s),2017,-
+744585532,Depreciation of property plant and equipment ($000s),2016,-
+744585532,Impairment of property plant and equipment ($000s),2025,$0
+744585532,Impairment of property plant and equipment ($000s),2024,$0
+744585532,Impairment of property plant and equipment ($000s),2023,$0
+744585532,Impairment of property plant and equipment ($000s),2022,"($75,820)"
+744585532,Impairment of property plant and equipment ($000s),2021,$0
+744585532,Impairment of property plant and equipment ($000s),2020,$0
+744585532,Impairment of property plant and equipment ($000s),2019,$0
+744585532,Impairment of property plant and equipment ($000s),2018,-
+744585532,Impairment of property plant and equipment ($000s),2017,-
+744585532,Impairment of property plant and equipment ($000s),2016,-
+744585532,Amortisation of intangible assets ($000s),2025,$0
+744585532,Amortisation of intangible assets ($000s),2024,$0
+744585532,Amortisation of intangible assets ($000s),2023,$0
+744585532,Amortisation of intangible assets ($000s),2022,$0
+744585532,Amortisation of intangible assets ($000s),2021,$0
+744585532,Amortisation of intangible assets ($000s),2020,$0
+744585532,Amortisation of intangible assets ($000s),2019,$0
+744585532,Amortisation of intangible assets ($000s),2018,-
+744585532,Amortisation of intangible assets ($000s),2017,-
+744585532,Amortisation of intangible assets ($000s),2016,-
+744585532,Other Depreciation and Amortisation Expense ($000s),2025,-
+744585532,Other Depreciation and Amortisation Expense ($000s),2024,$0
+744585532,Other Depreciation and Amortisation Expense ($000s),2023,-
+744585532,Other Depreciation and Amortisation Expense ($000s),2022,-
+744585532,Other Depreciation and Amortisation Expense ($000s),2021,$0
+744585532,Other Depreciation and Amortisation Expense ($000s),2020,$0
+744585532,Other Depreciation and Amortisation Expense ($000s),2019,-
+744585532,Other Depreciation and Amortisation Expense ($000s),2018,-
+744585532,Other Depreciation and Amortisation Expense ($000s),2017,-
+744585532,Other Depreciation and Amortisation Expense ($000s),2016,-
+744585532,Impairment of intangible assets ($000s),2025,$0
+744585532,Impairment of intangible assets ($000s),2024,$0
+744585532,Impairment of intangible assets ($000s),2023,$0
+744585532,Impairment of intangible assets ($000s),2022,$0
+744585532,Impairment of intangible assets ($000s),2021,$0
+744585532,Impairment of intangible assets ($000s),2020,$0
+744585532,Impairment of intangible assets ($000s),2019,$0
+744585532,Impairment of intangible assets ($000s),2018,-
+744585532,Impairment of intangible assets ($000s),2017,-
+744585532,Impairment of intangible assets ($000s),2016,-
+744585532,"Total depreciation, amortisation and impairment ($000s)",2025,$0
+744585532,"Total depreciation, amortisation and impairment ($000s)",2024,"($4,108)"
+744585532,"Total depreciation, amortisation and impairment ($000s)",2023,$0
+744585532,"Total depreciation, amortisation and impairment ($000s)",2022,"($75,820)"
+744585532,"Total depreciation, amortisation and impairment ($000s)",2021,($876)
+744585532,"Total depreciation, amortisation and impairment ($000s)",2020,"($1,453)"
+744585532,"Total depreciation, amortisation and impairment ($000s)",2019,$0
+744585532,"Total depreciation, amortisation and impairment ($000s)",2018,-
+744585532,"Total depreciation, amortisation and impairment ($000s)",2017,-
+744585532,"Total depreciation, amortisation and impairment ($000s)",2016,-
+744585532,Salaries and wages ($000s),2025,
+744585532,Salaries and wages ($000s),2024,
+744585532,Salaries and wages ($000s),2023,
+744585532,Salaries and wages ($000s),2022,
+744585532,Salaries and wages ($000s),2021,-
+744585532,Salaries and wages ($000s),2020,-
+744585532,Salaries and wages ($000s),2019,-
+744585532,Salaries and wages ($000s),2018,-
+744585532,Salaries and wages ($000s),2017,-
+744585532,Salaries and wages ($000s),2016,-
+744585532,Defined contribution superannuation expense ($000s),2025,
+744585532,Defined contribution superannuation expense ($000s),2024,
+744585532,Defined contribution superannuation expense ($000s),2023,
+744585532,Defined contribution superannuation expense ($000s),2022,
+744585532,Defined contribution superannuation expense ($000s),2021,-
+744585532,Defined contribution superannuation expense ($000s),2020,-
+744585532,Defined contribution superannuation expense ($000s),2019,-
+744585532,Defined contribution superannuation expense ($000s),2018,-
+744585532,Defined contribution superannuation expense ($000s),2017,-
+744585532,Defined contribution superannuation expense ($000s),2016,-
+744585532,Defined benefit superannuation expense ($000s),2025,
+744585532,Defined benefit superannuation expense ($000s),2024,
+744585532,Defined benefit superannuation expense ($000s),2023,
+744585532,Defined benefit superannuation expense ($000s),2022,
+744585532,Defined benefit superannuation expense ($000s),2021,-
+744585532,Defined benefit superannuation expense ($000s),2020,-
+744585532,Defined benefit superannuation expense ($000s),2019,-
+744585532,Defined benefit superannuation expense ($000s),2018,-
+744585532,Defined benefit superannuation expense ($000s),2017,-
+744585532,Defined benefit superannuation expense ($000s),2016,-
+744585532,Share-based payments expense ($000s),2025,
+744585532,Share-based payments expense ($000s),2024,
+744585532,Share-based payments expense ($000s),2023,
+744585532,Share-based payments expense ($000s),2022,
+744585532,Share-based payments expense ($000s),2021,-
+744585532,Share-based payments expense ($000s),2020,-
+744585532,Share-based payments expense ($000s),2019,-
+744585532,Share-based payments expense ($000s),2018,-
+744585532,Share-based payments expense ($000s),2017,-
+744585532,Share-based payments expense ($000s),2016,-
+744585532,Other employee benefits expense ($000s),2025,"($1,480)"
+744585532,Other employee benefits expense ($000s),2024,"($1,608)"
+744585532,Other employee benefits expense ($000s),2023,"($1,239)"
+744585532,Other employee benefits expense ($000s),2022,"($1,052)"
+744585532,Other employee benefits expense ($000s),2021,($815)
+744585532,Other employee benefits expense ($000s),2020,($693)
+744585532,Other employee benefits expense ($000s),2019,($460)
+744585532,Other employee benefits expense ($000s),2018,-
+744585532,Other employee benefits expense ($000s),2017,-
+744585532,Other employee benefits expense ($000s),2016,-
+744585532,Total employee benefits expense ($000s),2025,"($1,480)"
+744585532,Total employee benefits expense ($000s),2024,"($1,608)"
+744585532,Total employee benefits expense ($000s),2023,"($1,239)"
+744585532,Total employee benefits expense ($000s),2022,"($1,052)"
+744585532,Total employee benefits expense ($000s),2021,($815)
+744585532,Total employee benefits expense ($000s),2020,($693)
+744585532,Total employee benefits expense ($000s),2019,($460)
+744585532,Total employee benefits expense ($000s),2018,-
+744585532,Total employee benefits expense ($000s),2017,-
+744585532,Total employee benefits expense ($000s),2016,-
+744585532,Number of employees,2025,-
+744585532,Number of employees,2024,-
+744585532,Number of employees,2023,-
+744585532,Number of employees,2022,-
+744585532,Number of employees,2021,30
+744585532,Number of employees,2020,-
+744585532,Number of employees,2019,14
+744585532,Number of employees,2018,-
+744585532,Number of employees,2017,-
+744585532,Number of employees,2016,-
+744585532,Lease payments included in income statement ($000s),2025,
+744585532,Lease payments included in income statement ($000s),2024,
+744585532,Lease payments included in income statement ($000s),2023,
+744585532,Lease payments included in income statement ($000s),2022,
+744585532,Lease payments included in income statement ($000s),2021,-
+744585532,Lease payments included in income statement ($000s),2020,-
+744585532,Lease payments included in income statement ($000s),2019,-
+744585532,Lease payments included in income statement ($000s),2018,-
+744585532,Lease payments included in income statement ($000s),2017,-
+744585532,Lease payments included in income statement ($000s),2016,-
+744585532,Interest expense  ($000s),2025,($418)
+744585532,Interest expense  ($000s),2024,($306)
+744585532,Interest expense  ($000s),2023,($312)
+744585532,Interest expense  ($000s),2022,($958)
+744585532,Interest expense  ($000s),2021,-
+744585532,Interest expense  ($000s),2020,($833)
+744585532,Interest expense  ($000s),2019,($614)
+744585532,Interest expense  ($000s),2018,-
+744585532,Interest expense  ($000s),2017,-
+744585532,Interest expense  ($000s),2016,-
+744585532,Finance charges payable under finance leases and hire purchase ($000s),2025,
+744585532,Finance charges payable under finance leases and hire purchase ($000s),2024,
+744585532,Finance charges payable under finance leases and hire purchase ($000s),2023,
+744585532,Finance charges payable under finance leases and hire purchase ($000s),2022,
+744585532,Finance charges payable under finance leases and hire purchase ($000s),2021,-
+744585532,Finance charges payable under finance leases and hire purchase ($000s),2020,-
+744585532,Finance charges payable under finance leases and hire purchase ($000s),2019,-
+744585532,Finance charges payable under finance leases and hire purchase ($000s),2018,-
+744585532,Finance charges payable under finance leases and hire purchase ($000s),2017,-
+744585532,Finance charges payable under finance leases and hire purchase ($000s),2016,-
+744585532,Other finance costs ($000s),2025,-
+744585532,Other finance costs ($000s),2024,$0
+744585532,Other finance costs ($000s),2023,-
+744585532,Other finance costs ($000s),2022,-
+744585532,Other finance costs ($000s),2021,($924)
+744585532,Other finance costs ($000s),2020,-
+744585532,Other finance costs ($000s),2019,-
+744585532,Other finance costs ($000s),2018,-
+744585532,Other finance costs ($000s),2017,-
+744585532,Other finance costs ($000s),2016,-
+744585532,Total finance costs ($000s),2025,($418)
+744585532,Total finance costs ($000s),2024,($306)
+744585532,Total finance costs ($000s),2023,($312)
+744585532,Total finance costs ($000s),2022,($958)
+744585532,Total finance costs ($000s),2021,($924)
+744585532,Total finance costs ($000s),2020,($833)
+744585532,Total finance costs ($000s),2019,($614)
+744585532,Total finance costs ($000s),2018,-
+744585532,Total finance costs ($000s),2017,-
+744585532,Total finance costs ($000s),2016,-
+744585532,Research and development costs ($000s),2025,
+744585532,Research and development costs ($000s),2024,
+744585532,Research and development costs ($000s),2023,
+744585532,Research and development costs ($000s),2022,
+744585532,Research and development costs ($000s),2021,-
+744585532,Research and development costs ($000s),2020,-
+744585532,Research and development costs ($000s),2019,-
+744585532,Research and development costs ($000s),2018,-
+744585532,Research and development costs ($000s),2017,-
+744585532,Research and development costs ($000s),2016,-

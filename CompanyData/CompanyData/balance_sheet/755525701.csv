@@ -1,0 +1,601 @@
+duns,line_item,year,value
+755525701,Current Assets,2025,
+755525701,Current Assets,2024,
+755525701,Current Assets,2023,
+755525701,Current Assets,2022,
+755525701,Current Assets,2021,-
+755525701,Current Assets,2020,-
+755525701,Current Assets,2019,-
+755525701,Current Assets,2018,-
+755525701,Current Assets,2017,-
+755525701,Current Assets,2016,-
+755525701,Cash and cash equivalents ($000s),2025,"$7,088"
+755525701,Cash and cash equivalents ($000s),2024,"$9,215"
+755525701,Cash and cash equivalents ($000s),2023,"$8,231"
+755525701,Cash and cash equivalents ($000s),2022,"$4,325"
+755525701,Cash and cash equivalents ($000s),2021,"$7,236"
+755525701,Cash and cash equivalents ($000s),2020,"$5,616"
+755525701,Cash and cash equivalents ($000s),2019,"$1,839"
+755525701,Cash and cash equivalents ($000s),2018,"$1,558"
+755525701,Cash and cash equivalents ($000s),2017,"$3,589"
+755525701,Cash and cash equivalents ($000s),2016,"$2,215"
+755525701,Growth,2025,(23.08%)
+755525701,Growth,2024,11.95%
+755525701,Growth,2023,90.31%
+755525701,Growth,2022,(40.23%)
+755525701,Growth,2021,28.85%
+755525701,Growth,2020,205.38%
+755525701,Growth,2019,18.04%
+755525701,Growth,2018,(56.59%)
+755525701,Growth,2017,62.03%
+755525701,Growth,2016,-
+755525701,Trade receivables ($000s),2025,"$5,981"
+755525701,Trade receivables ($000s),2024,"$5,089"
+755525701,Trade receivables ($000s),2023,-
+755525701,Trade receivables ($000s),2022,"$12,419"
+755525701,Trade receivables ($000s),2021,"$8,734"
+755525701,Trade receivables ($000s),2020,"$12,386"
+755525701,Trade receivables ($000s),2019,"$8,415"
+755525701,Trade receivables ($000s),2018,"$6,750"
+755525701,Trade receivables ($000s),2017,"$6,642"
+755525701,Trade receivables ($000s),2016,"$7,509"
+755525701,Other receivables ($000s),2025,$2
+755525701,Other receivables ($000s),2024,$6
+755525701,Other receivables ($000s),2023,"$5,397"
+755525701,Other receivables ($000s),2022,-
+755525701,Other receivables ($000s),2021,$14
+755525701,Other receivables ($000s),2020,$14
+755525701,Other receivables ($000s),2019,$14
+755525701,Other receivables ($000s),2018,$14
+755525701,Other receivables ($000s),2017,$25
+755525701,Other receivables ($000s),2016,$4
+755525701,Raw materials ($000s),2025,$0
+755525701,Raw materials ($000s),2024,$0
+755525701,Raw materials ($000s),2023,$0
+755525701,Raw materials ($000s),2022,$0
+755525701,Raw materials ($000s),2021,$0
+755525701,Raw materials ($000s),2020,$0
+755525701,Raw materials ($000s),2019,$0
+755525701,Raw materials ($000s),2018,$0
+755525701,Raw materials ($000s),2017,$0
+755525701,Raw materials ($000s),2016,$0
+755525701,Work-in-progress ($000s),2025,
+755525701,Work-in-progress ($000s),2024,
+755525701,Work-in-progress ($000s),2023,
+755525701,Work-in-progress ($000s),2022,
+755525701,Work-in-progress ($000s),2021,-
+755525701,Work-in-progress ($000s),2020,-
+755525701,Work-in-progress ($000s),2019,-
+755525701,Work-in-progress ($000s),2018,-
+755525701,Work-in-progress ($000s),2017,-
+755525701,Work-in-progress ($000s),2016,-
+755525701,Finished goods ($000s),2025,"$7,760"
+755525701,Finished goods ($000s),2024,"$9,706"
+755525701,Finished goods ($000s),2023,"$11,178"
+755525701,Finished goods ($000s),2022,"$12,060"
+755525701,Finished goods ($000s),2021,"$14,245"
+755525701,Finished goods ($000s),2020,"$5,369"
+755525701,Finished goods ($000s),2019,"$6,611"
+755525701,Finished goods ($000s),2018,"$5,945"
+755525701,Finished goods ($000s),2017,"$4,978"
+755525701,Finished goods ($000s),2016,"$5,629"
+755525701,Total inventories ($000s),2025,"$7,760"
+755525701,Total inventories ($000s),2024,"$9,706"
+755525701,Total inventories ($000s),2023,"$11,178"
+755525701,Total inventories ($000s),2022,"$12,060"
+755525701,Total inventories ($000s),2021,"$14,245"
+755525701,Total inventories ($000s),2020,"$5,369"
+755525701,Total inventories ($000s),2019,"$6,611"
+755525701,Total inventories ($000s),2018,"$5,945"
+755525701,Total inventories ($000s),2017,"$4,978"
+755525701,Total inventories ($000s),2016,"$5,629"
+755525701,Prepayments ($000s),2025,$113
+755525701,Prepayments ($000s),2024,$70
+755525701,Prepayments ($000s),2023,-
+755525701,Prepayments ($000s),2022,-
+755525701,Prepayments ($000s),2021,$185
+755525701,Prepayments ($000s),2020,$274
+755525701,Prepayments ($000s),2019,$184
+755525701,Prepayments ($000s),2018,$64
+755525701,Prepayments ($000s),2017,$60
+755525701,Prepayments ($000s),2016,$142
+755525701,Derivative financial instruments ($000s),2025,-
+755525701,Derivative financial instruments ($000s),2024,$1
+755525701,Derivative financial instruments ($000s),2023,-
+755525701,Derivative financial instruments ($000s),2022,$460
+755525701,Derivative financial instruments ($000s),2021,$225
+755525701,Derivative financial instruments ($000s),2020,-
+755525701,Derivative financial instruments ($000s),2019,-
+755525701,Derivative financial instruments ($000s),2018,-
+755525701,Derivative financial instruments ($000s),2017,-
+755525701,Derivative financial instruments ($000s),2016,-
+755525701,Other current assets ($000s),2025,$568
+755525701,Other current assets ($000s),2024,$821
+755525701,Other current assets ($000s),2023,$85
+755525701,Other current assets ($000s),2022,$155
+755525701,Other current assets ($000s),2021,$64
+755525701,Other current assets ($000s),2020,$85
+755525701,Other current assets ($000s),2019,$372
+755525701,Other current assets ($000s),2018,$86
+755525701,Other current assets ($000s),2017,$0
+755525701,Other current assets ($000s),2016,$26
+755525701,Total current assets for continuing operations ($000s),2025,"$21,512"
+755525701,Total current assets for continuing operations ($000s),2024,"$24,909"
+755525701,Total current assets for continuing operations ($000s),2023,"$24,891"
+755525701,Total current assets for continuing operations ($000s),2022,"$29,420"
+755525701,Total current assets for continuing operations ($000s),2021,"$30,703"
+755525701,Total current assets for continuing operations ($000s),2020,"$23,744"
+755525701,Total current assets for continuing operations ($000s),2019,"$17,435"
+755525701,Total current assets for continuing operations ($000s),2018,"$14,418"
+755525701,Total current assets for continuing operations ($000s),2017,"$15,294"
+755525701,Total current assets for continuing operations ($000s),2016,"$15,526"
+755525701,Assets held for sale ($000s),2025,
+755525701,Assets held for sale ($000s),2024,
+755525701,Assets held for sale ($000s),2023,
+755525701,Assets held for sale ($000s),2022,
+755525701,Assets held for sale ($000s),2021,-
+755525701,Assets held for sale ($000s),2020,-
+755525701,Assets held for sale ($000s),2019,-
+755525701,Assets held for sale ($000s),2018,-
+755525701,Assets held for sale ($000s),2017,-
+755525701,Assets held for sale ($000s),2016,-
+755525701,Total current assets ($000s),2025,"$21,512"
+755525701,Total current assets ($000s),2024,"$24,909"
+755525701,Total current assets ($000s),2023,"$24,891"
+755525701,Total current assets ($000s),2022,"$29,420"
+755525701,Total current assets ($000s),2021,"$30,703"
+755525701,Total current assets ($000s),2020,"$23,744"
+755525701,Total current assets ($000s),2019,"$17,435"
+755525701,Total current assets ($000s),2018,"$14,418"
+755525701,Total current assets ($000s),2017,"$15,294"
+755525701,Total current assets ($000s),2016,"$15,526"
+755525701,Non-current assets,2025,
+755525701,Non-current assets,2024,
+755525701,Non-current assets,2023,
+755525701,Non-current assets,2022,
+755525701,Non-current assets,2021,-
+755525701,Non-current assets,2020,-
+755525701,Non-current assets,2019,-
+755525701,Non-current assets,2018,-
+755525701,Non-current assets,2017,-
+755525701,Non-current assets,2016,-
+755525701,Receivables ($000s),2025,
+755525701,Receivables ($000s),2024,
+755525701,Receivables ($000s),2023,
+755525701,Receivables ($000s),2022,
+755525701,Receivables ($000s),2021,-
+755525701,Receivables ($000s),2020,-
+755525701,Receivables ($000s),2019,-
+755525701,Receivables ($000s),2018,-
+755525701,Receivables ($000s),2017,-
+755525701,Receivables ($000s),2016,-
+755525701,Investments in associates ($000s),2025,$0
+755525701,Investments in associates ($000s),2024,$0
+755525701,Investments in associates ($000s),2023,$0
+755525701,Investments in associates ($000s),2022,$0
+755525701,Investments in associates ($000s),2021,$0
+755525701,Investments in associates ($000s),2020,$0
+755525701,Investments in associates ($000s),2019,$0
+755525701,Investments in associates ($000s),2018,$0
+755525701,Investments in associates ($000s),2017,$0
+755525701,Investments in associates ($000s),2016,$0
+755525701,Investments in subsidiaries ($000s),2025,
+755525701,Investments in subsidiaries ($000s),2024,
+755525701,Investments in subsidiaries ($000s),2023,
+755525701,Investments in subsidiaries ($000s),2022,
+755525701,Investments in subsidiaries ($000s),2021,-
+755525701,Investments in subsidiaries ($000s),2020,-
+755525701,Investments in subsidiaries ($000s),2019,-
+755525701,Investments in subsidiaries ($000s),2018,-
+755525701,Investments in subsidiaries ($000s),2017,-
+755525701,Investments in subsidiaries ($000s),2016,-
+755525701,Available for sale financial assets ($000s),2025,$0
+755525701,Available for sale financial assets ($000s),2024,$0
+755525701,Available for sale financial assets ($000s),2023,$0
+755525701,Available for sale financial assets ($000s),2022,$0
+755525701,Available for sale financial assets ($000s),2021,$0
+755525701,Available for sale financial assets ($000s),2020,$0
+755525701,Available for sale financial assets ($000s),2019,$0
+755525701,Available for sale financial assets ($000s),2018,$0
+755525701,Available for sale financial assets ($000s),2017,$0
+755525701,Available for sale financial assets ($000s),2016,$0
+755525701,"Property, plant and equipment ($000s)",2025,$411
+755525701,"Property, plant and equipment ($000s)",2024,$759
+755525701,"Property, plant and equipment ($000s)",2023,"$1,349"
+755525701,"Property, plant and equipment ($000s)",2022,"$2,084"
+755525701,"Property, plant and equipment ($000s)",2021,"$2,286"
+755525701,"Property, plant and equipment ($000s)",2020,"$1,534"
+755525701,"Property, plant and equipment ($000s)",2019,$557
+755525701,"Property, plant and equipment ($000s)",2018,$974
+755525701,"Property, plant and equipment ($000s)",2017,$774
+755525701,"Property, plant and equipment ($000s)",2016,$706
+755525701,Intangible assets and goodwill ($000s),2025,$0
+755525701,Intangible assets and goodwill ($000s),2024,$0
+755525701,Intangible assets and goodwill ($000s),2023,$0
+755525701,Intangible assets and goodwill ($000s),2022,$0
+755525701,Intangible assets and goodwill ($000s),2021,$0
+755525701,Intangible assets and goodwill ($000s),2020,$0
+755525701,Intangible assets and goodwill ($000s),2019,$0
+755525701,Intangible assets and goodwill ($000s),2018,$0
+755525701,Intangible assets and goodwill ($000s),2017,$0
+755525701,Intangible assets and goodwill ($000s),2016,$0
+755525701,Deferred tax assets ($000s),2025,"$1,404"
+755525701,Deferred tax assets ($000s),2024,"$1,075"
+755525701,Deferred tax assets ($000s),2023,$933
+755525701,Deferred tax assets ($000s),2022,-
+755525701,Deferred tax assets ($000s),2021,-
+755525701,Deferred tax assets ($000s),2020,-
+755525701,Deferred tax assets ($000s),2019,-
+755525701,Deferred tax assets ($000s),2018,-
+755525701,Deferred tax assets ($000s),2017,-
+755525701,Deferred tax assets ($000s),2016,-
+755525701,Other non-current assets ($000s),2025,$0
+755525701,Other non-current assets ($000s),2024,$144
+755525701,Other non-current assets ($000s),2023,$144
+755525701,Other non-current assets ($000s),2022,"$3,532"
+755525701,Other non-current assets ($000s),2021,$46
+755525701,Other non-current assets ($000s),2020,"$6,279"
+755525701,Other non-current assets ($000s),2019,"$6,208"
+755525701,Other non-current assets ($000s),2018,"$2,881"
+755525701,Other non-current assets ($000s),2017,$0
+755525701,Other non-current assets ($000s),2016,$0
+755525701,Total non-current assets ($000s),2025,"$1,815"
+755525701,Total non-current assets ($000s),2024,"$1,978"
+755525701,Total non-current assets ($000s),2023,"$2,427"
+755525701,Total non-current assets ($000s),2022,"$5,617"
+755525701,Total non-current assets ($000s),2021,"$2,331"
+755525701,Total non-current assets ($000s),2020,"$7,813"
+755525701,Total non-current assets ($000s),2019,"$6,765"
+755525701,Total non-current assets ($000s),2018,"$3,855"
+755525701,Total non-current assets ($000s),2017,$774
+755525701,Total non-current assets ($000s),2016,$706
+755525701,TOTAL ASSETS ($000s),2025,"$23,327"
+755525701,TOTAL ASSETS ($000s),2024,"$26,887"
+755525701,TOTAL ASSETS ($000s),2023,"$27,318"
+755525701,TOTAL ASSETS ($000s),2022,"$35,037"
+755525701,TOTAL ASSETS ($000s),2021,"$33,034"
+755525701,TOTAL ASSETS ($000s),2020,"$31,557"
+755525701,TOTAL ASSETS ($000s),2019,"$24,200"
+755525701,TOTAL ASSETS ($000s),2018,"$18,273"
+755525701,TOTAL ASSETS ($000s),2017,"$16,068"
+755525701,TOTAL ASSETS ($000s),2016,"$16,232"
+755525701,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2025,"$26,887"
+755525701,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2024,"$27,318"
+755525701,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2023,"$35,037"
+755525701,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2022,"$33,034"
+755525701,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2021,"$31,557"
+755525701,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2020,"$24,200"
+755525701,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2019,"$18,273"
+755525701,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2018,"$16,068"
+755525701,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2017,"$16,232"
+755525701,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2016,"$18,198"
+755525701,Current liabilities,2025,
+755525701,Current liabilities,2024,
+755525701,Current liabilities,2023,
+755525701,Current liabilities,2022,
+755525701,Current liabilities,2021,-
+755525701,Current liabilities,2020,-
+755525701,Current liabilities,2019,-
+755525701,Current liabilities,2018,-
+755525701,Current liabilities,2017,-
+755525701,Current liabilities,2016,-
+755525701,Trade payables ($000s),2025,"$2,937"
+755525701,Trade payables ($000s),2024,"$4,124"
+755525701,Trade payables ($000s),2023,-
+755525701,Trade payables ($000s),2022,"$4,298"
+755525701,Trade payables ($000s),2021,-
+755525701,Trade payables ($000s),2020,-
+755525701,Trade payables ($000s),2019,-
+755525701,Trade payables ($000s),2018,"$1,803"
+755525701,Trade payables ($000s),2017,"$2,160"
+755525701,Trade payables ($000s),2016,"$4,795"
+755525701,Other payables ($000s),2025,"$1,812"
+755525701,Other payables ($000s),2024,"$2,417"
+755525701,Other payables ($000s),2023,"$3,989"
+755525701,Other payables ($000s),2022,"$3,372"
+755525701,Other payables ($000s),2021,"$9,871"
+755525701,Other payables ($000s),2020,"$8,859"
+755525701,Other payables ($000s),2019,"$7,613"
+755525701,Other payables ($000s),2018,"$2,718"
+755525701,Other payables ($000s),2017,"$2,416"
+755525701,Other payables ($000s),2016,"$2,280"
+755525701,Overdrafts ($000s),2025,
+755525701,Overdrafts ($000s),2024,
+755525701,Overdrafts ($000s),2023,
+755525701,Overdrafts ($000s),2022,
+755525701,Overdrafts ($000s),2021,-
+755525701,Overdrafts ($000s),2020,-
+755525701,Overdrafts ($000s),2019,-
+755525701,Overdrafts ($000s),2018,-
+755525701,Overdrafts ($000s),2017,-
+755525701,Overdrafts ($000s),2016,-
+755525701,Loans - secured ($000s),2025,
+755525701,Loans - secured ($000s),2024,
+755525701,Loans - secured ($000s),2023,
+755525701,Loans - secured ($000s),2022,
+755525701,Loans - secured ($000s),2021,-
+755525701,Loans - secured ($000s),2020,-
+755525701,Loans - secured ($000s),2019,-
+755525701,Loans - secured ($000s),2018,-
+755525701,Loans - secured ($000s),2017,-
+755525701,Loans - secured ($000s),2016,-
+755525701,Loans - unsecured ($000s),2025,-
+755525701,Loans - unsecured ($000s),2024,-
+755525701,Loans - unsecured ($000s),2023,-
+755525701,Loans - unsecured ($000s),2022,-
+755525701,Loans - unsecured ($000s),2021,$631
+755525701,Loans - unsecured ($000s),2020,-
+755525701,Loans - unsecured ($000s),2019,-
+755525701,Loans - unsecured ($000s),2018,-
+755525701,Loans - unsecured ($000s),2017,-
+755525701,Loans - unsecured ($000s),2016,-
+755525701,Obligations under finance leases and hire purchase ($000s),2025,$206
+755525701,Obligations under finance leases and hire purchase ($000s),2024,$184
+755525701,Obligations under finance leases and hire purchase ($000s),2023,$145
+755525701,Obligations under finance leases and hire purchase ($000s),2022,$135
+755525701,Obligations under finance leases and hire purchase ($000s),2021,$133
+755525701,Obligations under finance leases and hire purchase ($000s),2020,$160
+755525701,Obligations under finance leases and hire purchase ($000s),2019,-
+755525701,Obligations under finance leases and hire purchase ($000s),2018,-
+755525701,Obligations under finance leases and hire purchase ($000s),2017,-
+755525701,Obligations under finance leases and hire purchase ($000s),2016,-
+755525701,Loans from related parties ($000s),2025,$913
+755525701,Loans from related parties ($000s),2024,$357
+755525701,Loans from related parties ($000s),2023,"$1,116"
+755525701,Loans from related parties ($000s),2022,"$1,542"
+755525701,Loans from related parties ($000s),2021,-
+755525701,Loans from related parties ($000s),2020,$175
+755525701,Loans from related parties ($000s),2019,$61
+755525701,Loans from related parties ($000s),2018,$199
+755525701,Loans from related parties ($000s),2017,$753
+755525701,Loans from related parties ($000s),2016,-
+755525701,Total current interest-bearing loans and borrowings ($000s),2025,"$1,119"
+755525701,Total current interest-bearing loans and borrowings ($000s),2024,$541
+755525701,Total current interest-bearing loans and borrowings ($000s),2023,"$1,262"
+755525701,Total current interest-bearing loans and borrowings ($000s),2022,"$1,677"
+755525701,Total current interest-bearing loans and borrowings ($000s),2021,$764
+755525701,Total current interest-bearing loans and borrowings ($000s),2020,$334
+755525701,Total current interest-bearing loans and borrowings ($000s),2019,$61
+755525701,Total current interest-bearing loans and borrowings ($000s),2018,$199
+755525701,Total current interest-bearing loans and borrowings ($000s),2017,$753
+755525701,Total current interest-bearing loans and borrowings ($000s),2016,-
+755525701,Income tax payable/(refundable) ($000s),2025,$62
+755525701,Income tax payable/(refundable) ($000s),2024,$118
+755525701,Income tax payable/(refundable) ($000s),2023,$295
+755525701,Income tax payable/(refundable) ($000s),2022,$712
+755525701,Income tax payable/(refundable) ($000s),2021,"$1,192"
+755525701,Income tax payable/(refundable) ($000s),2020,$1
+755525701,Income tax payable/(refundable) ($000s),2019,-
+755525701,Income tax payable/(refundable) ($000s),2018,$15
+755525701,Income tax payable/(refundable) ($000s),2017,-
+755525701,Income tax payable/(refundable) ($000s),2016,-
+755525701,Provisions ($000s),2025,"$1,636"
+755525701,Provisions ($000s),2024,"$1,655"
+755525701,Provisions ($000s),2023,"$1,638"
+755525701,Provisions ($000s),2022,"$1,588"
+755525701,Provisions ($000s),2021,"$1,405"
+755525701,Provisions ($000s),2020,"$1,170"
+755525701,Provisions ($000s),2019,"$1,226"
+755525701,Provisions ($000s),2018,"$1,212"
+755525701,Provisions ($000s),2017,"$1,227"
+755525701,Provisions ($000s),2016,"$1,125"
+755525701,Other current liabilities ($000s),2025,$0
+755525701,Other current liabilities ($000s),2024,$0
+755525701,Other current liabilities ($000s),2023,$0
+755525701,Other current liabilities ($000s),2022,$0
+755525701,Other current liabilities ($000s),2021,$0
+755525701,Other current liabilities ($000s),2020,$0
+755525701,Other current liabilities ($000s),2019,$0
+755525701,Other current liabilities ($000s),2018,$55
+755525701,Other current liabilities ($000s),2017,$97
+755525701,Other current liabilities ($000s),2016,"$1,970"
+755525701,Total current liabilities for continuing operations ($000s),2025,"$7,863"
+755525701,Total current liabilities for continuing operations ($000s),2024,"$8,855"
+755525701,Total current liabilities for continuing operations ($000s),2023,"$7,183"
+755525701,Total current liabilities for continuing operations ($000s),2022,"$11,646"
+755525701,Total current liabilities for continuing operations ($000s),2021,"$13,232"
+755525701,Total current liabilities for continuing operations ($000s),2020,"$10,365"
+755525701,Total current liabilities for continuing operations ($000s),2019,"$8,900"
+755525701,Total current liabilities for continuing operations ($000s),2018,"$6,002"
+755525701,Total current liabilities for continuing operations ($000s),2017,"$6,652"
+755525701,Total current liabilities for continuing operations ($000s),2016,"$10,170"
+755525701,Liabilities directly associated with assets held for sale ($000s),2025,
+755525701,Liabilities directly associated with assets held for sale ($000s),2024,
+755525701,Liabilities directly associated with assets held for sale ($000s),2023,
+755525701,Liabilities directly associated with assets held for sale ($000s),2022,
+755525701,Liabilities directly associated with assets held for sale ($000s),2021,-
+755525701,Liabilities directly associated with assets held for sale ($000s),2020,-
+755525701,Liabilities directly associated with assets held for sale ($000s),2019,-
+755525701,Liabilities directly associated with assets held for sale ($000s),2018,-
+755525701,Liabilities directly associated with assets held for sale ($000s),2017,-
+755525701,Liabilities directly associated with assets held for sale ($000s),2016,-
+755525701,Total current liabilities ($000s),2025,"$7,863"
+755525701,Total current liabilities ($000s),2024,"$8,855"
+755525701,Total current liabilities ($000s),2023,"$7,183"
+755525701,Total current liabilities ($000s),2022,"$11,646"
+755525701,Total current liabilities ($000s),2021,"$13,232"
+755525701,Total current liabilities ($000s),2020,"$10,365"
+755525701,Total current liabilities ($000s),2019,"$8,900"
+755525701,Total current liabilities ($000s),2018,"$6,002"
+755525701,Total current liabilities ($000s),2017,"$6,652"
+755525701,Total current liabilities ($000s),2016,"$10,170"
+755525701,Total current liabilities for previous year ($000s),2025,"$8,855"
+755525701,Total current liabilities for previous year ($000s),2024,"$7,183"
+755525701,Total current liabilities for previous year ($000s),2023,"$11,646"
+755525701,Total current liabilities for previous year ($000s),2022,"$13,232"
+755525701,Total current liabilities for previous year ($000s),2021,"$10,365"
+755525701,Total current liabilities for previous year ($000s),2020,"$8,900"
+755525701,Total current liabilities for previous year ($000s),2019,"$6,002"
+755525701,Total current liabilities for previous year ($000s),2018,"$6,652"
+755525701,Total current liabilities for previous year ($000s),2017,"$10,170"
+755525701,Total current liabilities for previous year ($000s),2016,"$11,053"
+755525701,Non-current liabilities,2025,
+755525701,Non-current liabilities,2024,
+755525701,Non-current liabilities,2023,
+755525701,Non-current liabilities,2022,
+755525701,Non-current liabilities,2021,-
+755525701,Non-current liabilities,2020,-
+755525701,Non-current liabilities,2019,-
+755525701,Non-current liabilities,2018,-
+755525701,Non-current liabilities,2017,-
+755525701,Non-current liabilities,2016,-
+755525701,Total non-current interest-bearing loans and borrowings ($000s),2025,$130
+755525701,Total non-current interest-bearing loans and borrowings ($000s),2024,$337
+755525701,Total non-current interest-bearing loans and borrowings ($000s),2023,$433
+755525701,Total non-current interest-bearing loans and borrowings ($000s),2022,$578
+755525701,Total non-current interest-bearing loans and borrowings ($000s),2021,$731
+755525701,Total non-current interest-bearing loans and borrowings ($000s),2020,$880
+755525701,Total non-current interest-bearing loans and borrowings ($000s),2019,-
+755525701,Total non-current interest-bearing loans and borrowings ($000s),2018,-
+755525701,Total non-current interest-bearing loans and borrowings ($000s),2017,-
+755525701,Total non-current interest-bearing loans and borrowings ($000s),2016,-
+755525701,Deferred tax liabilities ($000s),2025,
+755525701,Deferred tax liabilities ($000s),2024,
+755525701,Deferred tax liabilities ($000s),2023,
+755525701,Deferred tax liabilities ($000s),2022,
+755525701,Deferred tax liabilities ($000s),2021,-
+755525701,Deferred tax liabilities ($000s),2020,-
+755525701,Deferred tax liabilities ($000s),2019,-
+755525701,Deferred tax liabilities ($000s),2018,-
+755525701,Deferred tax liabilities ($000s),2017,-
+755525701,Deferred tax liabilities ($000s),2016,-
+755525701,Convertible redeemable preference shares ($000s),2025,
+755525701,Convertible redeemable preference shares ($000s),2024,
+755525701,Convertible redeemable preference shares ($000s),2023,
+755525701,Convertible redeemable preference shares ($000s),2022,
+755525701,Convertible redeemable preference shares ($000s),2021,-
+755525701,Convertible redeemable preference shares ($000s),2020,-
+755525701,Convertible redeemable preference shares ($000s),2019,-
+755525701,Convertible redeemable preference shares ($000s),2018,-
+755525701,Convertible redeemable preference shares ($000s),2017,-
+755525701,Convertible redeemable preference shares ($000s),2016,-
+755525701,Other non-current liabilities ($000s),2025,$0
+755525701,Other non-current liabilities ($000s),2024,$0
+755525701,Other non-current liabilities ($000s),2023,$0
+755525701,Other non-current liabilities ($000s),2022,$0
+755525701,Other non-current liabilities ($000s),2021,$0
+755525701,Other non-current liabilities ($000s),2020,$0
+755525701,Other non-current liabilities ($000s),2019,$0
+755525701,Other non-current liabilities ($000s),2018,$0
+755525701,Other non-current liabilities ($000s),2017,$0
+755525701,Other non-current liabilities ($000s),2016,$0
+755525701,Total non-current liabilities ($000s),2025,$151
+755525701,Total non-current liabilities ($000s),2024,$385
+755525701,Total non-current liabilities ($000s),2023,$482
+755525701,Total non-current liabilities ($000s),2022,$713
+755525701,Total non-current liabilities ($000s),2021,$837
+755525701,Total non-current liabilities ($000s),2020,$988
+755525701,Total non-current liabilities ($000s),2019,$80
+755525701,Total non-current liabilities ($000s),2018,$51
+755525701,Total non-current liabilities ($000s),2017,$38
+755525701,Total non-current liabilities ($000s),2016,$26
+755525701,TOTAL LIABILITIES ($000s),2025,"$8,013"
+755525701,TOTAL LIABILITIES ($000s),2024,"$9,241"
+755525701,TOTAL LIABILITIES ($000s),2023,"$7,665"
+755525701,TOTAL LIABILITIES ($000s),2022,"$12,360"
+755525701,TOTAL LIABILITIES ($000s),2021,"$14,069"
+755525701,TOTAL LIABILITIES ($000s),2020,"$11,353"
+755525701,TOTAL LIABILITIES ($000s),2019,"$8,980"
+755525701,TOTAL LIABILITIES ($000s),2018,"$6,053"
+755525701,TOTAL LIABILITIES ($000s),2017,"$6,690"
+755525701,TOTAL LIABILITIES ($000s),2016,"$10,196"
+755525701,NET ASSETS ($000s),2025,"$15,313"
+755525701,NET ASSETS ($000s),2024,"$17,646"
+755525701,NET ASSETS ($000s),2023,"$19,653"
+755525701,NET ASSETS ($000s),2022,"$22,677"
+755525701,NET ASSETS ($000s),2021,"$18,965"
+755525701,NET ASSETS ($000s),2020,"$20,204"
+755525701,NET ASSETS ($000s),2019,"$15,220"
+755525701,NET ASSETS ($000s),2018,"$12,220"
+755525701,NET ASSETS ($000s),2017,"$9,378"
+755525701,NET ASSETS ($000s),2016,"$6,035"
+755525701,Equity,2025,
+755525701,Equity,2024,
+755525701,Equity,2023,
+755525701,Equity,2022,
+755525701,Equity,2021,-
+755525701,Equity,2020,-
+755525701,Equity,2019,-
+755525701,Equity,2018,-
+755525701,Equity,2017,-
+755525701,Equity,2016,-
+755525701,Equity attributable to equity holders of the parent,2025,
+755525701,Equity attributable to equity holders of the parent,2024,
+755525701,Equity attributable to equity holders of the parent,2023,
+755525701,Equity attributable to equity holders of the parent,2022,
+755525701,Equity attributable to equity holders of the parent,2021,-
+755525701,Equity attributable to equity holders of the parent,2020,-
+755525701,Equity attributable to equity holders of the parent,2019,-
+755525701,Equity attributable to equity holders of the parent,2018,-
+755525701,Equity attributable to equity holders of the parent,2017,-
+755525701,Equity attributable to equity holders of the parent,2016,-
+755525701,Contributed equity ($000s),2025,"$11,641"
+755525701,Contributed equity ($000s),2024,"$11,641"
+755525701,Contributed equity ($000s),2023,"$11,641"
+755525701,Contributed equity ($000s),2022,"$11,641"
+755525701,Contributed equity ($000s),2021,"$11,641"
+755525701,Contributed equity ($000s),2020,"$11,641"
+755525701,Contributed equity ($000s),2019,"$11,641"
+755525701,Contributed equity ($000s),2018,"$11,641"
+755525701,Contributed equity ($000s),2017,"$11,641"
+755525701,Contributed equity ($000s),2016,"$11,641"
+755525701,Retained earnings ($000s),2025,"$3,673"
+755525701,Retained earnings ($000s),2024,"$6,005"
+755525701,Retained earnings ($000s),2023,"$8,012"
+755525701,Retained earnings ($000s),2022,"$11,036"
+755525701,Retained earnings ($000s),2021,"$7,324"
+755525701,Retained earnings ($000s),2020,"$8,563"
+755525701,Retained earnings ($000s),2019,"$3,579"
+755525701,Retained earnings ($000s),2018,$579
+755525701,Retained earnings ($000s),2017,"($2,263)"
+755525701,Retained earnings ($000s),2016,"($5,606)"
+755525701,Reserves ($000s),2025,$0
+755525701,Reserves ($000s),2024,$0
+755525701,Reserves ($000s),2023,$0
+755525701,Reserves ($000s),2022,$0
+755525701,Reserves ($000s),2021,$0
+755525701,Reserves ($000s),2020,$0
+755525701,Reserves ($000s),2019,$0
+755525701,Reserves ($000s),2018,$0
+755525701,Reserves ($000s),2017,$0
+755525701,Reserves ($000s),2016,$0
+755525701,Total Parent interests ($000s),2025,"$15,313"
+755525701,Total Parent interests ($000s),2024,"$17,646"
+755525701,Total Parent interests ($000s),2023,"$19,653"
+755525701,Total Parent interests ($000s),2022,"$22,677"
+755525701,Total Parent interests ($000s),2021,"$18,965"
+755525701,Total Parent interests ($000s),2020,"$20,204"
+755525701,Total Parent interests ($000s),2019,"$15,220"
+755525701,Total Parent interests ($000s),2018,"$12,220"
+755525701,Total Parent interests ($000s),2017,"$9,378"
+755525701,Total Parent interests ($000s),2016,"$6,035"
+755525701,Minority interests ($000s),2025,
+755525701,Minority interests ($000s),2024,
+755525701,Minority interests ($000s),2023,
+755525701,Minority interests ($000s),2022,
+755525701,Minority interests ($000s),2021,-
+755525701,Minority interests ($000s),2020,-
+755525701,Minority interests ($000s),2019,-
+755525701,Minority interests ($000s),2018,-
+755525701,Minority interests ($000s),2017,-
+755525701,Minority interests ($000s),2016,-
+755525701,TOTAL EQUITY ($000s),2025,"$15,313"
+755525701,TOTAL EQUITY ($000s),2024,"$17,646"
+755525701,TOTAL EQUITY ($000s),2023,"$19,653"
+755525701,TOTAL EQUITY ($000s),2022,"$22,677"
+755525701,TOTAL EQUITY ($000s),2021,"$18,965"
+755525701,TOTAL EQUITY ($000s),2020,"$20,204"
+755525701,TOTAL EQUITY ($000s),2019,"$15,220"
+755525701,TOTAL EQUITY ($000s),2018,"$12,220"
+755525701,TOTAL EQUITY ($000s),2017,"$9,378"
+755525701,TOTAL EQUITY ($000s),2016,"$6,035"
+755525701,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2025,"$17,646"
+755525701,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2024,"$19,653"
+755525701,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2023,"$22,677"
+755525701,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2022,"$18,965"
+755525701,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2021,"$20,204"
+755525701,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2020,"$15,220"
+755525701,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2019,"$12,220"
+755525701,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2018,"$9,378"
+755525701,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2017,"$6,035"
+755525701,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2016,"$4,704"

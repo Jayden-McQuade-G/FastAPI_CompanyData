@@ -1,0 +1,301 @@
+duns,line_item,year,value
+754987498,Cash flow statement,2024,
+754987498,Cash flow statement,2023,
+754987498,Cash flow statement,2022,
+754987498,Cash flow statement,2021,
+754987498,Cash flow statement,2020,-
+754987498,Cash flow statement,2019,-
+754987498,Cash flow statement,2018,-
+754987498,Cash flow statement,2017,-
+754987498,Cash flow statement,2016,-
+754987498,Cash flow statement,2015,-
+754987498,Receipts from customers ($000s),2024,"$33,329"
+754987498,Receipts from customers ($000s),2023,"$29,415"
+754987498,Receipts from customers ($000s),2022,"$28,963"
+754987498,Receipts from customers ($000s),2021,"$22,852"
+754987498,Receipts from customers ($000s),2020,"$20,744"
+754987498,Receipts from customers ($000s),2019,"$20,713"
+754987498,Receipts from customers ($000s),2018,"$17,780"
+754987498,Receipts from customers ($000s),2017,"$12,511"
+754987498,Receipts from customers ($000s),2016,"$8,040"
+754987498,Receipts from customers ($000s),2015,"$4,863"
+754987498,Payments to suppliers and employees ($000s),2024,"($18,665)"
+754987498,Payments to suppliers and employees ($000s),2023,"($14,618)"
+754987498,Payments to suppliers and employees ($000s),2022,"($15,648)"
+754987498,Payments to suppliers and employees ($000s),2021,"($12,638)"
+754987498,Payments to suppliers and employees ($000s),2020,"($15,193)"
+754987498,Payments to suppliers and employees ($000s),2019,"($12,241)"
+754987498,Payments to suppliers and employees ($000s),2018,"($12,962)"
+754987498,Payments to suppliers and employees ($000s),2017,"($9,311)"
+754987498,Payments to suppliers and employees ($000s),2016,"($5,867)"
+754987498,Payments to suppliers and employees ($000s),2015,"($3,688)"
+754987498,Interest paid ($000s),2024,($1)
+754987498,Interest paid ($000s),2023,-
+754987498,Interest paid ($000s),2022,-
+754987498,Interest paid ($000s),2021,$0
+754987498,Interest paid ($000s),2020,$0
+754987498,Interest paid ($000s),2019,$0
+754987498,Interest paid ($000s),2018,$0
+754987498,Interest paid ($000s),2017,($23)
+754987498,Interest paid ($000s),2016,($27)
+754987498,Interest paid ($000s),2015,($22)
+754987498,Tax paid ($000s),2024,"($4,698)"
+754987498,Tax paid ($000s),2023,"($6,269)"
+754987498,Tax paid ($000s),2022,"($3,980)"
+754987498,Tax paid ($000s),2021,"($1,311)"
+754987498,Tax paid ($000s),2020,"($3,216)"
+754987498,Tax paid ($000s),2019,"($1,969)"
+754987498,Tax paid ($000s),2018,-
+754987498,Tax paid ($000s),2017,-
+754987498,Tax paid ($000s),2016,-
+754987498,Tax paid ($000s),2015,-
+754987498,Other receipts ($000s),2024,$144
+754987498,Other receipts ($000s),2023,$119
+754987498,Other receipts ($000s),2022,$19
+754987498,Other receipts ($000s),2021,$29
+754987498,Other receipts ($000s),2020,$31
+754987498,Other receipts ($000s),2019,$41
+754987498,Other receipts ($000s),2018,$23
+754987498,Other receipts ($000s),2017,$11
+754987498,Other receipts ($000s),2016,$11
+754987498,Other receipts ($000s),2015,$10
+754987498,Other payments ($000s),2024,$0
+754987498,Other payments ($000s),2023,$0
+754987498,Other payments ($000s),2022,$0
+754987498,Other payments ($000s),2021,$0
+754987498,Other payments ($000s),2020,$0
+754987498,Other payments ($000s),2019,$0
+754987498,Other payments ($000s),2018,$0
+754987498,Other payments ($000s),2017,$0
+754987498,Other payments ($000s),2016,$0
+754987498,Other payments ($000s),2015,$0
+754987498,Net cashflow from/(used in) operating activities ($000s),2024,"$10,109"
+754987498,Net cashflow from/(used in) operating activities ($000s),2023,"$8,647"
+754987498,Net cashflow from/(used in) operating activities ($000s),2022,"$9,354"
+754987498,Net cashflow from/(used in) operating activities ($000s),2021,"$8,932"
+754987498,Net cashflow from/(used in) operating activities ($000s),2020,"$2,367"
+754987498,Net cashflow from/(used in) operating activities ($000s),2019,"$6,543"
+754987498,Net cashflow from/(used in) operating activities ($000s),2018,"$4,840"
+754987498,Net cashflow from/(used in) operating activities ($000s),2017,"$3,188"
+754987498,Net cashflow from/(used in) operating activities ($000s),2016,"$2,157"
+754987498,Net cashflow from/(used in) operating activities ($000s),2015,"$1,163"
+754987498,Purchase of property plant and equipment ($000s),2024,($15)
+754987498,Purchase of property plant and equipment ($000s),2023,-
+754987498,Purchase of property plant and equipment ($000s),2022,-
+754987498,Purchase of property plant and equipment ($000s),2021,-
+754987498,Purchase of property plant and equipment ($000s),2020,($14)
+754987498,Purchase of property plant and equipment ($000s),2019,($11)
+754987498,Purchase of property plant and equipment ($000s),2018,($17)
+754987498,Purchase of property plant and equipment ($000s),2017,($1)
+754987498,Purchase of property plant and equipment ($000s),2016,($49)
+754987498,Purchase of property plant and equipment ($000s),2015,($10)
+754987498,Purchase of intangibles ($000s),2024,-
+754987498,Purchase of intangibles ($000s),2023,-
+754987498,Purchase of intangibles ($000s),2022,-
+754987498,Purchase of intangibles ($000s),2021,-
+754987498,Purchase of intangibles ($000s),2020,-
+754987498,Purchase of intangibles ($000s),2019,-
+754987498,Purchase of intangibles ($000s),2018,-
+754987498,Purchase of intangibles ($000s),2017,-
+754987498,Purchase of intangibles ($000s),2016,($270)
+754987498,Purchase of intangibles ($000s),2015,($119)
+754987498,Proceeds from the sale of property plant and equipment ($000s),2024,$0
+754987498,Proceeds from the sale of property plant and equipment ($000s),2023,$0
+754987498,Proceeds from the sale of property plant and equipment ($000s),2022,$0
+754987498,Proceeds from the sale of property plant and equipment ($000s),2021,$0
+754987498,Proceeds from the sale of property plant and equipment ($000s),2020,$0
+754987498,Proceeds from the sale of property plant and equipment ($000s),2019,$0
+754987498,Proceeds from the sale of property plant and equipment ($000s),2018,$0
+754987498,Proceeds from the sale of property plant and equipment ($000s),2017,$0
+754987498,Proceeds from the sale of property plant and equipment ($000s),2016,$0
+754987498,Proceeds from the sale of property plant and equipment ($000s),2015,$0
+754987498,Proceeds from the disposal of investments/subsidiaries ($000s),2024,$0
+754987498,Proceeds from the disposal of investments/subsidiaries ($000s),2023,$0
+754987498,Proceeds from the disposal of investments/subsidiaries ($000s),2022,$0
+754987498,Proceeds from the disposal of investments/subsidiaries ($000s),2021,$0
+754987498,Proceeds from the disposal of investments/subsidiaries ($000s),2020,$0
+754987498,Proceeds from the disposal of investments/subsidiaries ($000s),2019,$0
+754987498,Proceeds from the disposal of investments/subsidiaries ($000s),2018,$0
+754987498,Proceeds from the disposal of investments/subsidiaries ($000s),2017,$0
+754987498,Proceeds from the disposal of investments/subsidiaries ($000s),2016,$0
+754987498,Proceeds from the disposal of investments/subsidiaries ($000s),2015,$0
+754987498,Purchase of subisidiary/investment ($000s),2024,$0
+754987498,Purchase of subisidiary/investment ($000s),2023,$0
+754987498,Purchase of subisidiary/investment ($000s),2022,$0
+754987498,Purchase of subisidiary/investment ($000s),2021,$0
+754987498,Purchase of subisidiary/investment ($000s),2020,$0
+754987498,Purchase of subisidiary/investment ($000s),2019,$0
+754987498,Purchase of subisidiary/investment ($000s),2018,$0
+754987498,Purchase of subisidiary/investment ($000s),2017,$0
+754987498,Purchase of subisidiary/investment ($000s),2016,$0
+754987498,Purchase of subisidiary/investment ($000s),2015,$0
+754987498,Interest received ($000s),2024,
+754987498,Interest received ($000s),2023,
+754987498,Interest received ($000s),2022,
+754987498,Interest received ($000s),2021,
+754987498,Interest received ($000s),2020,-
+754987498,Interest received ($000s),2019,-
+754987498,Interest received ($000s),2018,-
+754987498,Interest received ($000s),2017,-
+754987498,Interest received ($000s),2016,-
+754987498,Interest received ($000s),2015,-
+754987498,Dividends received ($000s),2024,
+754987498,Dividends received ($000s),2023,
+754987498,Dividends received ($000s),2022,
+754987498,Dividends received ($000s),2021,
+754987498,Dividends received ($000s),2020,-
+754987498,Dividends received ($000s),2019,-
+754987498,Dividends received ($000s),2018,-
+754987498,Dividends received ($000s),2017,-
+754987498,Dividends received ($000s),2016,-
+754987498,Dividends received ($000s),2015,-
+754987498,Other investing inflows/(outflows) ($000s),2024,$0
+754987498,Other investing inflows/(outflows) ($000s),2023,"($2,004)"
+754987498,Other investing inflows/(outflows) ($000s),2022,"($2,861)"
+754987498,Other investing inflows/(outflows) ($000s),2021,$220
+754987498,Other investing inflows/(outflows) ($000s),2020,$137
+754987498,Other investing inflows/(outflows) ($000s),2019,($848)
+754987498,Other investing inflows/(outflows) ($000s),2018,($138)
+754987498,Other investing inflows/(outflows) ($000s),2017,$103
+754987498,Other investing inflows/(outflows) ($000s),2016,$0
+754987498,Other investing inflows/(outflows) ($000s),2015,$0
+754987498,Net cashflow from/(used in) investing activities ($000s),2024,($15)
+754987498,Net cashflow from/(used in) investing activities ($000s),2023,"($2,004)"
+754987498,Net cashflow from/(used in) investing activities ($000s),2022,"($2,861)"
+754987498,Net cashflow from/(used in) investing activities ($000s),2021,$220
+754987498,Net cashflow from/(used in) investing activities ($000s),2020,$123
+754987498,Net cashflow from/(used in) investing activities ($000s),2019,($859)
+754987498,Net cashflow from/(used in) investing activities ($000s),2018,($155)
+754987498,Net cashflow from/(used in) investing activities ($000s),2017,$102
+754987498,Net cashflow from/(used in) investing activities ($000s),2016,($319)
+754987498,Net cashflow from/(used in) investing activities ($000s),2015,($129)
+754987498,Proceeds from the issue of shares ($000s),2024,$0
+754987498,Proceeds from the issue of shares ($000s),2023,$0
+754987498,Proceeds from the issue of shares ($000s),2022,$0
+754987498,Proceeds from the issue of shares ($000s),2021,$0
+754987498,Proceeds from the issue of shares ($000s),2020,$0
+754987498,Proceeds from the issue of shares ($000s),2019,$0
+754987498,Proceeds from the issue of shares ($000s),2018,$0
+754987498,Proceeds from the issue of shares ($000s),2017,$0
+754987498,Proceeds from the issue of shares ($000s),2016,$0
+754987498,Proceeds from the issue of shares ($000s),2015,$0
+754987498,Proceeds from borrowings ($000s),2024,$0
+754987498,Proceeds from borrowings ($000s),2023,"$1,200"
+754987498,Proceeds from borrowings ($000s),2022,$0
+754987498,Proceeds from borrowings ($000s),2021,$0
+754987498,Proceeds from borrowings ($000s),2020,$0
+754987498,Proceeds from borrowings ($000s),2019,$0
+754987498,Proceeds from borrowings ($000s),2018,$0
+754987498,Proceeds from borrowings ($000s),2017,$0
+754987498,Proceeds from borrowings ($000s),2016,$300
+754987498,Proceeds from borrowings ($000s),2015,$200
+754987498,Repayment of borrowings  ($000s),2024,-
+754987498,Repayment of borrowings  ($000s),2023,($666)
+754987498,Repayment of borrowings  ($000s),2022,($27)
+754987498,Repayment of borrowings  ($000s),2021,-
+754987498,Repayment of borrowings  ($000s),2020,-
+754987498,Repayment of borrowings  ($000s),2019,-
+754987498,Repayment of borrowings  ($000s),2018,-
+754987498,Repayment of borrowings  ($000s),2017,"($1,500)"
+754987498,Repayment of borrowings  ($000s),2016,"($1,600)"
+754987498,Repayment of borrowings  ($000s),2015,"($1,150)"
+754987498,Repayment of finance lease liabilities ($000s),2024,
+754987498,Repayment of finance lease liabilities ($000s),2023,
+754987498,Repayment of finance lease liabilities ($000s),2022,
+754987498,Repayment of finance lease liabilities ($000s),2021,
+754987498,Repayment of finance lease liabilities ($000s),2020,-
+754987498,Repayment of finance lease liabilities ($000s),2019,-
+754987498,Repayment of finance lease liabilities ($000s),2018,-
+754987498,Repayment of finance lease liabilities ($000s),2017,-
+754987498,Repayment of finance lease liabilities ($000s),2016,-
+754987498,Repayment of finance lease liabilities ($000s),2015,-
+754987498,Interest Paid ($000s),2024,
+754987498,Interest Paid ($000s),2023,
+754987498,Interest Paid ($000s),2022,
+754987498,Interest Paid ($000s),2021,
+754987498,Interest Paid ($000s),2020,-
+754987498,Interest Paid ($000s),2019,-
+754987498,Interest Paid ($000s),2018,-
+754987498,Interest Paid ($000s),2017,-
+754987498,Interest Paid ($000s),2016,-
+754987498,Interest Paid ($000s),2015,-
+754987498,Dividends paid ($000s),2024,"($10,064)"
+754987498,Dividends paid ($000s),2023,"($8,627)"
+754987498,Dividends paid ($000s),2022,"($9,345)"
+754987498,Dividends paid ($000s),2021,"($6,829)"
+754987498,Dividends paid ($000s),2020,"($2,516)"
+754987498,Dividends paid ($000s),2019,"($6,276)"
+754987498,Dividends paid ($000s),2018,"($4,673)"
+754987498,Dividends paid ($000s),2017,-
+754987498,Dividends paid ($000s),2016,-
+754987498,Dividends paid ($000s),2015,-
+754987498,Other inflows/(outflows) from financing activities ($000s),2024,$343
+754987498,Other inflows/(outflows) from financing activities ($000s),2023,$0
+754987498,Other inflows/(outflows) from financing activities ($000s),2022,"$2,861"
+754987498,Other inflows/(outflows) from financing activities ($000s),2021,$714
+754987498,Other inflows/(outflows) from financing activities ($000s),2020,$295
+754987498,Other inflows/(outflows) from financing activities ($000s),2019,($494)
+754987498,Other inflows/(outflows) from financing activities ($000s),2018,$0
+754987498,Other inflows/(outflows) from financing activities ($000s),2017,$0
+754987498,Other inflows/(outflows) from financing activities ($000s),2016,$0
+754987498,Other inflows/(outflows) from financing activities ($000s),2015,$0
+754987498,Net cash flows from/(used in) financing activities ($000s),2024,"($9,721)"
+754987498,Net cash flows from/(used in) financing activities ($000s),2023,"($8,093)"
+754987498,Net cash flows from/(used in) financing activities ($000s),2022,"($6,512)"
+754987498,Net cash flows from/(used in) financing activities ($000s),2021,"($6,115)"
+754987498,Net cash flows from/(used in) financing activities ($000s),2020,"($2,221)"
+754987498,Net cash flows from/(used in) financing activities ($000s),2019,"($6,769)"
+754987498,Net cash flows from/(used in) financing activities ($000s),2018,"($4,673)"
+754987498,Net cash flows from/(used in) financing activities ($000s),2017,"($1,500)"
+754987498,Net cash flows from/(used in) financing activities ($000s),2016,"($1,300)"
+754987498,Net cash flows from/(used in) financing activities ($000s),2015,($950)
+754987498,Net increase/(decrease) in cash and cash equivalents ($000s),2024,$373
+754987498,Net increase/(decrease) in cash and cash equivalents ($000s),2023,"($1,450)"
+754987498,Net increase/(decrease) in cash and cash equivalents ($000s),2022,($18)
+754987498,Net increase/(decrease) in cash and cash equivalents ($000s),2021,"$3,037"
+754987498,Net increase/(decrease) in cash and cash equivalents ($000s),2020,$269
+754987498,Net increase/(decrease) in cash and cash equivalents ($000s),2019,"($1,085)"
+754987498,Net increase/(decrease) in cash and cash equivalents ($000s),2018,$13
+754987498,Net increase/(decrease) in cash and cash equivalents ($000s),2017,"$1,790"
+754987498,Net increase/(decrease) in cash and cash equivalents ($000s),2016,$538
+754987498,Net increase/(decrease) in cash and cash equivalents ($000s),2015,$84
+754987498,Other increase/(decrease) in cash and cash equivalents ($000s),2024,
+754987498,Other increase/(decrease) in cash and cash equivalents ($000s),2023,
+754987498,Other increase/(decrease) in cash and cash equivalents ($000s),2022,
+754987498,Other increase/(decrease) in cash and cash equivalents ($000s),2021,
+754987498,Other increase/(decrease) in cash and cash equivalents ($000s),2020,-
+754987498,Other increase/(decrease) in cash and cash equivalents ($000s),2019,-
+754987498,Other increase/(decrease) in cash and cash equivalents ($000s),2018,-
+754987498,Other increase/(decrease) in cash and cash equivalents ($000s),2017,-
+754987498,Other increase/(decrease) in cash and cash equivalents ($000s),2016,-
+754987498,Other increase/(decrease) in cash and cash equivalents ($000s),2015,-
+754987498,Net foreign exchange differences ($000s),2024,
+754987498,Net foreign exchange differences ($000s),2023,
+754987498,Net foreign exchange differences ($000s),2022,
+754987498,Net foreign exchange differences ($000s),2021,
+754987498,Net foreign exchange differences ($000s),2020,-
+754987498,Net foreign exchange differences ($000s),2019,-
+754987498,Net foreign exchange differences ($000s),2018,-
+754987498,Net foreign exchange differences ($000s),2017,-
+754987498,Net foreign exchange differences ($000s),2016,-
+754987498,Net foreign exchange differences ($000s),2015,-
+754987498,Cash and cash equivalents at the beginning of the period ($000s),2024,"$3,717"
+754987498,Cash and cash equivalents at the beginning of the period ($000s),2023,"$5,167"
+754987498,Cash and cash equivalents at the beginning of the period ($000s),2022,"$5,185"
+754987498,Cash and cash equivalents at the beginning of the period ($000s),2021,"$2,148"
+754987498,Cash and cash equivalents at the beginning of the period ($000s),2020,"$1,906"
+754987498,Cash and cash equivalents at the beginning of the period ($000s),2019,"$2,991"
+754987498,Cash and cash equivalents at the beginning of the period ($000s),2018,"$2,705"
+754987498,Cash and cash equivalents at the beginning of the period ($000s),2017,$916
+754987498,Cash and cash equivalents at the beginning of the period ($000s),2016,$377
+754987498,Cash and cash equivalents at the beginning of the period ($000s),2015,$293
+754987498,Cash and cash equivalents at the end of the period ($000s),2024,"$4,089"
+754987498,Cash and cash equivalents at the end of the period ($000s),2023,"$3,717"
+754987498,Cash and cash equivalents at the end of the period ($000s),2022,"$5,167"
+754987498,Cash and cash equivalents at the end of the period ($000s),2021,"$5,185"
+754987498,Cash and cash equivalents at the end of the period ($000s),2020,"$2,175"
+754987498,Cash and cash equivalents at the end of the period ($000s),2019,"$1,906"
+754987498,Cash and cash equivalents at the end of the period ($000s),2018,"$2,718"
+754987498,Cash and cash equivalents at the end of the period ($000s),2017,"$2,705"
+754987498,Cash and cash equivalents at the end of the period ($000s),2016,$916
+754987498,Cash and cash equivalents at the end of the period ($000s),2015,$377

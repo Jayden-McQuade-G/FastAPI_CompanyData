@@ -1,0 +1,471 @@
+duns,line_item,year,value
+752194444,Revenue from continuing operations ($000s),2024,"$34,015"
+752194444,Revenue from continuing operations ($000s),2023,"$38,543"
+752194444,Revenue from continuing operations ($000s),2022,"$40,523"
+752194444,Revenue from continuing operations ($000s),2021,"$37,808"
+752194444,Revenue from continuing operations ($000s),2020,"$46,115"
+752194444,Revenue from continuing operations ($000s),2019,"$46,611"
+752194444,Revenue from continuing operations ($000s),2018,"$44,076"
+752194444,Revenue from continuing operations ($000s),2017,"$36,881"
+752194444,Revenue from continuing operations ($000s),2016,"$33,371"
+752194444,Revenue from continuing operations ($000s),2015,"$31,573"
+752194444,Growth,2024,(11.75%)
+752194444,Growth,2023,(4.89%)
+752194444,Growth,2022,7.18%
+752194444,Growth,2021,(18.01%)
+752194444,Growth,2020,(1.06%)
+752194444,Growth,2019,5.75%
+752194444,Growth,2018,19.51%
+752194444,Growth,2017,10.52%
+752194444,Growth,2016,5.69%
+752194444,Growth,2015,-
+752194444,Cost of sales ($000s),2024,"($23,007)"
+752194444,Cost of sales ($000s),2023,"($26,199)"
+752194444,Cost of sales ($000s),2022,"($27,645)"
+752194444,Cost of sales ($000s),2021,"($25,622)"
+752194444,Cost of sales ($000s),2020,"($32,263)"
+752194444,Cost of sales ($000s),2019,"($32,202)"
+752194444,Cost of sales ($000s),2018,"($29,493)"
+752194444,Cost of sales ($000s),2017,"($24,918)"
+752194444,Cost of sales ($000s),2016,"($22,330)"
+752194444,Cost of sales ($000s),2015,"($21,155)"
+752194444,Gross profit ($000s),2024,"$11,008"
+752194444,Gross profit ($000s),2023,"$12,344"
+752194444,Gross profit ($000s),2022,"$12,878"
+752194444,Gross profit ($000s),2021,"$12,186"
+752194444,Gross profit ($000s),2020,"$13,852"
+752194444,Gross profit ($000s),2019,"$14,409"
+752194444,Gross profit ($000s),2018,"$14,584"
+752194444,Gross profit ($000s),2017,"$11,963"
+752194444,Gross profit ($000s),2016,"$11,042"
+752194444,Gross profit ($000s),2015,"$10,418"
+752194444,Other income ($000s),2024,
+752194444,Other income ($000s),2023,
+752194444,Other income ($000s),2022,
+752194444,Other income ($000s),2021,
+752194444,Other income ($000s),2020,-
+752194444,Other income ($000s),2019,-
+752194444,Other income ($000s),2018,-
+752194444,Other income ($000s),2017,-
+752194444,Other income ($000s),2016,-
+752194444,Other income ($000s),2015,-
+752194444,Administrative expenses ($000s),2024,-
+752194444,Administrative expenses ($000s),2023,-
+752194444,Administrative expenses ($000s),2022,-
+752194444,Administrative expenses ($000s),2021,-
+752194444,Administrative expenses ($000s),2020,-
+752194444,Administrative expenses ($000s),2019,"($3,561)"
+752194444,Administrative expenses ($000s),2018,"($3,250)"
+752194444,Administrative expenses ($000s),2017,"($2,633)"
+752194444,Administrative expenses ($000s),2016,"($2,505)"
+752194444,Administrative expenses ($000s),2015,"($2,412)"
+752194444,Finance costs ($000s),2024,($667)
+752194444,Finance costs ($000s),2023,($774)
+752194444,Finance costs ($000s),2022,($804)
+752194444,Finance costs ($000s),2021,($855)
+752194444,Finance costs ($000s),2020,"($1,004)"
+752194444,Finance costs ($000s),2019,($353)
+752194444,Finance costs ($000s),2018,($355)
+752194444,Finance costs ($000s),2017,($310)
+752194444,Finance costs ($000s),2016,($357)
+752194444,Finance costs ($000s),2015,($328)
+752194444,Share of associate profits/(losses) ($000s),2024,
+752194444,Share of associate profits/(losses) ($000s),2023,
+752194444,Share of associate profits/(losses) ($000s),2022,
+752194444,Share of associate profits/(losses) ($000s),2021,
+752194444,Share of associate profits/(losses) ($000s),2020,-
+752194444,Share of associate profits/(losses) ($000s),2019,-
+752194444,Share of associate profits/(losses) ($000s),2018,-
+752194444,Share of associate profits/(losses) ($000s),2017,-
+752194444,Share of associate profits/(losses) ($000s),2016,-
+752194444,Share of associate profits/(losses) ($000s),2015,-
+752194444,Profit/(loss) from continuing operations before income tax ($000s),2024,($6)
+752194444,Profit/(loss) from continuing operations before income tax ($000s),2023,$158
+752194444,Profit/(loss) from continuing operations before income tax ($000s),2022,"$1,201"
+752194444,Profit/(loss) from continuing operations before income tax ($000s),2021,$115
+752194444,Profit/(loss) from continuing operations before income tax ($000s),2020,$217
+752194444,Profit/(loss) from continuing operations before income tax ($000s),2019,"$1,103"
+752194444,Profit/(loss) from continuing operations before income tax ($000s),2018,"$1,827"
+752194444,Profit/(loss) from continuing operations before income tax ($000s),2017,"$1,997"
+752194444,Profit/(loss) from continuing operations before income tax ($000s),2016,"$1,599"
+752194444,Profit/(loss) from continuing operations before income tax ($000s),2015,"$1,197"
+752194444,Income tax expense ($000s),2024,$1
+752194444,Income tax expense ($000s),2023,($30)
+752194444,Income tax expense ($000s),2022,($317)
+752194444,Income tax expense ($000s),2021,($37)
+752194444,Income tax expense ($000s),2020,($47)
+752194444,Income tax expense ($000s),2019,($321)
+752194444,Income tax expense ($000s),2018,($548)
+752194444,Income tax expense ($000s),2017,($599)
+752194444,Income tax expense ($000s),2016,($480)
+752194444,Income tax expense ($000s),2015,($359)
+752194444,Profit from continuing operations after income tax ($000s),2024,($4)
+752194444,Profit from continuing operations after income tax ($000s),2023,$128
+752194444,Profit from continuing operations after income tax ($000s),2022,$883
+752194444,Profit from continuing operations after income tax ($000s),2021,$78
+752194444,Profit from continuing operations after income tax ($000s),2020,$170
+752194444,Profit from continuing operations after income tax ($000s),2019,$782
+752194444,Profit from continuing operations after income tax ($000s),2018,"$1,279"
+752194444,Profit from continuing operations after income tax ($000s),2017,"$1,398"
+752194444,Profit from continuing operations after income tax ($000s),2016,"$1,119"
+752194444,Profit from continuing operations after income tax ($000s),2015,$838
+752194444,Profit/(loss) from discontinued operations after tax ($000s),2024,
+752194444,Profit/(loss) from discontinued operations after tax ($000s),2023,
+752194444,Profit/(loss) from discontinued operations after tax ($000s),2022,
+752194444,Profit/(loss) from discontinued operations after tax ($000s),2021,
+752194444,Profit/(loss) from discontinued operations after tax ($000s),2020,-
+752194444,Profit/(loss) from discontinued operations after tax ($000s),2019,-
+752194444,Profit/(loss) from discontinued operations after tax ($000s),2018,-
+752194444,Profit/(loss) from discontinued operations after tax ($000s),2017,-
+752194444,Profit/(loss) from discontinued operations after tax ($000s),2016,-
+752194444,Profit/(loss) from discontinued operations after tax ($000s),2015,-
+752194444,Profit/(loss) from restructuring activites after tax ($000s),2024,
+752194444,Profit/(loss) from restructuring activites after tax ($000s),2023,
+752194444,Profit/(loss) from restructuring activites after tax ($000s),2022,
+752194444,Profit/(loss) from restructuring activites after tax ($000s),2021,
+752194444,Profit/(loss) from restructuring activites after tax ($000s),2020,-
+752194444,Profit/(loss) from restructuring activites after tax ($000s),2019,-
+752194444,Profit/(loss) from restructuring activites after tax ($000s),2018,-
+752194444,Profit/(loss) from restructuring activites after tax ($000s),2017,-
+752194444,Profit/(loss) from restructuring activites after tax ($000s),2016,-
+752194444,Profit/(loss) from restructuring activites after tax ($000s),2015,-
+752194444,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2024,
+752194444,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2023,
+752194444,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2022,
+752194444,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2021,
+752194444,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2020,-
+752194444,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2019,-
+752194444,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2018,-
+752194444,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2017,-
+752194444,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2016,-
+752194444,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2015,-
+752194444,Profit/(loss) from disposals of investments after tax ($000s),2024,
+752194444,Profit/(loss) from disposals of investments after tax ($000s),2023,
+752194444,Profit/(loss) from disposals of investments after tax ($000s),2022,
+752194444,Profit/(loss) from disposals of investments after tax ($000s),2021,
+752194444,Profit/(loss) from disposals of investments after tax ($000s),2020,-
+752194444,Profit/(loss) from disposals of investments after tax ($000s),2019,-
+752194444,Profit/(loss) from disposals of investments after tax ($000s),2018,-
+752194444,Profit/(loss) from disposals of investments after tax ($000s),2017,-
+752194444,Profit/(loss) from disposals of investments after tax ($000s),2016,-
+752194444,Profit/(loss) from disposals of investments after tax ($000s),2015,-
+752194444,Net profit for the period ($000s),2024,($4)
+752194444,Net profit for the period ($000s),2023,$128
+752194444,Net profit for the period ($000s),2022,$883
+752194444,Net profit for the period ($000s),2021,$78
+752194444,Net profit for the period ($000s),2020,$170
+752194444,Net profit for the period ($000s),2019,$782
+752194444,Net profit for the period ($000s),2018,"$1,279"
+752194444,Net profit for the period ($000s),2017,"$1,398"
+752194444,Net profit for the period ($000s),2016,"$1,119"
+752194444,Net profit for the period ($000s),2015,$838
+752194444,Attributable To:,2024,
+752194444,Attributable To:,2023,
+752194444,Attributable To:,2022,
+752194444,Attributable To:,2021,
+752194444,Attributable To:,2020,-
+752194444,Attributable To:,2019,-
+752194444,Attributable To:,2018,-
+752194444,Attributable To:,2017,-
+752194444,Attributable To:,2016,-
+752194444,Attributable To:,2015,-
+752194444,Minority interest ($000s),2024,
+752194444,Minority interest ($000s),2023,
+752194444,Minority interest ($000s),2022,
+752194444,Minority interest ($000s),2021,
+752194444,Minority interest ($000s),2020,-
+752194444,Minority interest ($000s),2019,-
+752194444,Minority interest ($000s),2018,-
+752194444,Minority interest ($000s),2017,-
+752194444,Minority interest ($000s),2016,-
+752194444,Minority interest ($000s),2015,-
+752194444,Members of the parent ($000s),2024,
+752194444,Members of the parent ($000s),2023,
+752194444,Members of the parent ($000s),2022,
+752194444,Members of the parent ($000s),2021,
+752194444,Members of the parent ($000s),2020,-
+752194444,Members of the parent ($000s),2019,-
+752194444,Members of the parent ($000s),2018,-
+752194444,Members of the parent ($000s),2017,-
+752194444,Members of the parent ($000s),2016,-
+752194444,Members of the parent ($000s),2015,-
+752194444,Weighted average number of ordinary shares for basic earnings per share (000s),2024,
+752194444,Weighted average number of ordinary shares for basic earnings per share (000s),2023,
+752194444,Weighted average number of ordinary shares for basic earnings per share (000s),2022,
+752194444,Weighted average number of ordinary shares for basic earnings per share (000s),2021,
+752194444,Weighted average number of ordinary shares for basic earnings per share (000s),2020,-
+752194444,Weighted average number of ordinary shares for basic earnings per share (000s),2019,-
+752194444,Weighted average number of ordinary shares for basic earnings per share (000s),2018,-
+752194444,Weighted average number of ordinary shares for basic earnings per share (000s),2017,-
+752194444,Weighted average number of ordinary shares for basic earnings per share (000s),2016,-
+752194444,Weighted average number of ordinary shares for basic earnings per share (000s),2015,-
+752194444,Weighted average number of ordinary shares for diluted earnings per share (000s),2024,
+752194444,Weighted average number of ordinary shares for diluted earnings per share (000s),2023,
+752194444,Weighted average number of ordinary shares for diluted earnings per share (000s),2022,
+752194444,Weighted average number of ordinary shares for diluted earnings per share (000s),2021,
+752194444,Weighted average number of ordinary shares for diluted earnings per share (000s),2020,-
+752194444,Weighted average number of ordinary shares for diluted earnings per share (000s),2019,-
+752194444,Weighted average number of ordinary shares for diluted earnings per share (000s),2018,-
+752194444,Weighted average number of ordinary shares for diluted earnings per share (000s),2017,-
+752194444,Weighted average number of ordinary shares for diluted earnings per share (000s),2016,-
+752194444,Weighted average number of ordinary shares for diluted earnings per share (000s),2015,-
+752194444,Basic earnings per share from continuing operations (cents),2024,
+752194444,Basic earnings per share from continuing operations (cents),2023,
+752194444,Basic earnings per share from continuing operations (cents),2022,
+752194444,Basic earnings per share from continuing operations (cents),2021,
+752194444,Basic earnings per share from continuing operations (cents),2020,-
+752194444,Basic earnings per share from continuing operations (cents),2019,-
+752194444,Basic earnings per share from continuing operations (cents),2018,-
+752194444,Basic earnings per share from continuing operations (cents),2017,-
+752194444,Basic earnings per share from continuing operations (cents),2016,-
+752194444,Basic earnings per share from continuing operations (cents),2015,-
+752194444,Diluted earnings per share from continuing operations (cents),2024,
+752194444,Diluted earnings per share from continuing operations (cents),2023,
+752194444,Diluted earnings per share from continuing operations (cents),2022,
+752194444,Diluted earnings per share from continuing operations (cents),2021,
+752194444,Diluted earnings per share from continuing operations (cents),2020,-
+752194444,Diluted earnings per share from continuing operations (cents),2019,-
+752194444,Diluted earnings per share from continuing operations (cents),2018,-
+752194444,Diluted earnings per share from continuing operations (cents),2017,-
+752194444,Diluted earnings per share from continuing operations (cents),2016,-
+752194444,Diluted earnings per share from continuing operations (cents),2015,-
+752194444,Basic earnings per share (cents),2024,
+752194444,Basic earnings per share (cents),2023,
+752194444,Basic earnings per share (cents),2022,
+752194444,Basic earnings per share (cents),2021,
+752194444,Basic earnings per share (cents),2020,-
+752194444,Basic earnings per share (cents),2019,-
+752194444,Basic earnings per share (cents),2018,-
+752194444,Basic earnings per share (cents),2017,-
+752194444,Basic earnings per share (cents),2016,-
+752194444,Basic earnings per share (cents),2015,-
+752194444,Diluted earnings per share (cents),2024,
+752194444,Diluted earnings per share (cents),2023,
+752194444,Diluted earnings per share (cents),2022,
+752194444,Diluted earnings per share (cents),2021,
+752194444,Diluted earnings per share (cents),2020,-
+752194444,Diluted earnings per share (cents),2019,-
+752194444,Diluted earnings per share (cents),2018,-
+752194444,Diluted earnings per share (cents),2017,-
+752194444,Diluted earnings per share (cents),2016,-
+752194444,Diluted earnings per share (cents),2015,-
+752194444,EBITDA ($000s),2024,"$3,184"
+752194444,EBITDA ($000s),2023,"$3,479"
+752194444,EBITDA ($000s),2022,"$4,614"
+752194444,EBITDA ($000s),2021,"$3,720"
+752194444,EBITDA ($000s),2020,"$4,083"
+752194444,EBITDA ($000s),2019,"$2,200"
+752194444,EBITDA ($000s),2018,"$2,785"
+752194444,EBITDA ($000s),2017,"$2,651"
+752194444,EBITDA ($000s),2016,"$2,347"
+752194444,EBITDA ($000s),2015,"$1,877"
+752194444,EBIT ($000s),2024,$661
+752194444,EBIT ($000s),2023,$933
+752194444,EBIT ($000s),2022,"$2,005"
+752194444,EBIT ($000s),2021,$970
+752194444,EBIT ($000s),2020,"$1,220"
+752194444,EBIT ($000s),2019,"$1,456"
+752194444,EBIT ($000s),2018,"$2,183"
+752194444,EBIT ($000s),2017,"$2,307"
+752194444,EBIT ($000s),2016,"$1,956"
+752194444,EBIT ($000s),2015,"$1,526"
+752194444,Expenses included in income statement,2024,
+752194444,Expenses included in income statement,2023,
+752194444,Expenses included in income statement,2022,
+752194444,Expenses included in income statement,2021,
+752194444,Expenses included in income statement,2020,-
+752194444,Expenses included in income statement,2019,-
+752194444,Expenses included in income statement,2018,-
+752194444,Expenses included in income statement,2017,-
+752194444,Expenses included in income statement,2016,-
+752194444,Expenses included in income statement,2015,-
+752194444,Depreciation of property plant and equipment ($000s),2024,"($2,523)"
+752194444,Depreciation of property plant and equipment ($000s),2023,"($2,546)"
+752194444,Depreciation of property plant and equipment ($000s),2022,"($2,610)"
+752194444,Depreciation of property plant and equipment ($000s),2021,$0
+752194444,Depreciation of property plant and equipment ($000s),2020,"($2,863)"
+752194444,Depreciation of property plant and equipment ($000s),2019,($744)
+752194444,Depreciation of property plant and equipment ($000s),2018,($602)
+752194444,Depreciation of property plant and equipment ($000s),2017,($344)
+752194444,Depreciation of property plant and equipment ($000s),2016,($392)
+752194444,Depreciation of property plant and equipment ($000s),2015,($351)
+752194444,Impairment of property plant and equipment ($000s),2024,$0
+752194444,Impairment of property plant and equipment ($000s),2023,$0
+752194444,Impairment of property plant and equipment ($000s),2022,$0
+752194444,Impairment of property plant and equipment ($000s),2021,$0
+752194444,Impairment of property plant and equipment ($000s),2020,$0
+752194444,Impairment of property plant and equipment ($000s),2019,$0
+752194444,Impairment of property plant and equipment ($000s),2018,$0
+752194444,Impairment of property plant and equipment ($000s),2017,$0
+752194444,Impairment of property plant and equipment ($000s),2016,$0
+752194444,Impairment of property plant and equipment ($000s),2015,$0
+752194444,Amortisation of intangible assets ($000s),2024,$0
+752194444,Amortisation of intangible assets ($000s),2023,$0
+752194444,Amortisation of intangible assets ($000s),2022,$0
+752194444,Amortisation of intangible assets ($000s),2021,$0
+752194444,Amortisation of intangible assets ($000s),2020,$0
+752194444,Amortisation of intangible assets ($000s),2019,$0
+752194444,Amortisation of intangible assets ($000s),2018,$0
+752194444,Amortisation of intangible assets ($000s),2017,$0
+752194444,Amortisation of intangible assets ($000s),2016,$0
+752194444,Amortisation of intangible assets ($000s),2015,$0
+752194444,Other Depreciation and Amortisation Expense ($000s),2024,-
+752194444,Other Depreciation and Amortisation Expense ($000s),2023,-
+752194444,Other Depreciation and Amortisation Expense ($000s),2022,-
+752194444,Other Depreciation and Amortisation Expense ($000s),2021,"($2,750)"
+752194444,Other Depreciation and Amortisation Expense ($000s),2020,-
+752194444,Other Depreciation and Amortisation Expense ($000s),2019,-
+752194444,Other Depreciation and Amortisation Expense ($000s),2018,-
+752194444,Other Depreciation and Amortisation Expense ($000s),2017,-
+752194444,Other Depreciation and Amortisation Expense ($000s),2016,-
+752194444,Other Depreciation and Amortisation Expense ($000s),2015,-
+752194444,Impairment of intangible assets ($000s),2024,$0
+752194444,Impairment of intangible assets ($000s),2023,$0
+752194444,Impairment of intangible assets ($000s),2022,$0
+752194444,Impairment of intangible assets ($000s),2021,$0
+752194444,Impairment of intangible assets ($000s),2020,$0
+752194444,Impairment of intangible assets ($000s),2019,$0
+752194444,Impairment of intangible assets ($000s),2018,$0
+752194444,Impairment of intangible assets ($000s),2017,$0
+752194444,Impairment of intangible assets ($000s),2016,$0
+752194444,Impairment of intangible assets ($000s),2015,$0
+752194444,"Total depreciation, amortisation and impairment ($000s)",2024,"($2,523)"
+752194444,"Total depreciation, amortisation and impairment ($000s)",2023,"($2,546)"
+752194444,"Total depreciation, amortisation and impairment ($000s)",2022,"($2,610)"
+752194444,"Total depreciation, amortisation and impairment ($000s)",2021,"($2,750)"
+752194444,"Total depreciation, amortisation and impairment ($000s)",2020,"($2,863)"
+752194444,"Total depreciation, amortisation and impairment ($000s)",2019,($744)
+752194444,"Total depreciation, amortisation and impairment ($000s)",2018,($602)
+752194444,"Total depreciation, amortisation and impairment ($000s)",2017,($344)
+752194444,"Total depreciation, amortisation and impairment ($000s)",2016,($392)
+752194444,"Total depreciation, amortisation and impairment ($000s)",2015,($351)
+752194444,Salaries and wages ($000s),2024,
+752194444,Salaries and wages ($000s),2023,
+752194444,Salaries and wages ($000s),2022,
+752194444,Salaries and wages ($000s),2021,
+752194444,Salaries and wages ($000s),2020,-
+752194444,Salaries and wages ($000s),2019,-
+752194444,Salaries and wages ($000s),2018,-
+752194444,Salaries and wages ($000s),2017,-
+752194444,Salaries and wages ($000s),2016,-
+752194444,Salaries and wages ($000s),2015,-
+752194444,Defined contribution superannuation expense ($000s),2024,
+752194444,Defined contribution superannuation expense ($000s),2023,
+752194444,Defined contribution superannuation expense ($000s),2022,
+752194444,Defined contribution superannuation expense ($000s),2021,
+752194444,Defined contribution superannuation expense ($000s),2020,-
+752194444,Defined contribution superannuation expense ($000s),2019,-
+752194444,Defined contribution superannuation expense ($000s),2018,-
+752194444,Defined contribution superannuation expense ($000s),2017,-
+752194444,Defined contribution superannuation expense ($000s),2016,-
+752194444,Defined contribution superannuation expense ($000s),2015,-
+752194444,Defined benefit superannuation expense ($000s),2024,
+752194444,Defined benefit superannuation expense ($000s),2023,
+752194444,Defined benefit superannuation expense ($000s),2022,
+752194444,Defined benefit superannuation expense ($000s),2021,
+752194444,Defined benefit superannuation expense ($000s),2020,-
+752194444,Defined benefit superannuation expense ($000s),2019,-
+752194444,Defined benefit superannuation expense ($000s),2018,-
+752194444,Defined benefit superannuation expense ($000s),2017,-
+752194444,Defined benefit superannuation expense ($000s),2016,-
+752194444,Defined benefit superannuation expense ($000s),2015,-
+752194444,Share-based payments expense ($000s),2024,
+752194444,Share-based payments expense ($000s),2023,
+752194444,Share-based payments expense ($000s),2022,
+752194444,Share-based payments expense ($000s),2021,
+752194444,Share-based payments expense ($000s),2020,-
+752194444,Share-based payments expense ($000s),2019,-
+752194444,Share-based payments expense ($000s),2018,-
+752194444,Share-based payments expense ($000s),2017,-
+752194444,Share-based payments expense ($000s),2016,-
+752194444,Share-based payments expense ($000s),2015,-
+752194444,Other employee benefits expense ($000s),2024,"($6,265)"
+752194444,Other employee benefits expense ($000s),2023,"($6,502)"
+752194444,Other employee benefits expense ($000s),2022,"($6,396)"
+752194444,Other employee benefits expense ($000s),2021,"($6,301)"
+752194444,Other employee benefits expense ($000s),2020,"($7,247)"
+752194444,Other employee benefits expense ($000s),2019,"($7,415)"
+752194444,Other employee benefits expense ($000s),2018,"($7,120)"
+752194444,Other employee benefits expense ($000s),2017,"($5,742)"
+752194444,Other employee benefits expense ($000s),2016,"($5,327)"
+752194444,Other employee benefits expense ($000s),2015,"($5,320)"
+752194444,Total employee benefits expense ($000s),2024,"($6,265)"
+752194444,Total employee benefits expense ($000s),2023,"($6,502)"
+752194444,Total employee benefits expense ($000s),2022,"($6,396)"
+752194444,Total employee benefits expense ($000s),2021,"($6,301)"
+752194444,Total employee benefits expense ($000s),2020,"($7,247)"
+752194444,Total employee benefits expense ($000s),2019,"($7,415)"
+752194444,Total employee benefits expense ($000s),2018,"($7,120)"
+752194444,Total employee benefits expense ($000s),2017,"($5,742)"
+752194444,Total employee benefits expense ($000s),2016,"($5,327)"
+752194444,Total employee benefits expense ($000s),2015,"($5,320)"
+752194444,Number of employees,2024,130
+752194444,Number of employees,2023,130
+752194444,Number of employees,2022,130
+752194444,Number of employees,2021,130
+752194444,Number of employees,2020,130
+752194444,Number of employees,2019,130
+752194444,Number of employees,2018,130
+752194444,Number of employees,2017,130
+752194444,Number of employees,2016,130
+752194444,Number of employees,2015,130
+752194444,Lease payments included in income statement ($000s),2024,
+752194444,Lease payments included in income statement ($000s),2023,
+752194444,Lease payments included in income statement ($000s),2022,
+752194444,Lease payments included in income statement ($000s),2021,
+752194444,Lease payments included in income statement ($000s),2020,-
+752194444,Lease payments included in income statement ($000s),2019,-
+752194444,Lease payments included in income statement ($000s),2018,-
+752194444,Lease payments included in income statement ($000s),2017,-
+752194444,Lease payments included in income statement ($000s),2016,-
+752194444,Lease payments included in income statement ($000s),2015,-
+752194444,Interest expense  ($000s),2024,($667)
+752194444,Interest expense  ($000s),2023,($774)
+752194444,Interest expense  ($000s),2022,($804)
+752194444,Interest expense  ($000s),2021,($855)
+752194444,Interest expense  ($000s),2020,"($1,004)"
+752194444,Interest expense  ($000s),2019,($353)
+752194444,Interest expense  ($000s),2018,($355)
+752194444,Interest expense  ($000s),2017,($310)
+752194444,Interest expense  ($000s),2016,($357)
+752194444,Interest expense  ($000s),2015,($328)
+752194444,Finance charges payable under finance leases and hire purchase ($000s),2024,
+752194444,Finance charges payable under finance leases and hire purchase ($000s),2023,
+752194444,Finance charges payable under finance leases and hire purchase ($000s),2022,
+752194444,Finance charges payable under finance leases and hire purchase ($000s),2021,
+752194444,Finance charges payable under finance leases and hire purchase ($000s),2020,-
+752194444,Finance charges payable under finance leases and hire purchase ($000s),2019,-
+752194444,Finance charges payable under finance leases and hire purchase ($000s),2018,-
+752194444,Finance charges payable under finance leases and hire purchase ($000s),2017,-
+752194444,Finance charges payable under finance leases and hire purchase ($000s),2016,-
+752194444,Finance charges payable under finance leases and hire purchase ($000s),2015,-
+752194444,Other finance costs ($000s),2024,
+752194444,Other finance costs ($000s),2023,
+752194444,Other finance costs ($000s),2022,
+752194444,Other finance costs ($000s),2021,
+752194444,Other finance costs ($000s),2020,-
+752194444,Other finance costs ($000s),2019,-
+752194444,Other finance costs ($000s),2018,-
+752194444,Other finance costs ($000s),2017,-
+752194444,Other finance costs ($000s),2016,-
+752194444,Other finance costs ($000s),2015,-
+752194444,Total finance costs ($000s),2024,($667)
+752194444,Total finance costs ($000s),2023,($774)
+752194444,Total finance costs ($000s),2022,($804)
+752194444,Total finance costs ($000s),2021,($855)
+752194444,Total finance costs ($000s),2020,"($1,004)"
+752194444,Total finance costs ($000s),2019,($353)
+752194444,Total finance costs ($000s),2018,($355)
+752194444,Total finance costs ($000s),2017,($310)
+752194444,Total finance costs ($000s),2016,($357)
+752194444,Total finance costs ($000s),2015,($328)
+752194444,Research and development costs ($000s),2024,
+752194444,Research and development costs ($000s),2023,
+752194444,Research and development costs ($000s),2022,
+752194444,Research and development costs ($000s),2021,
+752194444,Research and development costs ($000s),2020,-
+752194444,Research and development costs ($000s),2019,-
+752194444,Research and development costs ($000s),2018,-
+752194444,Research and development costs ($000s),2017,-
+752194444,Research and development costs ($000s),2016,-
+752194444,Research and development costs ($000s),2015,-

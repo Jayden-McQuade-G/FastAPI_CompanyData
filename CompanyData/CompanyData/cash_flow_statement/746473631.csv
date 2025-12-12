@@ -1,0 +1,301 @@
+duns,line_item,year,value
+746473631,Cash flow statement,2024,
+746473631,Cash flow statement,2023,
+746473631,Cash flow statement,2022,
+746473631,Cash flow statement,2021,
+746473631,Cash flow statement,2020,-
+746473631,Cash flow statement,2019,-
+746473631,Cash flow statement,2018,-
+746473631,Cash flow statement,2017,-
+746473631,Cash flow statement,2016,-
+746473631,Cash flow statement,2015,-
+746473631,Receipts from customers ($000s),2024,"$36,678"
+746473631,Receipts from customers ($000s),2023,"$33,242"
+746473631,Receipts from customers ($000s),2022,"$16,978"
+746473631,Receipts from customers ($000s),2021,"$13,592"
+746473631,Receipts from customers ($000s),2020,-
+746473631,Receipts from customers ($000s),2019,-
+746473631,Receipts from customers ($000s),2018,-
+746473631,Receipts from customers ($000s),2017,-
+746473631,Receipts from customers ($000s),2016,-
+746473631,Receipts from customers ($000s),2015,-
+746473631,Payments to suppliers and employees ($000s),2024,"($54,059)"
+746473631,Payments to suppliers and employees ($000s),2023,"($53,771)"
+746473631,Payments to suppliers and employees ($000s),2022,"($27,058)"
+746473631,Payments to suppliers and employees ($000s),2021,"($20,109)"
+746473631,Payments to suppliers and employees ($000s),2020,-
+746473631,Payments to suppliers and employees ($000s),2019,-
+746473631,Payments to suppliers and employees ($000s),2018,-
+746473631,Payments to suppliers and employees ($000s),2017,-
+746473631,Payments to suppliers and employees ($000s),2016,-
+746473631,Payments to suppliers and employees ($000s),2015,-
+746473631,Interest paid ($000s),2024,($275)
+746473631,Interest paid ($000s),2023,($639)
+746473631,Interest paid ($000s),2022,($141)
+746473631,Interest paid ($000s),2021,($24)
+746473631,Interest paid ($000s),2020,-
+746473631,Interest paid ($000s),2019,-
+746473631,Interest paid ($000s),2018,-
+746473631,Interest paid ($000s),2017,-
+746473631,Interest paid ($000s),2016,-
+746473631,Interest paid ($000s),2015,-
+746473631,Tax paid ($000s),2024,($57)
+746473631,Tax paid ($000s),2023,($25)
+746473631,Tax paid ($000s),2022,($70)
+746473631,Tax paid ($000s),2021,"$1,681"
+746473631,Tax paid ($000s),2020,-
+746473631,Tax paid ($000s),2019,-
+746473631,Tax paid ($000s),2018,-
+746473631,Tax paid ($000s),2017,-
+746473631,Tax paid ($000s),2016,-
+746473631,Tax paid ($000s),2015,-
+746473631,Other receipts ($000s),2024,"$5,556"
+746473631,Other receipts ($000s),2023,"$7,087"
+746473631,Other receipts ($000s),2022,"$2,012"
+746473631,Other receipts ($000s),2021,"$2,263"
+746473631,Other receipts ($000s),2020,-
+746473631,Other receipts ($000s),2019,-
+746473631,Other receipts ($000s),2018,-
+746473631,Other receipts ($000s),2017,-
+746473631,Other receipts ($000s),2016,-
+746473631,Other receipts ($000s),2015,-
+746473631,Other payments ($000s),2024,$0
+746473631,Other payments ($000s),2023,$0
+746473631,Other payments ($000s),2022,$0
+746473631,Other payments ($000s),2021,$0
+746473631,Other payments ($000s),2020,-
+746473631,Other payments ($000s),2019,-
+746473631,Other payments ($000s),2018,-
+746473631,Other payments ($000s),2017,-
+746473631,Other payments ($000s),2016,-
+746473631,Other payments ($000s),2015,-
+746473631,Net cashflow from/(used in) operating activities ($000s),2024,"($12,156)"
+746473631,Net cashflow from/(used in) operating activities ($000s),2023,"($14,106)"
+746473631,Net cashflow from/(used in) operating activities ($000s),2022,"($8,279)"
+746473631,Net cashflow from/(used in) operating activities ($000s),2021,"($2,597)"
+746473631,Net cashflow from/(used in) operating activities ($000s),2020,-
+746473631,Net cashflow from/(used in) operating activities ($000s),2019,-
+746473631,Net cashflow from/(used in) operating activities ($000s),2018,-
+746473631,Net cashflow from/(used in) operating activities ($000s),2017,-
+746473631,Net cashflow from/(used in) operating activities ($000s),2016,-
+746473631,Net cashflow from/(used in) operating activities ($000s),2015,-
+746473631,Purchase of property plant and equipment ($000s),2024,"($3,801)"
+746473631,Purchase of property plant and equipment ($000s),2023,"($1,694)"
+746473631,Purchase of property plant and equipment ($000s),2022,($540)
+746473631,Purchase of property plant and equipment ($000s),2021,($138)
+746473631,Purchase of property plant and equipment ($000s),2020,-
+746473631,Purchase of property plant and equipment ($000s),2019,-
+746473631,Purchase of property plant and equipment ($000s),2018,-
+746473631,Purchase of property plant and equipment ($000s),2017,-
+746473631,Purchase of property plant and equipment ($000s),2016,-
+746473631,Purchase of property plant and equipment ($000s),2015,-
+746473631,Purchase of intangibles ($000s),2024,"($9,624)"
+746473631,Purchase of intangibles ($000s),2023,"($8,713)"
+746473631,Purchase of intangibles ($000s),2022,"($4,008)"
+746473631,Purchase of intangibles ($000s),2021,"($3,325)"
+746473631,Purchase of intangibles ($000s),2020,-
+746473631,Purchase of intangibles ($000s),2019,-
+746473631,Purchase of intangibles ($000s),2018,-
+746473631,Purchase of intangibles ($000s),2017,-
+746473631,Purchase of intangibles ($000s),2016,-
+746473631,Purchase of intangibles ($000s),2015,-
+746473631,Proceeds from the sale of property plant and equipment ($000s),2024,$0
+746473631,Proceeds from the sale of property plant and equipment ($000s),2023,$0
+746473631,Proceeds from the sale of property plant and equipment ($000s),2022,$0
+746473631,Proceeds from the sale of property plant and equipment ($000s),2021,$0
+746473631,Proceeds from the sale of property plant and equipment ($000s),2020,-
+746473631,Proceeds from the sale of property plant and equipment ($000s),2019,-
+746473631,Proceeds from the sale of property plant and equipment ($000s),2018,-
+746473631,Proceeds from the sale of property plant and equipment ($000s),2017,-
+746473631,Proceeds from the sale of property plant and equipment ($000s),2016,-
+746473631,Proceeds from the sale of property plant and equipment ($000s),2015,-
+746473631,Proceeds from the disposal of investments/subsidiaries ($000s),2024,$0
+746473631,Proceeds from the disposal of investments/subsidiaries ($000s),2023,$0
+746473631,Proceeds from the disposal of investments/subsidiaries ($000s),2022,$0
+746473631,Proceeds from the disposal of investments/subsidiaries ($000s),2021,$0
+746473631,Proceeds from the disposal of investments/subsidiaries ($000s),2020,-
+746473631,Proceeds from the disposal of investments/subsidiaries ($000s),2019,-
+746473631,Proceeds from the disposal of investments/subsidiaries ($000s),2018,-
+746473631,Proceeds from the disposal of investments/subsidiaries ($000s),2017,-
+746473631,Proceeds from the disposal of investments/subsidiaries ($000s),2016,-
+746473631,Proceeds from the disposal of investments/subsidiaries ($000s),2015,-
+746473631,Purchase of subisidiary/investment ($000s),2024,$0
+746473631,Purchase of subisidiary/investment ($000s),2023,$0
+746473631,Purchase of subisidiary/investment ($000s),2022,($495)
+746473631,Purchase of subisidiary/investment ($000s),2021,$0
+746473631,Purchase of subisidiary/investment ($000s),2020,-
+746473631,Purchase of subisidiary/investment ($000s),2019,-
+746473631,Purchase of subisidiary/investment ($000s),2018,-
+746473631,Purchase of subisidiary/investment ($000s),2017,-
+746473631,Purchase of subisidiary/investment ($000s),2016,-
+746473631,Purchase of subisidiary/investment ($000s),2015,-
+746473631,Interest received ($000s),2024,
+746473631,Interest received ($000s),2023,
+746473631,Interest received ($000s),2022,
+746473631,Interest received ($000s),2021,
+746473631,Interest received ($000s),2020,-
+746473631,Interest received ($000s),2019,-
+746473631,Interest received ($000s),2018,-
+746473631,Interest received ($000s),2017,-
+746473631,Interest received ($000s),2016,-
+746473631,Interest received ($000s),2015,-
+746473631,Dividends received ($000s),2024,
+746473631,Dividends received ($000s),2023,
+746473631,Dividends received ($000s),2022,
+746473631,Dividends received ($000s),2021,
+746473631,Dividends received ($000s),2020,-
+746473631,Dividends received ($000s),2019,-
+746473631,Dividends received ($000s),2018,-
+746473631,Dividends received ($000s),2017,-
+746473631,Dividends received ($000s),2016,-
+746473631,Dividends received ($000s),2015,-
+746473631,Other investing inflows/(outflows) ($000s),2024,"($16,154)"
+746473631,Other investing inflows/(outflows) ($000s),2023,($371)
+746473631,Other investing inflows/(outflows) ($000s),2022,"($1,017)"
+746473631,Other investing inflows/(outflows) ($000s),2021,($248)
+746473631,Other investing inflows/(outflows) ($000s),2020,-
+746473631,Other investing inflows/(outflows) ($000s),2019,-
+746473631,Other investing inflows/(outflows) ($000s),2018,-
+746473631,Other investing inflows/(outflows) ($000s),2017,-
+746473631,Other investing inflows/(outflows) ($000s),2016,-
+746473631,Other investing inflows/(outflows) ($000s),2015,-
+746473631,Net cashflow from/(used in) investing activities ($000s),2024,"($29,579)"
+746473631,Net cashflow from/(used in) investing activities ($000s),2023,"($10,777)"
+746473631,Net cashflow from/(used in) investing activities ($000s),2022,"($6,060)"
+746473631,Net cashflow from/(used in) investing activities ($000s),2021,"($3,712)"
+746473631,Net cashflow from/(used in) investing activities ($000s),2020,-
+746473631,Net cashflow from/(used in) investing activities ($000s),2019,-
+746473631,Net cashflow from/(used in) investing activities ($000s),2018,-
+746473631,Net cashflow from/(used in) investing activities ($000s),2017,-
+746473631,Net cashflow from/(used in) investing activities ($000s),2016,-
+746473631,Net cashflow from/(used in) investing activities ($000s),2015,-
+746473631,Proceeds from the issue of shares ($000s),2024,$0
+746473631,Proceeds from the issue of shares ($000s),2023,"$89,947"
+746473631,Proceeds from the issue of shares ($000s),2022,$347
+746473631,Proceeds from the issue of shares ($000s),2021,$0
+746473631,Proceeds from the issue of shares ($000s),2020,-
+746473631,Proceeds from the issue of shares ($000s),2019,-
+746473631,Proceeds from the issue of shares ($000s),2018,-
+746473631,Proceeds from the issue of shares ($000s),2017,-
+746473631,Proceeds from the issue of shares ($000s),2016,-
+746473631,Proceeds from the issue of shares ($000s),2015,-
+746473631,Proceeds from borrowings ($000s),2024,$0
+746473631,Proceeds from borrowings ($000s),2023,$0
+746473631,Proceeds from borrowings ($000s),2022,"$4,047"
+746473631,Proceeds from borrowings ($000s),2021,$0
+746473631,Proceeds from borrowings ($000s),2020,-
+746473631,Proceeds from borrowings ($000s),2019,-
+746473631,Proceeds from borrowings ($000s),2018,-
+746473631,Proceeds from borrowings ($000s),2017,-
+746473631,Proceeds from borrowings ($000s),2016,-
+746473631,Proceeds from borrowings ($000s),2015,-
+746473631,Repayment of borrowings  ($000s),2024,($2)
+746473631,Repayment of borrowings  ($000s),2023,-
+746473631,Repayment of borrowings  ($000s),2022,-
+746473631,Repayment of borrowings  ($000s),2021,($62)
+746473631,Repayment of borrowings  ($000s),2020,-
+746473631,Repayment of borrowings  ($000s),2019,-
+746473631,Repayment of borrowings  ($000s),2018,-
+746473631,Repayment of borrowings  ($000s),2017,-
+746473631,Repayment of borrowings  ($000s),2016,-
+746473631,Repayment of borrowings  ($000s),2015,-
+746473631,Repayment of finance lease liabilities ($000s),2024,"($2,275)"
+746473631,Repayment of finance lease liabilities ($000s),2023,"($1,802)"
+746473631,Repayment of finance lease liabilities ($000s),2022,"($1,116)"
+746473631,Repayment of finance lease liabilities ($000s),2021,($499)
+746473631,Repayment of finance lease liabilities ($000s),2020,-
+746473631,Repayment of finance lease liabilities ($000s),2019,-
+746473631,Repayment of finance lease liabilities ($000s),2018,-
+746473631,Repayment of finance lease liabilities ($000s),2017,-
+746473631,Repayment of finance lease liabilities ($000s),2016,-
+746473631,Repayment of finance lease liabilities ($000s),2015,-
+746473631,Interest Paid ($000s),2024,
+746473631,Interest Paid ($000s),2023,
+746473631,Interest Paid ($000s),2022,
+746473631,Interest Paid ($000s),2021,
+746473631,Interest Paid ($000s),2020,-
+746473631,Interest Paid ($000s),2019,-
+746473631,Interest Paid ($000s),2018,-
+746473631,Interest Paid ($000s),2017,-
+746473631,Interest Paid ($000s),2016,-
+746473631,Interest Paid ($000s),2015,-
+746473631,Dividends paid ($000s),2024,
+746473631,Dividends paid ($000s),2023,
+746473631,Dividends paid ($000s),2022,
+746473631,Dividends paid ($000s),2021,
+746473631,Dividends paid ($000s),2020,-
+746473631,Dividends paid ($000s),2019,-
+746473631,Dividends paid ($000s),2018,-
+746473631,Dividends paid ($000s),2017,-
+746473631,Dividends paid ($000s),2016,-
+746473631,Dividends paid ($000s),2015,-
+746473631,Other inflows/(outflows) from financing activities ($000s),2024,$0
+746473631,Other inflows/(outflows) from financing activities ($000s),2023,"($4,171)"
+746473631,Other inflows/(outflows) from financing activities ($000s),2022,$0
+746473631,Other inflows/(outflows) from financing activities ($000s),2021,$0
+746473631,Other inflows/(outflows) from financing activities ($000s),2020,-
+746473631,Other inflows/(outflows) from financing activities ($000s),2019,-
+746473631,Other inflows/(outflows) from financing activities ($000s),2018,-
+746473631,Other inflows/(outflows) from financing activities ($000s),2017,-
+746473631,Other inflows/(outflows) from financing activities ($000s),2016,-
+746473631,Other inflows/(outflows) from financing activities ($000s),2015,-
+746473631,Net cash flows from/(used in) financing activities ($000s),2024,"($2,277)"
+746473631,Net cash flows from/(used in) financing activities ($000s),2023,"$83,974"
+746473631,Net cash flows from/(used in) financing activities ($000s),2022,"$3,278"
+746473631,Net cash flows from/(used in) financing activities ($000s),2021,($562)
+746473631,Net cash flows from/(used in) financing activities ($000s),2020,-
+746473631,Net cash flows from/(used in) financing activities ($000s),2019,-
+746473631,Net cash flows from/(used in) financing activities ($000s),2018,-
+746473631,Net cash flows from/(used in) financing activities ($000s),2017,-
+746473631,Net cash flows from/(used in) financing activities ($000s),2016,-
+746473631,Net cash flows from/(used in) financing activities ($000s),2015,-
+746473631,Net increase/(decrease) in cash and cash equivalents ($000s),2024,"($44,011)"
+746473631,Net increase/(decrease) in cash and cash equivalents ($000s),2023,"$59,091"
+746473631,Net increase/(decrease) in cash and cash equivalents ($000s),2022,"($11,062)"
+746473631,Net increase/(decrease) in cash and cash equivalents ($000s),2021,"($6,870)"
+746473631,Net increase/(decrease) in cash and cash equivalents ($000s),2020,-
+746473631,Net increase/(decrease) in cash and cash equivalents ($000s),2019,-
+746473631,Net increase/(decrease) in cash and cash equivalents ($000s),2018,-
+746473631,Net increase/(decrease) in cash and cash equivalents ($000s),2017,-
+746473631,Net increase/(decrease) in cash and cash equivalents ($000s),2016,-
+746473631,Net increase/(decrease) in cash and cash equivalents ($000s),2015,-
+746473631,Other increase/(decrease) in cash and cash equivalents ($000s),2024,
+746473631,Other increase/(decrease) in cash and cash equivalents ($000s),2023,
+746473631,Other increase/(decrease) in cash and cash equivalents ($000s),2022,
+746473631,Other increase/(decrease) in cash and cash equivalents ($000s),2021,
+746473631,Other increase/(decrease) in cash and cash equivalents ($000s),2020,-
+746473631,Other increase/(decrease) in cash and cash equivalents ($000s),2019,-
+746473631,Other increase/(decrease) in cash and cash equivalents ($000s),2018,-
+746473631,Other increase/(decrease) in cash and cash equivalents ($000s),2017,-
+746473631,Other increase/(decrease) in cash and cash equivalents ($000s),2016,-
+746473631,Other increase/(decrease) in cash and cash equivalents ($000s),2015,-
+746473631,Net foreign exchange differences ($000s),2024,-
+746473631,Net foreign exchange differences ($000s),2023,-
+746473631,Net foreign exchange differences ($000s),2022,($16)
+746473631,Net foreign exchange differences ($000s),2021,$40
+746473631,Net foreign exchange differences ($000s),2020,-
+746473631,Net foreign exchange differences ($000s),2019,-
+746473631,Net foreign exchange differences ($000s),2018,-
+746473631,Net foreign exchange differences ($000s),2017,-
+746473631,Net foreign exchange differences ($000s),2016,-
+746473631,Net foreign exchange differences ($000s),2015,-
+746473631,Cash and cash equivalents at the beginning of the period ($000s),2024,"$62,269"
+746473631,Cash and cash equivalents at the beginning of the period ($000s),2023,"$3,178"
+746473631,Cash and cash equivalents at the beginning of the period ($000s),2022,"$14,255"
+746473631,Cash and cash equivalents at the beginning of the period ($000s),2021,"$21,085"
+746473631,Cash and cash equivalents at the beginning of the period ($000s),2020,-
+746473631,Cash and cash equivalents at the beginning of the period ($000s),2019,-
+746473631,Cash and cash equivalents at the beginning of the period ($000s),2018,-
+746473631,Cash and cash equivalents at the beginning of the period ($000s),2017,-
+746473631,Cash and cash equivalents at the beginning of the period ($000s),2016,-
+746473631,Cash and cash equivalents at the beginning of the period ($000s),2015,-
+746473631,Cash and cash equivalents at the end of the period ($000s),2024,"$18,257"
+746473631,Cash and cash equivalents at the end of the period ($000s),2023,"$62,269"
+746473631,Cash and cash equivalents at the end of the period ($000s),2022,"$3,178"
+746473631,Cash and cash equivalents at the end of the period ($000s),2021,"$14,255"
+746473631,Cash and cash equivalents at the end of the period ($000s),2020,-
+746473631,Cash and cash equivalents at the end of the period ($000s),2019,-
+746473631,Cash and cash equivalents at the end of the period ($000s),2018,-
+746473631,Cash and cash equivalents at the end of the period ($000s),2017,-
+746473631,Cash and cash equivalents at the end of the period ($000s),2016,-
+746473631,Cash and cash equivalents at the end of the period ($000s),2015,-

@@ -1,0 +1,301 @@
+duns,line_item,year,value
+755354685,Cash flow statement,2025,
+755354685,Cash flow statement,2024,
+755354685,Cash flow statement,2023,
+755354685,Cash flow statement,2022,
+755354685,Cash flow statement,2021,-
+755354685,Cash flow statement,2020,-
+755354685,Cash flow statement,2019,-
+755354685,Cash flow statement,2018,-
+755354685,Cash flow statement,2017,-
+755354685,Cash flow statement,2016,-
+755354685,Receipts from customers ($000s),2025,-
+755354685,Receipts from customers ($000s),2024,"$9,075"
+755354685,Receipts from customers ($000s),2023,-
+755354685,Receipts from customers ($000s),2022,-
+755354685,Receipts from customers ($000s),2021,-
+755354685,Receipts from customers ($000s),2020,-
+755354685,Receipts from customers ($000s),2019,-
+755354685,Receipts from customers ($000s),2018,-
+755354685,Receipts from customers ($000s),2017,-
+755354685,Receipts from customers ($000s),2016,-
+755354685,Payments to suppliers and employees ($000s),2025,$0
+755354685,Payments to suppliers and employees ($000s),2024,$0
+755354685,Payments to suppliers and employees ($000s),2023,$0
+755354685,Payments to suppliers and employees ($000s),2022,$0
+755354685,Payments to suppliers and employees ($000s),2021,$0
+755354685,Payments to suppliers and employees ($000s),2020,$0
+755354685,Payments to suppliers and employees ($000s),2019,$0
+755354685,Payments to suppliers and employees ($000s),2018,$0
+755354685,Payments to suppliers and employees ($000s),2017,$0
+755354685,Payments to suppliers and employees ($000s),2016,$0
+755354685,Interest paid ($000s),2025,
+755354685,Interest paid ($000s),2024,
+755354685,Interest paid ($000s),2023,
+755354685,Interest paid ($000s),2022,
+755354685,Interest paid ($000s),2021,-
+755354685,Interest paid ($000s),2020,-
+755354685,Interest paid ($000s),2019,-
+755354685,Interest paid ($000s),2018,-
+755354685,Interest paid ($000s),2017,-
+755354685,Interest paid ($000s),2016,-
+755354685,Tax paid ($000s),2025,($730)
+755354685,Tax paid ($000s),2024,"($3,394)"
+755354685,Tax paid ($000s),2023,"$4,521"
+755354685,Tax paid ($000s),2022,"($14,424)"
+755354685,Tax paid ($000s),2021,"$18,293"
+755354685,Tax paid ($000s),2020,($619)
+755354685,Tax paid ($000s),2019,"$10,883"
+755354685,Tax paid ($000s),2018,"$4,256"
+755354685,Tax paid ($000s),2017,"$1,059"
+755354685,Tax paid ($000s),2016,"$29,630"
+755354685,Other receipts ($000s),2025,"$591,744"
+755354685,Other receipts ($000s),2024,$84
+755354685,Other receipts ($000s),2023,"$63,516"
+755354685,Other receipts ($000s),2022,"$82,861"
+755354685,Other receipts ($000s),2021,"$152,762"
+755354685,Other receipts ($000s),2020,"$286,989"
+755354685,Other receipts ($000s),2019,"$526,537"
+755354685,Other receipts ($000s),2018,"$504,969"
+755354685,Other receipts ($000s),2017,"$421,333"
+755354685,Other receipts ($000s),2016,"$721,015"
+755354685,Other payments ($000s),2025,$0
+755354685,Other payments ($000s),2024,$0
+755354685,Other payments ($000s),2023,$0
+755354685,Other payments ($000s),2022,$0
+755354685,Other payments ($000s),2021,$0
+755354685,Other payments ($000s),2020,$0
+755354685,Other payments ($000s),2019,$0
+755354685,Other payments ($000s),2018,$0
+755354685,Other payments ($000s),2017,$0
+755354685,Other payments ($000s),2016,$0
+755354685,Net cashflow from/(used in) operating activities ($000s),2025,"$591,014"
+755354685,Net cashflow from/(used in) operating activities ($000s),2024,"$5,765"
+755354685,Net cashflow from/(used in) operating activities ($000s),2023,"$68,037"
+755354685,Net cashflow from/(used in) operating activities ($000s),2022,"$68,437"
+755354685,Net cashflow from/(used in) operating activities ($000s),2021,"$171,055"
+755354685,Net cashflow from/(used in) operating activities ($000s),2020,"$286,370"
+755354685,Net cashflow from/(used in) operating activities ($000s),2019,"$537,420"
+755354685,Net cashflow from/(used in) operating activities ($000s),2018,"$509,225"
+755354685,Net cashflow from/(used in) operating activities ($000s),2017,"$422,392"
+755354685,Net cashflow from/(used in) operating activities ($000s),2016,"$750,645"
+755354685,Purchase of property plant and equipment ($000s),2025,
+755354685,Purchase of property plant and equipment ($000s),2024,
+755354685,Purchase of property plant and equipment ($000s),2023,
+755354685,Purchase of property plant and equipment ($000s),2022,
+755354685,Purchase of property plant and equipment ($000s),2021,-
+755354685,Purchase of property plant and equipment ($000s),2020,-
+755354685,Purchase of property plant and equipment ($000s),2019,-
+755354685,Purchase of property plant and equipment ($000s),2018,-
+755354685,Purchase of property plant and equipment ($000s),2017,-
+755354685,Purchase of property plant and equipment ($000s),2016,-
+755354685,Purchase of intangibles ($000s),2025,
+755354685,Purchase of intangibles ($000s),2024,
+755354685,Purchase of intangibles ($000s),2023,
+755354685,Purchase of intangibles ($000s),2022,
+755354685,Purchase of intangibles ($000s),2021,-
+755354685,Purchase of intangibles ($000s),2020,-
+755354685,Purchase of intangibles ($000s),2019,-
+755354685,Purchase of intangibles ($000s),2018,-
+755354685,Purchase of intangibles ($000s),2017,-
+755354685,Purchase of intangibles ($000s),2016,-
+755354685,Proceeds from the sale of property plant and equipment ($000s),2025,$0
+755354685,Proceeds from the sale of property plant and equipment ($000s),2024,$0
+755354685,Proceeds from the sale of property plant and equipment ($000s),2023,$0
+755354685,Proceeds from the sale of property plant and equipment ($000s),2022,$0
+755354685,Proceeds from the sale of property plant and equipment ($000s),2021,$0
+755354685,Proceeds from the sale of property plant and equipment ($000s),2020,$0
+755354685,Proceeds from the sale of property plant and equipment ($000s),2019,$0
+755354685,Proceeds from the sale of property plant and equipment ($000s),2018,$0
+755354685,Proceeds from the sale of property plant and equipment ($000s),2017,$0
+755354685,Proceeds from the sale of property plant and equipment ($000s),2016,$0
+755354685,Proceeds from the disposal of investments/subsidiaries ($000s),2025,$0
+755354685,Proceeds from the disposal of investments/subsidiaries ($000s),2024,$0
+755354685,Proceeds from the disposal of investments/subsidiaries ($000s),2023,$0
+755354685,Proceeds from the disposal of investments/subsidiaries ($000s),2022,$0
+755354685,Proceeds from the disposal of investments/subsidiaries ($000s),2021,$0
+755354685,Proceeds from the disposal of investments/subsidiaries ($000s),2020,$0
+755354685,Proceeds from the disposal of investments/subsidiaries ($000s),2019,$0
+755354685,Proceeds from the disposal of investments/subsidiaries ($000s),2018,$0
+755354685,Proceeds from the disposal of investments/subsidiaries ($000s),2017,"$656,526"
+755354685,Proceeds from the disposal of investments/subsidiaries ($000s),2016,$0
+755354685,Purchase of subisidiary/investment ($000s),2025,$0
+755354685,Purchase of subisidiary/investment ($000s),2024,"$86,863"
+755354685,Purchase of subisidiary/investment ($000s),2023,$0
+755354685,Purchase of subisidiary/investment ($000s),2022,$0
+755354685,Purchase of subisidiary/investment ($000s),2021,$0
+755354685,Purchase of subisidiary/investment ($000s),2020,$0
+755354685,Purchase of subisidiary/investment ($000s),2019,$0
+755354685,Purchase of subisidiary/investment ($000s),2018,"($5,291)"
+755354685,Purchase of subisidiary/investment ($000s),2017,$0
+755354685,Purchase of subisidiary/investment ($000s),2016,$0
+755354685,Interest received ($000s),2025,
+755354685,Interest received ($000s),2024,
+755354685,Interest received ($000s),2023,
+755354685,Interest received ($000s),2022,
+755354685,Interest received ($000s),2021,-
+755354685,Interest received ($000s),2020,-
+755354685,Interest received ($000s),2019,-
+755354685,Interest received ($000s),2018,-
+755354685,Interest received ($000s),2017,-
+755354685,Interest received ($000s),2016,-
+755354685,Dividends received ($000s),2025,
+755354685,Dividends received ($000s),2024,
+755354685,Dividends received ($000s),2023,
+755354685,Dividends received ($000s),2022,
+755354685,Dividends received ($000s),2021,-
+755354685,Dividends received ($000s),2020,-
+755354685,Dividends received ($000s),2019,-
+755354685,Dividends received ($000s),2018,-
+755354685,Dividends received ($000s),2017,-
+755354685,Dividends received ($000s),2016,-
+755354685,Other investing inflows/(outflows) ($000s),2025,$0
+755354685,Other investing inflows/(outflows) ($000s),2024,$0
+755354685,Other investing inflows/(outflows) ($000s),2023,"$299,318"
+755354685,Other investing inflows/(outflows) ($000s),2022,"$402,784"
+755354685,Other investing inflows/(outflows) ($000s),2021,"$157,448"
+755354685,Other investing inflows/(outflows) ($000s),2020,"$147,989"
+755354685,Other investing inflows/(outflows) ($000s),2019,"$635,166"
+755354685,Other investing inflows/(outflows) ($000s),2018,$0
+755354685,Other investing inflows/(outflows) ($000s),2017,"($11,431)"
+755354685,Other investing inflows/(outflows) ($000s),2016,$0
+755354685,Net cashflow from/(used in) investing activities ($000s),2025,-
+755354685,Net cashflow from/(used in) investing activities ($000s),2024,"$86,863"
+755354685,Net cashflow from/(used in) investing activities ($000s),2023,"$299,318"
+755354685,Net cashflow from/(used in) investing activities ($000s),2022,"$402,784"
+755354685,Net cashflow from/(used in) investing activities ($000s),2021,"$157,448"
+755354685,Net cashflow from/(used in) investing activities ($000s),2020,"$147,989"
+755354685,Net cashflow from/(used in) investing activities ($000s),2019,"$635,166"
+755354685,Net cashflow from/(used in) investing activities ($000s),2018,"($5,291)"
+755354685,Net cashflow from/(used in) investing activities ($000s),2017,"$645,095"
+755354685,Net cashflow from/(used in) investing activities ($000s),2016,-
+755354685,Proceeds from the issue of shares ($000s),2025,$0
+755354685,Proceeds from the issue of shares ($000s),2024,$0
+755354685,Proceeds from the issue of shares ($000s),2023,$0
+755354685,Proceeds from the issue of shares ($000s),2022,$0
+755354685,Proceeds from the issue of shares ($000s),2021,$0
+755354685,Proceeds from the issue of shares ($000s),2020,"$666,419"
+755354685,Proceeds from the issue of shares ($000s),2019,$0
+755354685,Proceeds from the issue of shares ($000s),2018,$0
+755354685,Proceeds from the issue of shares ($000s),2017,$0
+755354685,Proceeds from the issue of shares ($000s),2016,$0
+755354685,Proceeds from borrowings ($000s),2025,"$95,074"
+755354685,Proceeds from borrowings ($000s),2024,$0
+755354685,Proceeds from borrowings ($000s),2023,$0
+755354685,Proceeds from borrowings ($000s),2022,$0
+755354685,Proceeds from borrowings ($000s),2021,$0
+755354685,Proceeds from borrowings ($000s),2020,$0
+755354685,Proceeds from borrowings ($000s),2019,$0
+755354685,Proceeds from borrowings ($000s),2018,$0
+755354685,Proceeds from borrowings ($000s),2017,"$1,431,159"
+755354685,Proceeds from borrowings ($000s),2016,$0
+755354685,Repayment of borrowings  ($000s),2025,"($246,000)"
+755354685,Repayment of borrowings  ($000s),2024,-
+755354685,Repayment of borrowings  ($000s),2023,"($267,208)"
+755354685,Repayment of borrowings  ($000s),2022,-
+755354685,Repayment of borrowings  ($000s),2021,"($328,344)"
+755354685,Repayment of borrowings  ($000s),2020,-
+755354685,Repayment of borrowings  ($000s),2019,"($449,075)"
+755354685,Repayment of borrowings  ($000s),2018,-
+755354685,Repayment of borrowings  ($000s),2017,"($1,333,260)"
+755354685,Repayment of borrowings  ($000s),2016,-
+755354685,Repayment of finance lease liabilities ($000s),2025,
+755354685,Repayment of finance lease liabilities ($000s),2024,
+755354685,Repayment of finance lease liabilities ($000s),2023,
+755354685,Repayment of finance lease liabilities ($000s),2022,
+755354685,Repayment of finance lease liabilities ($000s),2021,-
+755354685,Repayment of finance lease liabilities ($000s),2020,-
+755354685,Repayment of finance lease liabilities ($000s),2019,-
+755354685,Repayment of finance lease liabilities ($000s),2018,-
+755354685,Repayment of finance lease liabilities ($000s),2017,-
+755354685,Repayment of finance lease liabilities ($000s),2016,-
+755354685,Interest Paid ($000s),2025,
+755354685,Interest Paid ($000s),2024,
+755354685,Interest Paid ($000s),2023,
+755354685,Interest Paid ($000s),2022,
+755354685,Interest Paid ($000s),2021,-
+755354685,Interest Paid ($000s),2020,-
+755354685,Interest Paid ($000s),2019,-
+755354685,Interest Paid ($000s),2018,-
+755354685,Interest Paid ($000s),2017,-
+755354685,Interest Paid ($000s),2016,-
+755354685,Dividends paid ($000s),2025,"($440,000)"
+755354685,Dividends paid ($000s),2024,-
+755354685,Dividends paid ($000s),2023,"($100,000)"
+755354685,Dividends paid ($000s),2022,"($555,000)"
+755354685,Dividends paid ($000s),2021,-
+755354685,Dividends paid ($000s),2020,"($1,330,000)"
+755354685,Dividends paid ($000s),2019,"($361,000)"
+755354685,Dividends paid ($000s),2018,-
+755354685,Dividends paid ($000s),2017,-
+755354685,Dividends paid ($000s),2016,-
+755354685,Other inflows/(outflows) from financing activities ($000s),2025,$0
+755354685,Other inflows/(outflows) from financing activities ($000s),2024,"($92,543)"
+755354685,Other inflows/(outflows) from financing activities ($000s),2023,$0
+755354685,Other inflows/(outflows) from financing activities ($000s),2022,"$83,838"
+755354685,Other inflows/(outflows) from financing activities ($000s),2021,$0
+755354685,Other inflows/(outflows) from financing activities ($000s),2020,"$227,829"
+755354685,Other inflows/(outflows) from financing activities ($000s),2019,"($361,000)"
+755354685,Other inflows/(outflows) from financing activities ($000s),2018,"($504,919)"
+755354685,Other inflows/(outflows) from financing activities ($000s),2017,"($1,164,341)"
+755354685,Other inflows/(outflows) from financing activities ($000s),2016,"($767,066)"
+755354685,Net cash flows from/(used in) financing activities ($000s),2025,"($590,926)"
+755354685,Net cash flows from/(used in) financing activities ($000s),2024,"($92,543)"
+755354685,Net cash flows from/(used in) financing activities ($000s),2023,"($367,208)"
+755354685,Net cash flows from/(used in) financing activities ($000s),2022,"($471,162)"
+755354685,Net cash flows from/(used in) financing activities ($000s),2021,"($328,344)"
+755354685,Net cash flows from/(used in) financing activities ($000s),2020,"($435,752)"
+755354685,Net cash flows from/(used in) financing activities ($000s),2019,"($1,171,075)"
+755354685,Net cash flows from/(used in) financing activities ($000s),2018,"($504,919)"
+755354685,Net cash flows from/(used in) financing activities ($000s),2017,"($1,066,442)"
+755354685,Net cash flows from/(used in) financing activities ($000s),2016,"($767,066)"
+755354685,Net increase/(decrease) in cash and cash equivalents ($000s),2025,$88
+755354685,Net increase/(decrease) in cash and cash equivalents ($000s),2024,$85
+755354685,Net increase/(decrease) in cash and cash equivalents ($000s),2023,$147
+755354685,Net increase/(decrease) in cash and cash equivalents ($000s),2022,$59
+755354685,Net increase/(decrease) in cash and cash equivalents ($000s),2021,$159
+755354685,Net increase/(decrease) in cash and cash equivalents ($000s),2020,"($1,393)"
+755354685,Net increase/(decrease) in cash and cash equivalents ($000s),2019,"$1,511"
+755354685,Net increase/(decrease) in cash and cash equivalents ($000s),2018,($985)
+755354685,Net increase/(decrease) in cash and cash equivalents ($000s),2017,"$1,045"
+755354685,Net increase/(decrease) in cash and cash equivalents ($000s),2016,"($16,421)"
+755354685,Other increase/(decrease) in cash and cash equivalents ($000s),2025,
+755354685,Other increase/(decrease) in cash and cash equivalents ($000s),2024,
+755354685,Other increase/(decrease) in cash and cash equivalents ($000s),2023,
+755354685,Other increase/(decrease) in cash and cash equivalents ($000s),2022,
+755354685,Other increase/(decrease) in cash and cash equivalents ($000s),2021,-
+755354685,Other increase/(decrease) in cash and cash equivalents ($000s),2020,-
+755354685,Other increase/(decrease) in cash and cash equivalents ($000s),2019,-
+755354685,Other increase/(decrease) in cash and cash equivalents ($000s),2018,-
+755354685,Other increase/(decrease) in cash and cash equivalents ($000s),2017,-
+755354685,Other increase/(decrease) in cash and cash equivalents ($000s),2016,-
+755354685,Net foreign exchange differences ($000s),2025,
+755354685,Net foreign exchange differences ($000s),2024,
+755354685,Net foreign exchange differences ($000s),2023,
+755354685,Net foreign exchange differences ($000s),2022,
+755354685,Net foreign exchange differences ($000s),2021,-
+755354685,Net foreign exchange differences ($000s),2020,-
+755354685,Net foreign exchange differences ($000s),2019,-
+755354685,Net foreign exchange differences ($000s),2018,-
+755354685,Net foreign exchange differences ($000s),2017,-
+755354685,Net foreign exchange differences ($000s),2016,-
+755354685,Cash and cash equivalents at the beginning of the period ($000s),2025,"$2,089"
+755354685,Cash and cash equivalents at the beginning of the period ($000s),2024,"$2,004"
+755354685,Cash and cash equivalents at the beginning of the period ($000s),2023,"$1,857"
+755354685,Cash and cash equivalents at the beginning of the period ($000s),2022,"$1,798"
+755354685,Cash and cash equivalents at the beginning of the period ($000s),2021,"$1,639"
+755354685,Cash and cash equivalents at the beginning of the period ($000s),2020,"$3,032"
+755354685,Cash and cash equivalents at the beginning of the period ($000s),2019,"$1,521"
+755354685,Cash and cash equivalents at the beginning of the period ($000s),2018,"$2,506"
+755354685,Cash and cash equivalents at the beginning of the period ($000s),2017,"$1,461"
+755354685,Cash and cash equivalents at the beginning of the period ($000s),2016,"$17,882"
+755354685,Cash and cash equivalents at the end of the period ($000s),2025,"$2,177"
+755354685,Cash and cash equivalents at the end of the period ($000s),2024,"$2,089"
+755354685,Cash and cash equivalents at the end of the period ($000s),2023,"$2,004"
+755354685,Cash and cash equivalents at the end of the period ($000s),2022,"$1,857"
+755354685,Cash and cash equivalents at the end of the period ($000s),2021,"$1,798"
+755354685,Cash and cash equivalents at the end of the period ($000s),2020,"$1,639"
+755354685,Cash and cash equivalents at the end of the period ($000s),2019,"$3,032"
+755354685,Cash and cash equivalents at the end of the period ($000s),2018,"$1,521"
+755354685,Cash and cash equivalents at the end of the period ($000s),2017,"$2,506"
+755354685,Cash and cash equivalents at the end of the period ($000s),2016,"$1,461"

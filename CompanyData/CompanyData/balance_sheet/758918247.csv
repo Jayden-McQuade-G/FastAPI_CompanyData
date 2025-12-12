@@ -1,0 +1,601 @@
+duns,line_item,year,value
+758918247,Current Assets,2024,
+758918247,Current Assets,2023,
+758918247,Current Assets,2022,
+758918247,Current Assets,2021,
+758918247,Current Assets,2020,-
+758918247,Current Assets,2019,-
+758918247,Current Assets,2018,-
+758918247,Current Assets,2017,-
+758918247,Current Assets,2016,-
+758918247,Current Assets,2015,-
+758918247,Cash and cash equivalents ($000s),2024,"$18,584"
+758918247,Cash and cash equivalents ($000s),2023,"$16,808"
+758918247,Cash and cash equivalents ($000s),2022,"$11,870"
+758918247,Cash and cash equivalents ($000s),2021,"$11,296"
+758918247,Cash and cash equivalents ($000s),2020,"$7,413"
+758918247,Cash and cash equivalents ($000s),2019,"$3,750"
+758918247,Cash and cash equivalents ($000s),2018,"$3,334"
+758918247,Cash and cash equivalents ($000s),2017,"$3,205"
+758918247,Cash and cash equivalents ($000s),2016,"$2,288"
+758918247,Cash and cash equivalents ($000s),2015,"$2,268"
+758918247,Growth,2024,10.57%
+758918247,Growth,2023,41.60%
+758918247,Growth,2022,5.08%
+758918247,Growth,2021,52.38%
+758918247,Growth,2020,97.68%
+758918247,Growth,2019,12.48%
+758918247,Growth,2018,4.02%
+758918247,Growth,2017,40.08%
+758918247,Growth,2016,0.88%
+758918247,Growth,2015,-
+758918247,Trade receivables ($000s),2024,$238
+758918247,Trade receivables ($000s),2023,$329
+758918247,Trade receivables ($000s),2022,$118
+758918247,Trade receivables ($000s),2021,$87
+758918247,Trade receivables ($000s),2020,$111
+758918247,Trade receivables ($000s),2019,$57
+758918247,Trade receivables ($000s),2018,$101
+758918247,Trade receivables ($000s),2017,$52
+758918247,Trade receivables ($000s),2016,$360
+758918247,Trade receivables ($000s),2015,$122
+758918247,Other receivables ($000s),2024,-
+758918247,Other receivables ($000s),2023,-
+758918247,Other receivables ($000s),2022,-
+758918247,Other receivables ($000s),2021,-
+758918247,Other receivables ($000s),2020,-
+758918247,Other receivables ($000s),2019,-
+758918247,Other receivables ($000s),2018,-
+758918247,Other receivables ($000s),2017,$2
+758918247,Other receivables ($000s),2016,$8
+758918247,Other receivables ($000s),2015,$9
+758918247,Raw materials ($000s),2024,$0
+758918247,Raw materials ($000s),2023,$0
+758918247,Raw materials ($000s),2022,$0
+758918247,Raw materials ($000s),2021,$0
+758918247,Raw materials ($000s),2020,$0
+758918247,Raw materials ($000s),2019,$0
+758918247,Raw materials ($000s),2018,$0
+758918247,Raw materials ($000s),2017,$0
+758918247,Raw materials ($000s),2016,$0
+758918247,Raw materials ($000s),2015,$0
+758918247,Work-in-progress ($000s),2024,
+758918247,Work-in-progress ($000s),2023,
+758918247,Work-in-progress ($000s),2022,
+758918247,Work-in-progress ($000s),2021,
+758918247,Work-in-progress ($000s),2020,-
+758918247,Work-in-progress ($000s),2019,-
+758918247,Work-in-progress ($000s),2018,-
+758918247,Work-in-progress ($000s),2017,-
+758918247,Work-in-progress ($000s),2016,-
+758918247,Work-in-progress ($000s),2015,-
+758918247,Finished goods ($000s),2024,$344
+758918247,Finished goods ($000s),2023,$281
+758918247,Finished goods ($000s),2022,$295
+758918247,Finished goods ($000s),2021,$242
+758918247,Finished goods ($000s),2020,$209
+758918247,Finished goods ($000s),2019,$289
+758918247,Finished goods ($000s),2018,$348
+758918247,Finished goods ($000s),2017,$299
+758918247,Finished goods ($000s),2016,$380
+758918247,Finished goods ($000s),2015,$565
+758918247,Total inventories ($000s),2024,$344
+758918247,Total inventories ($000s),2023,$281
+758918247,Total inventories ($000s),2022,$295
+758918247,Total inventories ($000s),2021,$242
+758918247,Total inventories ($000s),2020,$209
+758918247,Total inventories ($000s),2019,$289
+758918247,Total inventories ($000s),2018,$348
+758918247,Total inventories ($000s),2017,$299
+758918247,Total inventories ($000s),2016,$380
+758918247,Total inventories ($000s),2015,$565
+758918247,Prepayments ($000s),2024,$532
+758918247,Prepayments ($000s),2023,$518
+758918247,Prepayments ($000s),2022,$483
+758918247,Prepayments ($000s),2021,$369
+758918247,Prepayments ($000s),2020,$381
+758918247,Prepayments ($000s),2019,$385
+758918247,Prepayments ($000s),2018,$349
+758918247,Prepayments ($000s),2017,$187
+758918247,Prepayments ($000s),2016,$343
+758918247,Prepayments ($000s),2015,$382
+758918247,Derivative financial instruments ($000s),2024,
+758918247,Derivative financial instruments ($000s),2023,
+758918247,Derivative financial instruments ($000s),2022,
+758918247,Derivative financial instruments ($000s),2021,
+758918247,Derivative financial instruments ($000s),2020,-
+758918247,Derivative financial instruments ($000s),2019,-
+758918247,Derivative financial instruments ($000s),2018,-
+758918247,Derivative financial instruments ($000s),2017,-
+758918247,Derivative financial instruments ($000s),2016,-
+758918247,Derivative financial instruments ($000s),2015,-
+758918247,Other current assets ($000s),2024,$900
+758918247,Other current assets ($000s),2023,$900
+758918247,Other current assets ($000s),2022,$900
+758918247,Other current assets ($000s),2021,$900
+758918247,Other current assets ($000s),2020,$900
+758918247,Other current assets ($000s),2019,$0
+758918247,Other current assets ($000s),2018,$0
+758918247,Other current assets ($000s),2017,"$1,940"
+758918247,Other current assets ($000s),2016,"$2,101"
+758918247,Other current assets ($000s),2015,"$1,228"
+758918247,Total current assets for continuing operations ($000s),2024,"$20,597"
+758918247,Total current assets for continuing operations ($000s),2023,"$18,836"
+758918247,Total current assets for continuing operations ($000s),2022,"$13,665"
+758918247,Total current assets for continuing operations ($000s),2021,"$12,895"
+758918247,Total current assets for continuing operations ($000s),2020,"$9,015"
+758918247,Total current assets for continuing operations ($000s),2019,"$4,481"
+758918247,Total current assets for continuing operations ($000s),2018,"$4,133"
+758918247,Total current assets for continuing operations ($000s),2017,"$5,684"
+758918247,Total current assets for continuing operations ($000s),2016,"$5,481"
+758918247,Total current assets for continuing operations ($000s),2015,"$4,574"
+758918247,Assets held for sale ($000s),2024,
+758918247,Assets held for sale ($000s),2023,
+758918247,Assets held for sale ($000s),2022,
+758918247,Assets held for sale ($000s),2021,
+758918247,Assets held for sale ($000s),2020,-
+758918247,Assets held for sale ($000s),2019,-
+758918247,Assets held for sale ($000s),2018,-
+758918247,Assets held for sale ($000s),2017,-
+758918247,Assets held for sale ($000s),2016,-
+758918247,Assets held for sale ($000s),2015,-
+758918247,Total current assets ($000s),2024,"$20,597"
+758918247,Total current assets ($000s),2023,"$18,836"
+758918247,Total current assets ($000s),2022,"$13,665"
+758918247,Total current assets ($000s),2021,"$12,895"
+758918247,Total current assets ($000s),2020,"$9,015"
+758918247,Total current assets ($000s),2019,"$4,481"
+758918247,Total current assets ($000s),2018,"$4,133"
+758918247,Total current assets ($000s),2017,"$5,684"
+758918247,Total current assets ($000s),2016,"$5,481"
+758918247,Total current assets ($000s),2015,"$4,574"
+758918247,Non-current assets,2024,
+758918247,Non-current assets,2023,
+758918247,Non-current assets,2022,
+758918247,Non-current assets,2021,
+758918247,Non-current assets,2020,-
+758918247,Non-current assets,2019,-
+758918247,Non-current assets,2018,-
+758918247,Non-current assets,2017,-
+758918247,Non-current assets,2016,-
+758918247,Non-current assets,2015,-
+758918247,Receivables ($000s),2024,
+758918247,Receivables ($000s),2023,
+758918247,Receivables ($000s),2022,
+758918247,Receivables ($000s),2021,
+758918247,Receivables ($000s),2020,-
+758918247,Receivables ($000s),2019,-
+758918247,Receivables ($000s),2018,-
+758918247,Receivables ($000s),2017,-
+758918247,Receivables ($000s),2016,-
+758918247,Receivables ($000s),2015,-
+758918247,Investments in associates ($000s),2024,$0
+758918247,Investments in associates ($000s),2023,$0
+758918247,Investments in associates ($000s),2022,$0
+758918247,Investments in associates ($000s),2021,$0
+758918247,Investments in associates ($000s),2020,$0
+758918247,Investments in associates ($000s),2019,$0
+758918247,Investments in associates ($000s),2018,$0
+758918247,Investments in associates ($000s),2017,$0
+758918247,Investments in associates ($000s),2016,$0
+758918247,Investments in associates ($000s),2015,$0
+758918247,Investments in subsidiaries ($000s),2024,
+758918247,Investments in subsidiaries ($000s),2023,
+758918247,Investments in subsidiaries ($000s),2022,
+758918247,Investments in subsidiaries ($000s),2021,
+758918247,Investments in subsidiaries ($000s),2020,-
+758918247,Investments in subsidiaries ($000s),2019,-
+758918247,Investments in subsidiaries ($000s),2018,-
+758918247,Investments in subsidiaries ($000s),2017,-
+758918247,Investments in subsidiaries ($000s),2016,-
+758918247,Investments in subsidiaries ($000s),2015,-
+758918247,Available for sale financial assets ($000s),2024,$0
+758918247,Available for sale financial assets ($000s),2023,$0
+758918247,Available for sale financial assets ($000s),2022,$0
+758918247,Available for sale financial assets ($000s),2021,$0
+758918247,Available for sale financial assets ($000s),2020,$0
+758918247,Available for sale financial assets ($000s),2019,$0
+758918247,Available for sale financial assets ($000s),2018,$0
+758918247,Available for sale financial assets ($000s),2017,$0
+758918247,Available for sale financial assets ($000s),2016,$0
+758918247,Available for sale financial assets ($000s),2015,$0
+758918247,"Property, plant and equipment ($000s)",2024,"$18,991"
+758918247,"Property, plant and equipment ($000s)",2023,"$13,122"
+758918247,"Property, plant and equipment ($000s)",2022,"$12,184"
+758918247,"Property, plant and equipment ($000s)",2021,"$11,655"
+758918247,"Property, plant and equipment ($000s)",2020,"$11,365"
+758918247,"Property, plant and equipment ($000s)",2019,"$11,490"
+758918247,"Property, plant and equipment ($000s)",2018,"$11,009"
+758918247,"Property, plant and equipment ($000s)",2017,"$12,635"
+758918247,"Property, plant and equipment ($000s)",2016,"$14,019"
+758918247,"Property, plant and equipment ($000s)",2015,"$12,603"
+758918247,Intangible assets and goodwill ($000s),2024,$848
+758918247,Intangible assets and goodwill ($000s),2023,$852
+758918247,Intangible assets and goodwill ($000s),2022,$860
+758918247,Intangible assets and goodwill ($000s),2021,$868
+758918247,Intangible assets and goodwill ($000s),2020,$856
+758918247,Intangible assets and goodwill ($000s),2019,$852
+758918247,Intangible assets and goodwill ($000s),2018,$0
+758918247,Intangible assets and goodwill ($000s),2017,$218
+758918247,Intangible assets and goodwill ($000s),2016,$0
+758918247,Intangible assets and goodwill ($000s),2015,$0
+758918247,Deferred tax assets ($000s),2024,
+758918247,Deferred tax assets ($000s),2023,
+758918247,Deferred tax assets ($000s),2022,
+758918247,Deferred tax assets ($000s),2021,
+758918247,Deferred tax assets ($000s),2020,-
+758918247,Deferred tax assets ($000s),2019,-
+758918247,Deferred tax assets ($000s),2018,-
+758918247,Deferred tax assets ($000s),2017,-
+758918247,Deferred tax assets ($000s),2016,-
+758918247,Deferred tax assets ($000s),2015,-
+758918247,Other non-current assets ($000s),2024,"$1,871"
+758918247,Other non-current assets ($000s),2023,"$2,771"
+758918247,Other non-current assets ($000s),2022,"$4,497"
+758918247,Other non-current assets ($000s),2021,"$2,497"
+758918247,Other non-current assets ($000s),2020,"$3,397"
+758918247,Other non-current assets ($000s),2019,"$2,978"
+758918247,Other non-current assets ($000s),2018,"$3,849"
+758918247,Other non-current assets ($000s),2017,$18
+758918247,Other non-current assets ($000s),2016,$18
+758918247,Other non-current assets ($000s),2015,$17
+758918247,Total non-current assets ($000s),2024,"$21,710"
+758918247,Total non-current assets ($000s),2023,"$16,745"
+758918247,Total non-current assets ($000s),2022,"$17,541"
+758918247,Total non-current assets ($000s),2021,"$15,020"
+758918247,Total non-current assets ($000s),2020,"$15,619"
+758918247,Total non-current assets ($000s),2019,"$15,319"
+758918247,Total non-current assets ($000s),2018,"$14,858"
+758918247,Total non-current assets ($000s),2017,"$12,871"
+758918247,Total non-current assets ($000s),2016,"$14,036"
+758918247,Total non-current assets ($000s),2015,"$12,621"
+758918247,TOTAL ASSETS ($000s),2024,"$42,307"
+758918247,TOTAL ASSETS ($000s),2023,"$35,581"
+758918247,TOTAL ASSETS ($000s),2022,"$31,206"
+758918247,TOTAL ASSETS ($000s),2021,"$27,914"
+758918247,TOTAL ASSETS ($000s),2020,"$24,633"
+758918247,TOTAL ASSETS ($000s),2019,"$19,800"
+758918247,TOTAL ASSETS ($000s),2018,"$18,991"
+758918247,TOTAL ASSETS ($000s),2017,"$18,555"
+758918247,TOTAL ASSETS ($000s),2016,"$19,517"
+758918247,TOTAL ASSETS ($000s),2015,"$17,195"
+758918247,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2024,"$35,581"
+758918247,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2023,"$31,206"
+758918247,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2022,"$27,914"
+758918247,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2021,"$24,633"
+758918247,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2020,"$19,800"
+758918247,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2019,"$18,991"
+758918247,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2018,"$18,555"
+758918247,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2017,"$19,517"
+758918247,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2016,"$17,195"
+758918247,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2015,"$15,810"
+758918247,Current liabilities,2024,
+758918247,Current liabilities,2023,
+758918247,Current liabilities,2022,
+758918247,Current liabilities,2021,
+758918247,Current liabilities,2020,-
+758918247,Current liabilities,2019,-
+758918247,Current liabilities,2018,-
+758918247,Current liabilities,2017,-
+758918247,Current liabilities,2016,-
+758918247,Current liabilities,2015,-
+758918247,Trade payables ($000s),2024,"$1,075"
+758918247,Trade payables ($000s),2023,"$1,113"
+758918247,Trade payables ($000s),2022,"$1,856"
+758918247,Trade payables ($000s),2021,"$1,557"
+758918247,Trade payables ($000s),2020,"$1,433"
+758918247,Trade payables ($000s),2019,"$1,507"
+758918247,Trade payables ($000s),2018,"$1,099"
+758918247,Trade payables ($000s),2017,"$1,280"
+758918247,Trade payables ($000s),2016,"$1,869"
+758918247,Trade payables ($000s),2015,"$1,052"
+758918247,Other payables ($000s),2024,$963
+758918247,Other payables ($000s),2023,$956
+758918247,Other payables ($000s),2022,$953
+758918247,Other payables ($000s),2021,$781
+758918247,Other payables ($000s),2020,"$1,736"
+758918247,Other payables ($000s),2019,$737
+758918247,Other payables ($000s),2018,$774
+758918247,Other payables ($000s),2017,$761
+758918247,Other payables ($000s),2016,"$1,112"
+758918247,Other payables ($000s),2015,$753
+758918247,Overdrafts ($000s),2024,
+758918247,Overdrafts ($000s),2023,
+758918247,Overdrafts ($000s),2022,
+758918247,Overdrafts ($000s),2021,
+758918247,Overdrafts ($000s),2020,-
+758918247,Overdrafts ($000s),2019,-
+758918247,Overdrafts ($000s),2018,-
+758918247,Overdrafts ($000s),2017,-
+758918247,Overdrafts ($000s),2016,-
+758918247,Overdrafts ($000s),2015,-
+758918247,Loans - secured ($000s),2024,-
+758918247,Loans - secured ($000s),2023,-
+758918247,Loans - secured ($000s),2022,-
+758918247,Loans - secured ($000s),2021,-
+758918247,Loans - secured ($000s),2020,-
+758918247,Loans - secured ($000s),2019,-
+758918247,Loans - secured ($000s),2018,-
+758918247,Loans - secured ($000s),2017,$586
+758918247,Loans - secured ($000s),2016,$586
+758918247,Loans - secured ($000s),2015,$426
+758918247,Loans - unsecured ($000s),2024,-
+758918247,Loans - unsecured ($000s),2023,-
+758918247,Loans - unsecured ($000s),2022,-
+758918247,Loans - unsecured ($000s),2021,-
+758918247,Loans - unsecured ($000s),2020,-
+758918247,Loans - unsecured ($000s),2019,-
+758918247,Loans - unsecured ($000s),2018,$53
+758918247,Loans - unsecured ($000s),2017,$63
+758918247,Loans - unsecured ($000s),2016,$63
+758918247,Loans - unsecured ($000s),2015,$662
+758918247,Obligations under finance leases and hire purchase ($000s),2024,
+758918247,Obligations under finance leases and hire purchase ($000s),2023,
+758918247,Obligations under finance leases and hire purchase ($000s),2022,
+758918247,Obligations under finance leases and hire purchase ($000s),2021,
+758918247,Obligations under finance leases and hire purchase ($000s),2020,-
+758918247,Obligations under finance leases and hire purchase ($000s),2019,-
+758918247,Obligations under finance leases and hire purchase ($000s),2018,-
+758918247,Obligations under finance leases and hire purchase ($000s),2017,-
+758918247,Obligations under finance leases and hire purchase ($000s),2016,-
+758918247,Obligations under finance leases and hire purchase ($000s),2015,-
+758918247,Loans from related parties ($000s),2024,
+758918247,Loans from related parties ($000s),2023,
+758918247,Loans from related parties ($000s),2022,
+758918247,Loans from related parties ($000s),2021,
+758918247,Loans from related parties ($000s),2020,-
+758918247,Loans from related parties ($000s),2019,-
+758918247,Loans from related parties ($000s),2018,-
+758918247,Loans from related parties ($000s),2017,-
+758918247,Loans from related parties ($000s),2016,-
+758918247,Loans from related parties ($000s),2015,-
+758918247,Total current interest-bearing loans and borrowings ($000s),2024,-
+758918247,Total current interest-bearing loans and borrowings ($000s),2023,-
+758918247,Total current interest-bearing loans and borrowings ($000s),2022,-
+758918247,Total current interest-bearing loans and borrowings ($000s),2021,-
+758918247,Total current interest-bearing loans and borrowings ($000s),2020,-
+758918247,Total current interest-bearing loans and borrowings ($000s),2019,-
+758918247,Total current interest-bearing loans and borrowings ($000s),2018,$53
+758918247,Total current interest-bearing loans and borrowings ($000s),2017,$649
+758918247,Total current interest-bearing loans and borrowings ($000s),2016,$649
+758918247,Total current interest-bearing loans and borrowings ($000s),2015,"$1,088"
+758918247,Income tax payable/(refundable) ($000s),2024,
+758918247,Income tax payable/(refundable) ($000s),2023,
+758918247,Income tax payable/(refundable) ($000s),2022,
+758918247,Income tax payable/(refundable) ($000s),2021,
+758918247,Income tax payable/(refundable) ($000s),2020,-
+758918247,Income tax payable/(refundable) ($000s),2019,-
+758918247,Income tax payable/(refundable) ($000s),2018,-
+758918247,Income tax payable/(refundable) ($000s),2017,-
+758918247,Income tax payable/(refundable) ($000s),2016,-
+758918247,Income tax payable/(refundable) ($000s),2015,-
+758918247,Provisions ($000s),2024,$943
+758918247,Provisions ($000s),2023,$988
+758918247,Provisions ($000s),2022,"$1,061"
+758918247,Provisions ($000s),2021,"$1,002"
+758918247,Provisions ($000s),2020,$936
+758918247,Provisions ($000s),2019,$873
+758918247,Provisions ($000s),2018,$940
+758918247,Provisions ($000s),2017,$822
+758918247,Provisions ($000s),2016,$967
+758918247,Provisions ($000s),2015,$986
+758918247,Other current liabilities ($000s),2024,$0
+758918247,Other current liabilities ($000s),2023,$0
+758918247,Other current liabilities ($000s),2022,$0
+758918247,Other current liabilities ($000s),2021,$0
+758918247,Other current liabilities ($000s),2020,$0
+758918247,Other current liabilities ($000s),2019,$0
+758918247,Other current liabilities ($000s),2018,$0
+758918247,Other current liabilities ($000s),2017,$0
+758918247,Other current liabilities ($000s),2016,$204
+758918247,Other current liabilities ($000s),2015,$0
+758918247,Total current liabilities for continuing operations ($000s),2024,"$2,982"
+758918247,Total current liabilities for continuing operations ($000s),2023,"$3,057"
+758918247,Total current liabilities for continuing operations ($000s),2022,"$3,870"
+758918247,Total current liabilities for continuing operations ($000s),2021,"$3,339"
+758918247,Total current liabilities for continuing operations ($000s),2020,"$4,105"
+758918247,Total current liabilities for continuing operations ($000s),2019,"$3,116"
+758918247,Total current liabilities for continuing operations ($000s),2018,"$2,866"
+758918247,Total current liabilities for continuing operations ($000s),2017,"$3,513"
+758918247,Total current liabilities for continuing operations ($000s),2016,"$4,801"
+758918247,Total current liabilities for continuing operations ($000s),2015,"$3,880"
+758918247,Liabilities directly associated with assets held for sale ($000s),2024,
+758918247,Liabilities directly associated with assets held for sale ($000s),2023,
+758918247,Liabilities directly associated with assets held for sale ($000s),2022,
+758918247,Liabilities directly associated with assets held for sale ($000s),2021,
+758918247,Liabilities directly associated with assets held for sale ($000s),2020,-
+758918247,Liabilities directly associated with assets held for sale ($000s),2019,-
+758918247,Liabilities directly associated with assets held for sale ($000s),2018,-
+758918247,Liabilities directly associated with assets held for sale ($000s),2017,-
+758918247,Liabilities directly associated with assets held for sale ($000s),2016,-
+758918247,Liabilities directly associated with assets held for sale ($000s),2015,-
+758918247,Total current liabilities ($000s),2024,"$2,982"
+758918247,Total current liabilities ($000s),2023,"$3,057"
+758918247,Total current liabilities ($000s),2022,"$3,870"
+758918247,Total current liabilities ($000s),2021,"$3,339"
+758918247,Total current liabilities ($000s),2020,"$4,105"
+758918247,Total current liabilities ($000s),2019,"$3,116"
+758918247,Total current liabilities ($000s),2018,"$2,866"
+758918247,Total current liabilities ($000s),2017,"$3,513"
+758918247,Total current liabilities ($000s),2016,"$4,801"
+758918247,Total current liabilities ($000s),2015,"$3,880"
+758918247,Total current liabilities for previous year ($000s),2024,"$3,057"
+758918247,Total current liabilities for previous year ($000s),2023,"$3,870"
+758918247,Total current liabilities for previous year ($000s),2022,"$3,339"
+758918247,Total current liabilities for previous year ($000s),2021,"$4,105"
+758918247,Total current liabilities for previous year ($000s),2020,"$3,116"
+758918247,Total current liabilities for previous year ($000s),2019,"$2,866"
+758918247,Total current liabilities for previous year ($000s),2018,"$3,513"
+758918247,Total current liabilities for previous year ($000s),2017,"$4,801"
+758918247,Total current liabilities for previous year ($000s),2016,"$3,880"
+758918247,Total current liabilities for previous year ($000s),2015,"$4,093"
+758918247,Non-current liabilities,2024,
+758918247,Non-current liabilities,2023,
+758918247,Non-current liabilities,2022,
+758918247,Non-current liabilities,2021,
+758918247,Non-current liabilities,2020,-
+758918247,Non-current liabilities,2019,-
+758918247,Non-current liabilities,2018,-
+758918247,Non-current liabilities,2017,-
+758918247,Non-current liabilities,2016,-
+758918247,Non-current liabilities,2015,-
+758918247,Total non-current interest-bearing loans and borrowings ($000s),2024,-
+758918247,Total non-current interest-bearing loans and borrowings ($000s),2023,-
+758918247,Total non-current interest-bearing loans and borrowings ($000s),2022,-
+758918247,Total non-current interest-bearing loans and borrowings ($000s),2021,-
+758918247,Total non-current interest-bearing loans and borrowings ($000s),2020,-
+758918247,Total non-current interest-bearing loans and borrowings ($000s),2019,-
+758918247,Total non-current interest-bearing loans and borrowings ($000s),2018,-
+758918247,Total non-current interest-bearing loans and borrowings ($000s),2017,"$1,244"
+758918247,Total non-current interest-bearing loans and borrowings ($000s),2016,"$1,903"
+758918247,Total non-current interest-bearing loans and borrowings ($000s),2015,"$1,552"
+758918247,Deferred tax liabilities ($000s),2024,
+758918247,Deferred tax liabilities ($000s),2023,
+758918247,Deferred tax liabilities ($000s),2022,
+758918247,Deferred tax liabilities ($000s),2021,
+758918247,Deferred tax liabilities ($000s),2020,-
+758918247,Deferred tax liabilities ($000s),2019,-
+758918247,Deferred tax liabilities ($000s),2018,-
+758918247,Deferred tax liabilities ($000s),2017,-
+758918247,Deferred tax liabilities ($000s),2016,-
+758918247,Deferred tax liabilities ($000s),2015,-
+758918247,Convertible redeemable preference shares ($000s),2024,
+758918247,Convertible redeemable preference shares ($000s),2023,
+758918247,Convertible redeemable preference shares ($000s),2022,
+758918247,Convertible redeemable preference shares ($000s),2021,
+758918247,Convertible redeemable preference shares ($000s),2020,-
+758918247,Convertible redeemable preference shares ($000s),2019,-
+758918247,Convertible redeemable preference shares ($000s),2018,-
+758918247,Convertible redeemable preference shares ($000s),2017,-
+758918247,Convertible redeemable preference shares ($000s),2016,-
+758918247,Convertible redeemable preference shares ($000s),2015,-
+758918247,Other non-current liabilities ($000s),2024,$0
+758918247,Other non-current liabilities ($000s),2023,$0
+758918247,Other non-current liabilities ($000s),2022,$0
+758918247,Other non-current liabilities ($000s),2021,$10
+758918247,Other non-current liabilities ($000s),2020,$10
+758918247,Other non-current liabilities ($000s),2019,$10
+758918247,Other non-current liabilities ($000s),2018,$10
+758918247,Other non-current liabilities ($000s),2017,$10
+758918247,Other non-current liabilities ($000s),2016,$10
+758918247,Other non-current liabilities ($000s),2015,$10
+758918247,Total non-current liabilities ($000s),2024,$53
+758918247,Total non-current liabilities ($000s),2023,$65
+758918247,Total non-current liabilities ($000s),2022,$73
+758918247,Total non-current liabilities ($000s),2021,$50
+758918247,Total non-current liabilities ($000s),2020,$53
+758918247,Total non-current liabilities ($000s),2019,$107
+758918247,Total non-current liabilities ($000s),2018,$205
+758918247,Total non-current liabilities ($000s),2017,"$1,452"
+758918247,Total non-current liabilities ($000s),2016,"$2,048"
+758918247,Total non-current liabilities ($000s),2015,"$1,711"
+758918247,TOTAL LIABILITIES ($000s),2024,"$3,035"
+758918247,TOTAL LIABILITIES ($000s),2023,"$3,122"
+758918247,TOTAL LIABILITIES ($000s),2022,"$3,944"
+758918247,TOTAL LIABILITIES ($000s),2021,"$3,389"
+758918247,TOTAL LIABILITIES ($000s),2020,"$4,157"
+758918247,TOTAL LIABILITIES ($000s),2019,"$3,223"
+758918247,TOTAL LIABILITIES ($000s),2018,"$3,071"
+758918247,TOTAL LIABILITIES ($000s),2017,"$4,965"
+758918247,TOTAL LIABILITIES ($000s),2016,"$6,849"
+758918247,TOTAL LIABILITIES ($000s),2015,"$5,591"
+758918247,NET ASSETS ($000s),2024,"$39,272"
+758918247,NET ASSETS ($000s),2023,"$32,459"
+758918247,NET ASSETS ($000s),2022,"$27,263"
+758918247,NET ASSETS ($000s),2021,"$24,525"
+758918247,NET ASSETS ($000s),2020,"$20,476"
+758918247,NET ASSETS ($000s),2019,"$16,577"
+758918247,NET ASSETS ($000s),2018,"$15,920"
+758918247,NET ASSETS ($000s),2017,"$13,590"
+758918247,NET ASSETS ($000s),2016,"$12,668"
+758918247,NET ASSETS ($000s),2015,"$11,604"
+758918247,Equity,2024,
+758918247,Equity,2023,
+758918247,Equity,2022,
+758918247,Equity,2021,
+758918247,Equity,2020,-
+758918247,Equity,2019,-
+758918247,Equity,2018,-
+758918247,Equity,2017,-
+758918247,Equity,2016,-
+758918247,Equity,2015,-
+758918247,Equity attributable to equity holders of the parent,2024,
+758918247,Equity attributable to equity holders of the parent,2023,
+758918247,Equity attributable to equity holders of the parent,2022,
+758918247,Equity attributable to equity holders of the parent,2021,
+758918247,Equity attributable to equity holders of the parent,2020,-
+758918247,Equity attributable to equity holders of the parent,2019,-
+758918247,Equity attributable to equity holders of the parent,2018,-
+758918247,Equity attributable to equity holders of the parent,2017,-
+758918247,Equity attributable to equity holders of the parent,2016,-
+758918247,Equity attributable to equity holders of the parent,2015,-
+758918247,Contributed equity ($000s),2024,$0
+758918247,Contributed equity ($000s),2023,$0
+758918247,Contributed equity ($000s),2022,$0
+758918247,Contributed equity ($000s),2021,$0
+758918247,Contributed equity ($000s),2020,$0
+758918247,Contributed equity ($000s),2019,$0
+758918247,Contributed equity ($000s),2018,$0
+758918247,Contributed equity ($000s),2017,$0
+758918247,Contributed equity ($000s),2016,$0
+758918247,Contributed equity ($000s),2015,$0
+758918247,Retained earnings ($000s),2024,"$39,272"
+758918247,Retained earnings ($000s),2023,"$32,459"
+758918247,Retained earnings ($000s),2022,"$27,263"
+758918247,Retained earnings ($000s),2021,"$24,525"
+758918247,Retained earnings ($000s),2020,"$20,476"
+758918247,Retained earnings ($000s),2019,"$16,577"
+758918247,Retained earnings ($000s),2018,"$15,920"
+758918247,Retained earnings ($000s),2017,"$13,590"
+758918247,Retained earnings ($000s),2016,"$12,668"
+758918247,Retained earnings ($000s),2015,"$11,604"
+758918247,Reserves ($000s),2024,$0
+758918247,Reserves ($000s),2023,$0
+758918247,Reserves ($000s),2022,$0
+758918247,Reserves ($000s),2021,$0
+758918247,Reserves ($000s),2020,$0
+758918247,Reserves ($000s),2019,$0
+758918247,Reserves ($000s),2018,$0
+758918247,Reserves ($000s),2017,$0
+758918247,Reserves ($000s),2016,$0
+758918247,Reserves ($000s),2015,$0
+758918247,Total Parent interests ($000s),2024,"$39,272"
+758918247,Total Parent interests ($000s),2023,"$32,459"
+758918247,Total Parent interests ($000s),2022,"$27,263"
+758918247,Total Parent interests ($000s),2021,"$24,525"
+758918247,Total Parent interests ($000s),2020,"$20,476"
+758918247,Total Parent interests ($000s),2019,"$16,577"
+758918247,Total Parent interests ($000s),2018,"$15,920"
+758918247,Total Parent interests ($000s),2017,"$13,590"
+758918247,Total Parent interests ($000s),2016,"$12,668"
+758918247,Total Parent interests ($000s),2015,"$11,604"
+758918247,Minority interests ($000s),2024,
+758918247,Minority interests ($000s),2023,
+758918247,Minority interests ($000s),2022,
+758918247,Minority interests ($000s),2021,
+758918247,Minority interests ($000s),2020,-
+758918247,Minority interests ($000s),2019,-
+758918247,Minority interests ($000s),2018,-
+758918247,Minority interests ($000s),2017,-
+758918247,Minority interests ($000s),2016,-
+758918247,Minority interests ($000s),2015,-
+758918247,TOTAL EQUITY ($000s),2024,"$39,272"
+758918247,TOTAL EQUITY ($000s),2023,"$32,459"
+758918247,TOTAL EQUITY ($000s),2022,"$27,263"
+758918247,TOTAL EQUITY ($000s),2021,"$24,525"
+758918247,TOTAL EQUITY ($000s),2020,"$20,476"
+758918247,TOTAL EQUITY ($000s),2019,"$16,577"
+758918247,TOTAL EQUITY ($000s),2018,"$15,920"
+758918247,TOTAL EQUITY ($000s),2017,"$13,590"
+758918247,TOTAL EQUITY ($000s),2016,"$12,668"
+758918247,TOTAL EQUITY ($000s),2015,"$11,604"
+758918247,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2024,-
+758918247,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2023,"$27,263"
+758918247,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2022,"$24,525"
+758918247,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2021,"$20,476"
+758918247,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2020,"$16,577"
+758918247,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2019,"$15,920"
+758918247,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2018,"$13,590"
+758918247,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2017,"$12,668"
+758918247,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2016,"$11,604"
+758918247,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2015,"$9,754"

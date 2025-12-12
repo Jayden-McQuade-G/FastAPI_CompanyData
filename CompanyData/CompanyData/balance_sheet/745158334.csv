@@ -1,0 +1,601 @@
+duns,line_item,year,value
+745158334,Current Assets,2023,
+745158334,Current Assets,2022,
+745158334,Current Assets,2021,
+745158334,Current Assets,2020,
+745158334,Current Assets,2019,-
+745158334,Current Assets,2018,-
+745158334,Current Assets,2017,-
+745158334,Current Assets,2016,-
+745158334,Current Assets,2015,-
+745158334,Current Assets,2014,-
+745158334,Cash and cash equivalents ($000s),2023,"$1,807"
+745158334,Cash and cash equivalents ($000s),2022,"$6,750"
+745158334,Cash and cash equivalents ($000s),2021,"$4,074"
+745158334,Cash and cash equivalents ($000s),2020,"$2,791"
+745158334,Cash and cash equivalents ($000s),2019,"$1,843"
+745158334,Cash and cash equivalents ($000s),2018,-
+745158334,Cash and cash equivalents ($000s),2017,-
+745158334,Cash and cash equivalents ($000s),2016,-
+745158334,Cash and cash equivalents ($000s),2015,-
+745158334,Cash and cash equivalents ($000s),2014,-
+745158334,Growth,2023,(73.23%)
+745158334,Growth,2022,65.68%
+745158334,Growth,2021,45.97%
+745158334,Growth,2020,51.44%
+745158334,Growth,2019,-
+745158334,Growth,2018,-
+745158334,Growth,2017,-
+745158334,Growth,2016,-
+745158334,Growth,2015,-
+745158334,Growth,2014,-
+745158334,Trade receivables ($000s),2023,"$2,524"
+745158334,Trade receivables ($000s),2022,$674
+745158334,Trade receivables ($000s),2021,$430
+745158334,Trade receivables ($000s),2020,$3
+745158334,Trade receivables ($000s),2019,$40
+745158334,Trade receivables ($000s),2018,-
+745158334,Trade receivables ($000s),2017,-
+745158334,Trade receivables ($000s),2016,-
+745158334,Trade receivables ($000s),2015,-
+745158334,Trade receivables ($000s),2014,-
+745158334,Other receivables ($000s),2023,$2
+745158334,Other receivables ($000s),2022,$456
+745158334,Other receivables ($000s),2021,$365
+745158334,Other receivables ($000s),2020,$399
+745158334,Other receivables ($000s),2019,$593
+745158334,Other receivables ($000s),2018,-
+745158334,Other receivables ($000s),2017,-
+745158334,Other receivables ($000s),2016,-
+745158334,Other receivables ($000s),2015,-
+745158334,Other receivables ($000s),2014,-
+745158334,Raw materials ($000s),2023,$0
+745158334,Raw materials ($000s),2022,$0
+745158334,Raw materials ($000s),2021,$0
+745158334,Raw materials ($000s),2020,$0
+745158334,Raw materials ($000s),2019,$0
+745158334,Raw materials ($000s),2018,-
+745158334,Raw materials ($000s),2017,-
+745158334,Raw materials ($000s),2016,-
+745158334,Raw materials ($000s),2015,-
+745158334,Raw materials ($000s),2014,-
+745158334,Work-in-progress ($000s),2023,
+745158334,Work-in-progress ($000s),2022,
+745158334,Work-in-progress ($000s),2021,
+745158334,Work-in-progress ($000s),2020,
+745158334,Work-in-progress ($000s),2019,-
+745158334,Work-in-progress ($000s),2018,-
+745158334,Work-in-progress ($000s),2017,-
+745158334,Work-in-progress ($000s),2016,-
+745158334,Work-in-progress ($000s),2015,-
+745158334,Work-in-progress ($000s),2014,-
+745158334,Finished goods ($000s),2023,$0
+745158334,Finished goods ($000s),2022,$0
+745158334,Finished goods ($000s),2021,$0
+745158334,Finished goods ($000s),2020,$0
+745158334,Finished goods ($000s),2019,$0
+745158334,Finished goods ($000s),2018,-
+745158334,Finished goods ($000s),2017,-
+745158334,Finished goods ($000s),2016,-
+745158334,Finished goods ($000s),2015,-
+745158334,Finished goods ($000s),2014,-
+745158334,Total inventories ($000s),2023,$0
+745158334,Total inventories ($000s),2022,$0
+745158334,Total inventories ($000s),2021,$0
+745158334,Total inventories ($000s),2020,$0
+745158334,Total inventories ($000s),2019,$0
+745158334,Total inventories ($000s),2018,-
+745158334,Total inventories ($000s),2017,-
+745158334,Total inventories ($000s),2016,-
+745158334,Total inventories ($000s),2015,-
+745158334,Total inventories ($000s),2014,-
+745158334,Prepayments ($000s),2023,$909
+745158334,Prepayments ($000s),2022,"$1,071"
+745158334,Prepayments ($000s),2021,"$1,159"
+745158334,Prepayments ($000s),2020,"$1,077"
+745158334,Prepayments ($000s),2019,$322
+745158334,Prepayments ($000s),2018,-
+745158334,Prepayments ($000s),2017,-
+745158334,Prepayments ($000s),2016,-
+745158334,Prepayments ($000s),2015,-
+745158334,Prepayments ($000s),2014,-
+745158334,Derivative financial instruments ($000s),2023,
+745158334,Derivative financial instruments ($000s),2022,
+745158334,Derivative financial instruments ($000s),2021,
+745158334,Derivative financial instruments ($000s),2020,
+745158334,Derivative financial instruments ($000s),2019,-
+745158334,Derivative financial instruments ($000s),2018,-
+745158334,Derivative financial instruments ($000s),2017,-
+745158334,Derivative financial instruments ($000s),2016,-
+745158334,Derivative financial instruments ($000s),2015,-
+745158334,Derivative financial instruments ($000s),2014,-
+745158334,Other current assets ($000s),2023,$0
+745158334,Other current assets ($000s),2022,$0
+745158334,Other current assets ($000s),2021,$0
+745158334,Other current assets ($000s),2020,"$2,053"
+745158334,Other current assets ($000s),2019,$201
+745158334,Other current assets ($000s),2018,-
+745158334,Other current assets ($000s),2017,-
+745158334,Other current assets ($000s),2016,-
+745158334,Other current assets ($000s),2015,-
+745158334,Other current assets ($000s),2014,-
+745158334,Total current assets for continuing operations ($000s),2023,"$5,242"
+745158334,Total current assets for continuing operations ($000s),2022,"$8,952"
+745158334,Total current assets for continuing operations ($000s),2021,"$6,028"
+745158334,Total current assets for continuing operations ($000s),2020,"$6,323"
+745158334,Total current assets for continuing operations ($000s),2019,"$2,999"
+745158334,Total current assets for continuing operations ($000s),2018,-
+745158334,Total current assets for continuing operations ($000s),2017,-
+745158334,Total current assets for continuing operations ($000s),2016,-
+745158334,Total current assets for continuing operations ($000s),2015,-
+745158334,Total current assets for continuing operations ($000s),2014,-
+745158334,Assets held for sale ($000s),2023,
+745158334,Assets held for sale ($000s),2022,
+745158334,Assets held for sale ($000s),2021,
+745158334,Assets held for sale ($000s),2020,
+745158334,Assets held for sale ($000s),2019,-
+745158334,Assets held for sale ($000s),2018,-
+745158334,Assets held for sale ($000s),2017,-
+745158334,Assets held for sale ($000s),2016,-
+745158334,Assets held for sale ($000s),2015,-
+745158334,Assets held for sale ($000s),2014,-
+745158334,Total current assets ($000s),2023,"$5,242"
+745158334,Total current assets ($000s),2022,"$8,952"
+745158334,Total current assets ($000s),2021,"$6,028"
+745158334,Total current assets ($000s),2020,"$6,323"
+745158334,Total current assets ($000s),2019,"$2,999"
+745158334,Total current assets ($000s),2018,-
+745158334,Total current assets ($000s),2017,-
+745158334,Total current assets ($000s),2016,-
+745158334,Total current assets ($000s),2015,-
+745158334,Total current assets ($000s),2014,-
+745158334,Non-current assets,2023,
+745158334,Non-current assets,2022,
+745158334,Non-current assets,2021,
+745158334,Non-current assets,2020,
+745158334,Non-current assets,2019,-
+745158334,Non-current assets,2018,-
+745158334,Non-current assets,2017,-
+745158334,Non-current assets,2016,-
+745158334,Non-current assets,2015,-
+745158334,Non-current assets,2014,-
+745158334,Receivables ($000s),2023,
+745158334,Receivables ($000s),2022,
+745158334,Receivables ($000s),2021,
+745158334,Receivables ($000s),2020,
+745158334,Receivables ($000s),2019,-
+745158334,Receivables ($000s),2018,-
+745158334,Receivables ($000s),2017,-
+745158334,Receivables ($000s),2016,-
+745158334,Receivables ($000s),2015,-
+745158334,Receivables ($000s),2014,-
+745158334,Investments in associates ($000s),2023,$0
+745158334,Investments in associates ($000s),2022,$0
+745158334,Investments in associates ($000s),2021,$0
+745158334,Investments in associates ($000s),2020,$0
+745158334,Investments in associates ($000s),2019,$0
+745158334,Investments in associates ($000s),2018,-
+745158334,Investments in associates ($000s),2017,-
+745158334,Investments in associates ($000s),2016,-
+745158334,Investments in associates ($000s),2015,-
+745158334,Investments in associates ($000s),2014,-
+745158334,Investments in subsidiaries ($000s),2023,
+745158334,Investments in subsidiaries ($000s),2022,
+745158334,Investments in subsidiaries ($000s),2021,
+745158334,Investments in subsidiaries ($000s),2020,
+745158334,Investments in subsidiaries ($000s),2019,-
+745158334,Investments in subsidiaries ($000s),2018,-
+745158334,Investments in subsidiaries ($000s),2017,-
+745158334,Investments in subsidiaries ($000s),2016,-
+745158334,Investments in subsidiaries ($000s),2015,-
+745158334,Investments in subsidiaries ($000s),2014,-
+745158334,Available for sale financial assets ($000s),2023,$0
+745158334,Available for sale financial assets ($000s),2022,$0
+745158334,Available for sale financial assets ($000s),2021,$0
+745158334,Available for sale financial assets ($000s),2020,$0
+745158334,Available for sale financial assets ($000s),2019,$0
+745158334,Available for sale financial assets ($000s),2018,-
+745158334,Available for sale financial assets ($000s),2017,-
+745158334,Available for sale financial assets ($000s),2016,-
+745158334,Available for sale financial assets ($000s),2015,-
+745158334,Available for sale financial assets ($000s),2014,-
+745158334,"Property, plant and equipment ($000s)",2023,"$21,543"
+745158334,"Property, plant and equipment ($000s)",2022,"$24,562"
+745158334,"Property, plant and equipment ($000s)",2021,"$44,141"
+745158334,"Property, plant and equipment ($000s)",2020,"$49,220"
+745158334,"Property, plant and equipment ($000s)",2019,"$32,413"
+745158334,"Property, plant and equipment ($000s)",2018,-
+745158334,"Property, plant and equipment ($000s)",2017,-
+745158334,"Property, plant and equipment ($000s)",2016,-
+745158334,"Property, plant and equipment ($000s)",2015,-
+745158334,"Property, plant and equipment ($000s)",2014,-
+745158334,Intangible assets and goodwill ($000s),2023,$237
+745158334,Intangible assets and goodwill ($000s),2022,$0
+745158334,Intangible assets and goodwill ($000s),2021,$0
+745158334,Intangible assets and goodwill ($000s),2020,$0
+745158334,Intangible assets and goodwill ($000s),2019,$0
+745158334,Intangible assets and goodwill ($000s),2018,-
+745158334,Intangible assets and goodwill ($000s),2017,-
+745158334,Intangible assets and goodwill ($000s),2016,-
+745158334,Intangible assets and goodwill ($000s),2015,-
+745158334,Intangible assets and goodwill ($000s),2014,-
+745158334,Deferred tax assets ($000s),2023,-
+745158334,Deferred tax assets ($000s),2022,-
+745158334,Deferred tax assets ($000s),2021,-
+745158334,Deferred tax assets ($000s),2020,"$4,912"
+745158334,Deferred tax assets ($000s),2019,"$3,132"
+745158334,Deferred tax assets ($000s),2018,-
+745158334,Deferred tax assets ($000s),2017,-
+745158334,Deferred tax assets ($000s),2016,-
+745158334,Deferred tax assets ($000s),2015,-
+745158334,Deferred tax assets ($000s),2014,-
+745158334,Other non-current assets ($000s),2023,"$11,390"
+745158334,Other non-current assets ($000s),2022,"$13,992"
+745158334,Other non-current assets ($000s),2021,$0
+745158334,Other non-current assets ($000s),2020,"$1,010"
+745158334,Other non-current assets ($000s),2019,$0
+745158334,Other non-current assets ($000s),2018,-
+745158334,Other non-current assets ($000s),2017,-
+745158334,Other non-current assets ($000s),2016,-
+745158334,Other non-current assets ($000s),2015,-
+745158334,Other non-current assets ($000s),2014,-
+745158334,Total non-current assets ($000s),2023,"$33,170"
+745158334,Total non-current assets ($000s),2022,"$38,553"
+745158334,Total non-current assets ($000s),2021,"$44,141"
+745158334,Total non-current assets ($000s),2020,"$55,141"
+745158334,Total non-current assets ($000s),2019,"$35,545"
+745158334,Total non-current assets ($000s),2018,-
+745158334,Total non-current assets ($000s),2017,-
+745158334,Total non-current assets ($000s),2016,-
+745158334,Total non-current assets ($000s),2015,-
+745158334,Total non-current assets ($000s),2014,-
+745158334,TOTAL ASSETS ($000s),2023,"$38,412"
+745158334,TOTAL ASSETS ($000s),2022,"$47,506"
+745158334,TOTAL ASSETS ($000s),2021,"$50,169"
+745158334,TOTAL ASSETS ($000s),2020,"$61,464"
+745158334,TOTAL ASSETS ($000s),2019,"$38,544"
+745158334,TOTAL ASSETS ($000s),2018,-
+745158334,TOTAL ASSETS ($000s),2017,-
+745158334,TOTAL ASSETS ($000s),2016,-
+745158334,TOTAL ASSETS ($000s),2015,-
+745158334,TOTAL ASSETS ($000s),2014,-
+745158334,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2023,"$47,506"
+745158334,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2022,"$50,169"
+745158334,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2021,"$61,464"
+745158334,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2020,"$38,544"
+745158334,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2019,-
+745158334,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2018,-
+745158334,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2017,-
+745158334,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2016,-
+745158334,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2015,-
+745158334,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2014,-
+745158334,Current liabilities,2023,
+745158334,Current liabilities,2022,
+745158334,Current liabilities,2021,
+745158334,Current liabilities,2020,
+745158334,Current liabilities,2019,-
+745158334,Current liabilities,2018,-
+745158334,Current liabilities,2017,-
+745158334,Current liabilities,2016,-
+745158334,Current liabilities,2015,-
+745158334,Current liabilities,2014,-
+745158334,Trade payables ($000s),2023,$713
+745158334,Trade payables ($000s),2022,$559
+745158334,Trade payables ($000s),2021,"$1,308"
+745158334,Trade payables ($000s),2020,"$4,747"
+745158334,Trade payables ($000s),2019,-
+745158334,Trade payables ($000s),2018,-
+745158334,Trade payables ($000s),2017,-
+745158334,Trade payables ($000s),2016,-
+745158334,Trade payables ($000s),2015,-
+745158334,Trade payables ($000s),2014,-
+745158334,Other payables ($000s),2023,$682
+745158334,Other payables ($000s),2022,$919
+745158334,Other payables ($000s),2021,"$1,011"
+745158334,Other payables ($000s),2020,-
+745158334,Other payables ($000s),2019,"$2,705"
+745158334,Other payables ($000s),2018,-
+745158334,Other payables ($000s),2017,-
+745158334,Other payables ($000s),2016,-
+745158334,Other payables ($000s),2015,-
+745158334,Other payables ($000s),2014,-
+745158334,Overdrafts ($000s),2023,
+745158334,Overdrafts ($000s),2022,
+745158334,Overdrafts ($000s),2021,
+745158334,Overdrafts ($000s),2020,
+745158334,Overdrafts ($000s),2019,-
+745158334,Overdrafts ($000s),2018,-
+745158334,Overdrafts ($000s),2017,-
+745158334,Overdrafts ($000s),2016,-
+745158334,Overdrafts ($000s),2015,-
+745158334,Overdrafts ($000s),2014,-
+745158334,Loans - secured ($000s),2023,$110
+745158334,Loans - secured ($000s),2022,-
+745158334,Loans - secured ($000s),2021,-
+745158334,Loans - secured ($000s),2020,-
+745158334,Loans - secured ($000s),2019,-
+745158334,Loans - secured ($000s),2018,-
+745158334,Loans - secured ($000s),2017,-
+745158334,Loans - secured ($000s),2016,-
+745158334,Loans - secured ($000s),2015,-
+745158334,Loans - secured ($000s),2014,-
+745158334,Loans - unsecured ($000s),2023,
+745158334,Loans - unsecured ($000s),2022,
+745158334,Loans - unsecured ($000s),2021,
+745158334,Loans - unsecured ($000s),2020,
+745158334,Loans - unsecured ($000s),2019,-
+745158334,Loans - unsecured ($000s),2018,-
+745158334,Loans - unsecured ($000s),2017,-
+745158334,Loans - unsecured ($000s),2016,-
+745158334,Loans - unsecured ($000s),2015,-
+745158334,Loans - unsecured ($000s),2014,-
+745158334,Obligations under finance leases and hire purchase ($000s),2023,"$2,133"
+745158334,Obligations under finance leases and hire purchase ($000s),2022,"$2,935"
+745158334,Obligations under finance leases and hire purchase ($000s),2021,"$3,551"
+745158334,Obligations under finance leases and hire purchase ($000s),2020,-
+745158334,Obligations under finance leases and hire purchase ($000s),2019,"$1,576"
+745158334,Obligations under finance leases and hire purchase ($000s),2018,-
+745158334,Obligations under finance leases and hire purchase ($000s),2017,-
+745158334,Obligations under finance leases and hire purchase ($000s),2016,-
+745158334,Obligations under finance leases and hire purchase ($000s),2015,-
+745158334,Obligations under finance leases and hire purchase ($000s),2014,-
+745158334,Loans from related parties ($000s),2023,$323
+745158334,Loans from related parties ($000s),2022,-
+745158334,Loans from related parties ($000s),2021,-
+745158334,Loans from related parties ($000s),2020,-
+745158334,Loans from related parties ($000s),2019,$999
+745158334,Loans from related parties ($000s),2018,-
+745158334,Loans from related parties ($000s),2017,-
+745158334,Loans from related parties ($000s),2016,-
+745158334,Loans from related parties ($000s),2015,-
+745158334,Loans from related parties ($000s),2014,-
+745158334,Total current interest-bearing loans and borrowings ($000s),2023,"$2,567"
+745158334,Total current interest-bearing loans and borrowings ($000s),2022,"$2,935"
+745158334,Total current interest-bearing loans and borrowings ($000s),2021,"$3,551"
+745158334,Total current interest-bearing loans and borrowings ($000s),2020,-
+745158334,Total current interest-bearing loans and borrowings ($000s),2019,"$2,576"
+745158334,Total current interest-bearing loans and borrowings ($000s),2018,-
+745158334,Total current interest-bearing loans and borrowings ($000s),2017,-
+745158334,Total current interest-bearing loans and borrowings ($000s),2016,-
+745158334,Total current interest-bearing loans and borrowings ($000s),2015,-
+745158334,Total current interest-bearing loans and borrowings ($000s),2014,-
+745158334,Income tax payable/(refundable) ($000s),2023,$174
+745158334,Income tax payable/(refundable) ($000s),2022,$453
+745158334,Income tax payable/(refundable) ($000s),2021,$408
+745158334,Income tax payable/(refundable) ($000s),2020,$55
+745158334,Income tax payable/(refundable) ($000s),2019,-
+745158334,Income tax payable/(refundable) ($000s),2018,-
+745158334,Income tax payable/(refundable) ($000s),2017,-
+745158334,Income tax payable/(refundable) ($000s),2016,-
+745158334,Income tax payable/(refundable) ($000s),2015,-
+745158334,Income tax payable/(refundable) ($000s),2014,-
+745158334,Provisions ($000s),2023,"$3,378"
+745158334,Provisions ($000s),2022,"$4,284"
+745158334,Provisions ($000s),2021,"$3,996"
+745158334,Provisions ($000s),2020,"$3,019"
+745158334,Provisions ($000s),2019,"$2,117"
+745158334,Provisions ($000s),2018,-
+745158334,Provisions ($000s),2017,-
+745158334,Provisions ($000s),2016,-
+745158334,Provisions ($000s),2015,-
+745158334,Provisions ($000s),2014,-
+745158334,Other current liabilities ($000s),2023,"$2,265"
+745158334,Other current liabilities ($000s),2022,"$3,880"
+745158334,Other current liabilities ($000s),2021,"$3,469"
+745158334,Other current liabilities ($000s),2020,"$36,027"
+745158334,Other current liabilities ($000s),2019,$0
+745158334,Other current liabilities ($000s),2018,-
+745158334,Other current liabilities ($000s),2017,-
+745158334,Other current liabilities ($000s),2016,-
+745158334,Other current liabilities ($000s),2015,-
+745158334,Other current liabilities ($000s),2014,-
+745158334,Total current liabilities for continuing operations ($000s),2023,"$9,779"
+745158334,Total current liabilities for continuing operations ($000s),2022,"$13,030"
+745158334,Total current liabilities for continuing operations ($000s),2021,"$13,743"
+745158334,Total current liabilities for continuing operations ($000s),2020,"$43,848"
+745158334,Total current liabilities for continuing operations ($000s),2019,"$7,398"
+745158334,Total current liabilities for continuing operations ($000s),2018,-
+745158334,Total current liabilities for continuing operations ($000s),2017,-
+745158334,Total current liabilities for continuing operations ($000s),2016,-
+745158334,Total current liabilities for continuing operations ($000s),2015,-
+745158334,Total current liabilities for continuing operations ($000s),2014,-
+745158334,Liabilities directly associated with assets held for sale ($000s),2023,
+745158334,Liabilities directly associated with assets held for sale ($000s),2022,
+745158334,Liabilities directly associated with assets held for sale ($000s),2021,
+745158334,Liabilities directly associated with assets held for sale ($000s),2020,
+745158334,Liabilities directly associated with assets held for sale ($000s),2019,-
+745158334,Liabilities directly associated with assets held for sale ($000s),2018,-
+745158334,Liabilities directly associated with assets held for sale ($000s),2017,-
+745158334,Liabilities directly associated with assets held for sale ($000s),2016,-
+745158334,Liabilities directly associated with assets held for sale ($000s),2015,-
+745158334,Liabilities directly associated with assets held for sale ($000s),2014,-
+745158334,Total current liabilities ($000s),2023,"$9,779"
+745158334,Total current liabilities ($000s),2022,"$13,030"
+745158334,Total current liabilities ($000s),2021,"$13,743"
+745158334,Total current liabilities ($000s),2020,"$43,848"
+745158334,Total current liabilities ($000s),2019,"$7,398"
+745158334,Total current liabilities ($000s),2018,-
+745158334,Total current liabilities ($000s),2017,-
+745158334,Total current liabilities ($000s),2016,-
+745158334,Total current liabilities ($000s),2015,-
+745158334,Total current liabilities ($000s),2014,-
+745158334,Total current liabilities for previous year ($000s),2023,"$13,030"
+745158334,Total current liabilities for previous year ($000s),2022,"$13,743"
+745158334,Total current liabilities for previous year ($000s),2021,"$43,848"
+745158334,Total current liabilities for previous year ($000s),2020,"$7,398"
+745158334,Total current liabilities for previous year ($000s),2019,-
+745158334,Total current liabilities for previous year ($000s),2018,-
+745158334,Total current liabilities for previous year ($000s),2017,-
+745158334,Total current liabilities for previous year ($000s),2016,-
+745158334,Total current liabilities for previous year ($000s),2015,-
+745158334,Total current liabilities for previous year ($000s),2014,-
+745158334,Non-current liabilities,2023,
+745158334,Non-current liabilities,2022,
+745158334,Non-current liabilities,2021,
+745158334,Non-current liabilities,2020,
+745158334,Non-current liabilities,2019,-
+745158334,Non-current liabilities,2018,-
+745158334,Non-current liabilities,2017,-
+745158334,Non-current liabilities,2016,-
+745158334,Non-current liabilities,2015,-
+745158334,Non-current liabilities,2014,-
+745158334,Total non-current interest-bearing loans and borrowings ($000s),2023,"$40,403"
+745158334,Total non-current interest-bearing loans and borrowings ($000s),2022,"$54,507"
+745158334,Total non-current interest-bearing loans and borrowings ($000s),2021,"$56,723"
+745158334,Total non-current interest-bearing loans and borrowings ($000s),2020,"$25,190"
+745158334,Total non-current interest-bearing loans and borrowings ($000s),2019,"$36,530"
+745158334,Total non-current interest-bearing loans and borrowings ($000s),2018,-
+745158334,Total non-current interest-bearing loans and borrowings ($000s),2017,-
+745158334,Total non-current interest-bearing loans and borrowings ($000s),2016,-
+745158334,Total non-current interest-bearing loans and borrowings ($000s),2015,-
+745158334,Total non-current interest-bearing loans and borrowings ($000s),2014,-
+745158334,Deferred tax liabilities ($000s),2023,-
+745158334,Deferred tax liabilities ($000s),2022,-
+745158334,Deferred tax liabilities ($000s),2021,-
+745158334,Deferred tax liabilities ($000s),2020,$647
+745158334,Deferred tax liabilities ($000s),2019,$96
+745158334,Deferred tax liabilities ($000s),2018,-
+745158334,Deferred tax liabilities ($000s),2017,-
+745158334,Deferred tax liabilities ($000s),2016,-
+745158334,Deferred tax liabilities ($000s),2015,-
+745158334,Deferred tax liabilities ($000s),2014,-
+745158334,Convertible redeemable preference shares ($000s),2023,
+745158334,Convertible redeemable preference shares ($000s),2022,
+745158334,Convertible redeemable preference shares ($000s),2021,
+745158334,Convertible redeemable preference shares ($000s),2020,
+745158334,Convertible redeemable preference shares ($000s),2019,-
+745158334,Convertible redeemable preference shares ($000s),2018,-
+745158334,Convertible redeemable preference shares ($000s),2017,-
+745158334,Convertible redeemable preference shares ($000s),2016,-
+745158334,Convertible redeemable preference shares ($000s),2015,-
+745158334,Convertible redeemable preference shares ($000s),2014,-
+745158334,Other non-current liabilities ($000s),2023,$0
+745158334,Other non-current liabilities ($000s),2022,$0
+745158334,Other non-current liabilities ($000s),2021,$0
+745158334,Other non-current liabilities ($000s),2020,$0
+745158334,Other non-current liabilities ($000s),2019,$143
+745158334,Other non-current liabilities ($000s),2018,-
+745158334,Other non-current liabilities ($000s),2017,-
+745158334,Other non-current liabilities ($000s),2016,-
+745158334,Other non-current liabilities ($000s),2015,-
+745158334,Other non-current liabilities ($000s),2014,-
+745158334,Total non-current liabilities ($000s),2023,"$41,405"
+745158334,Total non-current liabilities ($000s),2022,"$55,020"
+745158334,Total non-current liabilities ($000s),2021,"$57,052"
+745158334,Total non-current liabilities ($000s),2020,"$26,450"
+745158334,Total non-current liabilities ($000s),2019,"$37,063"
+745158334,Total non-current liabilities ($000s),2018,-
+745158334,Total non-current liabilities ($000s),2017,-
+745158334,Total non-current liabilities ($000s),2016,-
+745158334,Total non-current liabilities ($000s),2015,-
+745158334,Total non-current liabilities ($000s),2014,-
+745158334,TOTAL LIABILITIES ($000s),2023,"$51,184"
+745158334,TOTAL LIABILITIES ($000s),2022,"$68,050"
+745158334,TOTAL LIABILITIES ($000s),2021,"$70,795"
+745158334,TOTAL LIABILITIES ($000s),2020,"$70,298"
+745158334,TOTAL LIABILITIES ($000s),2019,"$44,461"
+745158334,TOTAL LIABILITIES ($000s),2018,-
+745158334,TOTAL LIABILITIES ($000s),2017,-
+745158334,TOTAL LIABILITIES ($000s),2016,-
+745158334,TOTAL LIABILITIES ($000s),2015,-
+745158334,TOTAL LIABILITIES ($000s),2014,-
+745158334,NET ASSETS ($000s),2023,"($12,772)"
+745158334,NET ASSETS ($000s),2022,"($20,544)"
+745158334,NET ASSETS ($000s),2021,"($20,626)"
+745158334,NET ASSETS ($000s),2020,"($8,834)"
+745158334,NET ASSETS ($000s),2019,"($5,917)"
+745158334,NET ASSETS ($000s),2018,-
+745158334,NET ASSETS ($000s),2017,-
+745158334,NET ASSETS ($000s),2016,-
+745158334,NET ASSETS ($000s),2015,-
+745158334,NET ASSETS ($000s),2014,-
+745158334,Equity,2023,
+745158334,Equity,2022,
+745158334,Equity,2021,
+745158334,Equity,2020,
+745158334,Equity,2019,-
+745158334,Equity,2018,-
+745158334,Equity,2017,-
+745158334,Equity,2016,-
+745158334,Equity,2015,-
+745158334,Equity,2014,-
+745158334,Equity attributable to equity holders of the parent,2023,
+745158334,Equity attributable to equity holders of the parent,2022,
+745158334,Equity attributable to equity holders of the parent,2021,
+745158334,Equity attributable to equity holders of the parent,2020,
+745158334,Equity attributable to equity holders of the parent,2019,-
+745158334,Equity attributable to equity holders of the parent,2018,-
+745158334,Equity attributable to equity holders of the parent,2017,-
+745158334,Equity attributable to equity holders of the parent,2016,-
+745158334,Equity attributable to equity holders of the parent,2015,-
+745158334,Equity attributable to equity holders of the parent,2014,-
+745158334,Contributed equity ($000s),2023,$0
+745158334,Contributed equity ($000s),2022,$0
+745158334,Contributed equity ($000s),2021,$0
+745158334,Contributed equity ($000s),2020,$0
+745158334,Contributed equity ($000s),2019,$0
+745158334,Contributed equity ($000s),2018,-
+745158334,Contributed equity ($000s),2017,-
+745158334,Contributed equity ($000s),2016,-
+745158334,Contributed equity ($000s),2015,-
+745158334,Contributed equity ($000s),2014,-
+745158334,Retained earnings ($000s),2023,"($12,772)"
+745158334,Retained earnings ($000s),2022,"($20,544)"
+745158334,Retained earnings ($000s),2021,"($20,626)"
+745158334,Retained earnings ($000s),2020,"($8,834)"
+745158334,Retained earnings ($000s),2019,"($5,917)"
+745158334,Retained earnings ($000s),2018,-
+745158334,Retained earnings ($000s),2017,-
+745158334,Retained earnings ($000s),2016,-
+745158334,Retained earnings ($000s),2015,-
+745158334,Retained earnings ($000s),2014,-
+745158334,Reserves ($000s),2023,$0
+745158334,Reserves ($000s),2022,$0
+745158334,Reserves ($000s),2021,$0
+745158334,Reserves ($000s),2020,$0
+745158334,Reserves ($000s),2019,$0
+745158334,Reserves ($000s),2018,-
+745158334,Reserves ($000s),2017,-
+745158334,Reserves ($000s),2016,-
+745158334,Reserves ($000s),2015,-
+745158334,Reserves ($000s),2014,-
+745158334,Total Parent interests ($000s),2023,"($12,772)"
+745158334,Total Parent interests ($000s),2022,"($20,544)"
+745158334,Total Parent interests ($000s),2021,"($20,626)"
+745158334,Total Parent interests ($000s),2020,"($8,834)"
+745158334,Total Parent interests ($000s),2019,"($5,917)"
+745158334,Total Parent interests ($000s),2018,-
+745158334,Total Parent interests ($000s),2017,-
+745158334,Total Parent interests ($000s),2016,-
+745158334,Total Parent interests ($000s),2015,-
+745158334,Total Parent interests ($000s),2014,-
+745158334,Minority interests ($000s),2023,
+745158334,Minority interests ($000s),2022,
+745158334,Minority interests ($000s),2021,
+745158334,Minority interests ($000s),2020,
+745158334,Minority interests ($000s),2019,-
+745158334,Minority interests ($000s),2018,-
+745158334,Minority interests ($000s),2017,-
+745158334,Minority interests ($000s),2016,-
+745158334,Minority interests ($000s),2015,-
+745158334,Minority interests ($000s),2014,-
+745158334,TOTAL EQUITY ($000s),2023,"($12,772)"
+745158334,TOTAL EQUITY ($000s),2022,"($20,544)"
+745158334,TOTAL EQUITY ($000s),2021,"($20,626)"
+745158334,TOTAL EQUITY ($000s),2020,"($8,834)"
+745158334,TOTAL EQUITY ($000s),2019,"($5,917)"
+745158334,TOTAL EQUITY ($000s),2018,-
+745158334,TOTAL EQUITY ($000s),2017,-
+745158334,TOTAL EQUITY ($000s),2016,-
+745158334,TOTAL EQUITY ($000s),2015,-
+745158334,TOTAL EQUITY ($000s),2014,-
+745158334,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2023,"($20,544)"
+745158334,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2022,"($20,626)"
+745158334,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2021,"($8,834)"
+745158334,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2020,"($5,917)"
+745158334,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2019,-
+745158334,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2018,-
+745158334,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2017,-
+745158334,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2016,-
+745158334,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2015,-
+745158334,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2014,-

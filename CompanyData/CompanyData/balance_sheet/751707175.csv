@@ -1,0 +1,601 @@
+duns,line_item,year,value
+751707175,Current Assets,2024,
+751707175,Current Assets,2023,
+751707175,Current Assets,2022,
+751707175,Current Assets,2021,
+751707175,Current Assets,2020,-
+751707175,Current Assets,2019,-
+751707175,Current Assets,2018,-
+751707175,Current Assets,2017,-
+751707175,Current Assets,2016,-
+751707175,Current Assets,2015,-
+751707175,Cash and cash equivalents ($000s),2024,"$49,632"
+751707175,Cash and cash equivalents ($000s),2023,"$48,133"
+751707175,Cash and cash equivalents ($000s),2022,"$52,282"
+751707175,Cash and cash equivalents ($000s),2021,"$57,417"
+751707175,Cash and cash equivalents ($000s),2020,"$67,548"
+751707175,Cash and cash equivalents ($000s),2019,"$57,356"
+751707175,Cash and cash equivalents ($000s),2018,"$89,892"
+751707175,Cash and cash equivalents ($000s),2017,"$174,345"
+751707175,Cash and cash equivalents ($000s),2016,"$15,110"
+751707175,Cash and cash equivalents ($000s),2015,-
+751707175,Growth,2024,3.11%
+751707175,Growth,2023,(7.94%)
+751707175,Growth,2022,(8.94%)
+751707175,Growth,2021,(15.00%)
+751707175,Growth,2020,17.77%
+751707175,Growth,2019,(36.19%)
+751707175,Growth,2018,(48.44%)
+751707175,Growth,2017,"1,053.84%"
+751707175,Growth,2016,-
+751707175,Growth,2015,-
+751707175,Trade receivables ($000s),2024,
+751707175,Trade receivables ($000s),2023,
+751707175,Trade receivables ($000s),2022,
+751707175,Trade receivables ($000s),2021,
+751707175,Trade receivables ($000s),2020,-
+751707175,Trade receivables ($000s),2019,-
+751707175,Trade receivables ($000s),2018,-
+751707175,Trade receivables ($000s),2017,-
+751707175,Trade receivables ($000s),2016,-
+751707175,Trade receivables ($000s),2015,-
+751707175,Other receivables ($000s),2024,"$59,325"
+751707175,Other receivables ($000s),2023,-
+751707175,Other receivables ($000s),2022,"$79,076"
+751707175,Other receivables ($000s),2021,-
+751707175,Other receivables ($000s),2020,-
+751707175,Other receivables ($000s),2019,"$101,855"
+751707175,Other receivables ($000s),2018,"$92,100"
+751707175,Other receivables ($000s),2017,-
+751707175,Other receivables ($000s),2016,-
+751707175,Other receivables ($000s),2015,-
+751707175,Raw materials ($000s),2024,$0
+751707175,Raw materials ($000s),2023,$0
+751707175,Raw materials ($000s),2022,$0
+751707175,Raw materials ($000s),2021,$0
+751707175,Raw materials ($000s),2020,$0
+751707175,Raw materials ($000s),2019,$0
+751707175,Raw materials ($000s),2018,$0
+751707175,Raw materials ($000s),2017,$0
+751707175,Raw materials ($000s),2016,$0
+751707175,Raw materials ($000s),2015,-
+751707175,Work-in-progress ($000s),2024,
+751707175,Work-in-progress ($000s),2023,
+751707175,Work-in-progress ($000s),2022,
+751707175,Work-in-progress ($000s),2021,
+751707175,Work-in-progress ($000s),2020,-
+751707175,Work-in-progress ($000s),2019,-
+751707175,Work-in-progress ($000s),2018,-
+751707175,Work-in-progress ($000s),2017,-
+751707175,Work-in-progress ($000s),2016,-
+751707175,Work-in-progress ($000s),2015,-
+751707175,Finished goods ($000s),2024,$891
+751707175,Finished goods ($000s),2023,$404
+751707175,Finished goods ($000s),2022,$0
+751707175,Finished goods ($000s),2021,$0
+751707175,Finished goods ($000s),2020,$0
+751707175,Finished goods ($000s),2019,$0
+751707175,Finished goods ($000s),2018,$0
+751707175,Finished goods ($000s),2017,$0
+751707175,Finished goods ($000s),2016,$0
+751707175,Finished goods ($000s),2015,-
+751707175,Total inventories ($000s),2024,$891
+751707175,Total inventories ($000s),2023,$404
+751707175,Total inventories ($000s),2022,$0
+751707175,Total inventories ($000s),2021,$0
+751707175,Total inventories ($000s),2020,$0
+751707175,Total inventories ($000s),2019,$0
+751707175,Total inventories ($000s),2018,$0
+751707175,Total inventories ($000s),2017,$0
+751707175,Total inventories ($000s),2016,$0
+751707175,Total inventories ($000s),2015,-
+751707175,Prepayments ($000s),2024,
+751707175,Prepayments ($000s),2023,
+751707175,Prepayments ($000s),2022,
+751707175,Prepayments ($000s),2021,
+751707175,Prepayments ($000s),2020,-
+751707175,Prepayments ($000s),2019,-
+751707175,Prepayments ($000s),2018,-
+751707175,Prepayments ($000s),2017,-
+751707175,Prepayments ($000s),2016,-
+751707175,Prepayments ($000s),2015,-
+751707175,Derivative financial instruments ($000s),2024,
+751707175,Derivative financial instruments ($000s),2023,
+751707175,Derivative financial instruments ($000s),2022,
+751707175,Derivative financial instruments ($000s),2021,
+751707175,Derivative financial instruments ($000s),2020,-
+751707175,Derivative financial instruments ($000s),2019,-
+751707175,Derivative financial instruments ($000s),2018,-
+751707175,Derivative financial instruments ($000s),2017,-
+751707175,Derivative financial instruments ($000s),2016,-
+751707175,Derivative financial instruments ($000s),2015,-
+751707175,Other current assets ($000s),2024,"$7,483"
+751707175,Other current assets ($000s),2023,"$79,202"
+751707175,Other current assets ($000s),2022,"$7,950"
+751707175,Other current assets ($000s),2021,"$85,858"
+751707175,Other current assets ($000s),2020,"$95,785"
+751707175,Other current assets ($000s),2019,"$27,482"
+751707175,Other current assets ($000s),2018,$862
+751707175,Other current assets ($000s),2017,"$96,917"
+751707175,Other current assets ($000s),2016,"$83,958"
+751707175,Other current assets ($000s),2015,-
+751707175,Total current assets for continuing operations ($000s),2024,"$117,331"
+751707175,Total current assets for continuing operations ($000s),2023,"$127,739"
+751707175,Total current assets for continuing operations ($000s),2022,"$139,308"
+751707175,Total current assets for continuing operations ($000s),2021,"$143,275"
+751707175,Total current assets for continuing operations ($000s),2020,"$163,333"
+751707175,Total current assets for continuing operations ($000s),2019,"$186,693"
+751707175,Total current assets for continuing operations ($000s),2018,"$182,854"
+751707175,Total current assets for continuing operations ($000s),2017,"$271,262"
+751707175,Total current assets for continuing operations ($000s),2016,"$99,068"
+751707175,Total current assets for continuing operations ($000s),2015,-
+751707175,Assets held for sale ($000s),2024,
+751707175,Assets held for sale ($000s),2023,
+751707175,Assets held for sale ($000s),2022,
+751707175,Assets held for sale ($000s),2021,
+751707175,Assets held for sale ($000s),2020,-
+751707175,Assets held for sale ($000s),2019,-
+751707175,Assets held for sale ($000s),2018,-
+751707175,Assets held for sale ($000s),2017,-
+751707175,Assets held for sale ($000s),2016,-
+751707175,Assets held for sale ($000s),2015,-
+751707175,Total current assets ($000s),2024,"$117,331"
+751707175,Total current assets ($000s),2023,"$127,739"
+751707175,Total current assets ($000s),2022,"$139,308"
+751707175,Total current assets ($000s),2021,"$143,275"
+751707175,Total current assets ($000s),2020,"$163,333"
+751707175,Total current assets ($000s),2019,"$186,693"
+751707175,Total current assets ($000s),2018,"$182,854"
+751707175,Total current assets ($000s),2017,"$271,262"
+751707175,Total current assets ($000s),2016,"$99,068"
+751707175,Total current assets ($000s),2015,-
+751707175,Non-current assets,2024,
+751707175,Non-current assets,2023,
+751707175,Non-current assets,2022,
+751707175,Non-current assets,2021,
+751707175,Non-current assets,2020,-
+751707175,Non-current assets,2019,-
+751707175,Non-current assets,2018,-
+751707175,Non-current assets,2017,-
+751707175,Non-current assets,2016,-
+751707175,Non-current assets,2015,-
+751707175,Receivables ($000s),2024,"$79,039"
+751707175,Receivables ($000s),2023,"$103,752"
+751707175,Receivables ($000s),2022,"$118,363"
+751707175,Receivables ($000s),2021,-
+751707175,Receivables ($000s),2020,"$147,029"
+751707175,Receivables ($000s),2019,"$155,146"
+751707175,Receivables ($000s),2018,"$141,372"
+751707175,Receivables ($000s),2017,-
+751707175,Receivables ($000s),2016,-
+751707175,Receivables ($000s),2015,-
+751707175,Investments in associates ($000s),2024,$0
+751707175,Investments in associates ($000s),2023,$0
+751707175,Investments in associates ($000s),2022,"$21,444"
+751707175,Investments in associates ($000s),2021,$0
+751707175,Investments in associates ($000s),2020,"$21,444"
+751707175,Investments in associates ($000s),2019,"$21,444"
+751707175,Investments in associates ($000s),2018,$0
+751707175,Investments in associates ($000s),2017,$0
+751707175,Investments in associates ($000s),2016,$0
+751707175,Investments in associates ($000s),2015,-
+751707175,Investments in subsidiaries ($000s),2024,
+751707175,Investments in subsidiaries ($000s),2023,
+751707175,Investments in subsidiaries ($000s),2022,
+751707175,Investments in subsidiaries ($000s),2021,
+751707175,Investments in subsidiaries ($000s),2020,-
+751707175,Investments in subsidiaries ($000s),2019,-
+751707175,Investments in subsidiaries ($000s),2018,-
+751707175,Investments in subsidiaries ($000s),2017,-
+751707175,Investments in subsidiaries ($000s),2016,-
+751707175,Investments in subsidiaries ($000s),2015,-
+751707175,Available for sale financial assets ($000s),2024,$0
+751707175,Available for sale financial assets ($000s),2023,$0
+751707175,Available for sale financial assets ($000s),2022,$0
+751707175,Available for sale financial assets ($000s),2021,$0
+751707175,Available for sale financial assets ($000s),2020,$0
+751707175,Available for sale financial assets ($000s),2019,$0
+751707175,Available for sale financial assets ($000s),2018,$0
+751707175,Available for sale financial assets ($000s),2017,$0
+751707175,Available for sale financial assets ($000s),2016,$0
+751707175,Available for sale financial assets ($000s),2015,-
+751707175,"Property, plant and equipment ($000s)",2024,-
+751707175,"Property, plant and equipment ($000s)",2023,-
+751707175,"Property, plant and equipment ($000s)",2022,-
+751707175,"Property, plant and equipment ($000s)",2021,-
+751707175,"Property, plant and equipment ($000s)",2020,-
+751707175,"Property, plant and equipment ($000s)",2019,$1
+751707175,"Property, plant and equipment ($000s)",2018,$1
+751707175,"Property, plant and equipment ($000s)",2017,$2
+751707175,"Property, plant and equipment ($000s)",2016,$8
+751707175,"Property, plant and equipment ($000s)",2015,-
+751707175,Intangible assets and goodwill ($000s),2024,"$10,012"
+751707175,Intangible assets and goodwill ($000s),2023,"$2,503"
+751707175,Intangible assets and goodwill ($000s),2022,"$3,755"
+751707175,Intangible assets and goodwill ($000s),2021,"$1,447"
+751707175,Intangible assets and goodwill ($000s),2020,"$4,304"
+751707175,Intangible assets and goodwill ($000s),2019,"$8,649"
+751707175,Intangible assets and goodwill ($000s),2018,"$10,349"
+751707175,Intangible assets and goodwill ($000s),2017,"$11,101"
+751707175,Intangible assets and goodwill ($000s),2016,"$6,853"
+751707175,Intangible assets and goodwill ($000s),2015,-
+751707175,Deferred tax assets ($000s),2024,
+751707175,Deferred tax assets ($000s),2023,
+751707175,Deferred tax assets ($000s),2022,
+751707175,Deferred tax assets ($000s),2021,
+751707175,Deferred tax assets ($000s),2020,-
+751707175,Deferred tax assets ($000s),2019,-
+751707175,Deferred tax assets ($000s),2018,-
+751707175,Deferred tax assets ($000s),2017,-
+751707175,Deferred tax assets ($000s),2016,-
+751707175,Deferred tax assets ($000s),2015,-
+751707175,Other non-current assets ($000s),2024,"$467,342"
+751707175,Other non-current assets ($000s),2023,"$488,618"
+751707175,Other non-current assets ($000s),2022,"$452,314"
+751707175,Other non-current assets ($000s),2021,"$641,464"
+751707175,Other non-current assets ($000s),2020,"$498,080"
+751707175,Other non-current assets ($000s),2019,"$521,883"
+751707175,Other non-current assets ($000s),2018,"$562,534"
+751707175,Other non-current assets ($000s),2017,"$574,601"
+751707175,Other non-current assets ($000s),2016,"$1,066,905"
+751707175,Other non-current assets ($000s),2015,-
+751707175,Total non-current assets ($000s),2024,"$556,393"
+751707175,Total non-current assets ($000s),2023,"$594,873"
+751707175,Total non-current assets ($000s),2022,"$595,876"
+751707175,Total non-current assets ($000s),2021,"$642,911"
+751707175,Total non-current assets ($000s),2020,"$670,857"
+751707175,Total non-current assets ($000s),2019,"$707,123"
+751707175,Total non-current assets ($000s),2018,"$714,256"
+751707175,Total non-current assets ($000s),2017,"$585,704"
+751707175,Total non-current assets ($000s),2016,"$1,073,766"
+751707175,Total non-current assets ($000s),2015,-
+751707175,TOTAL ASSETS ($000s),2024,"$673,724"
+751707175,TOTAL ASSETS ($000s),2023,"$722,612"
+751707175,TOTAL ASSETS ($000s),2022,"$735,184"
+751707175,TOTAL ASSETS ($000s),2021,"$786,186"
+751707175,TOTAL ASSETS ($000s),2020,"$834,190"
+751707175,TOTAL ASSETS ($000s),2019,"$893,816"
+751707175,TOTAL ASSETS ($000s),2018,"$897,110"
+751707175,TOTAL ASSETS ($000s),2017,"$856,966"
+751707175,TOTAL ASSETS ($000s),2016,"$1,172,834"
+751707175,TOTAL ASSETS ($000s),2015,-
+751707175,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2024,"$722,612"
+751707175,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2023,"$735,184"
+751707175,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2022,"$786,186"
+751707175,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2021,"$834,190"
+751707175,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2020,"$893,816"
+751707175,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2019,"$897,110"
+751707175,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2018,"$856,966"
+751707175,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2017,"$1,172,834"
+751707175,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2016,-
+751707175,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2015,-
+751707175,Current liabilities,2024,
+751707175,Current liabilities,2023,
+751707175,Current liabilities,2022,
+751707175,Current liabilities,2021,
+751707175,Current liabilities,2020,-
+751707175,Current liabilities,2019,-
+751707175,Current liabilities,2018,-
+751707175,Current liabilities,2017,-
+751707175,Current liabilities,2016,-
+751707175,Current liabilities,2015,-
+751707175,Trade payables ($000s),2024,-
+751707175,Trade payables ($000s),2023,-
+751707175,Trade payables ($000s),2022,"$3,184"
+751707175,Trade payables ($000s),2021,-
+751707175,Trade payables ($000s),2020,-
+751707175,Trade payables ($000s),2019,-
+751707175,Trade payables ($000s),2018,-
+751707175,Trade payables ($000s),2017,-
+751707175,Trade payables ($000s),2016,-
+751707175,Trade payables ($000s),2015,-
+751707175,Other payables ($000s),2024,"$1,134"
+751707175,Other payables ($000s),2023,"$4,148"
+751707175,Other payables ($000s),2022,"$1,631"
+751707175,Other payables ($000s),2021,-
+751707175,Other payables ($000s),2020,"$4,517"
+751707175,Other payables ($000s),2019,"$6,250"
+751707175,Other payables ($000s),2018,"$9,671"
+751707175,Other payables ($000s),2017,"$8,172"
+751707175,Other payables ($000s),2016,"$8,652"
+751707175,Other payables ($000s),2015,-
+751707175,Overdrafts ($000s),2024,
+751707175,Overdrafts ($000s),2023,
+751707175,Overdrafts ($000s),2022,
+751707175,Overdrafts ($000s),2021,
+751707175,Overdrafts ($000s),2020,-
+751707175,Overdrafts ($000s),2019,-
+751707175,Overdrafts ($000s),2018,-
+751707175,Overdrafts ($000s),2017,-
+751707175,Overdrafts ($000s),2016,-
+751707175,Overdrafts ($000s),2015,-
+751707175,Loans - secured ($000s),2024,
+751707175,Loans - secured ($000s),2023,
+751707175,Loans - secured ($000s),2022,
+751707175,Loans - secured ($000s),2021,
+751707175,Loans - secured ($000s),2020,-
+751707175,Loans - secured ($000s),2019,-
+751707175,Loans - secured ($000s),2018,-
+751707175,Loans - secured ($000s),2017,-
+751707175,Loans - secured ($000s),2016,-
+751707175,Loans - secured ($000s),2015,-
+751707175,Loans - unsecured ($000s),2024,
+751707175,Loans - unsecured ($000s),2023,
+751707175,Loans - unsecured ($000s),2022,
+751707175,Loans - unsecured ($000s),2021,
+751707175,Loans - unsecured ($000s),2020,-
+751707175,Loans - unsecured ($000s),2019,-
+751707175,Loans - unsecured ($000s),2018,-
+751707175,Loans - unsecured ($000s),2017,-
+751707175,Loans - unsecured ($000s),2016,-
+751707175,Loans - unsecured ($000s),2015,-
+751707175,Obligations under finance leases and hire purchase ($000s),2024,
+751707175,Obligations under finance leases and hire purchase ($000s),2023,
+751707175,Obligations under finance leases and hire purchase ($000s),2022,
+751707175,Obligations under finance leases and hire purchase ($000s),2021,
+751707175,Obligations under finance leases and hire purchase ($000s),2020,-
+751707175,Obligations under finance leases and hire purchase ($000s),2019,-
+751707175,Obligations under finance leases and hire purchase ($000s),2018,-
+751707175,Obligations under finance leases and hire purchase ($000s),2017,-
+751707175,Obligations under finance leases and hire purchase ($000s),2016,-
+751707175,Obligations under finance leases and hire purchase ($000s),2015,-
+751707175,Loans from related parties ($000s),2024,"$53,901"
+751707175,Loans from related parties ($000s),2023,"$52,548"
+751707175,Loans from related parties ($000s),2022,"$60,508"
+751707175,Loans from related parties ($000s),2021,"$68,499"
+751707175,Loans from related parties ($000s),2020,"$75,371"
+751707175,Loans from related parties ($000s),2019,"$65,535"
+751707175,Loans from related parties ($000s),2018,-
+751707175,Loans from related parties ($000s),2017,-
+751707175,Loans from related parties ($000s),2016,-
+751707175,Loans from related parties ($000s),2015,-
+751707175,Total current interest-bearing loans and borrowings ($000s),2024,"$53,901"
+751707175,Total current interest-bearing loans and borrowings ($000s),2023,"$52,548"
+751707175,Total current interest-bearing loans and borrowings ($000s),2022,"$60,508"
+751707175,Total current interest-bearing loans and borrowings ($000s),2021,"$68,499"
+751707175,Total current interest-bearing loans and borrowings ($000s),2020,"$75,371"
+751707175,Total current interest-bearing loans and borrowings ($000s),2019,"$65,535"
+751707175,Total current interest-bearing loans and borrowings ($000s),2018,-
+751707175,Total current interest-bearing loans and borrowings ($000s),2017,-
+751707175,Total current interest-bearing loans and borrowings ($000s),2016,-
+751707175,Total current interest-bearing loans and borrowings ($000s),2015,-
+751707175,Income tax payable/(refundable) ($000s),2024,
+751707175,Income tax payable/(refundable) ($000s),2023,
+751707175,Income tax payable/(refundable) ($000s),2022,
+751707175,Income tax payable/(refundable) ($000s),2021,
+751707175,Income tax payable/(refundable) ($000s),2020,-
+751707175,Income tax payable/(refundable) ($000s),2019,-
+751707175,Income tax payable/(refundable) ($000s),2018,-
+751707175,Income tax payable/(refundable) ($000s),2017,-
+751707175,Income tax payable/(refundable) ($000s),2016,-
+751707175,Income tax payable/(refundable) ($000s),2015,-
+751707175,Provisions ($000s),2024,$216
+751707175,Provisions ($000s),2023,"$1,321"
+751707175,Provisions ($000s),2022,"$1,466"
+751707175,Provisions ($000s),2021,"$1,476"
+751707175,Provisions ($000s),2020,"$1,018"
+751707175,Provisions ($000s),2019,"$1,437"
+751707175,Provisions ($000s),2018,"$1,498"
+751707175,Provisions ($000s),2017,"$1,466"
+751707175,Provisions ($000s),2016,"$2,219"
+751707175,Provisions ($000s),2015,-
+751707175,Other current liabilities ($000s),2024,$0
+751707175,Other current liabilities ($000s),2023,$0
+751707175,Other current liabilities ($000s),2022,$0
+751707175,Other current liabilities ($000s),2021,"$5,330"
+751707175,Other current liabilities ($000s),2020,$0
+751707175,Other current liabilities ($000s),2019,$0
+751707175,Other current liabilities ($000s),2018,$0
+751707175,Other current liabilities ($000s),2017,$0
+751707175,Other current liabilities ($000s),2016,$0
+751707175,Other current liabilities ($000s),2015,-
+751707175,Total current liabilities for continuing operations ($000s),2024,"$55,251"
+751707175,Total current liabilities for continuing operations ($000s),2023,"$58,017"
+751707175,Total current liabilities for continuing operations ($000s),2022,"$66,789"
+751707175,Total current liabilities for continuing operations ($000s),2021,"$75,305"
+751707175,Total current liabilities for continuing operations ($000s),2020,"$80,906"
+751707175,Total current liabilities for continuing operations ($000s),2019,"$73,222"
+751707175,Total current liabilities for continuing operations ($000s),2018,"$11,169"
+751707175,Total current liabilities for continuing operations ($000s),2017,"$9,638"
+751707175,Total current liabilities for continuing operations ($000s),2016,"$10,871"
+751707175,Total current liabilities for continuing operations ($000s),2015,-
+751707175,Liabilities directly associated with assets held for sale ($000s),2024,
+751707175,Liabilities directly associated with assets held for sale ($000s),2023,
+751707175,Liabilities directly associated with assets held for sale ($000s),2022,
+751707175,Liabilities directly associated with assets held for sale ($000s),2021,
+751707175,Liabilities directly associated with assets held for sale ($000s),2020,-
+751707175,Liabilities directly associated with assets held for sale ($000s),2019,-
+751707175,Liabilities directly associated with assets held for sale ($000s),2018,-
+751707175,Liabilities directly associated with assets held for sale ($000s),2017,-
+751707175,Liabilities directly associated with assets held for sale ($000s),2016,-
+751707175,Liabilities directly associated with assets held for sale ($000s),2015,-
+751707175,Total current liabilities ($000s),2024,"$55,251"
+751707175,Total current liabilities ($000s),2023,"$58,017"
+751707175,Total current liabilities ($000s),2022,"$66,789"
+751707175,Total current liabilities ($000s),2021,"$75,305"
+751707175,Total current liabilities ($000s),2020,"$80,906"
+751707175,Total current liabilities ($000s),2019,"$73,222"
+751707175,Total current liabilities ($000s),2018,"$11,169"
+751707175,Total current liabilities ($000s),2017,"$9,638"
+751707175,Total current liabilities ($000s),2016,"$10,871"
+751707175,Total current liabilities ($000s),2015,-
+751707175,Total current liabilities for previous year ($000s),2024,"$58,017"
+751707175,Total current liabilities for previous year ($000s),2023,"$66,789"
+751707175,Total current liabilities for previous year ($000s),2022,"$75,305"
+751707175,Total current liabilities for previous year ($000s),2021,"$80,906"
+751707175,Total current liabilities for previous year ($000s),2020,"$73,222"
+751707175,Total current liabilities for previous year ($000s),2019,"$11,169"
+751707175,Total current liabilities for previous year ($000s),2018,"$9,638"
+751707175,Total current liabilities for previous year ($000s),2017,"$10,871"
+751707175,Total current liabilities for previous year ($000s),2016,-
+751707175,Total current liabilities for previous year ($000s),2015,-
+751707175,Non-current liabilities,2024,
+751707175,Non-current liabilities,2023,
+751707175,Non-current liabilities,2022,
+751707175,Non-current liabilities,2021,
+751707175,Non-current liabilities,2020,-
+751707175,Non-current liabilities,2019,-
+751707175,Non-current liabilities,2018,-
+751707175,Non-current liabilities,2017,-
+751707175,Non-current liabilities,2016,-
+751707175,Non-current liabilities,2015,-
+751707175,Total non-current interest-bearing loans and borrowings ($000s),2024,"$437,736"
+751707175,Total non-current interest-bearing loans and borrowings ($000s),2023,"$477,059"
+751707175,Total non-current interest-bearing loans and borrowings ($000s),2022,"$488,264"
+751707175,Total non-current interest-bearing loans and borrowings ($000s),2021,"$552,657"
+751707175,Total non-current interest-bearing loans and borrowings ($000s),2020,"$614,533"
+751707175,Total non-current interest-bearing loans and borrowings ($000s),2019,"$676,455"
+751707175,Total non-current interest-bearing loans and borrowings ($000s),2018,"$739,984"
+751707175,Total non-current interest-bearing loans and borrowings ($000s),2017,"$705,405"
+751707175,Total non-current interest-bearing loans and borrowings ($000s),2016,"$1,058,802"
+751707175,Total non-current interest-bearing loans and borrowings ($000s),2015,-
+751707175,Deferred tax liabilities ($000s),2024,"$28,235"
+751707175,Deferred tax liabilities ($000s),2023,"$36,945"
+751707175,Deferred tax liabilities ($000s),2022,"$33,593"
+751707175,Deferred tax liabilities ($000s),2021,"$23,254"
+751707175,Deferred tax liabilities ($000s),2020,"$9,863"
+751707175,Deferred tax liabilities ($000s),2019,"$9,217"
+751707175,Deferred tax liabilities ($000s),2018,"$9,351"
+751707175,Deferred tax liabilities ($000s),2017,"$8,093"
+751707175,Deferred tax liabilities ($000s),2016,"$3,181"
+751707175,Deferred tax liabilities ($000s),2015,-
+751707175,Convertible redeemable preference shares ($000s),2024,
+751707175,Convertible redeemable preference shares ($000s),2023,
+751707175,Convertible redeemable preference shares ($000s),2022,
+751707175,Convertible redeemable preference shares ($000s),2021,
+751707175,Convertible redeemable preference shares ($000s),2020,-
+751707175,Convertible redeemable preference shares ($000s),2019,-
+751707175,Convertible redeemable preference shares ($000s),2018,-
+751707175,Convertible redeemable preference shares ($000s),2017,-
+751707175,Convertible redeemable preference shares ($000s),2016,-
+751707175,Convertible redeemable preference shares ($000s),2015,-
+751707175,Other non-current liabilities ($000s),2024,$0
+751707175,Other non-current liabilities ($000s),2023,$0
+751707175,Other non-current liabilities ($000s),2022,$0
+751707175,Other non-current liabilities ($000s),2021,$0
+751707175,Other non-current liabilities ($000s),2020,$0
+751707175,Other non-current liabilities ($000s),2019,$0
+751707175,Other non-current liabilities ($000s),2018,$0
+751707175,Other non-current liabilities ($000s),2017,$0
+751707175,Other non-current liabilities ($000s),2016,$0
+751707175,Other non-current liabilities ($000s),2015,-
+751707175,Total non-current liabilities ($000s),2024,"$465,979"
+751707175,Total non-current liabilities ($000s),2023,"$514,082"
+751707175,Total non-current liabilities ($000s),2022,"$521,986"
+751707175,Total non-current liabilities ($000s),2021,"$576,145"
+751707175,Total non-current liabilities ($000s),2020,"$624,698"
+751707175,Total non-current liabilities ($000s),2019,"$685,969"
+751707175,Total non-current liabilities ($000s),2018,"$749,576"
+751707175,Total non-current liabilities ($000s),2017,"$713,796"
+751707175,Total non-current liabilities ($000s),2016,"$1,062,290"
+751707175,Total non-current liabilities ($000s),2015,-
+751707175,TOTAL LIABILITIES ($000s),2024,"$521,230"
+751707175,TOTAL LIABILITIES ($000s),2023,"$572,099"
+751707175,TOTAL LIABILITIES ($000s),2022,"$588,775"
+751707175,TOTAL LIABILITIES ($000s),2021,"$651,450"
+751707175,TOTAL LIABILITIES ($000s),2020,"$705,604"
+751707175,TOTAL LIABILITIES ($000s),2019,"$759,191"
+751707175,TOTAL LIABILITIES ($000s),2018,"$760,745"
+751707175,TOTAL LIABILITIES ($000s),2017,"$723,434"
+751707175,TOTAL LIABILITIES ($000s),2016,"$1,073,161"
+751707175,TOTAL LIABILITIES ($000s),2015,-
+751707175,NET ASSETS ($000s),2024,"$152,494"
+751707175,NET ASSETS ($000s),2023,"$150,513"
+751707175,NET ASSETS ($000s),2022,"$146,409"
+751707175,NET ASSETS ($000s),2021,"$134,736"
+751707175,NET ASSETS ($000s),2020,"$128,586"
+751707175,NET ASSETS ($000s),2019,"$134,625"
+751707175,NET ASSETS ($000s),2018,"$136,365"
+751707175,NET ASSETS ($000s),2017,"$133,532"
+751707175,NET ASSETS ($000s),2016,"$99,673"
+751707175,NET ASSETS ($000s),2015,-
+751707175,Equity,2024,
+751707175,Equity,2023,
+751707175,Equity,2022,
+751707175,Equity,2021,
+751707175,Equity,2020,-
+751707175,Equity,2019,-
+751707175,Equity,2018,-
+751707175,Equity,2017,-
+751707175,Equity,2016,-
+751707175,Equity,2015,-
+751707175,Equity attributable to equity holders of the parent,2024,
+751707175,Equity attributable to equity holders of the parent,2023,
+751707175,Equity attributable to equity holders of the parent,2022,
+751707175,Equity attributable to equity holders of the parent,2021,
+751707175,Equity attributable to equity holders of the parent,2020,-
+751707175,Equity attributable to equity holders of the parent,2019,-
+751707175,Equity attributable to equity holders of the parent,2018,-
+751707175,Equity attributable to equity holders of the parent,2017,-
+751707175,Equity attributable to equity holders of the parent,2016,-
+751707175,Equity attributable to equity holders of the parent,2015,-
+751707175,Contributed equity ($000s),2024,"$34,928"
+751707175,Contributed equity ($000s),2023,"$34,928"
+751707175,Contributed equity ($000s),2022,"$34,928"
+751707175,Contributed equity ($000s),2021,"$34,928"
+751707175,Contributed equity ($000s),2020,"$34,928"
+751707175,Contributed equity ($000s),2019,"$34,928"
+751707175,Contributed equity ($000s),2018,"$34,928"
+751707175,Contributed equity ($000s),2017,"$34,928"
+751707175,Contributed equity ($000s),2016,"$34,928"
+751707175,Contributed equity ($000s),2015,-
+751707175,Retained earnings ($000s),2024,"$116,719"
+751707175,Retained earnings ($000s),2023,"$114,738"
+751707175,Retained earnings ($000s),2022,"$110,634"
+751707175,Retained earnings ($000s),2021,"$98,961"
+751707175,Retained earnings ($000s),2020,"$92,811"
+751707175,Retained earnings ($000s),2019,"$98,850"
+751707175,Retained earnings ($000s),2018,"$100,590"
+751707175,Retained earnings ($000s),2017,"$97,757"
+751707175,Retained earnings ($000s),2016,"$63,898"
+751707175,Retained earnings ($000s),2015,-
+751707175,Reserves ($000s),2024,$847
+751707175,Reserves ($000s),2023,$847
+751707175,Reserves ($000s),2022,$847
+751707175,Reserves ($000s),2021,$847
+751707175,Reserves ($000s),2020,$847
+751707175,Reserves ($000s),2019,$847
+751707175,Reserves ($000s),2018,$847
+751707175,Reserves ($000s),2017,$847
+751707175,Reserves ($000s),2016,$847
+751707175,Reserves ($000s),2015,-
+751707175,Total Parent interests ($000s),2024,"$152,494"
+751707175,Total Parent interests ($000s),2023,"$150,513"
+751707175,Total Parent interests ($000s),2022,"$146,409"
+751707175,Total Parent interests ($000s),2021,"$134,736"
+751707175,Total Parent interests ($000s),2020,"$128,586"
+751707175,Total Parent interests ($000s),2019,"$134,625"
+751707175,Total Parent interests ($000s),2018,"$136,365"
+751707175,Total Parent interests ($000s),2017,"$133,532"
+751707175,Total Parent interests ($000s),2016,"$99,673"
+751707175,Total Parent interests ($000s),2015,-
+751707175,Minority interests ($000s),2024,
+751707175,Minority interests ($000s),2023,
+751707175,Minority interests ($000s),2022,
+751707175,Minority interests ($000s),2021,
+751707175,Minority interests ($000s),2020,-
+751707175,Minority interests ($000s),2019,-
+751707175,Minority interests ($000s),2018,-
+751707175,Minority interests ($000s),2017,-
+751707175,Minority interests ($000s),2016,-
+751707175,Minority interests ($000s),2015,-
+751707175,TOTAL EQUITY ($000s),2024,"$152,494"
+751707175,TOTAL EQUITY ($000s),2023,"$150,513"
+751707175,TOTAL EQUITY ($000s),2022,"$146,409"
+751707175,TOTAL EQUITY ($000s),2021,"$134,736"
+751707175,TOTAL EQUITY ($000s),2020,"$128,586"
+751707175,TOTAL EQUITY ($000s),2019,"$134,625"
+751707175,TOTAL EQUITY ($000s),2018,"$136,365"
+751707175,TOTAL EQUITY ($000s),2017,"$133,532"
+751707175,TOTAL EQUITY ($000s),2016,"$99,673"
+751707175,TOTAL EQUITY ($000s),2015,-
+751707175,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2024,"$150,513"
+751707175,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2023,"$146,409"
+751707175,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2022,"$134,736"
+751707175,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2021,"$128,586"
+751707175,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2020,"$134,625"
+751707175,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2019,"$136,365"
+751707175,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2018,"$133,532"
+751707175,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2017,"$99,673"
+751707175,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2016,-
+751707175,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2015,-

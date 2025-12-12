@@ -1,0 +1,601 @@
+duns,line_item,year,value
+742222102,Current Assets,2024,
+742222102,Current Assets,2023,
+742222102,Current Assets,2022,
+742222102,Current Assets,2021,
+742222102,Current Assets,2020,-
+742222102,Current Assets,2019,-
+742222102,Current Assets,2018,-
+742222102,Current Assets,2017,-
+742222102,Current Assets,2016,-
+742222102,Current Assets,2015,-
+742222102,Cash and cash equivalents ($000s),2024,"$7,182"
+742222102,Cash and cash equivalents ($000s),2023,"$7,030"
+742222102,Cash and cash equivalents ($000s),2022,"$4,430"
+742222102,Cash and cash equivalents ($000s),2021,"$6,027"
+742222102,Cash and cash equivalents ($000s),2020,"$11,673"
+742222102,Cash and cash equivalents ($000s),2019,"$20,939"
+742222102,Cash and cash equivalents ($000s),2018,"$25,536"
+742222102,Cash and cash equivalents ($000s),2017,"$10,714"
+742222102,Cash and cash equivalents ($000s),2016,"$8,357"
+742222102,Cash and cash equivalents ($000s),2015,"$5,978"
+742222102,Growth,2024,2.16%
+742222102,Growth,2023,58.69%
+742222102,Growth,2022,(26.50%)
+742222102,Growth,2021,(48.37%)
+742222102,Growth,2020,(44.25%)
+742222102,Growth,2019,(18.00%)
+742222102,Growth,2018,138.34%
+742222102,Growth,2017,28.20%
+742222102,Growth,2016,39.80%
+742222102,Growth,2015,-
+742222102,Trade receivables ($000s),2024,$87
+742222102,Trade receivables ($000s),2023,-
+742222102,Trade receivables ($000s),2022,$81
+742222102,Trade receivables ($000s),2021,$91
+742222102,Trade receivables ($000s),2020,$50
+742222102,Trade receivables ($000s),2019,$350
+742222102,Trade receivables ($000s),2018,$236
+742222102,Trade receivables ($000s),2017,$455
+742222102,Trade receivables ($000s),2016,$302
+742222102,Trade receivables ($000s),2015,$292
+742222102,Other receivables ($000s),2024,$15
+742222102,Other receivables ($000s),2023,"$1,585"
+742222102,Other receivables ($000s),2022,$34
+742222102,Other receivables ($000s),2021,$201
+742222102,Other receivables ($000s),2020,-
+742222102,Other receivables ($000s),2019,$192
+742222102,Other receivables ($000s),2018,$64
+742222102,Other receivables ($000s),2017,$312
+742222102,Other receivables ($000s),2016,$100
+742222102,Other receivables ($000s),2015,$217
+742222102,Raw materials ($000s),2024,$0
+742222102,Raw materials ($000s),2023,$0
+742222102,Raw materials ($000s),2022,$0
+742222102,Raw materials ($000s),2021,$0
+742222102,Raw materials ($000s),2020,$0
+742222102,Raw materials ($000s),2019,$0
+742222102,Raw materials ($000s),2018,$0
+742222102,Raw materials ($000s),2017,$0
+742222102,Raw materials ($000s),2016,$0
+742222102,Raw materials ($000s),2015,$0
+742222102,Work-in-progress ($000s),2024,
+742222102,Work-in-progress ($000s),2023,
+742222102,Work-in-progress ($000s),2022,
+742222102,Work-in-progress ($000s),2021,
+742222102,Work-in-progress ($000s),2020,-
+742222102,Work-in-progress ($000s),2019,-
+742222102,Work-in-progress ($000s),2018,-
+742222102,Work-in-progress ($000s),2017,-
+742222102,Work-in-progress ($000s),2016,-
+742222102,Work-in-progress ($000s),2015,-
+742222102,Finished goods ($000s),2024,$146
+742222102,Finished goods ($000s),2023,$155
+742222102,Finished goods ($000s),2022,$153
+742222102,Finished goods ($000s),2021,$129
+742222102,Finished goods ($000s),2020,$109
+742222102,Finished goods ($000s),2019,$116
+742222102,Finished goods ($000s),2018,$560
+742222102,Finished goods ($000s),2017,"$3,139"
+742222102,Finished goods ($000s),2016,"$8,134"
+742222102,Finished goods ($000s),2015,$138
+742222102,Total inventories ($000s),2024,$146
+742222102,Total inventories ($000s),2023,$155
+742222102,Total inventories ($000s),2022,$153
+742222102,Total inventories ($000s),2021,$129
+742222102,Total inventories ($000s),2020,$109
+742222102,Total inventories ($000s),2019,$116
+742222102,Total inventories ($000s),2018,$560
+742222102,Total inventories ($000s),2017,"$3,139"
+742222102,Total inventories ($000s),2016,"$8,134"
+742222102,Total inventories ($000s),2015,$138
+742222102,Prepayments ($000s),2024,$341
+742222102,Prepayments ($000s),2023,$178
+742222102,Prepayments ($000s),2022,$267
+742222102,Prepayments ($000s),2021,$360
+742222102,Prepayments ($000s),2020,$318
+742222102,Prepayments ($000s),2019,$129
+742222102,Prepayments ($000s),2018,$138
+742222102,Prepayments ($000s),2017,$214
+742222102,Prepayments ($000s),2016,$145
+742222102,Prepayments ($000s),2015,$234
+742222102,Derivative financial instruments ($000s),2024,
+742222102,Derivative financial instruments ($000s),2023,
+742222102,Derivative financial instruments ($000s),2022,
+742222102,Derivative financial instruments ($000s),2021,
+742222102,Derivative financial instruments ($000s),2020,-
+742222102,Derivative financial instruments ($000s),2019,-
+742222102,Derivative financial instruments ($000s),2018,-
+742222102,Derivative financial instruments ($000s),2017,-
+742222102,Derivative financial instruments ($000s),2016,-
+742222102,Derivative financial instruments ($000s),2015,-
+742222102,Other current assets ($000s),2024,"$8,571"
+742222102,Other current assets ($000s),2023,"$10,098"
+742222102,Other current assets ($000s),2022,$96
+742222102,Other current assets ($000s),2021,$7
+742222102,Other current assets ($000s),2020,$570
+742222102,Other current assets ($000s),2019,$960
+742222102,Other current assets ($000s),2018,"$1,004"
+742222102,Other current assets ($000s),2017,$37
+742222102,Other current assets ($000s),2016,$101
+742222102,Other current assets ($000s),2015,$93
+742222102,Total current assets for continuing operations ($000s),2024,"$16,342"
+742222102,Total current assets for continuing operations ($000s),2023,"$19,047"
+742222102,Total current assets for continuing operations ($000s),2022,"$5,060"
+742222102,Total current assets for continuing operations ($000s),2021,"$6,815"
+742222102,Total current assets for continuing operations ($000s),2020,"$12,720"
+742222102,Total current assets for continuing operations ($000s),2019,"$22,686"
+742222102,Total current assets for continuing operations ($000s),2018,"$27,538"
+742222102,Total current assets for continuing operations ($000s),2017,"$14,870"
+742222102,Total current assets for continuing operations ($000s),2016,"$17,139"
+742222102,Total current assets for continuing operations ($000s),2015,"$6,951"
+742222102,Assets held for sale ($000s),2024,-
+742222102,Assets held for sale ($000s),2023,-
+742222102,Assets held for sale ($000s),2022,-
+742222102,Assets held for sale ($000s),2021,"$1,337"
+742222102,Assets held for sale ($000s),2020,-
+742222102,Assets held for sale ($000s),2019,-
+742222102,Assets held for sale ($000s),2018,-
+742222102,Assets held for sale ($000s),2017,-
+742222102,Assets held for sale ($000s),2016,-
+742222102,Assets held for sale ($000s),2015,-
+742222102,Total current assets ($000s),2024,"$16,342"
+742222102,Total current assets ($000s),2023,"$19,047"
+742222102,Total current assets ($000s),2022,"$5,060"
+742222102,Total current assets ($000s),2021,"$8,151"
+742222102,Total current assets ($000s),2020,"$12,720"
+742222102,Total current assets ($000s),2019,"$22,686"
+742222102,Total current assets ($000s),2018,"$27,538"
+742222102,Total current assets ($000s),2017,"$14,870"
+742222102,Total current assets ($000s),2016,"$17,139"
+742222102,Total current assets ($000s),2015,"$6,951"
+742222102,Non-current assets,2024,
+742222102,Non-current assets,2023,
+742222102,Non-current assets,2022,
+742222102,Non-current assets,2021,
+742222102,Non-current assets,2020,-
+742222102,Non-current assets,2019,-
+742222102,Non-current assets,2018,-
+742222102,Non-current assets,2017,-
+742222102,Non-current assets,2016,-
+742222102,Non-current assets,2015,-
+742222102,Receivables ($000s),2024,$400
+742222102,Receivables ($000s),2023,$401
+742222102,Receivables ($000s),2022,$408
+742222102,Receivables ($000s),2021,$400
+742222102,Receivables ($000s),2020,-
+742222102,Receivables ($000s),2019,$154
+742222102,Receivables ($000s),2018,$272
+742222102,Receivables ($000s),2017,$252
+742222102,Receivables ($000s),2016,$364
+742222102,Receivables ($000s),2015,$500
+742222102,Investments in associates ($000s),2024,$85
+742222102,Investments in associates ($000s),2023,$85
+742222102,Investments in associates ($000s),2022,"$11,085"
+742222102,Investments in associates ($000s),2021,"$11,085"
+742222102,Investments in associates ($000s),2020,"$3,563"
+742222102,Investments in associates ($000s),2019,$0
+742222102,Investments in associates ($000s),2018,$149
+742222102,Investments in associates ($000s),2017,$0
+742222102,Investments in associates ($000s),2016,$0
+742222102,Investments in associates ($000s),2015,$0
+742222102,Investments in subsidiaries ($000s),2024,
+742222102,Investments in subsidiaries ($000s),2023,
+742222102,Investments in subsidiaries ($000s),2022,
+742222102,Investments in subsidiaries ($000s),2021,
+742222102,Investments in subsidiaries ($000s),2020,-
+742222102,Investments in subsidiaries ($000s),2019,-
+742222102,Investments in subsidiaries ($000s),2018,-
+742222102,Investments in subsidiaries ($000s),2017,-
+742222102,Investments in subsidiaries ($000s),2016,-
+742222102,Investments in subsidiaries ($000s),2015,-
+742222102,Available for sale financial assets ($000s),2024,$0
+742222102,Available for sale financial assets ($000s),2023,$0
+742222102,Available for sale financial assets ($000s),2022,$0
+742222102,Available for sale financial assets ($000s),2021,$0
+742222102,Available for sale financial assets ($000s),2020,$0
+742222102,Available for sale financial assets ($000s),2019,$0
+742222102,Available for sale financial assets ($000s),2018,"$1,382"
+742222102,Available for sale financial assets ($000s),2017,$0
+742222102,Available for sale financial assets ($000s),2016,$0
+742222102,Available for sale financial assets ($000s),2015,$0
+742222102,"Property, plant and equipment ($000s)",2024,"$65,885"
+742222102,"Property, plant and equipment ($000s)",2023,"$47,471"
+742222102,"Property, plant and equipment ($000s)",2022,"$48,044"
+742222102,"Property, plant and equipment ($000s)",2021,"$49,013"
+742222102,"Property, plant and equipment ($000s)",2020,"$49,630"
+742222102,"Property, plant and equipment ($000s)",2019,"$49,766"
+742222102,"Property, plant and equipment ($000s)",2018,"$42,281"
+742222102,"Property, plant and equipment ($000s)",2017,"$44,356"
+742222102,"Property, plant and equipment ($000s)",2016,"$44,242"
+742222102,"Property, plant and equipment ($000s)",2015,"$43,206"
+742222102,Intangible assets and goodwill ($000s),2024,$87
+742222102,Intangible assets and goodwill ($000s),2023,$137
+742222102,Intangible assets and goodwill ($000s),2022,$140
+742222102,Intangible assets and goodwill ($000s),2021,$221
+742222102,Intangible assets and goodwill ($000s),2020,$331
+742222102,Intangible assets and goodwill ($000s),2019,$404
+742222102,Intangible assets and goodwill ($000s),2018,$441
+742222102,Intangible assets and goodwill ($000s),2017,$525
+742222102,Intangible assets and goodwill ($000s),2016,$609
+742222102,Intangible assets and goodwill ($000s),2015,$704
+742222102,Deferred tax assets ($000s),2024,
+742222102,Deferred tax assets ($000s),2023,
+742222102,Deferred tax assets ($000s),2022,
+742222102,Deferred tax assets ($000s),2021,
+742222102,Deferred tax assets ($000s),2020,-
+742222102,Deferred tax assets ($000s),2019,-
+742222102,Deferred tax assets ($000s),2018,-
+742222102,Deferred tax assets ($000s),2017,-
+742222102,Deferred tax assets ($000s),2016,-
+742222102,Deferred tax assets ($000s),2015,-
+742222102,Other non-current assets ($000s),2024,"$8,884"
+742222102,Other non-current assets ($000s),2023,"$9,245"
+742222102,Other non-current assets ($000s),2022,"$6,245"
+742222102,Other non-current assets ($000s),2021,"$6,535"
+742222102,Other non-current assets ($000s),2020,"$8,051"
+742222102,Other non-current assets ($000s),2019,"$10,142"
+742222102,Other non-current assets ($000s),2018,"$3,804"
+742222102,Other non-current assets ($000s),2017,"$3,381"
+742222102,Other non-current assets ($000s),2016,"$6,820"
+742222102,Other non-current assets ($000s),2015,"$20,234"
+742222102,Total non-current assets ($000s),2024,"$75,341"
+742222102,Total non-current assets ($000s),2023,"$57,338"
+742222102,Total non-current assets ($000s),2022,"$65,923"
+742222102,Total non-current assets ($000s),2021,"$67,255"
+742222102,Total non-current assets ($000s),2020,"$61,576"
+742222102,Total non-current assets ($000s),2019,"$60,466"
+742222102,Total non-current assets ($000s),2018,"$48,329"
+742222102,Total non-current assets ($000s),2017,"$48,514"
+742222102,Total non-current assets ($000s),2016,"$52,035"
+742222102,Total non-current assets ($000s),2015,"$64,644"
+742222102,TOTAL ASSETS ($000s),2024,"$91,683"
+742222102,TOTAL ASSETS ($000s),2023,"$76,385"
+742222102,TOTAL ASSETS ($000s),2022,"$70,983"
+742222102,TOTAL ASSETS ($000s),2021,"$75,406"
+742222102,TOTAL ASSETS ($000s),2020,"$74,296"
+742222102,TOTAL ASSETS ($000s),2019,"$83,152"
+742222102,TOTAL ASSETS ($000s),2018,"$75,867"
+742222102,TOTAL ASSETS ($000s),2017,"$63,384"
+742222102,TOTAL ASSETS ($000s),2016,"$69,173"
+742222102,TOTAL ASSETS ($000s),2015,"$71,596"
+742222102,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2024,"$76,385"
+742222102,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2023,"$70,983"
+742222102,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2022,"$75,406"
+742222102,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2021,"$74,296"
+742222102,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2020,"$83,152"
+742222102,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2019,"$75,867"
+742222102,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2018,"$63,384"
+742222102,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2017,"$69,173"
+742222102,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2016,"$71,596"
+742222102,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2015,"$66,739"
+742222102,Current liabilities,2024,
+742222102,Current liabilities,2023,
+742222102,Current liabilities,2022,
+742222102,Current liabilities,2021,
+742222102,Current liabilities,2020,-
+742222102,Current liabilities,2019,-
+742222102,Current liabilities,2018,-
+742222102,Current liabilities,2017,-
+742222102,Current liabilities,2016,-
+742222102,Current liabilities,2015,-
+742222102,Trade payables ($000s),2024,"$1,921"
+742222102,Trade payables ($000s),2023,"$1,951"
+742222102,Trade payables ($000s),2022,"$1,215"
+742222102,Trade payables ($000s),2021,"$1,435"
+742222102,Trade payables ($000s),2020,$545
+742222102,Trade payables ($000s),2019,"$1,653"
+742222102,Trade payables ($000s),2018,"$1,333"
+742222102,Trade payables ($000s),2017,"$1,213"
+742222102,Trade payables ($000s),2016,"$1,304"
+742222102,Trade payables ($000s),2015,"$1,182"
+742222102,Other payables ($000s),2024,$993
+742222102,Other payables ($000s),2023,"$3,936"
+742222102,Other payables ($000s),2022,$367
+742222102,Other payables ($000s),2021,$185
+742222102,Other payables ($000s),2020,-
+742222102,Other payables ($000s),2019,"$3,647"
+742222102,Other payables ($000s),2018,"$1,021"
+742222102,Other payables ($000s),2017,$356
+742222102,Other payables ($000s),2016,$130
+742222102,Other payables ($000s),2015,$146
+742222102,Overdrafts ($000s),2024,
+742222102,Overdrafts ($000s),2023,
+742222102,Overdrafts ($000s),2022,
+742222102,Overdrafts ($000s),2021,
+742222102,Overdrafts ($000s),2020,-
+742222102,Overdrafts ($000s),2019,-
+742222102,Overdrafts ($000s),2018,-
+742222102,Overdrafts ($000s),2017,-
+742222102,Overdrafts ($000s),2016,-
+742222102,Overdrafts ($000s),2015,-
+742222102,Loans - secured ($000s),2024,-
+742222102,Loans - secured ($000s),2023,-
+742222102,Loans - secured ($000s),2022,$504
+742222102,Loans - secured ($000s),2021,-
+742222102,Loans - secured ($000s),2020,-
+742222102,Loans - secured ($000s),2019,-
+742222102,Loans - secured ($000s),2018,-
+742222102,Loans - secured ($000s),2017,-
+742222102,Loans - secured ($000s),2016,-
+742222102,Loans - secured ($000s),2015,"$6,000"
+742222102,Loans - unsecured ($000s),2024,
+742222102,Loans - unsecured ($000s),2023,
+742222102,Loans - unsecured ($000s),2022,
+742222102,Loans - unsecured ($000s),2021,
+742222102,Loans - unsecured ($000s),2020,-
+742222102,Loans - unsecured ($000s),2019,-
+742222102,Loans - unsecured ($000s),2018,-
+742222102,Loans - unsecured ($000s),2017,-
+742222102,Loans - unsecured ($000s),2016,-
+742222102,Loans - unsecured ($000s),2015,-
+742222102,Obligations under finance leases and hire purchase ($000s),2024,-
+742222102,Obligations under finance leases and hire purchase ($000s),2023,-
+742222102,Obligations under finance leases and hire purchase ($000s),2022,-
+742222102,Obligations under finance leases and hire purchase ($000s),2021,-
+742222102,Obligations under finance leases and hire purchase ($000s),2020,-
+742222102,Obligations under finance leases and hire purchase ($000s),2019,$43
+742222102,Obligations under finance leases and hire purchase ($000s),2018,$43
+742222102,Obligations under finance leases and hire purchase ($000s),2017,$280
+742222102,Obligations under finance leases and hire purchase ($000s),2016,$223
+742222102,Obligations under finance leases and hire purchase ($000s),2015,$503
+742222102,Loans from related parties ($000s),2024,
+742222102,Loans from related parties ($000s),2023,
+742222102,Loans from related parties ($000s),2022,
+742222102,Loans from related parties ($000s),2021,
+742222102,Loans from related parties ($000s),2020,-
+742222102,Loans from related parties ($000s),2019,-
+742222102,Loans from related parties ($000s),2018,-
+742222102,Loans from related parties ($000s),2017,-
+742222102,Loans from related parties ($000s),2016,-
+742222102,Loans from related parties ($000s),2015,-
+742222102,Total current interest-bearing loans and borrowings ($000s),2024,-
+742222102,Total current interest-bearing loans and borrowings ($000s),2023,-
+742222102,Total current interest-bearing loans and borrowings ($000s),2022,$504
+742222102,Total current interest-bearing loans and borrowings ($000s),2021,-
+742222102,Total current interest-bearing loans and borrowings ($000s),2020,-
+742222102,Total current interest-bearing loans and borrowings ($000s),2019,$43
+742222102,Total current interest-bearing loans and borrowings ($000s),2018,$43
+742222102,Total current interest-bearing loans and borrowings ($000s),2017,$280
+742222102,Total current interest-bearing loans and borrowings ($000s),2016,$223
+742222102,Total current interest-bearing loans and borrowings ($000s),2015,"$6,503"
+742222102,Income tax payable/(refundable) ($000s),2024,$96
+742222102,Income tax payable/(refundable) ($000s),2023,"$1,857"
+742222102,Income tax payable/(refundable) ($000s),2022,-
+742222102,Income tax payable/(refundable) ($000s),2021,-
+742222102,Income tax payable/(refundable) ($000s),2020,-
+742222102,Income tax payable/(refundable) ($000s),2019,-
+742222102,Income tax payable/(refundable) ($000s),2018,-
+742222102,Income tax payable/(refundable) ($000s),2017,"$1,326"
+742222102,Income tax payable/(refundable) ($000s),2016,$378
+742222102,Income tax payable/(refundable) ($000s),2015,$394
+742222102,Provisions ($000s),2024,"$2,267"
+742222102,Provisions ($000s),2023,"$2,026"
+742222102,Provisions ($000s),2022,"$2,002"
+742222102,Provisions ($000s),2021,"$1,635"
+742222102,Provisions ($000s),2020,"$1,495"
+742222102,Provisions ($000s),2019,"$1,482"
+742222102,Provisions ($000s),2018,"$1,421"
+742222102,Provisions ($000s),2017,"$1,420"
+742222102,Provisions ($000s),2016,"$1,298"
+742222102,Provisions ($000s),2015,"$1,091"
+742222102,Other current liabilities ($000s),2024,$751
+742222102,Other current liabilities ($000s),2023,$305
+742222102,Other current liabilities ($000s),2022,$172
+742222102,Other current liabilities ($000s),2021,$295
+742222102,Other current liabilities ($000s),2020,$495
+742222102,Other current liabilities ($000s),2019,$507
+742222102,Other current liabilities ($000s),2018,$213
+742222102,Other current liabilities ($000s),2017,$390
+742222102,Other current liabilities ($000s),2016,$520
+742222102,Other current liabilities ($000s),2015,"$3,650"
+742222102,Total current liabilities for continuing operations ($000s),2024,"$6,028"
+742222102,Total current liabilities for continuing operations ($000s),2023,"$10,076"
+742222102,Total current liabilities for continuing operations ($000s),2022,"$4,259"
+742222102,Total current liabilities for continuing operations ($000s),2021,"$3,549"
+742222102,Total current liabilities for continuing operations ($000s),2020,"$2,534"
+742222102,Total current liabilities for continuing operations ($000s),2019,"$7,332"
+742222102,Total current liabilities for continuing operations ($000s),2018,"$4,031"
+742222102,Total current liabilities for continuing operations ($000s),2017,"$4,985"
+742222102,Total current liabilities for continuing operations ($000s),2016,"$3,853"
+742222102,Total current liabilities for continuing operations ($000s),2015,"$12,966"
+742222102,Liabilities directly associated with assets held for sale ($000s),2024,
+742222102,Liabilities directly associated with assets held for sale ($000s),2023,
+742222102,Liabilities directly associated with assets held for sale ($000s),2022,
+742222102,Liabilities directly associated with assets held for sale ($000s),2021,
+742222102,Liabilities directly associated with assets held for sale ($000s),2020,-
+742222102,Liabilities directly associated with assets held for sale ($000s),2019,-
+742222102,Liabilities directly associated with assets held for sale ($000s),2018,-
+742222102,Liabilities directly associated with assets held for sale ($000s),2017,-
+742222102,Liabilities directly associated with assets held for sale ($000s),2016,-
+742222102,Liabilities directly associated with assets held for sale ($000s),2015,-
+742222102,Total current liabilities ($000s),2024,"$6,028"
+742222102,Total current liabilities ($000s),2023,"$10,076"
+742222102,Total current liabilities ($000s),2022,"$4,259"
+742222102,Total current liabilities ($000s),2021,"$3,549"
+742222102,Total current liabilities ($000s),2020,"$2,534"
+742222102,Total current liabilities ($000s),2019,"$7,332"
+742222102,Total current liabilities ($000s),2018,"$4,031"
+742222102,Total current liabilities ($000s),2017,"$4,985"
+742222102,Total current liabilities ($000s),2016,"$3,853"
+742222102,Total current liabilities ($000s),2015,"$12,966"
+742222102,Total current liabilities for previous year ($000s),2024,"$10,076"
+742222102,Total current liabilities for previous year ($000s),2023,"$4,259"
+742222102,Total current liabilities for previous year ($000s),2022,"$3,549"
+742222102,Total current liabilities for previous year ($000s),2021,"$2,534"
+742222102,Total current liabilities for previous year ($000s),2020,"$7,332"
+742222102,Total current liabilities for previous year ($000s),2019,"$4,031"
+742222102,Total current liabilities for previous year ($000s),2018,"$4,985"
+742222102,Total current liabilities for previous year ($000s),2017,"$3,853"
+742222102,Total current liabilities for previous year ($000s),2016,"$12,966"
+742222102,Total current liabilities for previous year ($000s),2015,"$3,265"
+742222102,Non-current liabilities,2024,
+742222102,Non-current liabilities,2023,
+742222102,Non-current liabilities,2022,
+742222102,Non-current liabilities,2021,
+742222102,Non-current liabilities,2020,-
+742222102,Non-current liabilities,2019,-
+742222102,Non-current liabilities,2018,-
+742222102,Non-current liabilities,2017,-
+742222102,Non-current liabilities,2016,-
+742222102,Non-current liabilities,2015,-
+742222102,Total non-current interest-bearing loans and borrowings ($000s),2024,-
+742222102,Total non-current interest-bearing loans and borrowings ($000s),2023,-
+742222102,Total non-current interest-bearing loans and borrowings ($000s),2022,-
+742222102,Total non-current interest-bearing loans and borrowings ($000s),2021,-
+742222102,Total non-current interest-bearing loans and borrowings ($000s),2020,-
+742222102,Total non-current interest-bearing loans and borrowings ($000s),2019,-
+742222102,Total non-current interest-bearing loans and borrowings ($000s),2018,-
+742222102,Total non-current interest-bearing loans and borrowings ($000s),2017,$89
+742222102,Total non-current interest-bearing loans and borrowings ($000s),2016,"$5,871"
+742222102,Total non-current interest-bearing loans and borrowings ($000s),2015,$340
+742222102,Deferred tax liabilities ($000s),2024,"$3,746"
+742222102,Deferred tax liabilities ($000s),2023,"$1,011"
+742222102,Deferred tax liabilities ($000s),2022,$539
+742222102,Deferred tax liabilities ($000s),2021,$847
+742222102,Deferred tax liabilities ($000s),2020,"$1,450"
+742222102,Deferred tax liabilities ($000s),2019,"$1,680"
+742222102,Deferred tax liabilities ($000s),2018,"$1,313"
+742222102,Deferred tax liabilities ($000s),2017,"$1,289"
+742222102,Deferred tax liabilities ($000s),2016,$879
+742222102,Deferred tax liabilities ($000s),2015,$865
+742222102,Convertible redeemable preference shares ($000s),2024,
+742222102,Convertible redeemable preference shares ($000s),2023,
+742222102,Convertible redeemable preference shares ($000s),2022,
+742222102,Convertible redeemable preference shares ($000s),2021,
+742222102,Convertible redeemable preference shares ($000s),2020,-
+742222102,Convertible redeemable preference shares ($000s),2019,-
+742222102,Convertible redeemable preference shares ($000s),2018,-
+742222102,Convertible redeemable preference shares ($000s),2017,-
+742222102,Convertible redeemable preference shares ($000s),2016,-
+742222102,Convertible redeemable preference shares ($000s),2015,-
+742222102,Other non-current liabilities ($000s),2024,"$2,710"
+742222102,Other non-current liabilities ($000s),2023,$0
+742222102,Other non-current liabilities ($000s),2022,"$3,339"
+742222102,Other non-current liabilities ($000s),2021,"$3,339"
+742222102,Other non-current liabilities ($000s),2020,"$3,339"
+742222102,Other non-current liabilities ($000s),2019,"$3,339"
+742222102,Other non-current liabilities ($000s),2018,"$4,463"
+742222102,Other non-current liabilities ($000s),2017,"$3,339"
+742222102,Other non-current liabilities ($000s),2016,"$3,339"
+742222102,Other non-current liabilities ($000s),2015,"$3,339"
+742222102,Total non-current liabilities ($000s),2024,"$6,513"
+742222102,Total non-current liabilities ($000s),2023,"$1,048"
+742222102,Total non-current liabilities ($000s),2022,"$4,288"
+742222102,Total non-current liabilities ($000s),2021,"$5,131"
+742222102,Total non-current liabilities ($000s),2020,"$4,848"
+742222102,Total non-current liabilities ($000s),2019,"$5,071"
+742222102,Total non-current liabilities ($000s),2018,"$5,840"
+742222102,Total non-current liabilities ($000s),2017,"$4,767"
+742222102,Total non-current liabilities ($000s),2016,"$10,138"
+742222102,Total non-current liabilities ($000s),2015,"$4,684"
+742222102,TOTAL LIABILITIES ($000s),2024,"$12,540"
+742222102,TOTAL LIABILITIES ($000s),2023,"$11,124"
+742222102,TOTAL LIABILITIES ($000s),2022,"$8,547"
+742222102,TOTAL LIABILITIES ($000s),2021,"$8,680"
+742222102,TOTAL LIABILITIES ($000s),2020,"$7,382"
+742222102,TOTAL LIABILITIES ($000s),2019,"$12,403"
+742222102,TOTAL LIABILITIES ($000s),2018,"$9,871"
+742222102,TOTAL LIABILITIES ($000s),2017,"$9,752"
+742222102,TOTAL LIABILITIES ($000s),2016,"$13,991"
+742222102,TOTAL LIABILITIES ($000s),2015,"$17,650"
+742222102,NET ASSETS ($000s),2024,"$79,143"
+742222102,NET ASSETS ($000s),2023,"$65,261"
+742222102,NET ASSETS ($000s),2022,"$62,436"
+742222102,NET ASSETS ($000s),2021,"$66,726"
+742222102,NET ASSETS ($000s),2020,"$66,913"
+742222102,NET ASSETS ($000s),2019,"$70,749"
+742222102,NET ASSETS ($000s),2018,"$65,996"
+742222102,NET ASSETS ($000s),2017,"$53,632"
+742222102,NET ASSETS ($000s),2016,"$55,182"
+742222102,NET ASSETS ($000s),2015,"$53,946"
+742222102,Equity,2024,
+742222102,Equity,2023,
+742222102,Equity,2022,
+742222102,Equity,2021,
+742222102,Equity,2020,-
+742222102,Equity,2019,-
+742222102,Equity,2018,-
+742222102,Equity,2017,-
+742222102,Equity,2016,-
+742222102,Equity,2015,-
+742222102,Equity attributable to equity holders of the parent,2024,
+742222102,Equity attributable to equity holders of the parent,2023,
+742222102,Equity attributable to equity holders of the parent,2022,
+742222102,Equity attributable to equity holders of the parent,2021,
+742222102,Equity attributable to equity holders of the parent,2020,-
+742222102,Equity attributable to equity holders of the parent,2019,-
+742222102,Equity attributable to equity holders of the parent,2018,-
+742222102,Equity attributable to equity holders of the parent,2017,-
+742222102,Equity attributable to equity holders of the parent,2016,-
+742222102,Equity attributable to equity holders of the parent,2015,-
+742222102,Contributed equity ($000s),2024,$0
+742222102,Contributed equity ($000s),2023,$0
+742222102,Contributed equity ($000s),2022,$0
+742222102,Contributed equity ($000s),2021,$0
+742222102,Contributed equity ($000s),2020,$0
+742222102,Contributed equity ($000s),2019,$0
+742222102,Contributed equity ($000s),2018,$0
+742222102,Contributed equity ($000s),2017,$0
+742222102,Contributed equity ($000s),2016,$0
+742222102,Contributed equity ($000s),2015,$0
+742222102,Retained earnings ($000s),2024,"$33,835"
+742222102,Retained earnings ($000s),2023,"$38,507"
+742222102,Retained earnings ($000s),2022,"$35,682"
+742222102,Retained earnings ($000s),2021,"$39,972"
+742222102,Retained earnings ($000s),2020,"$40,159"
+742222102,Retained earnings ($000s),2019,"$43,989"
+742222102,Retained earnings ($000s),2018,"$47,184"
+742222102,Retained earnings ($000s),2017,"$33,922"
+742222102,Retained earnings ($000s),2016,"$34,234"
+742222102,Retained earnings ($000s),2015,"$34,662"
+742222102,Reserves ($000s),2024,"$45,307"
+742222102,Reserves ($000s),2023,"$26,754"
+742222102,Reserves ($000s),2022,"$26,754"
+742222102,Reserves ($000s),2021,"$26,754"
+742222102,Reserves ($000s),2020,"$26,754"
+742222102,Reserves ($000s),2019,"$26,760"
+742222102,Reserves ($000s),2018,"$18,627"
+742222102,Reserves ($000s),2017,"$18,721"
+742222102,Reserves ($000s),2016,"$18,686"
+742222102,Reserves ($000s),2015,"$17,021"
+742222102,Total Parent interests ($000s),2024,"$79,143"
+742222102,Total Parent interests ($000s),2023,"$65,261"
+742222102,Total Parent interests ($000s),2022,"$62,436"
+742222102,Total Parent interests ($000s),2021,"$66,726"
+742222102,Total Parent interests ($000s),2020,"$66,913"
+742222102,Total Parent interests ($000s),2019,"$70,749"
+742222102,Total Parent interests ($000s),2018,"$65,811"
+742222102,Total Parent interests ($000s),2017,"$52,642"
+742222102,Total Parent interests ($000s),2016,"$52,920"
+742222102,Total Parent interests ($000s),2015,"$51,683"
+742222102,Minority interests ($000s),2024,-
+742222102,Minority interests ($000s),2023,-
+742222102,Minority interests ($000s),2022,-
+742222102,Minority interests ($000s),2021,-
+742222102,Minority interests ($000s),2020,-
+742222102,Minority interests ($000s),2019,-
+742222102,Minority interests ($000s),2018,$184
+742222102,Minority interests ($000s),2017,$990
+742222102,Minority interests ($000s),2016,"$2,262"
+742222102,Minority interests ($000s),2015,"$2,262"
+742222102,TOTAL EQUITY ($000s),2024,"$79,143"
+742222102,TOTAL EQUITY ($000s),2023,"$65,261"
+742222102,TOTAL EQUITY ($000s),2022,"$62,436"
+742222102,TOTAL EQUITY ($000s),2021,"$66,726"
+742222102,TOTAL EQUITY ($000s),2020,"$66,913"
+742222102,TOTAL EQUITY ($000s),2019,"$70,749"
+742222102,TOTAL EQUITY ($000s),2018,"$65,996"
+742222102,TOTAL EQUITY ($000s),2017,"$53,632"
+742222102,TOTAL EQUITY ($000s),2016,"$55,182"
+742222102,TOTAL EQUITY ($000s),2015,"$53,946"
+742222102,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2024,"$65,261"
+742222102,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2023,"$62,436"
+742222102,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2022,"$66,726"
+742222102,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2021,"$66,913"
+742222102,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2020,"$70,749"
+742222102,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2019,"$65,996"
+742222102,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2018,"$53,632"
+742222102,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2017,"$55,182"
+742222102,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2016,"$53,946"
+742222102,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2015,"$53,601"

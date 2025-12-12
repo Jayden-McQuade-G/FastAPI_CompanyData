@@ -1,0 +1,471 @@
+duns,line_item,year,value
+758243740,Revenue from continuing operations ($000s),2025,"$63,656"
+758243740,Revenue from continuing operations ($000s),2024,"$38,422"
+758243740,Revenue from continuing operations ($000s),2023,"$34,158"
+758243740,Revenue from continuing operations ($000s),2022,"$35,033"
+758243740,Revenue from continuing operations ($000s),2021,"$37,079"
+758243740,Revenue from continuing operations ($000s),2020,"$53,653"
+758243740,Revenue from continuing operations ($000s),2019,"$22,080"
+758243740,Revenue from continuing operations ($000s),2018,"$36,028"
+758243740,Revenue from continuing operations ($000s),2017,"$37,992"
+758243740,Revenue from continuing operations ($000s),2016,"$16,050"
+758243740,Growth,2025,65.68%
+758243740,Growth,2024,12.48%
+758243740,Growth,2023,(2.50%)
+758243740,Growth,2022,(5.52%)
+758243740,Growth,2021,(30.89%)
+758243740,Growth,2020,142.99%
+758243740,Growth,2019,(38.71%)
+758243740,Growth,2018,(5.17%)
+758243740,Growth,2017,136.71%
+758243740,Growth,2016,-
+758243740,Cost of sales ($000s),2025,"($62,973)"
+758243740,Cost of sales ($000s),2024,"($38,142)"
+758243740,Cost of sales ($000s),2023,"($35,331)"
+758243740,Cost of sales ($000s),2022,"($29,195)"
+758243740,Cost of sales ($000s),2021,"($37,473)"
+758243740,Cost of sales ($000s),2020,"($51,654)"
+758243740,Cost of sales ($000s),2019,"($22,028)"
+758243740,Cost of sales ($000s),2018,"($35,336)"
+758243740,Cost of sales ($000s),2017,"($37,574)"
+758243740,Cost of sales ($000s),2016,"($15,622)"
+758243740,Gross profit ($000s),2025,$683
+758243740,Gross profit ($000s),2024,$280
+758243740,Gross profit ($000s),2023,"($1,173)"
+758243740,Gross profit ($000s),2022,"$5,838"
+758243740,Gross profit ($000s),2021,($395)
+758243740,Gross profit ($000s),2020,"$1,998"
+758243740,Gross profit ($000s),2019,$52
+758243740,Gross profit ($000s),2018,$692
+758243740,Gross profit ($000s),2017,$417
+758243740,Gross profit ($000s),2016,$428
+758243740,Other income ($000s),2025,-
+758243740,Other income ($000s),2024,-
+758243740,Other income ($000s),2023,-
+758243740,Other income ($000s),2022,$36
+758243740,Other income ($000s),2021,-
+758243740,Other income ($000s),2020,$172
+758243740,Other income ($000s),2019,$503
+758243740,Other income ($000s),2018,$275
+758243740,Other income ($000s),2017,$293
+758243740,Other income ($000s),2016,$389
+758243740,Administrative expenses ($000s),2025,"($5,360)"
+758243740,Administrative expenses ($000s),2024,"($4,959)"
+758243740,Administrative expenses ($000s),2023,"($4,748)"
+758243740,Administrative expenses ($000s),2022,"($4,575)"
+758243740,Administrative expenses ($000s),2021,"($4,270)"
+758243740,Administrative expenses ($000s),2020,"($4,241)"
+758243740,Administrative expenses ($000s),2019,"($4,021)"
+758243740,Administrative expenses ($000s),2018,"($8,833)"
+758243740,Administrative expenses ($000s),2017,"($5,220)"
+758243740,Administrative expenses ($000s),2016,"($5,100)"
+758243740,Finance costs ($000s),2025,"($6,701)"
+758243740,Finance costs ($000s),2024,"($5,833)"
+758243740,Finance costs ($000s),2023,"($3,857)"
+758243740,Finance costs ($000s),2022,"($2,285)"
+758243740,Finance costs ($000s),2021,"($2,676)"
+758243740,Finance costs ($000s),2020,"($2,819)"
+758243740,Finance costs ($000s),2019,"($2,207)"
+758243740,Finance costs ($000s),2018,"($1,445)"
+758243740,Finance costs ($000s),2017,"($1,294)"
+758243740,Finance costs ($000s),2016,($875)
+758243740,Share of associate profits/(losses) ($000s),2025,
+758243740,Share of associate profits/(losses) ($000s),2024,
+758243740,Share of associate profits/(losses) ($000s),2023,
+758243740,Share of associate profits/(losses) ($000s),2022,
+758243740,Share of associate profits/(losses) ($000s),2021,-
+758243740,Share of associate profits/(losses) ($000s),2020,-
+758243740,Share of associate profits/(losses) ($000s),2019,-
+758243740,Share of associate profits/(losses) ($000s),2018,-
+758243740,Share of associate profits/(losses) ($000s),2017,-
+758243740,Share of associate profits/(losses) ($000s),2016,-
+758243740,Profit/(loss) from continuing operations before income tax ($000s),2025,"$13,352"
+758243740,Profit/(loss) from continuing operations before income tax ($000s),2024,"($10,438)"
+758243740,Profit/(loss) from continuing operations before income tax ($000s),2023,"($147,908)"
+758243740,Profit/(loss) from continuing operations before income tax ($000s),2022,"($35,939)"
+758243740,Profit/(loss) from continuing operations before income tax ($000s),2021,"($26,535)"
+758243740,Profit/(loss) from continuing operations before income tax ($000s),2020,"($11,224)"
+758243740,Profit/(loss) from continuing operations before income tax ($000s),2019,"$9,857"
+758243740,Profit/(loss) from continuing operations before income tax ($000s),2018,"($15,422)"
+758243740,Profit/(loss) from continuing operations before income tax ($000s),2017,"$2,941"
+758243740,Profit/(loss) from continuing operations before income tax ($000s),2016,"$10,131"
+758243740,Income tax expense ($000s),2025,-
+758243740,Income tax expense ($000s),2024,-
+758243740,Income tax expense ($000s),2023,-
+758243740,Income tax expense ($000s),2022,-
+758243740,Income tax expense ($000s),2021,$570
+758243740,Income tax expense ($000s),2020,"$3,173"
+758243740,Income tax expense ($000s),2019,"($3,025)"
+758243740,Income tax expense ($000s),2018,"$4,623"
+758243740,Income tax expense ($000s),2017,($634)
+758243740,Income tax expense ($000s),2016,"($2,717)"
+758243740,Profit from continuing operations after income tax ($000s),2025,"$13,352"
+758243740,Profit from continuing operations after income tax ($000s),2024,"($10,438)"
+758243740,Profit from continuing operations after income tax ($000s),2023,"($147,908)"
+758243740,Profit from continuing operations after income tax ($000s),2022,"($35,939)"
+758243740,Profit from continuing operations after income tax ($000s),2021,"($25,965)"
+758243740,Profit from continuing operations after income tax ($000s),2020,"($8,051)"
+758243740,Profit from continuing operations after income tax ($000s),2019,"$6,832"
+758243740,Profit from continuing operations after income tax ($000s),2018,"($10,799)"
+758243740,Profit from continuing operations after income tax ($000s),2017,"$2,307"
+758243740,Profit from continuing operations after income tax ($000s),2016,"$7,414"
+758243740,Profit/(loss) from discontinued operations after tax ($000s),2025,
+758243740,Profit/(loss) from discontinued operations after tax ($000s),2024,
+758243740,Profit/(loss) from discontinued operations after tax ($000s),2023,
+758243740,Profit/(loss) from discontinued operations after tax ($000s),2022,
+758243740,Profit/(loss) from discontinued operations after tax ($000s),2021,-
+758243740,Profit/(loss) from discontinued operations after tax ($000s),2020,-
+758243740,Profit/(loss) from discontinued operations after tax ($000s),2019,-
+758243740,Profit/(loss) from discontinued operations after tax ($000s),2018,-
+758243740,Profit/(loss) from discontinued operations after tax ($000s),2017,-
+758243740,Profit/(loss) from discontinued operations after tax ($000s),2016,-
+758243740,Profit/(loss) from restructuring activites after tax ($000s),2025,
+758243740,Profit/(loss) from restructuring activites after tax ($000s),2024,
+758243740,Profit/(loss) from restructuring activites after tax ($000s),2023,
+758243740,Profit/(loss) from restructuring activites after tax ($000s),2022,
+758243740,Profit/(loss) from restructuring activites after tax ($000s),2021,-
+758243740,Profit/(loss) from restructuring activites after tax ($000s),2020,-
+758243740,Profit/(loss) from restructuring activites after tax ($000s),2019,-
+758243740,Profit/(loss) from restructuring activites after tax ($000s),2018,-
+758243740,Profit/(loss) from restructuring activites after tax ($000s),2017,-
+758243740,Profit/(loss) from restructuring activites after tax ($000s),2016,-
+758243740,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2025,
+758243740,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2024,
+758243740,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2023,
+758243740,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2022,
+758243740,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2021,-
+758243740,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2020,-
+758243740,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2019,-
+758243740,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2018,-
+758243740,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2017,-
+758243740,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2016,-
+758243740,Profit/(loss) from disposals of investments after tax ($000s),2025,
+758243740,Profit/(loss) from disposals of investments after tax ($000s),2024,
+758243740,Profit/(loss) from disposals of investments after tax ($000s),2023,
+758243740,Profit/(loss) from disposals of investments after tax ($000s),2022,
+758243740,Profit/(loss) from disposals of investments after tax ($000s),2021,-
+758243740,Profit/(loss) from disposals of investments after tax ($000s),2020,-
+758243740,Profit/(loss) from disposals of investments after tax ($000s),2019,-
+758243740,Profit/(loss) from disposals of investments after tax ($000s),2018,-
+758243740,Profit/(loss) from disposals of investments after tax ($000s),2017,-
+758243740,Profit/(loss) from disposals of investments after tax ($000s),2016,-
+758243740,Net profit for the period ($000s),2025,"$13,352"
+758243740,Net profit for the period ($000s),2024,"($10,438)"
+758243740,Net profit for the period ($000s),2023,"($147,908)"
+758243740,Net profit for the period ($000s),2022,"($35,939)"
+758243740,Net profit for the period ($000s),2021,"($25,965)"
+758243740,Net profit for the period ($000s),2020,"($8,051)"
+758243740,Net profit for the period ($000s),2019,"$6,832"
+758243740,Net profit for the period ($000s),2018,"($10,799)"
+758243740,Net profit for the period ($000s),2017,"$2,307"
+758243740,Net profit for the period ($000s),2016,"$7,414"
+758243740,Attributable To:,2025,
+758243740,Attributable To:,2024,
+758243740,Attributable To:,2023,
+758243740,Attributable To:,2022,
+758243740,Attributable To:,2021,-
+758243740,Attributable To:,2020,-
+758243740,Attributable To:,2019,-
+758243740,Attributable To:,2018,-
+758243740,Attributable To:,2017,-
+758243740,Attributable To:,2016,-
+758243740,Minority interest ($000s),2025,
+758243740,Minority interest ($000s),2024,
+758243740,Minority interest ($000s),2023,
+758243740,Minority interest ($000s),2022,
+758243740,Minority interest ($000s),2021,-
+758243740,Minority interest ($000s),2020,-
+758243740,Minority interest ($000s),2019,-
+758243740,Minority interest ($000s),2018,-
+758243740,Minority interest ($000s),2017,-
+758243740,Minority interest ($000s),2016,-
+758243740,Members of the parent ($000s),2025,-
+758243740,Members of the parent ($000s),2024,-
+758243740,Members of the parent ($000s),2023,"($147,908)"
+758243740,Members of the parent ($000s),2022,-
+758243740,Members of the parent ($000s),2021,"($25,965)"
+758243740,Members of the parent ($000s),2020,-
+758243740,Members of the parent ($000s),2019,-
+758243740,Members of the parent ($000s),2018,-
+758243740,Members of the parent ($000s),2017,-
+758243740,Members of the parent ($000s),2016,-
+758243740,Weighted average number of ordinary shares for basic earnings per share (000s),2025,
+758243740,Weighted average number of ordinary shares for basic earnings per share (000s),2024,
+758243740,Weighted average number of ordinary shares for basic earnings per share (000s),2023,
+758243740,Weighted average number of ordinary shares for basic earnings per share (000s),2022,
+758243740,Weighted average number of ordinary shares for basic earnings per share (000s),2021,-
+758243740,Weighted average number of ordinary shares for basic earnings per share (000s),2020,-
+758243740,Weighted average number of ordinary shares for basic earnings per share (000s),2019,-
+758243740,Weighted average number of ordinary shares for basic earnings per share (000s),2018,-
+758243740,Weighted average number of ordinary shares for basic earnings per share (000s),2017,-
+758243740,Weighted average number of ordinary shares for basic earnings per share (000s),2016,-
+758243740,Weighted average number of ordinary shares for diluted earnings per share (000s),2025,
+758243740,Weighted average number of ordinary shares for diluted earnings per share (000s),2024,
+758243740,Weighted average number of ordinary shares for diluted earnings per share (000s),2023,
+758243740,Weighted average number of ordinary shares for diluted earnings per share (000s),2022,
+758243740,Weighted average number of ordinary shares for diluted earnings per share (000s),2021,-
+758243740,Weighted average number of ordinary shares for diluted earnings per share (000s),2020,-
+758243740,Weighted average number of ordinary shares for diluted earnings per share (000s),2019,-
+758243740,Weighted average number of ordinary shares for diluted earnings per share (000s),2018,-
+758243740,Weighted average number of ordinary shares for diluted earnings per share (000s),2017,-
+758243740,Weighted average number of ordinary shares for diluted earnings per share (000s),2016,-
+758243740,Basic earnings per share from continuing operations (cents),2025,
+758243740,Basic earnings per share from continuing operations (cents),2024,
+758243740,Basic earnings per share from continuing operations (cents),2023,
+758243740,Basic earnings per share from continuing operations (cents),2022,
+758243740,Basic earnings per share from continuing operations (cents),2021,-
+758243740,Basic earnings per share from continuing operations (cents),2020,-
+758243740,Basic earnings per share from continuing operations (cents),2019,-
+758243740,Basic earnings per share from continuing operations (cents),2018,-
+758243740,Basic earnings per share from continuing operations (cents),2017,-
+758243740,Basic earnings per share from continuing operations (cents),2016,-
+758243740,Diluted earnings per share from continuing operations (cents),2025,
+758243740,Diluted earnings per share from continuing operations (cents),2024,
+758243740,Diluted earnings per share from continuing operations (cents),2023,
+758243740,Diluted earnings per share from continuing operations (cents),2022,
+758243740,Diluted earnings per share from continuing operations (cents),2021,-
+758243740,Diluted earnings per share from continuing operations (cents),2020,-
+758243740,Diluted earnings per share from continuing operations (cents),2019,-
+758243740,Diluted earnings per share from continuing operations (cents),2018,-
+758243740,Diluted earnings per share from continuing operations (cents),2017,-
+758243740,Diluted earnings per share from continuing operations (cents),2016,-
+758243740,Basic earnings per share (cents),2025,
+758243740,Basic earnings per share (cents),2024,
+758243740,Basic earnings per share (cents),2023,
+758243740,Basic earnings per share (cents),2022,
+758243740,Basic earnings per share (cents),2021,-
+758243740,Basic earnings per share (cents),2020,-
+758243740,Basic earnings per share (cents),2019,-
+758243740,Basic earnings per share (cents),2018,-
+758243740,Basic earnings per share (cents),2017,-
+758243740,Basic earnings per share (cents),2016,-
+758243740,Diluted earnings per share (cents),2025,
+758243740,Diluted earnings per share (cents),2024,
+758243740,Diluted earnings per share (cents),2023,
+758243740,Diluted earnings per share (cents),2022,
+758243740,Diluted earnings per share (cents),2021,-
+758243740,Diluted earnings per share (cents),2020,-
+758243740,Diluted earnings per share (cents),2019,-
+758243740,Diluted earnings per share (cents),2018,-
+758243740,Diluted earnings per share (cents),2017,-
+758243740,Diluted earnings per share (cents),2016,-
+758243740,EBITDA ($000s),2025,"$20,053"
+758243740,EBITDA ($000s),2024,"($4,605)"
+758243740,EBITDA ($000s),2023,"($144,051)"
+758243740,EBITDA ($000s),2022,"($33,654)"
+758243740,EBITDA ($000s),2021,"($23,848)"
+758243740,EBITDA ($000s),2020,"($8,365)"
+758243740,EBITDA ($000s),2019,"$12,094"
+758243740,EBITDA ($000s),2018,"($13,955)"
+758243740,EBITDA ($000s),2017,"$4,252"
+758243740,EBITDA ($000s),2016,"$11,014"
+758243740,EBIT ($000s),2025,"$20,053"
+758243740,EBIT ($000s),2024,"($4,605)"
+758243740,EBIT ($000s),2023,"($144,051)"
+758243740,EBIT ($000s),2022,"($33,654)"
+758243740,EBIT ($000s),2021,"($23,859)"
+758243740,EBIT ($000s),2020,"($8,405)"
+758243740,EBIT ($000s),2019,"$12,065"
+758243740,EBIT ($000s),2018,"($13,977)"
+758243740,EBIT ($000s),2017,"$4,235"
+758243740,EBIT ($000s),2016,"$11,006"
+758243740,Expenses included in income statement,2025,
+758243740,Expenses included in income statement,2024,
+758243740,Expenses included in income statement,2023,
+758243740,Expenses included in income statement,2022,
+758243740,Expenses included in income statement,2021,-
+758243740,Expenses included in income statement,2020,-
+758243740,Expenses included in income statement,2019,-
+758243740,Expenses included in income statement,2018,-
+758243740,Expenses included in income statement,2017,-
+758243740,Expenses included in income statement,2016,-
+758243740,Depreciation of property plant and equipment ($000s),2025,$0
+758243740,Depreciation of property plant and equipment ($000s),2024,$0
+758243740,Depreciation of property plant and equipment ($000s),2023,$0
+758243740,Depreciation of property plant and equipment ($000s),2022,$0
+758243740,Depreciation of property plant and equipment ($000s),2021,($11)
+758243740,Depreciation of property plant and equipment ($000s),2020,($40)
+758243740,Depreciation of property plant and equipment ($000s),2019,($29)
+758243740,Depreciation of property plant and equipment ($000s),2018,($22)
+758243740,Depreciation of property plant and equipment ($000s),2017,($18)
+758243740,Depreciation of property plant and equipment ($000s),2016,($8)
+758243740,Impairment of property plant and equipment ($000s),2025,$0
+758243740,Impairment of property plant and equipment ($000s),2024,$0
+758243740,Impairment of property plant and equipment ($000s),2023,$0
+758243740,Impairment of property plant and equipment ($000s),2022,$0
+758243740,Impairment of property plant and equipment ($000s),2021,$0
+758243740,Impairment of property plant and equipment ($000s),2020,$0
+758243740,Impairment of property plant and equipment ($000s),2019,$0
+758243740,Impairment of property plant and equipment ($000s),2018,$0
+758243740,Impairment of property plant and equipment ($000s),2017,$0
+758243740,Impairment of property plant and equipment ($000s),2016,$0
+758243740,Amortisation of intangible assets ($000s),2025,$0
+758243740,Amortisation of intangible assets ($000s),2024,$0
+758243740,Amortisation of intangible assets ($000s),2023,$0
+758243740,Amortisation of intangible assets ($000s),2022,$0
+758243740,Amortisation of intangible assets ($000s),2021,$0
+758243740,Amortisation of intangible assets ($000s),2020,$0
+758243740,Amortisation of intangible assets ($000s),2019,$0
+758243740,Amortisation of intangible assets ($000s),2018,$0
+758243740,Amortisation of intangible assets ($000s),2017,$0
+758243740,Amortisation of intangible assets ($000s),2016,$0
+758243740,Other Depreciation and Amortisation Expense ($000s),2025,-
+758243740,Other Depreciation and Amortisation Expense ($000s),2024,-
+758243740,Other Depreciation and Amortisation Expense ($000s),2023,-
+758243740,Other Depreciation and Amortisation Expense ($000s),2022,-
+758243740,Other Depreciation and Amortisation Expense ($000s),2021,-
+758243740,Other Depreciation and Amortisation Expense ($000s),2020,-
+758243740,Other Depreciation and Amortisation Expense ($000s),2019,-
+758243740,Other Depreciation and Amortisation Expense ($000s),2018,$0
+758243740,Other Depreciation and Amortisation Expense ($000s),2017,$0
+758243740,Other Depreciation and Amortisation Expense ($000s),2016,$0
+758243740,Impairment of intangible assets ($000s),2025,$0
+758243740,Impairment of intangible assets ($000s),2024,$0
+758243740,Impairment of intangible assets ($000s),2023,$0
+758243740,Impairment of intangible assets ($000s),2022,$0
+758243740,Impairment of intangible assets ($000s),2021,$0
+758243740,Impairment of intangible assets ($000s),2020,$0
+758243740,Impairment of intangible assets ($000s),2019,$0
+758243740,Impairment of intangible assets ($000s),2018,$0
+758243740,Impairment of intangible assets ($000s),2017,$0
+758243740,Impairment of intangible assets ($000s),2016,$0
+758243740,"Total depreciation, amortisation and impairment ($000s)",2025,$0
+758243740,"Total depreciation, amortisation and impairment ($000s)",2024,$0
+758243740,"Total depreciation, amortisation and impairment ($000s)",2023,$0
+758243740,"Total depreciation, amortisation and impairment ($000s)",2022,$0
+758243740,"Total depreciation, amortisation and impairment ($000s)",2021,($11)
+758243740,"Total depreciation, amortisation and impairment ($000s)",2020,($40)
+758243740,"Total depreciation, amortisation and impairment ($000s)",2019,($29)
+758243740,"Total depreciation, amortisation and impairment ($000s)",2018,($22)
+758243740,"Total depreciation, amortisation and impairment ($000s)",2017,($18)
+758243740,"Total depreciation, amortisation and impairment ($000s)",2016,($8)
+758243740,Salaries and wages ($000s),2025,-
+758243740,Salaries and wages ($000s),2024,-
+758243740,Salaries and wages ($000s),2023,($362)
+758243740,Salaries and wages ($000s),2022,-
+758243740,Salaries and wages ($000s),2021,-
+758243740,Salaries and wages ($000s),2020,-
+758243740,Salaries and wages ($000s),2019,-
+758243740,Salaries and wages ($000s),2018,-
+758243740,Salaries and wages ($000s),2017,"($2,454)"
+758243740,Salaries and wages ($000s),2016,"($2,531)"
+758243740,Defined contribution superannuation expense ($000s),2025,-
+758243740,Defined contribution superannuation expense ($000s),2024,-
+758243740,Defined contribution superannuation expense ($000s),2023,-
+758243740,Defined contribution superannuation expense ($000s),2022,-
+758243740,Defined contribution superannuation expense ($000s),2021,-
+758243740,Defined contribution superannuation expense ($000s),2020,-
+758243740,Defined contribution superannuation expense ($000s),2019,-
+758243740,Defined contribution superannuation expense ($000s),2018,-
+758243740,Defined contribution superannuation expense ($000s),2017,($209)
+758243740,Defined contribution superannuation expense ($000s),2016,($126)
+758243740,Defined benefit superannuation expense ($000s),2025,
+758243740,Defined benefit superannuation expense ($000s),2024,
+758243740,Defined benefit superannuation expense ($000s),2023,
+758243740,Defined benefit superannuation expense ($000s),2022,
+758243740,Defined benefit superannuation expense ($000s),2021,-
+758243740,Defined benefit superannuation expense ($000s),2020,-
+758243740,Defined benefit superannuation expense ($000s),2019,-
+758243740,Defined benefit superannuation expense ($000s),2018,-
+758243740,Defined benefit superannuation expense ($000s),2017,-
+758243740,Defined benefit superannuation expense ($000s),2016,-
+758243740,Share-based payments expense ($000s),2025,
+758243740,Share-based payments expense ($000s),2024,
+758243740,Share-based payments expense ($000s),2023,
+758243740,Share-based payments expense ($000s),2022,
+758243740,Share-based payments expense ($000s),2021,-
+758243740,Share-based payments expense ($000s),2020,-
+758243740,Share-based payments expense ($000s),2019,-
+758243740,Share-based payments expense ($000s),2018,-
+758243740,Share-based payments expense ($000s),2017,-
+758243740,Share-based payments expense ($000s),2016,-
+758243740,Other employee benefits expense ($000s),2025,($814)
+758243740,Other employee benefits expense ($000s),2024,($610)
+758243740,Other employee benefits expense ($000s),2023,($81)
+758243740,Other employee benefits expense ($000s),2022,($340)
+758243740,Other employee benefits expense ($000s),2021,($198)
+758243740,Other employee benefits expense ($000s),2020,($145)
+758243740,Other employee benefits expense ($000s),2019,($666)
+758243740,Other employee benefits expense ($000s),2018,$0
+758243740,Other employee benefits expense ($000s),2017,($12)
+758243740,Other employee benefits expense ($000s),2016,($164)
+758243740,Total employee benefits expense ($000s),2025,($814)
+758243740,Total employee benefits expense ($000s),2024,($610)
+758243740,Total employee benefits expense ($000s),2023,($443)
+758243740,Total employee benefits expense ($000s),2022,($340)
+758243740,Total employee benefits expense ($000s),2021,($198)
+758243740,Total employee benefits expense ($000s),2020,($145)
+758243740,Total employee benefits expense ($000s),2019,($666)
+758243740,Total employee benefits expense ($000s),2018,-
+758243740,Total employee benefits expense ($000s),2017,"($2,675)"
+758243740,Total employee benefits expense ($000s),2016,"($2,820)"
+758243740,Number of employees,2025,85
+758243740,Number of employees,2024,-
+758243740,Number of employees,2023,-
+758243740,Number of employees,2022,-
+758243740,Number of employees,2021,30
+758243740,Number of employees,2020,28
+758243740,Number of employees,2019,29
+758243740,Number of employees,2018,60
+758243740,Number of employees,2017,-
+758243740,Number of employees,2016,-
+758243740,Lease payments included in income statement ($000s),2025,
+758243740,Lease payments included in income statement ($000s),2024,
+758243740,Lease payments included in income statement ($000s),2023,
+758243740,Lease payments included in income statement ($000s),2022,
+758243740,Lease payments included in income statement ($000s),2021,-
+758243740,Lease payments included in income statement ($000s),2020,-
+758243740,Lease payments included in income statement ($000s),2019,-
+758243740,Lease payments included in income statement ($000s),2018,-
+758243740,Lease payments included in income statement ($000s),2017,-
+758243740,Lease payments included in income statement ($000s),2016,-
+758243740,Interest expense  ($000s),2025,"($6,701)"
+758243740,Interest expense  ($000s),2024,"($5,828)"
+758243740,Interest expense  ($000s),2023,"($3,857)"
+758243740,Interest expense  ($000s),2022,"($2,285)"
+758243740,Interest expense  ($000s),2021,"($2,676)"
+758243740,Interest expense  ($000s),2020,"($2,819)"
+758243740,Interest expense  ($000s),2019,"($2,207)"
+758243740,Interest expense  ($000s),2018,-
+758243740,Interest expense  ($000s),2017,-
+758243740,Interest expense  ($000s),2016,-
+758243740,Finance charges payable under finance leases and hire purchase ($000s),2025,
+758243740,Finance charges payable under finance leases and hire purchase ($000s),2024,
+758243740,Finance charges payable under finance leases and hire purchase ($000s),2023,
+758243740,Finance charges payable under finance leases and hire purchase ($000s),2022,
+758243740,Finance charges payable under finance leases and hire purchase ($000s),2021,-
+758243740,Finance charges payable under finance leases and hire purchase ($000s),2020,-
+758243740,Finance charges payable under finance leases and hire purchase ($000s),2019,-
+758243740,Finance charges payable under finance leases and hire purchase ($000s),2018,-
+758243740,Finance charges payable under finance leases and hire purchase ($000s),2017,-
+758243740,Finance charges payable under finance leases and hire purchase ($000s),2016,-
+758243740,Other finance costs ($000s),2025,-
+758243740,Other finance costs ($000s),2024,($5)
+758243740,Other finance costs ($000s),2023,-
+758243740,Other finance costs ($000s),2022,-
+758243740,Other finance costs ($000s),2021,-
+758243740,Other finance costs ($000s),2020,-
+758243740,Other finance costs ($000s),2019,-
+758243740,Other finance costs ($000s),2018,"($1,445)"
+758243740,Other finance costs ($000s),2017,"($1,294)"
+758243740,Other finance costs ($000s),2016,($875)
+758243740,Total finance costs ($000s),2025,"($6,701)"
+758243740,Total finance costs ($000s),2024,"($5,833)"
+758243740,Total finance costs ($000s),2023,"($3,857)"
+758243740,Total finance costs ($000s),2022,"($2,285)"
+758243740,Total finance costs ($000s),2021,"($2,676)"
+758243740,Total finance costs ($000s),2020,"($2,819)"
+758243740,Total finance costs ($000s),2019,"($2,207)"
+758243740,Total finance costs ($000s),2018,"($1,445)"
+758243740,Total finance costs ($000s),2017,"($1,294)"
+758243740,Total finance costs ($000s),2016,($875)
+758243740,Research and development costs ($000s),2025,
+758243740,Research and development costs ($000s),2024,
+758243740,Research and development costs ($000s),2023,
+758243740,Research and development costs ($000s),2022,
+758243740,Research and development costs ($000s),2021,-
+758243740,Research and development costs ($000s),2020,-
+758243740,Research and development costs ($000s),2019,-
+758243740,Research and development costs ($000s),2018,-
+758243740,Research and development costs ($000s),2017,-
+758243740,Research and development costs ($000s),2016,-

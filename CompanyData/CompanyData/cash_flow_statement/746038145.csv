@@ -1,0 +1,301 @@
+duns,line_item,year,value
+746038145,Cash flow statement,2024,
+746038145,Cash flow statement,2023,
+746038145,Cash flow statement,2022,
+746038145,Cash flow statement,2021,
+746038145,Cash flow statement,2020,-
+746038145,Cash flow statement,2019,-
+746038145,Cash flow statement,2018,-
+746038145,Cash flow statement,2017,-
+746038145,Cash flow statement,2016,-
+746038145,Cash flow statement,2015,-
+746038145,Receipts from customers ($000s),2024,"$37,248"
+746038145,Receipts from customers ($000s),2023,"$34,285"
+746038145,Receipts from customers ($000s),2022,"$28,350"
+746038145,Receipts from customers ($000s),2021,"$25,595"
+746038145,Receipts from customers ($000s),2020,"$21,368"
+746038145,Receipts from customers ($000s),2019,"$22,578"
+746038145,Receipts from customers ($000s),2018,"$19,784"
+746038145,Receipts from customers ($000s),2017,"$15,540"
+746038145,Receipts from customers ($000s),2016,"$13,610"
+746038145,Receipts from customers ($000s),2015,"$12,241"
+746038145,Payments to suppliers and employees ($000s),2024,"($30,670)"
+746038145,Payments to suppliers and employees ($000s),2023,"($28,206)"
+746038145,Payments to suppliers and employees ($000s),2022,"($23,685)"
+746038145,Payments to suppliers and employees ($000s),2021,"($22,155)"
+746038145,Payments to suppliers and employees ($000s),2020,"($17,355)"
+746038145,Payments to suppliers and employees ($000s),2019,"($20,393)"
+746038145,Payments to suppliers and employees ($000s),2018,"($18,854)"
+746038145,Payments to suppliers and employees ($000s),2017,"($14,419)"
+746038145,Payments to suppliers and employees ($000s),2016,"($11,696)"
+746038145,Payments to suppliers and employees ($000s),2015,"($10,104)"
+746038145,Interest paid ($000s),2024,($343)
+746038145,Interest paid ($000s),2023,($161)
+746038145,Interest paid ($000s),2022,($46)
+746038145,Interest paid ($000s),2021,($90)
+746038145,Interest paid ($000s),2020,($158)
+746038145,Interest paid ($000s),2019,($917)
+746038145,Interest paid ($000s),2018,($130)
+746038145,Interest paid ($000s),2017,($68)
+746038145,Interest paid ($000s),2016,($24)
+746038145,Interest paid ($000s),2015,($22)
+746038145,Tax paid ($000s),2024,"($1,264)"
+746038145,Tax paid ($000s),2023,($927)
+746038145,Tax paid ($000s),2022,($711)
+746038145,Tax paid ($000s),2021,($457)
+746038145,Tax paid ($000s),2020,$22
+746038145,Tax paid ($000s),2019,$247
+746038145,Tax paid ($000s),2018,($472)
+746038145,Tax paid ($000s),2017,($750)
+746038145,Tax paid ($000s),2016,($682)
+746038145,Tax paid ($000s),2015,($415)
+746038145,Other receipts ($000s),2024,$0
+746038145,Other receipts ($000s),2023,$0
+746038145,Other receipts ($000s),2022,$0
+746038145,Other receipts ($000s),2021,$0
+746038145,Other receipts ($000s),2020,$0
+746038145,Other receipts ($000s),2019,$0
+746038145,Other receipts ($000s),2018,$0
+746038145,Other receipts ($000s),2017,$0
+746038145,Other receipts ($000s),2016,$0
+746038145,Other receipts ($000s),2015,$0
+746038145,Other payments ($000s),2024,$0
+746038145,Other payments ($000s),2023,$0
+746038145,Other payments ($000s),2022,$0
+746038145,Other payments ($000s),2021,$0
+746038145,Other payments ($000s),2020,$0
+746038145,Other payments ($000s),2019,$0
+746038145,Other payments ($000s),2018,$0
+746038145,Other payments ($000s),2017,$0
+746038145,Other payments ($000s),2016,$0
+746038145,Other payments ($000s),2015,$0
+746038145,Net cashflow from/(used in) operating activities ($000s),2024,"$4,971"
+746038145,Net cashflow from/(used in) operating activities ($000s),2023,"$4,992"
+746038145,Net cashflow from/(used in) operating activities ($000s),2022,"$3,907"
+746038145,Net cashflow from/(used in) operating activities ($000s),2021,"$2,893"
+746038145,Net cashflow from/(used in) operating activities ($000s),2020,"$3,877"
+746038145,Net cashflow from/(used in) operating activities ($000s),2019,"$1,515"
+746038145,Net cashflow from/(used in) operating activities ($000s),2018,$328
+746038145,Net cashflow from/(used in) operating activities ($000s),2017,$302
+746038145,Net cashflow from/(used in) operating activities ($000s),2016,"$1,207"
+746038145,Net cashflow from/(used in) operating activities ($000s),2015,"$1,700"
+746038145,Purchase of property plant and equipment ($000s),2024,"($4,782)"
+746038145,Purchase of property plant and equipment ($000s),2023,"($1,855)"
+746038145,Purchase of property plant and equipment ($000s),2022,"($1,062)"
+746038145,Purchase of property plant and equipment ($000s),2021,($547)
+746038145,Purchase of property plant and equipment ($000s),2020,($198)
+746038145,Purchase of property plant and equipment ($000s),2019,($34)
+746038145,Purchase of property plant and equipment ($000s),2018,"($2,539)"
+746038145,Purchase of property plant and equipment ($000s),2017,"($2,586)"
+746038145,Purchase of property plant and equipment ($000s),2016,($305)
+746038145,Purchase of property plant and equipment ($000s),2015,($652)
+746038145,Purchase of intangibles ($000s),2024,
+746038145,Purchase of intangibles ($000s),2023,
+746038145,Purchase of intangibles ($000s),2022,
+746038145,Purchase of intangibles ($000s),2021,
+746038145,Purchase of intangibles ($000s),2020,-
+746038145,Purchase of intangibles ($000s),2019,-
+746038145,Purchase of intangibles ($000s),2018,-
+746038145,Purchase of intangibles ($000s),2017,-
+746038145,Purchase of intangibles ($000s),2016,-
+746038145,Purchase of intangibles ($000s),2015,-
+746038145,Proceeds from the sale of property plant and equipment ($000s),2024,$3
+746038145,Proceeds from the sale of property plant and equipment ($000s),2023,$137
+746038145,Proceeds from the sale of property plant and equipment ($000s),2022,$105
+746038145,Proceeds from the sale of property plant and equipment ($000s),2021,$0
+746038145,Proceeds from the sale of property plant and equipment ($000s),2020,$0
+746038145,Proceeds from the sale of property plant and equipment ($000s),2019,$31
+746038145,Proceeds from the sale of property plant and equipment ($000s),2018,$3
+746038145,Proceeds from the sale of property plant and equipment ($000s),2017,$0
+746038145,Proceeds from the sale of property plant and equipment ($000s),2016,$0
+746038145,Proceeds from the sale of property plant and equipment ($000s),2015,$138
+746038145,Proceeds from the disposal of investments/subsidiaries ($000s),2024,$0
+746038145,Proceeds from the disposal of investments/subsidiaries ($000s),2023,$0
+746038145,Proceeds from the disposal of investments/subsidiaries ($000s),2022,$0
+746038145,Proceeds from the disposal of investments/subsidiaries ($000s),2021,$0
+746038145,Proceeds from the disposal of investments/subsidiaries ($000s),2020,$0
+746038145,Proceeds from the disposal of investments/subsidiaries ($000s),2019,$0
+746038145,Proceeds from the disposal of investments/subsidiaries ($000s),2018,$0
+746038145,Proceeds from the disposal of investments/subsidiaries ($000s),2017,$0
+746038145,Proceeds from the disposal of investments/subsidiaries ($000s),2016,$0
+746038145,Proceeds from the disposal of investments/subsidiaries ($000s),2015,$0
+746038145,Purchase of subisidiary/investment ($000s),2024,$0
+746038145,Purchase of subisidiary/investment ($000s),2023,$0
+746038145,Purchase of subisidiary/investment ($000s),2022,$0
+746038145,Purchase of subisidiary/investment ($000s),2021,$0
+746038145,Purchase of subisidiary/investment ($000s),2020,$0
+746038145,Purchase of subisidiary/investment ($000s),2019,$0
+746038145,Purchase of subisidiary/investment ($000s),2018,$0
+746038145,Purchase of subisidiary/investment ($000s),2017,$0
+746038145,Purchase of subisidiary/investment ($000s),2016,$0
+746038145,Purchase of subisidiary/investment ($000s),2015,$0
+746038145,Interest received ($000s),2024,$4
+746038145,Interest received ($000s),2023,$5
+746038145,Interest received ($000s),2022,$0
+746038145,Interest received ($000s),2021,$0
+746038145,Interest received ($000s),2020,$1
+746038145,Interest received ($000s),2019,$1
+746038145,Interest received ($000s),2018,$3
+746038145,Interest received ($000s),2017,$4
+746038145,Interest received ($000s),2016,$5
+746038145,Interest received ($000s),2015,$5
+746038145,Dividends received ($000s),2024,
+746038145,Dividends received ($000s),2023,
+746038145,Dividends received ($000s),2022,
+746038145,Dividends received ($000s),2021,
+746038145,Dividends received ($000s),2020,-
+746038145,Dividends received ($000s),2019,-
+746038145,Dividends received ($000s),2018,-
+746038145,Dividends received ($000s),2017,-
+746038145,Dividends received ($000s),2016,-
+746038145,Dividends received ($000s),2015,-
+746038145,Other investing inflows/(outflows) ($000s),2024,($127)
+746038145,Other investing inflows/(outflows) ($000s),2023,"($1,922)"
+746038145,Other investing inflows/(outflows) ($000s),2022,"($1,507)"
+746038145,Other investing inflows/(outflows) ($000s),2021,($880)
+746038145,Other investing inflows/(outflows) ($000s),2020,($891)
+746038145,Other investing inflows/(outflows) ($000s),2019,($242)
+746038145,Other investing inflows/(outflows) ($000s),2018,$513
+746038145,Other investing inflows/(outflows) ($000s),2017,($300)
+746038145,Other investing inflows/(outflows) ($000s),2016,($685)
+746038145,Other investing inflows/(outflows) ($000s),2015,($589)
+746038145,Net cashflow from/(used in) investing activities ($000s),2024,"($4,902)"
+746038145,Net cashflow from/(used in) investing activities ($000s),2023,"($3,636)"
+746038145,Net cashflow from/(used in) investing activities ($000s),2022,"($2,464)"
+746038145,Net cashflow from/(used in) investing activities ($000s),2021,"($1,426)"
+746038145,Net cashflow from/(used in) investing activities ($000s),2020,"($1,088)"
+746038145,Net cashflow from/(used in) investing activities ($000s),2019,($244)
+746038145,Net cashflow from/(used in) investing activities ($000s),2018,"($2,021)"
+746038145,Net cashflow from/(used in) investing activities ($000s),2017,"($2,881)"
+746038145,Net cashflow from/(used in) investing activities ($000s),2016,($984)
+746038145,Net cashflow from/(used in) investing activities ($000s),2015,"($1,099)"
+746038145,Proceeds from the issue of shares ($000s),2024,$0
+746038145,Proceeds from the issue of shares ($000s),2023,$0
+746038145,Proceeds from the issue of shares ($000s),2022,$0
+746038145,Proceeds from the issue of shares ($000s),2021,$0
+746038145,Proceeds from the issue of shares ($000s),2020,$0
+746038145,Proceeds from the issue of shares ($000s),2019,$0
+746038145,Proceeds from the issue of shares ($000s),2018,$0
+746038145,Proceeds from the issue of shares ($000s),2017,$0
+746038145,Proceeds from the issue of shares ($000s),2016,$0
+746038145,Proceeds from the issue of shares ($000s),2015,$0
+746038145,Proceeds from borrowings ($000s),2024,"$5,000"
+746038145,Proceeds from borrowings ($000s),2023,"$1,493"
+746038145,Proceeds from borrowings ($000s),2022,$995
+746038145,Proceeds from borrowings ($000s),2021,$0
+746038145,Proceeds from borrowings ($000s),2020,$0
+746038145,Proceeds from borrowings ($000s),2019,$0
+746038145,Proceeds from borrowings ($000s),2018,$648
+746038145,Proceeds from borrowings ($000s),2017,"$2,156"
+746038145,Proceeds from borrowings ($000s),2016,$0
+746038145,Proceeds from borrowings ($000s),2015,$348
+746038145,Repayment of borrowings  ($000s),2024,($809)
+746038145,Repayment of borrowings  ($000s),2023,($100)
+746038145,Repayment of borrowings  ($000s),2022,($590)
+746038145,Repayment of borrowings  ($000s),2021,($164)
+746038145,Repayment of borrowings  ($000s),2020,"($1,484)"
+746038145,Repayment of borrowings  ($000s),2019,($672)
+746038145,Repayment of borrowings  ($000s),2018,-
+746038145,Repayment of borrowings  ($000s),2017,-
+746038145,Repayment of borrowings  ($000s),2016,($87)
+746038145,Repayment of borrowings  ($000s),2015,-
+746038145,Repayment of finance lease liabilities ($000s),2024,"($1,488)"
+746038145,Repayment of finance lease liabilities ($000s),2023,"($1,153)"
+746038145,Repayment of finance lease liabilities ($000s),2022,"($1,194)"
+746038145,Repayment of finance lease liabilities ($000s),2021,-
+746038145,Repayment of finance lease liabilities ($000s),2020,"($1,207)"
+746038145,Repayment of finance lease liabilities ($000s),2019,($291)
+746038145,Repayment of finance lease liabilities ($000s),2018,-
+746038145,Repayment of finance lease liabilities ($000s),2017,-
+746038145,Repayment of finance lease liabilities ($000s),2016,-
+746038145,Repayment of finance lease liabilities ($000s),2015,-
+746038145,Interest Paid ($000s),2024,
+746038145,Interest Paid ($000s),2023,
+746038145,Interest Paid ($000s),2022,
+746038145,Interest Paid ($000s),2021,
+746038145,Interest Paid ($000s),2020,-
+746038145,Interest Paid ($000s),2019,-
+746038145,Interest Paid ($000s),2018,-
+746038145,Interest Paid ($000s),2017,-
+746038145,Interest Paid ($000s),2016,-
+746038145,Interest Paid ($000s),2015,-
+746038145,Dividends paid ($000s),2024,"($2,000)"
+746038145,Dividends paid ($000s),2023,($500)
+746038145,Dividends paid ($000s),2022,-
+746038145,Dividends paid ($000s),2021,($500)
+746038145,Dividends paid ($000s),2020,-
+746038145,Dividends paid ($000s),2019,-
+746038145,Dividends paid ($000s),2018,-
+746038145,Dividends paid ($000s),2017,-
+746038145,Dividends paid ($000s),2016,-
+746038145,Dividends paid ($000s),2015,-
+746038145,Other inflows/(outflows) from financing activities ($000s),2024,$0
+746038145,Other inflows/(outflows) from financing activities ($000s),2023,$0
+746038145,Other inflows/(outflows) from financing activities ($000s),2022,$0
+746038145,Other inflows/(outflows) from financing activities ($000s),2021,"($1,234)"
+746038145,Other inflows/(outflows) from financing activities ($000s),2020,$0
+746038145,Other inflows/(outflows) from financing activities ($000s),2019,$0
+746038145,Other inflows/(outflows) from financing activities ($000s),2018,$0
+746038145,Other inflows/(outflows) from financing activities ($000s),2017,$0
+746038145,Other inflows/(outflows) from financing activities ($000s),2016,$0
+746038145,Other inflows/(outflows) from financing activities ($000s),2015,$0
+746038145,Net cash flows from/(used in) financing activities ($000s),2024,$703
+746038145,Net cash flows from/(used in) financing activities ($000s),2023,($260)
+746038145,Net cash flows from/(used in) financing activities ($000s),2022,($788)
+746038145,Net cash flows from/(used in) financing activities ($000s),2021,"($1,898)"
+746038145,Net cash flows from/(used in) financing activities ($000s),2020,"($2,691)"
+746038145,Net cash flows from/(used in) financing activities ($000s),2019,($964)
+746038145,Net cash flows from/(used in) financing activities ($000s),2018,$648
+746038145,Net cash flows from/(used in) financing activities ($000s),2017,"$2,156"
+746038145,Net cash flows from/(used in) financing activities ($000s),2016,($87)
+746038145,Net cash flows from/(used in) financing activities ($000s),2015,$348
+746038145,Net increase/(decrease) in cash and cash equivalents ($000s),2024,$771
+746038145,Net increase/(decrease) in cash and cash equivalents ($000s),2023,"$1,096"
+746038145,Net increase/(decrease) in cash and cash equivalents ($000s),2022,$655
+746038145,Net increase/(decrease) in cash and cash equivalents ($000s),2021,($431)
+746038145,Net increase/(decrease) in cash and cash equivalents ($000s),2020,$98
+746038145,Net increase/(decrease) in cash and cash equivalents ($000s),2019,$308
+746038145,Net increase/(decrease) in cash and cash equivalents ($000s),2018,"($1,045)"
+746038145,Net increase/(decrease) in cash and cash equivalents ($000s),2017,($423)
+746038145,Net increase/(decrease) in cash and cash equivalents ($000s),2016,$136
+746038145,Net increase/(decrease) in cash and cash equivalents ($000s),2015,$949
+746038145,Other increase/(decrease) in cash and cash equivalents ($000s),2024,
+746038145,Other increase/(decrease) in cash and cash equivalents ($000s),2023,
+746038145,Other increase/(decrease) in cash and cash equivalents ($000s),2022,
+746038145,Other increase/(decrease) in cash and cash equivalents ($000s),2021,
+746038145,Other increase/(decrease) in cash and cash equivalents ($000s),2020,-
+746038145,Other increase/(decrease) in cash and cash equivalents ($000s),2019,-
+746038145,Other increase/(decrease) in cash and cash equivalents ($000s),2018,-
+746038145,Other increase/(decrease) in cash and cash equivalents ($000s),2017,-
+746038145,Other increase/(decrease) in cash and cash equivalents ($000s),2016,-
+746038145,Other increase/(decrease) in cash and cash equivalents ($000s),2015,-
+746038145,Net foreign exchange differences ($000s),2024,
+746038145,Net foreign exchange differences ($000s),2023,
+746038145,Net foreign exchange differences ($000s),2022,
+746038145,Net foreign exchange differences ($000s),2021,
+746038145,Net foreign exchange differences ($000s),2020,-
+746038145,Net foreign exchange differences ($000s),2019,-
+746038145,Net foreign exchange differences ($000s),2018,-
+746038145,Net foreign exchange differences ($000s),2017,-
+746038145,Net foreign exchange differences ($000s),2016,-
+746038145,Net foreign exchange differences ($000s),2015,-
+746038145,Cash and cash equivalents at the beginning of the period ($000s),2024,"$2,109"
+746038145,Cash and cash equivalents at the beginning of the period ($000s),2023,"$1,013"
+746038145,Cash and cash equivalents at the beginning of the period ($000s),2022,$358
+746038145,Cash and cash equivalents at the beginning of the period ($000s),2021,$789
+746038145,Cash and cash equivalents at the beginning of the period ($000s),2020,$692
+746038145,Cash and cash equivalents at the beginning of the period ($000s),2019,$383
+746038145,Cash and cash equivalents at the beginning of the period ($000s),2018,"$1,429"
+746038145,Cash and cash equivalents at the beginning of the period ($000s),2017,"$1,852"
+746038145,Cash and cash equivalents at the beginning of the period ($000s),2016,"$1,717"
+746038145,Cash and cash equivalents at the beginning of the period ($000s),2015,$767
+746038145,Cash and cash equivalents at the end of the period ($000s),2024,"$2,881"
+746038145,Cash and cash equivalents at the end of the period ($000s),2023,"$2,109"
+746038145,Cash and cash equivalents at the end of the period ($000s),2022,"$1,013"
+746038145,Cash and cash equivalents at the end of the period ($000s),2021,$358
+746038145,Cash and cash equivalents at the end of the period ($000s),2020,$789
+746038145,Cash and cash equivalents at the end of the period ($000s),2019,$692
+746038145,Cash and cash equivalents at the end of the period ($000s),2018,$383
+746038145,Cash and cash equivalents at the end of the period ($000s),2017,"$1,429"
+746038145,Cash and cash equivalents at the end of the period ($000s),2016,"$1,852"
+746038145,Cash and cash equivalents at the end of the period ($000s),2015,"$1,717"

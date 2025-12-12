@@ -1,0 +1,601 @@
+duns,line_item,year,value
+759820603,Current Assets,2024,
+759820603,Current Assets,2023,
+759820603,Current Assets,2022,
+759820603,Current Assets,2021,
+759820603,Current Assets,2020,-
+759820603,Current Assets,2019,-
+759820603,Current Assets,2018,-
+759820603,Current Assets,2017,-
+759820603,Current Assets,2016,-
+759820603,Current Assets,2015,-
+759820603,Cash and cash equivalents ($000s),2024,"$7,806"
+759820603,Cash and cash equivalents ($000s),2023,"$8,356"
+759820603,Cash and cash equivalents ($000s),2022,"$6,736"
+759820603,Cash and cash equivalents ($000s),2021,"$2,613"
+759820603,Cash and cash equivalents ($000s),2020,"$3,873"
+759820603,Cash and cash equivalents ($000s),2019,"$1,030"
+759820603,Cash and cash equivalents ($000s),2018,"$2,234"
+759820603,Cash and cash equivalents ($000s),2017,"$2,516"
+759820603,Cash and cash equivalents ($000s),2016,"$3,151"
+759820603,Cash and cash equivalents ($000s),2015,"$2,733"
+759820603,Growth,2024,(6.58%)
+759820603,Growth,2023,24.05%
+759820603,Growth,2022,157.79%
+759820603,Growth,2021,(32.53%)
+759820603,Growth,2020,276.02%
+759820603,Growth,2019,(53.89%)
+759820603,Growth,2018,(11.21%)
+759820603,Growth,2017,(20.15%)
+759820603,Growth,2016,15.29%
+759820603,Growth,2015,-
+759820603,Trade receivables ($000s),2024,"$1,784"
+759820603,Trade receivables ($000s),2023,"$2,526"
+759820603,Trade receivables ($000s),2022,"$4,468"
+759820603,Trade receivables ($000s),2021,"$1,215"
+759820603,Trade receivables ($000s),2020,$971
+759820603,Trade receivables ($000s),2019,"$1,091"
+759820603,Trade receivables ($000s),2018,"$1,207"
+759820603,Trade receivables ($000s),2017,"$1,407"
+759820603,Trade receivables ($000s),2016,"$1,902"
+759820603,Trade receivables ($000s),2015,"$1,657"
+759820603,Other receivables ($000s),2024,$608
+759820603,Other receivables ($000s),2023,"$1,067"
+759820603,Other receivables ($000s),2022,$350
+759820603,Other receivables ($000s),2021,$803
+759820603,Other receivables ($000s),2020,"$1,209"
+759820603,Other receivables ($000s),2019,$575
+759820603,Other receivables ($000s),2018,$101
+759820603,Other receivables ($000s),2017,$35
+759820603,Other receivables ($000s),2016,$70
+759820603,Other receivables ($000s),2015,$113
+759820603,Raw materials ($000s),2024,$0
+759820603,Raw materials ($000s),2023,$0
+759820603,Raw materials ($000s),2022,$0
+759820603,Raw materials ($000s),2021,$0
+759820603,Raw materials ($000s),2020,$0
+759820603,Raw materials ($000s),2019,$0
+759820603,Raw materials ($000s),2018,$0
+759820603,Raw materials ($000s),2017,$0
+759820603,Raw materials ($000s),2016,$0
+759820603,Raw materials ($000s),2015,$0
+759820603,Work-in-progress ($000s),2024,
+759820603,Work-in-progress ($000s),2023,
+759820603,Work-in-progress ($000s),2022,
+759820603,Work-in-progress ($000s),2021,
+759820603,Work-in-progress ($000s),2020,-
+759820603,Work-in-progress ($000s),2019,-
+759820603,Work-in-progress ($000s),2018,-
+759820603,Work-in-progress ($000s),2017,-
+759820603,Work-in-progress ($000s),2016,-
+759820603,Work-in-progress ($000s),2015,-
+759820603,Finished goods ($000s),2024,"$11,941"
+759820603,Finished goods ($000s),2023,"$10,779"
+759820603,Finished goods ($000s),2022,"$12,686"
+759820603,Finished goods ($000s),2021,"$8,439"
+759820603,Finished goods ($000s),2020,"$7,759"
+759820603,Finished goods ($000s),2019,"$7,401"
+759820603,Finished goods ($000s),2018,"$9,212"
+759820603,Finished goods ($000s),2017,"$9,700"
+759820603,Finished goods ($000s),2016,"$8,392"
+759820603,Finished goods ($000s),2015,"$9,498"
+759820603,Total inventories ($000s),2024,"$11,941"
+759820603,Total inventories ($000s),2023,"$10,779"
+759820603,Total inventories ($000s),2022,"$12,686"
+759820603,Total inventories ($000s),2021,"$8,439"
+759820603,Total inventories ($000s),2020,"$7,759"
+759820603,Total inventories ($000s),2019,"$7,401"
+759820603,Total inventories ($000s),2018,"$9,212"
+759820603,Total inventories ($000s),2017,"$9,700"
+759820603,Total inventories ($000s),2016,"$8,392"
+759820603,Total inventories ($000s),2015,"$9,498"
+759820603,Prepayments ($000s),2024,$291
+759820603,Prepayments ($000s),2023,$753
+759820603,Prepayments ($000s),2022,$561
+759820603,Prepayments ($000s),2021,$338
+759820603,Prepayments ($000s),2020,$305
+759820603,Prepayments ($000s),2019,$324
+759820603,Prepayments ($000s),2018,$161
+759820603,Prepayments ($000s),2017,$102
+759820603,Prepayments ($000s),2016,$74
+759820603,Prepayments ($000s),2015,$139
+759820603,Derivative financial instruments ($000s),2024,
+759820603,Derivative financial instruments ($000s),2023,
+759820603,Derivative financial instruments ($000s),2022,
+759820603,Derivative financial instruments ($000s),2021,
+759820603,Derivative financial instruments ($000s),2020,-
+759820603,Derivative financial instruments ($000s),2019,-
+759820603,Derivative financial instruments ($000s),2018,-
+759820603,Derivative financial instruments ($000s),2017,-
+759820603,Derivative financial instruments ($000s),2016,-
+759820603,Derivative financial instruments ($000s),2015,-
+759820603,Other current assets ($000s),2024,$62
+759820603,Other current assets ($000s),2023,$62
+759820603,Other current assets ($000s),2022,$466
+759820603,Other current assets ($000s),2021,$640
+759820603,Other current assets ($000s),2020,$483
+759820603,Other current assets ($000s),2019,$563
+759820603,Other current assets ($000s),2018,$564
+759820603,Other current assets ($000s),2017,$723
+759820603,Other current assets ($000s),2016,"$1,035"
+759820603,Other current assets ($000s),2015,$745
+759820603,Total current assets for continuing operations ($000s),2024,"$22,492"
+759820603,Total current assets for continuing operations ($000s),2023,"$23,542"
+759820603,Total current assets for continuing operations ($000s),2022,"$25,267"
+759820603,Total current assets for continuing operations ($000s),2021,"$14,047"
+759820603,Total current assets for continuing operations ($000s),2020,"$14,601"
+759820603,Total current assets for continuing operations ($000s),2019,"$10,984"
+759820603,Total current assets for continuing operations ($000s),2018,"$13,479"
+759820603,Total current assets for continuing operations ($000s),2017,"$14,484"
+759820603,Total current assets for continuing operations ($000s),2016,"$14,625"
+759820603,Total current assets for continuing operations ($000s),2015,"$14,886"
+759820603,Assets held for sale ($000s),2024,
+759820603,Assets held for sale ($000s),2023,
+759820603,Assets held for sale ($000s),2022,
+759820603,Assets held for sale ($000s),2021,
+759820603,Assets held for sale ($000s),2020,-
+759820603,Assets held for sale ($000s),2019,-
+759820603,Assets held for sale ($000s),2018,-
+759820603,Assets held for sale ($000s),2017,-
+759820603,Assets held for sale ($000s),2016,-
+759820603,Assets held for sale ($000s),2015,-
+759820603,Total current assets ($000s),2024,"$22,492"
+759820603,Total current assets ($000s),2023,"$23,542"
+759820603,Total current assets ($000s),2022,"$25,267"
+759820603,Total current assets ($000s),2021,"$14,047"
+759820603,Total current assets ($000s),2020,"$14,601"
+759820603,Total current assets ($000s),2019,"$10,984"
+759820603,Total current assets ($000s),2018,"$13,479"
+759820603,Total current assets ($000s),2017,"$14,484"
+759820603,Total current assets ($000s),2016,"$14,625"
+759820603,Total current assets ($000s),2015,"$14,886"
+759820603,Non-current assets,2024,
+759820603,Non-current assets,2023,
+759820603,Non-current assets,2022,
+759820603,Non-current assets,2021,
+759820603,Non-current assets,2020,-
+759820603,Non-current assets,2019,-
+759820603,Non-current assets,2018,-
+759820603,Non-current assets,2017,-
+759820603,Non-current assets,2016,-
+759820603,Non-current assets,2015,-
+759820603,Receivables ($000s),2024,
+759820603,Receivables ($000s),2023,
+759820603,Receivables ($000s),2022,
+759820603,Receivables ($000s),2021,
+759820603,Receivables ($000s),2020,-
+759820603,Receivables ($000s),2019,-
+759820603,Receivables ($000s),2018,-
+759820603,Receivables ($000s),2017,-
+759820603,Receivables ($000s),2016,-
+759820603,Receivables ($000s),2015,-
+759820603,Investments in associates ($000s),2024,$0
+759820603,Investments in associates ($000s),2023,$0
+759820603,Investments in associates ($000s),2022,$0
+759820603,Investments in associates ($000s),2021,$0
+759820603,Investments in associates ($000s),2020,$0
+759820603,Investments in associates ($000s),2019,$0
+759820603,Investments in associates ($000s),2018,$0
+759820603,Investments in associates ($000s),2017,$0
+759820603,Investments in associates ($000s),2016,$0
+759820603,Investments in associates ($000s),2015,$0
+759820603,Investments in subsidiaries ($000s),2024,-
+759820603,Investments in subsidiaries ($000s),2023,-
+759820603,Investments in subsidiaries ($000s),2022,-
+759820603,Investments in subsidiaries ($000s),2021,-
+759820603,Investments in subsidiaries ($000s),2020,-
+759820603,Investments in subsidiaries ($000s),2019,-
+759820603,Investments in subsidiaries ($000s),2018,"$5,247"
+759820603,Investments in subsidiaries ($000s),2017,"$5,247"
+759820603,Investments in subsidiaries ($000s),2016,-
+759820603,Investments in subsidiaries ($000s),2015,-
+759820603,Available for sale financial assets ($000s),2024,$0
+759820603,Available for sale financial assets ($000s),2023,$0
+759820603,Available for sale financial assets ($000s),2022,$0
+759820603,Available for sale financial assets ($000s),2021,$0
+759820603,Available for sale financial assets ($000s),2020,$0
+759820603,Available for sale financial assets ($000s),2019,$0
+759820603,Available for sale financial assets ($000s),2018,$0
+759820603,Available for sale financial assets ($000s),2017,$0
+759820603,Available for sale financial assets ($000s),2016,$0
+759820603,Available for sale financial assets ($000s),2015,$0
+759820603,"Property, plant and equipment ($000s)",2024,"$3,034"
+759820603,"Property, plant and equipment ($000s)",2023,"$3,094"
+759820603,"Property, plant and equipment ($000s)",2022,"$2,948"
+759820603,"Property, plant and equipment ($000s)",2021,"$1,575"
+759820603,"Property, plant and equipment ($000s)",2020,"$1,443"
+759820603,"Property, plant and equipment ($000s)",2019,"$13,331"
+759820603,"Property, plant and equipment ($000s)",2018,"$3,979"
+759820603,"Property, plant and equipment ($000s)",2017,"$4,964"
+759820603,"Property, plant and equipment ($000s)",2016,"$5,462"
+759820603,"Property, plant and equipment ($000s)",2015,"$5,565"
+759820603,Intangible assets and goodwill ($000s),2024,$699
+759820603,Intangible assets and goodwill ($000s),2023,$650
+759820603,Intangible assets and goodwill ($000s),2022,$664
+759820603,Intangible assets and goodwill ($000s),2021,$97
+759820603,Intangible assets and goodwill ($000s),2020,$125
+759820603,Intangible assets and goodwill ($000s),2019,$177
+759820603,Intangible assets and goodwill ($000s),2018,$223
+759820603,Intangible assets and goodwill ($000s),2017,$274
+759820603,Intangible assets and goodwill ($000s),2016,$289
+759820603,Intangible assets and goodwill ($000s),2015,$322
+759820603,Deferred tax assets ($000s),2024,"$1,672"
+759820603,Deferred tax assets ($000s),2023,"$1,611"
+759820603,Deferred tax assets ($000s),2022,"$1,524"
+759820603,Deferred tax assets ($000s),2021,"$3,142"
+759820603,Deferred tax assets ($000s),2020,"$2,720"
+759820603,Deferred tax assets ($000s),2019,"$6,009"
+759820603,Deferred tax assets ($000s),2018,"$1,874"
+759820603,Deferred tax assets ($000s),2017,"$1,153"
+759820603,Deferred tax assets ($000s),2016,"$1,113"
+759820603,Deferred tax assets ($000s),2015,"$1,105"
+759820603,Other non-current assets ($000s),2024,"$9,824"
+759820603,Other non-current assets ($000s),2023,"$11,624"
+759820603,Other non-current assets ($000s),2022,"$10,782"
+759820603,Other non-current assets ($000s),2021,"$9,315"
+759820603,Other non-current assets ($000s),2020,"$6,440"
+759820603,Other non-current assets ($000s),2019,"$5,247"
+759820603,Other non-current assets ($000s),2018,$0
+759820603,Other non-current assets ($000s),2017,$0
+759820603,Other non-current assets ($000s),2016,"$5,247"
+759820603,Other non-current assets ($000s),2015,"$5,247"
+759820603,Total non-current assets ($000s),2024,"$15,228"
+759820603,Total non-current assets ($000s),2023,"$16,979"
+759820603,Total non-current assets ($000s),2022,"$15,917"
+759820603,Total non-current assets ($000s),2021,"$14,130"
+759820603,Total non-current assets ($000s),2020,"$10,729"
+759820603,Total non-current assets ($000s),2019,"$24,764"
+759820603,Total non-current assets ($000s),2018,"$11,324"
+759820603,Total non-current assets ($000s),2017,"$11,637"
+759820603,Total non-current assets ($000s),2016,"$12,111"
+759820603,Total non-current assets ($000s),2015,"$12,239"
+759820603,TOTAL ASSETS ($000s),2024,"$37,720"
+759820603,TOTAL ASSETS ($000s),2023,"$40,522"
+759820603,TOTAL ASSETS ($000s),2022,"$41,184"
+759820603,TOTAL ASSETS ($000s),2021,"$28,177"
+759820603,TOTAL ASSETS ($000s),2020,"$25,330"
+759820603,TOTAL ASSETS ($000s),2019,"$35,749"
+759820603,TOTAL ASSETS ($000s),2018,"$24,802"
+759820603,TOTAL ASSETS ($000s),2017,"$26,121"
+759820603,TOTAL ASSETS ($000s),2016,"$26,735"
+759820603,TOTAL ASSETS ($000s),2015,"$27,125"
+759820603,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2024,"$40,522"
+759820603,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2023,"$41,184"
+759820603,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2022,"$28,177"
+759820603,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2021,"$25,330"
+759820603,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2020,"$35,749"
+759820603,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2019,"$24,802"
+759820603,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2018,"$26,121"
+759820603,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2017,"$26,735"
+759820603,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2016,"$27,125"
+759820603,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2015,"$23,259"
+759820603,Current liabilities,2024,
+759820603,Current liabilities,2023,
+759820603,Current liabilities,2022,
+759820603,Current liabilities,2021,
+759820603,Current liabilities,2020,-
+759820603,Current liabilities,2019,-
+759820603,Current liabilities,2018,-
+759820603,Current liabilities,2017,-
+759820603,Current liabilities,2016,-
+759820603,Current liabilities,2015,-
+759820603,Trade payables ($000s),2024,"$3,504"
+759820603,Trade payables ($000s),2023,"$2,533"
+759820603,Trade payables ($000s),2022,-
+759820603,Trade payables ($000s),2021,"$2,009"
+759820603,Trade payables ($000s),2020,"$3,842"
+759820603,Trade payables ($000s),2019,"$1,726"
+759820603,Trade payables ($000s),2018,"$1,198"
+759820603,Trade payables ($000s),2017,$622
+759820603,Trade payables ($000s),2016,$693
+759820603,Trade payables ($000s),2015,"$1,451"
+759820603,Other payables ($000s),2024,"$1,142"
+759820603,Other payables ($000s),2023,"$1,709"
+759820603,Other payables ($000s),2022,-
+759820603,Other payables ($000s),2021,"$1,721"
+759820603,Other payables ($000s),2020,"$1,245"
+759820603,Other payables ($000s),2019,"$1,004"
+759820603,Other payables ($000s),2018,"$1,319"
+759820603,Other payables ($000s),2017,"$1,682"
+759820603,Other payables ($000s),2016,"$1,829"
+759820603,Other payables ($000s),2015,"$1,992"
+759820603,Overdrafts ($000s),2024,
+759820603,Overdrafts ($000s),2023,
+759820603,Overdrafts ($000s),2022,
+759820603,Overdrafts ($000s),2021,
+759820603,Overdrafts ($000s),2020,-
+759820603,Overdrafts ($000s),2019,-
+759820603,Overdrafts ($000s),2018,-
+759820603,Overdrafts ($000s),2017,-
+759820603,Overdrafts ($000s),2016,-
+759820603,Overdrafts ($000s),2015,-
+759820603,Loans - secured ($000s),2024,
+759820603,Loans - secured ($000s),2023,
+759820603,Loans - secured ($000s),2022,
+759820603,Loans - secured ($000s),2021,
+759820603,Loans - secured ($000s),2020,-
+759820603,Loans - secured ($000s),2019,-
+759820603,Loans - secured ($000s),2018,-
+759820603,Loans - secured ($000s),2017,-
+759820603,Loans - secured ($000s),2016,-
+759820603,Loans - secured ($000s),2015,-
+759820603,Loans - unsecured ($000s),2024,
+759820603,Loans - unsecured ($000s),2023,
+759820603,Loans - unsecured ($000s),2022,
+759820603,Loans - unsecured ($000s),2021,
+759820603,Loans - unsecured ($000s),2020,-
+759820603,Loans - unsecured ($000s),2019,-
+759820603,Loans - unsecured ($000s),2018,-
+759820603,Loans - unsecured ($000s),2017,-
+759820603,Loans - unsecured ($000s),2016,-
+759820603,Loans - unsecured ($000s),2015,-
+759820603,Obligations under finance leases and hire purchase ($000s),2024,"$3,632"
+759820603,Obligations under finance leases and hire purchase ($000s),2023,"$3,670"
+759820603,Obligations under finance leases and hire purchase ($000s),2022,"$3,480"
+759820603,Obligations under finance leases and hire purchase ($000s),2021,"$3,131"
+759820603,Obligations under finance leases and hire purchase ($000s),2020,"$2,600"
+759820603,Obligations under finance leases and hire purchase ($000s),2019,"$4,242"
+759820603,Obligations under finance leases and hire purchase ($000s),2018,-
+759820603,Obligations under finance leases and hire purchase ($000s),2017,-
+759820603,Obligations under finance leases and hire purchase ($000s),2016,$40
+759820603,Obligations under finance leases and hire purchase ($000s),2015,$40
+759820603,Loans from related parties ($000s),2024,-
+759820603,Loans from related parties ($000s),2023,-
+759820603,Loans from related parties ($000s),2022,"$1,260"
+759820603,Loans from related parties ($000s),2021,-
+759820603,Loans from related parties ($000s),2020,-
+759820603,Loans from related parties ($000s),2019,-
+759820603,Loans from related parties ($000s),2018,"$5,670"
+759820603,Loans from related parties ($000s),2017,"$5,124"
+759820603,Loans from related parties ($000s),2016,"$5,550"
+759820603,Loans from related parties ($000s),2015,"$5,480"
+759820603,Total current interest-bearing loans and borrowings ($000s),2024,"$3,632"
+759820603,Total current interest-bearing loans and borrowings ($000s),2023,"$3,670"
+759820603,Total current interest-bearing loans and borrowings ($000s),2022,"$4,740"
+759820603,Total current interest-bearing loans and borrowings ($000s),2021,"$3,131"
+759820603,Total current interest-bearing loans and borrowings ($000s),2020,"$2,600"
+759820603,Total current interest-bearing loans and borrowings ($000s),2019,"$4,242"
+759820603,Total current interest-bearing loans and borrowings ($000s),2018,"$5,670"
+759820603,Total current interest-bearing loans and borrowings ($000s),2017,"$5,124"
+759820603,Total current interest-bearing loans and borrowings ($000s),2016,"$5,591"
+759820603,Total current interest-bearing loans and borrowings ($000s),2015,"$5,519"
+759820603,Income tax payable/(refundable) ($000s),2024,$146
+759820603,Income tax payable/(refundable) ($000s),2023,$178
+759820603,Income tax payable/(refundable) ($000s),2022,$6
+759820603,Income tax payable/(refundable) ($000s),2021,$202
+759820603,Income tax payable/(refundable) ($000s),2020,$167
+759820603,Income tax payable/(refundable) ($000s),2019,$176
+759820603,Income tax payable/(refundable) ($000s),2018,$196
+759820603,Income tax payable/(refundable) ($000s),2017,$213
+759820603,Income tax payable/(refundable) ($000s),2016,$266
+759820603,Income tax payable/(refundable) ($000s),2015,$263
+759820603,Provisions ($000s),2024,$915
+759820603,Provisions ($000s),2023,"$1,106"
+759820603,Provisions ($000s),2022,$910
+759820603,Provisions ($000s),2021,"$1,000"
+759820603,Provisions ($000s),2020,$972
+759820603,Provisions ($000s),2019,$901
+759820603,Provisions ($000s),2018,$943
+759820603,Provisions ($000s),2017,$977
+759820603,Provisions ($000s),2016,"$1,098"
+759820603,Provisions ($000s),2015,"$1,279"
+759820603,Other current liabilities ($000s),2024,$0
+759820603,Other current liabilities ($000s),2023,$0
+759820603,Other current liabilities ($000s),2022,"$5,669"
+759820603,Other current liabilities ($000s),2021,$0
+759820603,Other current liabilities ($000s),2020,$146
+759820603,Other current liabilities ($000s),2019,$13
+759820603,Other current liabilities ($000s),2018,$241
+759820603,Other current liabilities ($000s),2017,$174
+759820603,Other current liabilities ($000s),2016,$88
+759820603,Other current liabilities ($000s),2015,$274
+759820603,Total current liabilities for continuing operations ($000s),2024,"$9,339"
+759820603,Total current liabilities for continuing operations ($000s),2023,"$9,196"
+759820603,Total current liabilities for continuing operations ($000s),2022,"$11,326"
+759820603,Total current liabilities for continuing operations ($000s),2021,"$8,064"
+759820603,Total current liabilities for continuing operations ($000s),2020,"$8,973"
+759820603,Total current liabilities for continuing operations ($000s),2019,"$8,062"
+759820603,Total current liabilities for continuing operations ($000s),2018,"$9,567"
+759820603,Total current liabilities for continuing operations ($000s),2017,"$8,791"
+759820603,Total current liabilities for continuing operations ($000s),2016,"$9,564"
+759820603,Total current liabilities for continuing operations ($000s),2015,"$10,778"
+759820603,Liabilities directly associated with assets held for sale ($000s),2024,
+759820603,Liabilities directly associated with assets held for sale ($000s),2023,
+759820603,Liabilities directly associated with assets held for sale ($000s),2022,
+759820603,Liabilities directly associated with assets held for sale ($000s),2021,
+759820603,Liabilities directly associated with assets held for sale ($000s),2020,-
+759820603,Liabilities directly associated with assets held for sale ($000s),2019,-
+759820603,Liabilities directly associated with assets held for sale ($000s),2018,-
+759820603,Liabilities directly associated with assets held for sale ($000s),2017,-
+759820603,Liabilities directly associated with assets held for sale ($000s),2016,-
+759820603,Liabilities directly associated with assets held for sale ($000s),2015,-
+759820603,Total current liabilities ($000s),2024,"$9,339"
+759820603,Total current liabilities ($000s),2023,"$9,196"
+759820603,Total current liabilities ($000s),2022,"$11,326"
+759820603,Total current liabilities ($000s),2021,"$8,064"
+759820603,Total current liabilities ($000s),2020,"$8,973"
+759820603,Total current liabilities ($000s),2019,"$8,062"
+759820603,Total current liabilities ($000s),2018,"$9,567"
+759820603,Total current liabilities ($000s),2017,"$8,791"
+759820603,Total current liabilities ($000s),2016,"$9,564"
+759820603,Total current liabilities ($000s),2015,"$10,778"
+759820603,Total current liabilities for previous year ($000s),2024,"$9,196"
+759820603,Total current liabilities for previous year ($000s),2023,"$11,326"
+759820603,Total current liabilities for previous year ($000s),2022,"$8,064"
+759820603,Total current liabilities for previous year ($000s),2021,"$8,973"
+759820603,Total current liabilities for previous year ($000s),2020,"$8,062"
+759820603,Total current liabilities for previous year ($000s),2019,"$9,567"
+759820603,Total current liabilities for previous year ($000s),2018,"$8,791"
+759820603,Total current liabilities for previous year ($000s),2017,"$9,564"
+759820603,Total current liabilities for previous year ($000s),2016,"$10,778"
+759820603,Total current liabilities for previous year ($000s),2015,"$7,409"
+759820603,Non-current liabilities,2024,
+759820603,Non-current liabilities,2023,
+759820603,Non-current liabilities,2022,
+759820603,Non-current liabilities,2021,
+759820603,Non-current liabilities,2020,-
+759820603,Non-current liabilities,2019,-
+759820603,Non-current liabilities,2018,-
+759820603,Non-current liabilities,2017,-
+759820603,Non-current liabilities,2016,-
+759820603,Non-current liabilities,2015,-
+759820603,Total non-current interest-bearing loans and borrowings ($000s),2024,"$7,790"
+759820603,Total non-current interest-bearing loans and borrowings ($000s),2023,"$9,901"
+759820603,Total non-current interest-bearing loans and borrowings ($000s),2022,"$9,361"
+759820603,Total non-current interest-bearing loans and borrowings ($000s),2021,"$4,865"
+759820603,Total non-current interest-bearing loans and borrowings ($000s),2020,"$2,877"
+759820603,Total non-current interest-bearing loans and borrowings ($000s),2019,"$7,515"
+759820603,Total non-current interest-bearing loans and borrowings ($000s),2018,-
+759820603,Total non-current interest-bearing loans and borrowings ($000s),2017,-
+759820603,Total non-current interest-bearing loans and borrowings ($000s),2016,-
+759820603,Total non-current interest-bearing loans and borrowings ($000s),2015,$40
+759820603,Deferred tax liabilities ($000s),2024,-
+759820603,Deferred tax liabilities ($000s),2023,-
+759820603,Deferred tax liabilities ($000s),2022,-
+759820603,Deferred tax liabilities ($000s),2021,"$1,685"
+759820603,Deferred tax liabilities ($000s),2020,"$1,117"
+759820603,Deferred tax liabilities ($000s),2019,"$2,451"
+759820603,Deferred tax liabilities ($000s),2018,$47
+759820603,Deferred tax liabilities ($000s),2017,$177
+759820603,Deferred tax liabilities ($000s),2016,$165
+759820603,Deferred tax liabilities ($000s),2015,$117
+759820603,Convertible redeemable preference shares ($000s),2024,
+759820603,Convertible redeemable preference shares ($000s),2023,
+759820603,Convertible redeemable preference shares ($000s),2022,
+759820603,Convertible redeemable preference shares ($000s),2021,
+759820603,Convertible redeemable preference shares ($000s),2020,-
+759820603,Convertible redeemable preference shares ($000s),2019,-
+759820603,Convertible redeemable preference shares ($000s),2018,-
+759820603,Convertible redeemable preference shares ($000s),2017,-
+759820603,Convertible redeemable preference shares ($000s),2016,-
+759820603,Convertible redeemable preference shares ($000s),2015,-
+759820603,Other non-current liabilities ($000s),2024,$0
+759820603,Other non-current liabilities ($000s),2023,$0
+759820603,Other non-current liabilities ($000s),2022,$0
+759820603,Other non-current liabilities ($000s),2021,$0
+759820603,Other non-current liabilities ($000s),2020,$0
+759820603,Other non-current liabilities ($000s),2019,$0
+759820603,Other non-current liabilities ($000s),2018,$446
+759820603,Other non-current liabilities ($000s),2017,$662
+759820603,Other non-current liabilities ($000s),2016,$645
+759820603,Other non-current liabilities ($000s),2015,$476
+759820603,Total non-current liabilities ($000s),2024,"$7,790"
+759820603,Total non-current liabilities ($000s),2023,"$9,901"
+759820603,Total non-current liabilities ($000s),2022,"$9,361"
+759820603,Total non-current liabilities ($000s),2021,"$6,549"
+759820603,Total non-current liabilities ($000s),2020,"$3,994"
+759820603,Total non-current liabilities ($000s),2019,"$9,965"
+759820603,Total non-current liabilities ($000s),2018,$493
+759820603,Total non-current liabilities ($000s),2017,$838
+759820603,Total non-current liabilities ($000s),2016,$810
+759820603,Total non-current liabilities ($000s),2015,$633
+759820603,TOTAL LIABILITIES ($000s),2024,"$17,129"
+759820603,TOTAL LIABILITIES ($000s),2023,"$19,097"
+759820603,TOTAL LIABILITIES ($000s),2022,"$20,687"
+759820603,TOTAL LIABILITIES ($000s),2021,"$14,613"
+759820603,TOTAL LIABILITIES ($000s),2020,"$12,967"
+759820603,TOTAL LIABILITIES ($000s),2019,"$18,027"
+759820603,TOTAL LIABILITIES ($000s),2018,"$10,059"
+759820603,TOTAL LIABILITIES ($000s),2017,"$9,630"
+759820603,TOTAL LIABILITIES ($000s),2016,"$10,373"
+759820603,TOTAL LIABILITIES ($000s),2015,"$11,411"
+759820603,NET ASSETS ($000s),2024,"$20,591"
+759820603,NET ASSETS ($000s),2023,"$21,425"
+759820603,NET ASSETS ($000s),2022,"$20,498"
+759820603,NET ASSETS ($000s),2021,"$13,564"
+759820603,NET ASSETS ($000s),2020,"$12,363"
+759820603,NET ASSETS ($000s),2019,"$17,722"
+759820603,NET ASSETS ($000s),2018,"$14,743"
+759820603,NET ASSETS ($000s),2017,"$16,491"
+759820603,NET ASSETS ($000s),2016,"$16,362"
+759820603,NET ASSETS ($000s),2015,"$15,714"
+759820603,Equity,2024,
+759820603,Equity,2023,
+759820603,Equity,2022,
+759820603,Equity,2021,
+759820603,Equity,2020,-
+759820603,Equity,2019,-
+759820603,Equity,2018,-
+759820603,Equity,2017,-
+759820603,Equity,2016,-
+759820603,Equity,2015,-
+759820603,Equity attributable to equity holders of the parent,2024,
+759820603,Equity attributable to equity holders of the parent,2023,
+759820603,Equity attributable to equity holders of the parent,2022,
+759820603,Equity attributable to equity holders of the parent,2021,
+759820603,Equity attributable to equity holders of the parent,2020,-
+759820603,Equity attributable to equity holders of the parent,2019,-
+759820603,Equity attributable to equity holders of the parent,2018,-
+759820603,Equity attributable to equity holders of the parent,2017,-
+759820603,Equity attributable to equity holders of the parent,2016,-
+759820603,Equity attributable to equity holders of the parent,2015,-
+759820603,Contributed equity ($000s),2024,"$13,348"
+759820603,Contributed equity ($000s),2023,"$13,348"
+759820603,Contributed equity ($000s),2022,"$13,348"
+759820603,Contributed equity ($000s),2021,"$13,348"
+759820603,Contributed equity ($000s),2020,"$13,348"
+759820603,Contributed equity ($000s),2019,"$13,348"
+759820603,Contributed equity ($000s),2018,"$7,000"
+759820603,Contributed equity ($000s),2017,"$7,000"
+759820603,Contributed equity ($000s),2016,"$7,000"
+759820603,Contributed equity ($000s),2015,"$7,000"
+759820603,Retained earnings ($000s),2024,($977)
+759820603,Retained earnings ($000s),2023,$213
+759820603,Retained earnings ($000s),2022,($587)
+759820603,Retained earnings ($000s),2021,"($4,733)"
+759820603,Retained earnings ($000s),2020,"($4,434)"
+759820603,Retained earnings ($000s),2019,"$4,374"
+759820603,Retained earnings ($000s),2018,"$7,743"
+759820603,Retained earnings ($000s),2017,"$9,491"
+759820603,Retained earnings ($000s),2016,"$9,362"
+759820603,Retained earnings ($000s),2015,"$8,714"
+759820603,Reserves ($000s),2024,"$8,220"
+759820603,Reserves ($000s),2023,"$7,864"
+759820603,Reserves ($000s),2022,"$7,736"
+759820603,Reserves ($000s),2021,"$4,949"
+759820603,Reserves ($000s),2020,"$3,449"
+759820603,Reserves ($000s),2019,$0
+759820603,Reserves ($000s),2018,$0
+759820603,Reserves ($000s),2017,$0
+759820603,Reserves ($000s),2016,$0
+759820603,Reserves ($000s),2015,$0
+759820603,Total Parent interests ($000s),2024,"$20,591"
+759820603,Total Parent interests ($000s),2023,"$21,425"
+759820603,Total Parent interests ($000s),2022,"$20,498"
+759820603,Total Parent interests ($000s),2021,"$13,564"
+759820603,Total Parent interests ($000s),2020,"$12,363"
+759820603,Total Parent interests ($000s),2019,"$17,722"
+759820603,Total Parent interests ($000s),2018,"$14,743"
+759820603,Total Parent interests ($000s),2017,"$16,491"
+759820603,Total Parent interests ($000s),2016,"$16,362"
+759820603,Total Parent interests ($000s),2015,"$15,714"
+759820603,Minority interests ($000s),2024,
+759820603,Minority interests ($000s),2023,
+759820603,Minority interests ($000s),2022,
+759820603,Minority interests ($000s),2021,
+759820603,Minority interests ($000s),2020,-
+759820603,Minority interests ($000s),2019,-
+759820603,Minority interests ($000s),2018,-
+759820603,Minority interests ($000s),2017,-
+759820603,Minority interests ($000s),2016,-
+759820603,Minority interests ($000s),2015,-
+759820603,TOTAL EQUITY ($000s),2024,"$20,591"
+759820603,TOTAL EQUITY ($000s),2023,"$21,425"
+759820603,TOTAL EQUITY ($000s),2022,"$20,498"
+759820603,TOTAL EQUITY ($000s),2021,"$13,564"
+759820603,TOTAL EQUITY ($000s),2020,"$12,363"
+759820603,TOTAL EQUITY ($000s),2019,"$17,722"
+759820603,TOTAL EQUITY ($000s),2018,"$14,743"
+759820603,TOTAL EQUITY ($000s),2017,"$16,491"
+759820603,TOTAL EQUITY ($000s),2016,"$16,362"
+759820603,TOTAL EQUITY ($000s),2015,"$15,714"
+759820603,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2024,"$21,425"
+759820603,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2023,"$20,498"
+759820603,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2022,"$13,564"
+759820603,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2021,"$12,363"
+759820603,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2020,"$17,722"
+759820603,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2019,"$14,743"
+759820603,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2018,"$16,491"
+759820603,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2017,"$16,362"
+759820603,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2016,"$15,714"
+759820603,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2015,"$15,181"

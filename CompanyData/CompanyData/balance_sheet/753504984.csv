@@ -1,0 +1,601 @@
+duns,line_item,year,value
+753504984,Current Assets,2024,
+753504984,Current Assets,2023,
+753504984,Current Assets,2022,
+753504984,Current Assets,2021,
+753504984,Current Assets,2020,-
+753504984,Current Assets,2019,-
+753504984,Current Assets,2018,-
+753504984,Current Assets,2017,-
+753504984,Current Assets,2016,-
+753504984,Current Assets,2015,-
+753504984,Cash and cash equivalents ($000s),2024,"$1,225"
+753504984,Cash and cash equivalents ($000s),2023,"$1,294"
+753504984,Cash and cash equivalents ($000s),2022,$370
+753504984,Cash and cash equivalents ($000s),2021,$468
+753504984,Cash and cash equivalents ($000s),2020,"$1,091"
+753504984,Cash and cash equivalents ($000s),2019,"$1,241"
+753504984,Cash and cash equivalents ($000s),2018,"$1,373"
+753504984,Cash and cash equivalents ($000s),2017,"$1,271"
+753504984,Cash and cash equivalents ($000s),2016,"$2,065"
+753504984,Cash and cash equivalents ($000s),2015,"$3,463"
+753504984,Growth,2024,(5.33%)
+753504984,Growth,2023,249.73%
+753504984,Growth,2022,(20.94%)
+753504984,Growth,2021,(57.10%)
+753504984,Growth,2020,(12.09%)
+753504984,Growth,2019,(9.61%)
+753504984,Growth,2018,8.03%
+753504984,Growth,2017,(38.45%)
+753504984,Growth,2016,(40.37%)
+753504984,Growth,2015,-
+753504984,Trade receivables ($000s),2024,"$5,860"
+753504984,Trade receivables ($000s),2023,"$4,359"
+753504984,Trade receivables ($000s),2022,"$3,793"
+753504984,Trade receivables ($000s),2021,"$3,558"
+753504984,Trade receivables ($000s),2020,"$3,456"
+753504984,Trade receivables ($000s),2019,"$3,523"
+753504984,Trade receivables ($000s),2018,"$3,589"
+753504984,Trade receivables ($000s),2017,"$3,820"
+753504984,Trade receivables ($000s),2016,"$3,591"
+753504984,Trade receivables ($000s),2015,"$3,998"
+753504984,Other receivables ($000s),2024,$21
+753504984,Other receivables ($000s),2023,$42
+753504984,Other receivables ($000s),2022,$67
+753504984,Other receivables ($000s),2021,$14
+753504984,Other receivables ($000s),2020,$18
+753504984,Other receivables ($000s),2019,$41
+753504984,Other receivables ($000s),2018,$3
+753504984,Other receivables ($000s),2017,$14
+753504984,Other receivables ($000s),2016,$39
+753504984,Other receivables ($000s),2015,-
+753504984,Raw materials ($000s),2024,$0
+753504984,Raw materials ($000s),2023,$0
+753504984,Raw materials ($000s),2022,$0
+753504984,Raw materials ($000s),2021,$399
+753504984,Raw materials ($000s),2020,$306
+753504984,Raw materials ($000s),2019,$345
+753504984,Raw materials ($000s),2018,$289
+753504984,Raw materials ($000s),2017,$226
+753504984,Raw materials ($000s),2016,$221
+753504984,Raw materials ($000s),2015,$166
+753504984,Work-in-progress ($000s),2024,-
+753504984,Work-in-progress ($000s),2023,-
+753504984,Work-in-progress ($000s),2022,-
+753504984,Work-in-progress ($000s),2021,-
+753504984,Work-in-progress ($000s),2020,-
+753504984,Work-in-progress ($000s),2019,-
+753504984,Work-in-progress ($000s),2018,$122
+753504984,Work-in-progress ($000s),2017,$137
+753504984,Work-in-progress ($000s),2016,$84
+753504984,Work-in-progress ($000s),2015,$111
+753504984,Finished goods ($000s),2024,$814
+753504984,Finished goods ($000s),2023,$742
+753504984,Finished goods ($000s),2022,$599
+753504984,Finished goods ($000s),2021,$0
+753504984,Finished goods ($000s),2020,$0
+753504984,Finished goods ($000s),2019,$0
+753504984,Finished goods ($000s),2018,$0
+753504984,Finished goods ($000s),2017,$0
+753504984,Finished goods ($000s),2016,$0
+753504984,Finished goods ($000s),2015,$0
+753504984,Total inventories ($000s),2024,$814
+753504984,Total inventories ($000s),2023,$742
+753504984,Total inventories ($000s),2022,$599
+753504984,Total inventories ($000s),2021,$399
+753504984,Total inventories ($000s),2020,$306
+753504984,Total inventories ($000s),2019,$345
+753504984,Total inventories ($000s),2018,$411
+753504984,Total inventories ($000s),2017,$362
+753504984,Total inventories ($000s),2016,$305
+753504984,Total inventories ($000s),2015,$278
+753504984,Prepayments ($000s),2024,$150
+753504984,Prepayments ($000s),2023,$182
+753504984,Prepayments ($000s),2022,$170
+753504984,Prepayments ($000s),2021,$136
+753504984,Prepayments ($000s),2020,$157
+753504984,Prepayments ($000s),2019,$205
+753504984,Prepayments ($000s),2018,$201
+753504984,Prepayments ($000s),2017,$189
+753504984,Prepayments ($000s),2016,$268
+753504984,Prepayments ($000s),2015,$166
+753504984,Derivative financial instruments ($000s),2024,
+753504984,Derivative financial instruments ($000s),2023,
+753504984,Derivative financial instruments ($000s),2022,
+753504984,Derivative financial instruments ($000s),2021,
+753504984,Derivative financial instruments ($000s),2020,-
+753504984,Derivative financial instruments ($000s),2019,-
+753504984,Derivative financial instruments ($000s),2018,-
+753504984,Derivative financial instruments ($000s),2017,-
+753504984,Derivative financial instruments ($000s),2016,-
+753504984,Derivative financial instruments ($000s),2015,-
+753504984,Other current assets ($000s),2024,$231
+753504984,Other current assets ($000s),2023,$281
+753504984,Other current assets ($000s),2022,$266
+753504984,Other current assets ($000s),2021,$86
+753504984,Other current assets ($000s),2020,$233
+753504984,Other current assets ($000s),2019,$467
+753504984,Other current assets ($000s),2018,$539
+753504984,Other current assets ($000s),2017,$914
+753504984,Other current assets ($000s),2016,$106
+753504984,Other current assets ($000s),2015,$195
+753504984,Total current assets for continuing operations ($000s),2024,"$8,300"
+753504984,Total current assets for continuing operations ($000s),2023,"$6,900"
+753504984,Total current assets for continuing operations ($000s),2022,"$5,265"
+753504984,Total current assets for continuing operations ($000s),2021,"$4,661"
+753504984,Total current assets for continuing operations ($000s),2020,"$5,262"
+753504984,Total current assets for continuing operations ($000s),2019,"$5,822"
+753504984,Total current assets for continuing operations ($000s),2018,"$6,116"
+753504984,Total current assets for continuing operations ($000s),2017,"$6,571"
+753504984,Total current assets for continuing operations ($000s),2016,"$6,374"
+753504984,Total current assets for continuing operations ($000s),2015,"$8,100"
+753504984,Assets held for sale ($000s),2024,
+753504984,Assets held for sale ($000s),2023,
+753504984,Assets held for sale ($000s),2022,
+753504984,Assets held for sale ($000s),2021,
+753504984,Assets held for sale ($000s),2020,-
+753504984,Assets held for sale ($000s),2019,-
+753504984,Assets held for sale ($000s),2018,-
+753504984,Assets held for sale ($000s),2017,-
+753504984,Assets held for sale ($000s),2016,-
+753504984,Assets held for sale ($000s),2015,-
+753504984,Total current assets ($000s),2024,"$8,300"
+753504984,Total current assets ($000s),2023,"$6,900"
+753504984,Total current assets ($000s),2022,"$5,265"
+753504984,Total current assets ($000s),2021,"$4,661"
+753504984,Total current assets ($000s),2020,"$5,262"
+753504984,Total current assets ($000s),2019,"$5,822"
+753504984,Total current assets ($000s),2018,"$6,116"
+753504984,Total current assets ($000s),2017,"$6,571"
+753504984,Total current assets ($000s),2016,"$6,374"
+753504984,Total current assets ($000s),2015,"$8,100"
+753504984,Non-current assets,2024,
+753504984,Non-current assets,2023,
+753504984,Non-current assets,2022,
+753504984,Non-current assets,2021,
+753504984,Non-current assets,2020,-
+753504984,Non-current assets,2019,-
+753504984,Non-current assets,2018,-
+753504984,Non-current assets,2017,-
+753504984,Non-current assets,2016,-
+753504984,Non-current assets,2015,-
+753504984,Receivables ($000s),2024,
+753504984,Receivables ($000s),2023,
+753504984,Receivables ($000s),2022,
+753504984,Receivables ($000s),2021,
+753504984,Receivables ($000s),2020,-
+753504984,Receivables ($000s),2019,-
+753504984,Receivables ($000s),2018,-
+753504984,Receivables ($000s),2017,-
+753504984,Receivables ($000s),2016,-
+753504984,Receivables ($000s),2015,-
+753504984,Investments in associates ($000s),2024,$0
+753504984,Investments in associates ($000s),2023,$0
+753504984,Investments in associates ($000s),2022,$0
+753504984,Investments in associates ($000s),2021,$0
+753504984,Investments in associates ($000s),2020,$0
+753504984,Investments in associates ($000s),2019,$0
+753504984,Investments in associates ($000s),2018,$0
+753504984,Investments in associates ($000s),2017,$0
+753504984,Investments in associates ($000s),2016,$0
+753504984,Investments in associates ($000s),2015,$0
+753504984,Investments in subsidiaries ($000s),2024,
+753504984,Investments in subsidiaries ($000s),2023,
+753504984,Investments in subsidiaries ($000s),2022,
+753504984,Investments in subsidiaries ($000s),2021,
+753504984,Investments in subsidiaries ($000s),2020,-
+753504984,Investments in subsidiaries ($000s),2019,-
+753504984,Investments in subsidiaries ($000s),2018,-
+753504984,Investments in subsidiaries ($000s),2017,-
+753504984,Investments in subsidiaries ($000s),2016,-
+753504984,Investments in subsidiaries ($000s),2015,-
+753504984,Available for sale financial assets ($000s),2024,$0
+753504984,Available for sale financial assets ($000s),2023,$0
+753504984,Available for sale financial assets ($000s),2022,$0
+753504984,Available for sale financial assets ($000s),2021,$0
+753504984,Available for sale financial assets ($000s),2020,$0
+753504984,Available for sale financial assets ($000s),2019,$0
+753504984,Available for sale financial assets ($000s),2018,$0
+753504984,Available for sale financial assets ($000s),2017,$0
+753504984,Available for sale financial assets ($000s),2016,$0
+753504984,Available for sale financial assets ($000s),2015,$0
+753504984,"Property, plant and equipment ($000s)",2024,$940
+753504984,"Property, plant and equipment ($000s)",2023,"$1,202"
+753504984,"Property, plant and equipment ($000s)",2022,"$1,591"
+753504984,"Property, plant and equipment ($000s)",2021,"$1,846"
+753504984,"Property, plant and equipment ($000s)",2020,"$2,133"
+753504984,"Property, plant and equipment ($000s)",2019,"$2,503"
+753504984,"Property, plant and equipment ($000s)",2018,"$2,546"
+753504984,"Property, plant and equipment ($000s)",2017,"$3,086"
+753504984,"Property, plant and equipment ($000s)",2016,"$2,002"
+753504984,"Property, plant and equipment ($000s)",2015,"$1,966"
+753504984,Intangible assets and goodwill ($000s),2024,$401
+753504984,Intangible assets and goodwill ($000s),2023,$20
+753504984,Intangible assets and goodwill ($000s),2022,$9
+753504984,Intangible assets and goodwill ($000s),2021,$26
+753504984,Intangible assets and goodwill ($000s),2020,$47
+753504984,Intangible assets and goodwill ($000s),2019,"$5,682"
+753504984,Intangible assets and goodwill ($000s),2018,"$3,839"
+753504984,Intangible assets and goodwill ($000s),2017,"$3,851"
+753504984,Intangible assets and goodwill ($000s),2016,"$3,800"
+753504984,Intangible assets and goodwill ($000s),2015,"$3,803"
+753504984,Deferred tax assets ($000s),2024,"$1,662"
+753504984,Deferred tax assets ($000s),2023,"$1,545"
+753504984,Deferred tax assets ($000s),2022,"$1,203"
+753504984,Deferred tax assets ($000s),2021,"$1,135"
+753504984,Deferred tax assets ($000s),2020,"$1,085"
+753504984,Deferred tax assets ($000s),2019,"$1,752"
+753504984,Deferred tax assets ($000s),2018,$929
+753504984,Deferred tax assets ($000s),2017,$858
+753504984,Deferred tax assets ($000s),2016,"$1,010"
+753504984,Deferred tax assets ($000s),2015,"$1,014"
+753504984,Other non-current assets ($000s),2024,"$1,021"
+753504984,Other non-current assets ($000s),2023,"$1,704"
+753504984,Other non-current assets ($000s),2022,"$2,235"
+753504984,Other non-current assets ($000s),2021,"$2,829"
+753504984,Other non-current assets ($000s),2020,"$3,283"
+753504984,Other non-current assets ($000s),2019,$0
+753504984,Other non-current assets ($000s),2018,$0
+753504984,Other non-current assets ($000s),2017,$0
+753504984,Other non-current assets ($000s),2016,$0
+753504984,Other non-current assets ($000s),2015,$0
+753504984,Total non-current assets ($000s),2024,"$4,024"
+753504984,Total non-current assets ($000s),2023,"$4,470"
+753504984,Total non-current assets ($000s),2022,"$5,038"
+753504984,Total non-current assets ($000s),2021,"$5,835"
+753504984,Total non-current assets ($000s),2020,"$6,549"
+753504984,Total non-current assets ($000s),2019,"$9,937"
+753504984,Total non-current assets ($000s),2018,"$7,313"
+753504984,Total non-current assets ($000s),2017,"$7,795"
+753504984,Total non-current assets ($000s),2016,"$6,813"
+753504984,Total non-current assets ($000s),2015,"$6,783"
+753504984,TOTAL ASSETS ($000s),2024,"$12,325"
+753504984,TOTAL ASSETS ($000s),2023,"$11,370"
+753504984,TOTAL ASSETS ($000s),2022,"$10,303"
+753504984,TOTAL ASSETS ($000s),2021,"$10,496"
+753504984,TOTAL ASSETS ($000s),2020,"$11,811"
+753504984,TOTAL ASSETS ($000s),2019,"$15,759"
+753504984,TOTAL ASSETS ($000s),2018,"$13,429"
+753504984,TOTAL ASSETS ($000s),2017,"$14,365"
+753504984,TOTAL ASSETS ($000s),2016,"$13,187"
+753504984,TOTAL ASSETS ($000s),2015,"$14,883"
+753504984,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2024,"$11,370"
+753504984,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2023,"$10,303"
+753504984,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2022,"$10,496"
+753504984,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2021,"$11,811"
+753504984,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2020,"$15,759"
+753504984,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2019,"$13,429"
+753504984,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2018,"$14,365"
+753504984,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2017,"$13,187"
+753504984,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2016,"$14,883"
+753504984,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2015,"$10,270"
+753504984,Current liabilities,2024,
+753504984,Current liabilities,2023,
+753504984,Current liabilities,2022,
+753504984,Current liabilities,2021,
+753504984,Current liabilities,2020,-
+753504984,Current liabilities,2019,-
+753504984,Current liabilities,2018,-
+753504984,Current liabilities,2017,-
+753504984,Current liabilities,2016,-
+753504984,Current liabilities,2015,-
+753504984,Trade payables ($000s),2024,"$1,410"
+753504984,Trade payables ($000s),2023,$849
+753504984,Trade payables ($000s),2022,$824
+753504984,Trade payables ($000s),2021,"$1,515"
+753504984,Trade payables ($000s),2020,"$1,534"
+753504984,Trade payables ($000s),2019,"$1,458"
+753504984,Trade payables ($000s),2018,"$1,353"
+753504984,Trade payables ($000s),2017,"$1,519"
+753504984,Trade payables ($000s),2016,"$1,338"
+753504984,Trade payables ($000s),2015,"$1,010"
+753504984,Other payables ($000s),2024,"$3,057"
+753504984,Other payables ($000s),2023,"$2,693"
+753504984,Other payables ($000s),2022,"$1,840"
+753504984,Other payables ($000s),2021,$817
+753504984,Other payables ($000s),2020,$956
+753504984,Other payables ($000s),2019,"$1,308"
+753504984,Other payables ($000s),2018,"$1,412"
+753504984,Other payables ($000s),2017,$939
+753504984,Other payables ($000s),2016,"$2,033"
+753504984,Other payables ($000s),2015,"$1,968"
+753504984,Overdrafts ($000s),2024,
+753504984,Overdrafts ($000s),2023,
+753504984,Overdrafts ($000s),2022,
+753504984,Overdrafts ($000s),2021,
+753504984,Overdrafts ($000s),2020,-
+753504984,Overdrafts ($000s),2019,-
+753504984,Overdrafts ($000s),2018,-
+753504984,Overdrafts ($000s),2017,-
+753504984,Overdrafts ($000s),2016,-
+753504984,Overdrafts ($000s),2015,-
+753504984,Loans - secured ($000s),2024,
+753504984,Loans - secured ($000s),2023,
+753504984,Loans - secured ($000s),2022,
+753504984,Loans - secured ($000s),2021,
+753504984,Loans - secured ($000s),2020,-
+753504984,Loans - secured ($000s),2019,-
+753504984,Loans - secured ($000s),2018,-
+753504984,Loans - secured ($000s),2017,-
+753504984,Loans - secured ($000s),2016,-
+753504984,Loans - secured ($000s),2015,-
+753504984,Loans - unsecured ($000s),2024,
+753504984,Loans - unsecured ($000s),2023,
+753504984,Loans - unsecured ($000s),2022,
+753504984,Loans - unsecured ($000s),2021,
+753504984,Loans - unsecured ($000s),2020,-
+753504984,Loans - unsecured ($000s),2019,-
+753504984,Loans - unsecured ($000s),2018,-
+753504984,Loans - unsecured ($000s),2017,-
+753504984,Loans - unsecured ($000s),2016,-
+753504984,Loans - unsecured ($000s),2015,-
+753504984,Obligations under finance leases and hire purchase ($000s),2024,$757
+753504984,Obligations under finance leases and hire purchase ($000s),2023,$734
+753504984,Obligations under finance leases and hire purchase ($000s),2022,$685
+753504984,Obligations under finance leases and hire purchase ($000s),2021,$653
+753504984,Obligations under finance leases and hire purchase ($000s),2020,$758
+753504984,Obligations under finance leases and hire purchase ($000s),2019,$847
+753504984,Obligations under finance leases and hire purchase ($000s),2018,-
+753504984,Obligations under finance leases and hire purchase ($000s),2017,-
+753504984,Obligations under finance leases and hire purchase ($000s),2016,-
+753504984,Obligations under finance leases and hire purchase ($000s),2015,-
+753504984,Loans from related parties ($000s),2024,$46
+753504984,Loans from related parties ($000s),2023,$25
+753504984,Loans from related parties ($000s),2022,"$4,084"
+753504984,Loans from related parties ($000s),2021,$1
+753504984,Loans from related parties ($000s),2020,$299
+753504984,Loans from related parties ($000s),2019,$343
+753504984,Loans from related parties ($000s),2018,$73
+753504984,Loans from related parties ($000s),2017,$883
+753504984,Loans from related parties ($000s),2016,$0
+753504984,Loans from related parties ($000s),2015,"$1,082"
+753504984,Total current interest-bearing loans and borrowings ($000s),2024,$803
+753504984,Total current interest-bearing loans and borrowings ($000s),2023,$759
+753504984,Total current interest-bearing loans and borrowings ($000s),2022,"$4,769"
+753504984,Total current interest-bearing loans and borrowings ($000s),2021,$654
+753504984,Total current interest-bearing loans and borrowings ($000s),2020,"$1,057"
+753504984,Total current interest-bearing loans and borrowings ($000s),2019,"$1,191"
+753504984,Total current interest-bearing loans and borrowings ($000s),2018,$73
+753504984,Total current interest-bearing loans and borrowings ($000s),2017,$883
+753504984,Total current interest-bearing loans and borrowings ($000s),2016,$0
+753504984,Total current interest-bearing loans and borrowings ($000s),2015,"$1,082"
+753504984,Income tax payable/(refundable) ($000s),2024,-
+753504984,Income tax payable/(refundable) ($000s),2023,-
+753504984,Income tax payable/(refundable) ($000s),2022,-
+753504984,Income tax payable/(refundable) ($000s),2021,-
+753504984,Income tax payable/(refundable) ($000s),2020,-
+753504984,Income tax payable/(refundable) ($000s),2019,$67
+753504984,Income tax payable/(refundable) ($000s),2018,$80
+753504984,Income tax payable/(refundable) ($000s),2017,-
+753504984,Income tax payable/(refundable) ($000s),2016,-
+753504984,Income tax payable/(refundable) ($000s),2015,$496
+753504984,Provisions ($000s),2024,"$1,664"
+753504984,Provisions ($000s),2023,"$1,468"
+753504984,Provisions ($000s),2022,"$1,291"
+753504984,Provisions ($000s),2021,"$1,265"
+753504984,Provisions ($000s),2020,"$1,249"
+753504984,Provisions ($000s),2019,"$1,242"
+753504984,Provisions ($000s),2018,"$1,311"
+753504984,Provisions ($000s),2017,"$1,260"
+753504984,Provisions ($000s),2016,"$1,344"
+753504984,Provisions ($000s),2015,$815
+753504984,Other current liabilities ($000s),2024,$0
+753504984,Other current liabilities ($000s),2023,$0
+753504984,Other current liabilities ($000s),2022,$0
+753504984,Other current liabilities ($000s),2021,$0
+753504984,Other current liabilities ($000s),2020,$51
+753504984,Other current liabilities ($000s),2019,$142
+753504984,Other current liabilities ($000s),2018,$0
+753504984,Other current liabilities ($000s),2017,$724
+753504984,Other current liabilities ($000s),2016,$0
+753504984,Other current liabilities ($000s),2015,$804
+753504984,Total current liabilities for continuing operations ($000s),2024,"$6,935"
+753504984,Total current liabilities for continuing operations ($000s),2023,"$5,769"
+753504984,Total current liabilities for continuing operations ($000s),2022,"$8,725"
+753504984,Total current liabilities for continuing operations ($000s),2021,"$4,250"
+753504984,Total current liabilities for continuing operations ($000s),2020,"$4,847"
+753504984,Total current liabilities for continuing operations ($000s),2019,"$5,407"
+753504984,Total current liabilities for continuing operations ($000s),2018,"$4,229"
+753504984,Total current liabilities for continuing operations ($000s),2017,"$5,326"
+753504984,Total current liabilities for continuing operations ($000s),2016,"$4,716"
+753504984,Total current liabilities for continuing operations ($000s),2015,"$6,176"
+753504984,Liabilities directly associated with assets held for sale ($000s),2024,
+753504984,Liabilities directly associated with assets held for sale ($000s),2023,
+753504984,Liabilities directly associated with assets held for sale ($000s),2022,
+753504984,Liabilities directly associated with assets held for sale ($000s),2021,
+753504984,Liabilities directly associated with assets held for sale ($000s),2020,-
+753504984,Liabilities directly associated with assets held for sale ($000s),2019,-
+753504984,Liabilities directly associated with assets held for sale ($000s),2018,-
+753504984,Liabilities directly associated with assets held for sale ($000s),2017,-
+753504984,Liabilities directly associated with assets held for sale ($000s),2016,-
+753504984,Liabilities directly associated with assets held for sale ($000s),2015,-
+753504984,Total current liabilities ($000s),2024,"$6,935"
+753504984,Total current liabilities ($000s),2023,"$5,769"
+753504984,Total current liabilities ($000s),2022,"$8,725"
+753504984,Total current liabilities ($000s),2021,"$4,250"
+753504984,Total current liabilities ($000s),2020,"$4,847"
+753504984,Total current liabilities ($000s),2019,"$5,407"
+753504984,Total current liabilities ($000s),2018,"$4,229"
+753504984,Total current liabilities ($000s),2017,"$5,326"
+753504984,Total current liabilities ($000s),2016,"$4,716"
+753504984,Total current liabilities ($000s),2015,"$6,176"
+753504984,Total current liabilities for previous year ($000s),2024,"$5,769"
+753504984,Total current liabilities for previous year ($000s),2023,"$8,725"
+753504984,Total current liabilities for previous year ($000s),2022,"$4,250"
+753504984,Total current liabilities for previous year ($000s),2021,"$4,847"
+753504984,Total current liabilities for previous year ($000s),2020,"$5,407"
+753504984,Total current liabilities for previous year ($000s),2019,"$4,229"
+753504984,Total current liabilities for previous year ($000s),2018,"$5,326"
+753504984,Total current liabilities for previous year ($000s),2017,"$4,716"
+753504984,Total current liabilities for previous year ($000s),2016,"$6,176"
+753504984,Total current liabilities for previous year ($000s),2015,"$3,657"
+753504984,Non-current liabilities,2024,
+753504984,Non-current liabilities,2023,
+753504984,Non-current liabilities,2022,
+753504984,Non-current liabilities,2021,
+753504984,Non-current liabilities,2020,-
+753504984,Non-current liabilities,2019,-
+753504984,Non-current liabilities,2018,-
+753504984,Non-current liabilities,2017,-
+753504984,Non-current liabilities,2016,-
+753504984,Non-current liabilities,2015,-
+753504984,Total non-current interest-bearing loans and borrowings ($000s),2024,$403
+753504984,Total non-current interest-bearing loans and borrowings ($000s),2023,"$1,147"
+753504984,Total non-current interest-bearing loans and borrowings ($000s),2022,"$1,722"
+753504984,Total non-current interest-bearing loans and borrowings ($000s),2021,"$4,423"
+753504984,Total non-current interest-bearing loans and borrowings ($000s),2020,"$5,243"
+753504984,Total non-current interest-bearing loans and borrowings ($000s),2019,"$3,132"
+753504984,Total non-current interest-bearing loans and borrowings ($000s),2018,-
+753504984,Total non-current interest-bearing loans and borrowings ($000s),2017,-
+753504984,Total non-current interest-bearing loans and borrowings ($000s),2016,-
+753504984,Total non-current interest-bearing loans and borrowings ($000s),2015,-
+753504984,Deferred tax liabilities ($000s),2024,-
+753504984,Deferred tax liabilities ($000s),2023,-
+753504984,Deferred tax liabilities ($000s),2022,-
+753504984,Deferred tax liabilities ($000s),2021,-
+753504984,Deferred tax liabilities ($000s),2020,-
+753504984,Deferred tax liabilities ($000s),2019,-
+753504984,Deferred tax liabilities ($000s),2018,-
+753504984,Deferred tax liabilities ($000s),2017,-
+753504984,Deferred tax liabilities ($000s),2016,$37
+753504984,Deferred tax liabilities ($000s),2015,$47
+753504984,Convertible redeemable preference shares ($000s),2024,
+753504984,Convertible redeemable preference shares ($000s),2023,
+753504984,Convertible redeemable preference shares ($000s),2022,
+753504984,Convertible redeemable preference shares ($000s),2021,
+753504984,Convertible redeemable preference shares ($000s),2020,-
+753504984,Convertible redeemable preference shares ($000s),2019,-
+753504984,Convertible redeemable preference shares ($000s),2018,-
+753504984,Convertible redeemable preference shares ($000s),2017,-
+753504984,Convertible redeemable preference shares ($000s),2016,-
+753504984,Convertible redeemable preference shares ($000s),2015,-
+753504984,Other non-current liabilities ($000s),2024,$0
+753504984,Other non-current liabilities ($000s),2023,$0
+753504984,Other non-current liabilities ($000s),2022,$0
+753504984,Other non-current liabilities ($000s),2021,$0
+753504984,Other non-current liabilities ($000s),2020,$0
+753504984,Other non-current liabilities ($000s),2019,$0
+753504984,Other non-current liabilities ($000s),2018,$0
+753504984,Other non-current liabilities ($000s),2017,$26
+753504984,Other non-current liabilities ($000s),2016,$79
+753504984,Other non-current liabilities ($000s),2015,$131
+753504984,Total non-current liabilities ($000s),2024,$586
+753504984,Total non-current liabilities ($000s),2023,"$1,261"
+753504984,Total non-current liabilities ($000s),2022,"$1,863"
+753504984,Total non-current liabilities ($000s),2021,"$4,560"
+753504984,Total non-current liabilities ($000s),2020,"$5,391"
+753504984,Total non-current liabilities ($000s),2019,"$3,261"
+753504984,Total non-current liabilities ($000s),2018,$135
+753504984,Total non-current liabilities ($000s),2017,$114
+753504984,Total non-current liabilities ($000s),2016,$236
+753504984,Total non-current liabilities ($000s),2015,$815
+753504984,TOTAL LIABILITIES ($000s),2024,"$7,521"
+753504984,TOTAL LIABILITIES ($000s),2023,"$7,030"
+753504984,TOTAL LIABILITIES ($000s),2022,"$10,588"
+753504984,TOTAL LIABILITIES ($000s),2021,"$8,810"
+753504984,TOTAL LIABILITIES ($000s),2020,"$10,238"
+753504984,TOTAL LIABILITIES ($000s),2019,"$8,668"
+753504984,TOTAL LIABILITIES ($000s),2018,"$4,364"
+753504984,TOTAL LIABILITIES ($000s),2017,"$5,440"
+753504984,TOTAL LIABILITIES ($000s),2016,"$4,952"
+753504984,TOTAL LIABILITIES ($000s),2015,"$6,991"
+753504984,NET ASSETS ($000s),2024,"$4,804"
+753504984,NET ASSETS ($000s),2023,"$4,340"
+753504984,NET ASSETS ($000s),2022,($284)
+753504984,NET ASSETS ($000s),2021,"$1,686"
+753504984,NET ASSETS ($000s),2020,"$1,573"
+753504984,NET ASSETS ($000s),2019,"$7,091"
+753504984,NET ASSETS ($000s),2018,"$9,065"
+753504984,NET ASSETS ($000s),2017,"$8,926"
+753504984,NET ASSETS ($000s),2016,"$8,235"
+753504984,NET ASSETS ($000s),2015,"$7,892"
+753504984,Equity,2024,
+753504984,Equity,2023,
+753504984,Equity,2022,
+753504984,Equity,2021,
+753504984,Equity,2020,-
+753504984,Equity,2019,-
+753504984,Equity,2018,-
+753504984,Equity,2017,-
+753504984,Equity,2016,-
+753504984,Equity,2015,-
+753504984,Equity attributable to equity holders of the parent,2024,
+753504984,Equity attributable to equity holders of the parent,2023,
+753504984,Equity attributable to equity holders of the parent,2022,
+753504984,Equity attributable to equity holders of the parent,2021,
+753504984,Equity attributable to equity holders of the parent,2020,-
+753504984,Equity attributable to equity holders of the parent,2019,-
+753504984,Equity attributable to equity holders of the parent,2018,-
+753504984,Equity attributable to equity holders of the parent,2017,-
+753504984,Equity attributable to equity holders of the parent,2016,-
+753504984,Equity attributable to equity holders of the parent,2015,-
+753504984,Contributed equity ($000s),2024,"$8,155"
+753504984,Contributed equity ($000s),2023,"$8,155"
+753504984,Contributed equity ($000s),2022,"$4,055"
+753504984,Contributed equity ($000s),2021,"$4,055"
+753504984,Contributed equity ($000s),2020,"$2,555"
+753504984,Contributed equity ($000s),2019,"$1,755"
+753504984,Contributed equity ($000s),2018,"$1,755"
+753504984,Contributed equity ($000s),2017,"$1,755"
+753504984,Contributed equity ($000s),2016,"$1,755"
+753504984,Contributed equity ($000s),2015,"$1,755"
+753504984,Retained earnings ($000s),2024,"($3,351)"
+753504984,Retained earnings ($000s),2023,"($3,815)"
+753504984,Retained earnings ($000s),2022,"($4,339)"
+753504984,Retained earnings ($000s),2021,"($2,369)"
+753504984,Retained earnings ($000s),2020,($982)
+753504984,Retained earnings ($000s),2019,"$5,336"
+753504984,Retained earnings ($000s),2018,"$7,310"
+753504984,Retained earnings ($000s),2017,"$7,171"
+753504984,Retained earnings ($000s),2016,"$6,480"
+753504984,Retained earnings ($000s),2015,"$6,138"
+753504984,Reserves ($000s),2024,$0
+753504984,Reserves ($000s),2023,$0
+753504984,Reserves ($000s),2022,$0
+753504984,Reserves ($000s),2021,$0
+753504984,Reserves ($000s),2020,$0
+753504984,Reserves ($000s),2019,$0
+753504984,Reserves ($000s),2018,$0
+753504984,Reserves ($000s),2017,$0
+753504984,Reserves ($000s),2016,$0
+753504984,Reserves ($000s),2015,$0
+753504984,Total Parent interests ($000s),2024,"$4,804"
+753504984,Total Parent interests ($000s),2023,"$4,340"
+753504984,Total Parent interests ($000s),2022,($284)
+753504984,Total Parent interests ($000s),2021,"$1,686"
+753504984,Total Parent interests ($000s),2020,"$1,573"
+753504984,Total Parent interests ($000s),2019,"$7,091"
+753504984,Total Parent interests ($000s),2018,"$9,065"
+753504984,Total Parent interests ($000s),2017,"$8,926"
+753504984,Total Parent interests ($000s),2016,"$8,235"
+753504984,Total Parent interests ($000s),2015,"$7,892"
+753504984,Minority interests ($000s),2024,
+753504984,Minority interests ($000s),2023,
+753504984,Minority interests ($000s),2022,
+753504984,Minority interests ($000s),2021,
+753504984,Minority interests ($000s),2020,-
+753504984,Minority interests ($000s),2019,-
+753504984,Minority interests ($000s),2018,-
+753504984,Minority interests ($000s),2017,-
+753504984,Minority interests ($000s),2016,-
+753504984,Minority interests ($000s),2015,-
+753504984,TOTAL EQUITY ($000s),2024,"$4,804"
+753504984,TOTAL EQUITY ($000s),2023,"$4,340"
+753504984,TOTAL EQUITY ($000s),2022,($284)
+753504984,TOTAL EQUITY ($000s),2021,"$1,686"
+753504984,TOTAL EQUITY ($000s),2020,"$1,573"
+753504984,TOTAL EQUITY ($000s),2019,"$7,091"
+753504984,TOTAL EQUITY ($000s),2018,"$9,065"
+753504984,TOTAL EQUITY ($000s),2017,"$8,926"
+753504984,TOTAL EQUITY ($000s),2016,"$8,235"
+753504984,TOTAL EQUITY ($000s),2015,"$7,892"
+753504984,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2024,"$4,340"
+753504984,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2023,($284)
+753504984,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2022,"$1,686"
+753504984,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2021,"$1,573"
+753504984,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2020,"$7,091"
+753504984,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2019,"$9,065"
+753504984,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2018,"$8,926"
+753504984,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2017,"$8,235"
+753504984,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2016,"$7,892"
+753504984,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2015,"$5,956"

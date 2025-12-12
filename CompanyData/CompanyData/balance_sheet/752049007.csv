@@ -1,0 +1,601 @@
+duns,line_item,year,value
+752049007,Current Assets,2024,
+752049007,Current Assets,2023,
+752049007,Current Assets,2022,
+752049007,Current Assets,2021,
+752049007,Current Assets,2020,-
+752049007,Current Assets,2019,-
+752049007,Current Assets,2018,-
+752049007,Current Assets,2017,-
+752049007,Current Assets,2016,-
+752049007,Current Assets,2015,-
+752049007,Cash and cash equivalents ($000s),2024,"$42,736"
+752049007,Cash and cash equivalents ($000s),2023,"$32,541"
+752049007,Cash and cash equivalents ($000s),2022,"$23,788"
+752049007,Cash and cash equivalents ($000s),2021,"$21,100"
+752049007,Cash and cash equivalents ($000s),2020,"$16,554"
+752049007,Cash and cash equivalents ($000s),2019,-
+752049007,Cash and cash equivalents ($000s),2018,"$7,709"
+752049007,Cash and cash equivalents ($000s),2017,"$5,290"
+752049007,Cash and cash equivalents ($000s),2016,"$3,893"
+752049007,Cash and cash equivalents ($000s),2015,"$2,310"
+752049007,Growth,2024,31.33%
+752049007,Growth,2023,36.80%
+752049007,Growth,2022,12.74%
+752049007,Growth,2021,27.46%
+752049007,Growth,2020,-
+752049007,Growth,2019,-
+752049007,Growth,2018,45.73%
+752049007,Growth,2017,35.88%
+752049007,Growth,2016,68.53%
+752049007,Growth,2015,-
+752049007,Trade receivables ($000s),2024,"$1,301"
+752049007,Trade receivables ($000s),2023,"$1,877"
+752049007,Trade receivables ($000s),2022,"$2,035"
+752049007,Trade receivables ($000s),2021,"$2,000"
+752049007,Trade receivables ($000s),2020,"$1,493"
+752049007,Trade receivables ($000s),2019,-
+752049007,Trade receivables ($000s),2018,"$1,120"
+752049007,Trade receivables ($000s),2017,"$1,208"
+752049007,Trade receivables ($000s),2016,$877
+752049007,Trade receivables ($000s),2015,$561
+752049007,Other receivables ($000s),2024,"$1,577"
+752049007,Other receivables ($000s),2023,"$1,296"
+752049007,Other receivables ($000s),2022,$831
+752049007,Other receivables ($000s),2021,$803
+752049007,Other receivables ($000s),2020,$320
+752049007,Other receivables ($000s),2019,-
+752049007,Other receivables ($000s),2018,$199
+752049007,Other receivables ($000s),2017,$134
+752049007,Other receivables ($000s),2016,$93
+752049007,Other receivables ($000s),2015,$65
+752049007,Raw materials ($000s),2024,$0
+752049007,Raw materials ($000s),2023,$0
+752049007,Raw materials ($000s),2022,$0
+752049007,Raw materials ($000s),2021,$0
+752049007,Raw materials ($000s),2020,$0
+752049007,Raw materials ($000s),2019,-
+752049007,Raw materials ($000s),2018,$0
+752049007,Raw materials ($000s),2017,$0
+752049007,Raw materials ($000s),2016,$0
+752049007,Raw materials ($000s),2015,$0
+752049007,Work-in-progress ($000s),2024,
+752049007,Work-in-progress ($000s),2023,
+752049007,Work-in-progress ($000s),2022,
+752049007,Work-in-progress ($000s),2021,
+752049007,Work-in-progress ($000s),2020,-
+752049007,Work-in-progress ($000s),2019,-
+752049007,Work-in-progress ($000s),2018,-
+752049007,Work-in-progress ($000s),2017,-
+752049007,Work-in-progress ($000s),2016,-
+752049007,Work-in-progress ($000s),2015,-
+752049007,Finished goods ($000s),2024,$0
+752049007,Finished goods ($000s),2023,$0
+752049007,Finished goods ($000s),2022,$0
+752049007,Finished goods ($000s),2021,$0
+752049007,Finished goods ($000s),2020,$0
+752049007,Finished goods ($000s),2019,-
+752049007,Finished goods ($000s),2018,$0
+752049007,Finished goods ($000s),2017,$0
+752049007,Finished goods ($000s),2016,$0
+752049007,Finished goods ($000s),2015,$0
+752049007,Total inventories ($000s),2024,$0
+752049007,Total inventories ($000s),2023,$0
+752049007,Total inventories ($000s),2022,$0
+752049007,Total inventories ($000s),2021,$0
+752049007,Total inventories ($000s),2020,$0
+752049007,Total inventories ($000s),2019,-
+752049007,Total inventories ($000s),2018,$0
+752049007,Total inventories ($000s),2017,$0
+752049007,Total inventories ($000s),2016,$0
+752049007,Total inventories ($000s),2015,$0
+752049007,Prepayments ($000s),2024,$418
+752049007,Prepayments ($000s),2023,$279
+752049007,Prepayments ($000s),2022,$252
+752049007,Prepayments ($000s),2021,$192
+752049007,Prepayments ($000s),2020,$197
+752049007,Prepayments ($000s),2019,-
+752049007,Prepayments ($000s),2018,$59
+752049007,Prepayments ($000s),2017,$73
+752049007,Prepayments ($000s),2016,$33
+752049007,Prepayments ($000s),2015,$29
+752049007,Derivative financial instruments ($000s),2024,
+752049007,Derivative financial instruments ($000s),2023,
+752049007,Derivative financial instruments ($000s),2022,
+752049007,Derivative financial instruments ($000s),2021,
+752049007,Derivative financial instruments ($000s),2020,-
+752049007,Derivative financial instruments ($000s),2019,-
+752049007,Derivative financial instruments ($000s),2018,-
+752049007,Derivative financial instruments ($000s),2017,-
+752049007,Derivative financial instruments ($000s),2016,-
+752049007,Derivative financial instruments ($000s),2015,-
+752049007,Other current assets ($000s),2024,$0
+752049007,Other current assets ($000s),2023,$0
+752049007,Other current assets ($000s),2022,$0
+752049007,Other current assets ($000s),2021,$0
+752049007,Other current assets ($000s),2020,$0
+752049007,Other current assets ($000s),2019,-
+752049007,Other current assets ($000s),2018,$0
+752049007,Other current assets ($000s),2017,$0
+752049007,Other current assets ($000s),2016,$3
+752049007,Other current assets ($000s),2015,$29
+752049007,Total current assets for continuing operations ($000s),2024,"$46,032"
+752049007,Total current assets for continuing operations ($000s),2023,"$35,993"
+752049007,Total current assets for continuing operations ($000s),2022,"$26,907"
+752049007,Total current assets for continuing operations ($000s),2021,"$24,095"
+752049007,Total current assets for continuing operations ($000s),2020,"$18,565"
+752049007,Total current assets for continuing operations ($000s),2019,-
+752049007,Total current assets for continuing operations ($000s),2018,"$9,087"
+752049007,Total current assets for continuing operations ($000s),2017,"$6,705"
+752049007,Total current assets for continuing operations ($000s),2016,"$4,898"
+752049007,Total current assets for continuing operations ($000s),2015,"$2,993"
+752049007,Assets held for sale ($000s),2024,
+752049007,Assets held for sale ($000s),2023,
+752049007,Assets held for sale ($000s),2022,
+752049007,Assets held for sale ($000s),2021,
+752049007,Assets held for sale ($000s),2020,-
+752049007,Assets held for sale ($000s),2019,-
+752049007,Assets held for sale ($000s),2018,-
+752049007,Assets held for sale ($000s),2017,-
+752049007,Assets held for sale ($000s),2016,-
+752049007,Assets held for sale ($000s),2015,-
+752049007,Total current assets ($000s),2024,"$46,032"
+752049007,Total current assets ($000s),2023,"$35,993"
+752049007,Total current assets ($000s),2022,"$26,907"
+752049007,Total current assets ($000s),2021,"$24,095"
+752049007,Total current assets ($000s),2020,"$18,565"
+752049007,Total current assets ($000s),2019,-
+752049007,Total current assets ($000s),2018,"$9,087"
+752049007,Total current assets ($000s),2017,"$6,705"
+752049007,Total current assets ($000s),2016,"$4,898"
+752049007,Total current assets ($000s),2015,"$2,993"
+752049007,Non-current assets,2024,
+752049007,Non-current assets,2023,
+752049007,Non-current assets,2022,
+752049007,Non-current assets,2021,
+752049007,Non-current assets,2020,-
+752049007,Non-current assets,2019,-
+752049007,Non-current assets,2018,-
+752049007,Non-current assets,2017,-
+752049007,Non-current assets,2016,-
+752049007,Non-current assets,2015,-
+752049007,Receivables ($000s),2024,
+752049007,Receivables ($000s),2023,
+752049007,Receivables ($000s),2022,
+752049007,Receivables ($000s),2021,
+752049007,Receivables ($000s),2020,-
+752049007,Receivables ($000s),2019,-
+752049007,Receivables ($000s),2018,-
+752049007,Receivables ($000s),2017,-
+752049007,Receivables ($000s),2016,-
+752049007,Receivables ($000s),2015,-
+752049007,Investments in associates ($000s),2024,$0
+752049007,Investments in associates ($000s),2023,$0
+752049007,Investments in associates ($000s),2022,$0
+752049007,Investments in associates ($000s),2021,$0
+752049007,Investments in associates ($000s),2020,$0
+752049007,Investments in associates ($000s),2019,-
+752049007,Investments in associates ($000s),2018,$0
+752049007,Investments in associates ($000s),2017,$0
+752049007,Investments in associates ($000s),2016,$0
+752049007,Investments in associates ($000s),2015,$0
+752049007,Investments in subsidiaries ($000s),2024,
+752049007,Investments in subsidiaries ($000s),2023,
+752049007,Investments in subsidiaries ($000s),2022,
+752049007,Investments in subsidiaries ($000s),2021,
+752049007,Investments in subsidiaries ($000s),2020,-
+752049007,Investments in subsidiaries ($000s),2019,-
+752049007,Investments in subsidiaries ($000s),2018,-
+752049007,Investments in subsidiaries ($000s),2017,-
+752049007,Investments in subsidiaries ($000s),2016,-
+752049007,Investments in subsidiaries ($000s),2015,-
+752049007,Available for sale financial assets ($000s),2024,$0
+752049007,Available for sale financial assets ($000s),2023,$0
+752049007,Available for sale financial assets ($000s),2022,$0
+752049007,Available for sale financial assets ($000s),2021,$0
+752049007,Available for sale financial assets ($000s),2020,$0
+752049007,Available for sale financial assets ($000s),2019,-
+752049007,Available for sale financial assets ($000s),2018,$0
+752049007,Available for sale financial assets ($000s),2017,$0
+752049007,Available for sale financial assets ($000s),2016,$0
+752049007,Available for sale financial assets ($000s),2015,$0
+752049007,"Property, plant and equipment ($000s)",2024,$298
+752049007,"Property, plant and equipment ($000s)",2023,$415
+752049007,"Property, plant and equipment ($000s)",2022,$544
+752049007,"Property, plant and equipment ($000s)",2021,$696
+752049007,"Property, plant and equipment ($000s)",2020,$847
+752049007,"Property, plant and equipment ($000s)",2019,-
+752049007,"Property, plant and equipment ($000s)",2018,$78
+752049007,"Property, plant and equipment ($000s)",2017,$89
+752049007,"Property, plant and equipment ($000s)",2016,$73
+752049007,"Property, plant and equipment ($000s)",2015,$48
+752049007,Intangible assets and goodwill ($000s),2024,$49
+752049007,Intangible assets and goodwill ($000s),2023,$65
+752049007,Intangible assets and goodwill ($000s),2022,$113
+752049007,Intangible assets and goodwill ($000s),2021,$172
+752049007,Intangible assets and goodwill ($000s),2020,$199
+752049007,Intangible assets and goodwill ($000s),2019,-
+752049007,Intangible assets and goodwill ($000s),2018,$88
+752049007,Intangible assets and goodwill ($000s),2017,$51
+752049007,Intangible assets and goodwill ($000s),2016,$3
+752049007,Intangible assets and goodwill ($000s),2015,$12
+752049007,Deferred tax assets ($000s),2024,"$1,553"
+752049007,Deferred tax assets ($000s),2023,"$1,294"
+752049007,Deferred tax assets ($000s),2022,"$1,093"
+752049007,Deferred tax assets ($000s),2021,"$1,155"
+752049007,Deferred tax assets ($000s),2020,$504
+752049007,Deferred tax assets ($000s),2019,-
+752049007,Deferred tax assets ($000s),2018,$333
+752049007,Deferred tax assets ($000s),2017,$349
+752049007,Deferred tax assets ($000s),2016,$429
+752049007,Deferred tax assets ($000s),2015,$336
+752049007,Other non-current assets ($000s),2024,"$2,972"
+752049007,Other non-current assets ($000s),2023,"$7,518"
+752049007,Other non-current assets ($000s),2022,"$8,705"
+752049007,Other non-current assets ($000s),2021,"$9,893"
+752049007,Other non-current assets ($000s),2020,"$11,080"
+752049007,Other non-current assets ($000s),2019,-
+752049007,Other non-current assets ($000s),2018,$0
+752049007,Other non-current assets ($000s),2017,$0
+752049007,Other non-current assets ($000s),2016,$0
+752049007,Other non-current assets ($000s),2015,$0
+752049007,Total non-current assets ($000s),2024,"$4,872"
+752049007,Total non-current assets ($000s),2023,"$9,291"
+752049007,Total non-current assets ($000s),2022,"$10,455"
+752049007,Total non-current assets ($000s),2021,"$11,916"
+752049007,Total non-current assets ($000s),2020,"$12,631"
+752049007,Total non-current assets ($000s),2019,-
+752049007,Total non-current assets ($000s),2018,$499
+752049007,Total non-current assets ($000s),2017,$489
+752049007,Total non-current assets ($000s),2016,$506
+752049007,Total non-current assets ($000s),2015,$396
+752049007,TOTAL ASSETS ($000s),2024,"$50,904"
+752049007,TOTAL ASSETS ($000s),2023,"$45,284"
+752049007,TOTAL ASSETS ($000s),2022,"$37,362"
+752049007,TOTAL ASSETS ($000s),2021,"$36,011"
+752049007,TOTAL ASSETS ($000s),2020,"$31,196"
+752049007,TOTAL ASSETS ($000s),2019,-
+752049007,TOTAL ASSETS ($000s),2018,"$9,586"
+752049007,TOTAL ASSETS ($000s),2017,"$7,194"
+752049007,TOTAL ASSETS ($000s),2016,"$5,404"
+752049007,TOTAL ASSETS ($000s),2015,"$3,389"
+752049007,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2024,"$45,284"
+752049007,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2023,"$37,362"
+752049007,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2022,"$36,011"
+752049007,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2021,"$31,196"
+752049007,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2020,-
+752049007,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2019,-
+752049007,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2018,"$7,194"
+752049007,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2017,"$5,404"
+752049007,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2016,"$3,389"
+752049007,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2015,"$2,354"
+752049007,Current liabilities,2024,
+752049007,Current liabilities,2023,
+752049007,Current liabilities,2022,
+752049007,Current liabilities,2021,
+752049007,Current liabilities,2020,-
+752049007,Current liabilities,2019,-
+752049007,Current liabilities,2018,-
+752049007,Current liabilities,2017,-
+752049007,Current liabilities,2016,-
+752049007,Current liabilities,2015,-
+752049007,Trade payables ($000s),2024,$173
+752049007,Trade payables ($000s),2023,$91
+752049007,Trade payables ($000s),2022,$208
+752049007,Trade payables ($000s),2021,$365
+752049007,Trade payables ($000s),2020,$358
+752049007,Trade payables ($000s),2019,-
+752049007,Trade payables ($000s),2018,$790
+752049007,Trade payables ($000s),2017,$679
+752049007,Trade payables ($000s),2016,$293
+752049007,Trade payables ($000s),2015,$118
+752049007,Other payables ($000s),2024,"$3,279"
+752049007,Other payables ($000s),2023,"$1,424"
+752049007,Other payables ($000s),2022,"$1,530"
+752049007,Other payables ($000s),2021,"$1,177"
+752049007,Other payables ($000s),2020,$570
+752049007,Other payables ($000s),2019,-
+752049007,Other payables ($000s),2018,$499
+752049007,Other payables ($000s),2017,$493
+752049007,Other payables ($000s),2016,$580
+752049007,Other payables ($000s),2015,"$1,160"
+752049007,Overdrafts ($000s),2024,
+752049007,Overdrafts ($000s),2023,
+752049007,Overdrafts ($000s),2022,
+752049007,Overdrafts ($000s),2021,
+752049007,Overdrafts ($000s),2020,-
+752049007,Overdrafts ($000s),2019,-
+752049007,Overdrafts ($000s),2018,-
+752049007,Overdrafts ($000s),2017,-
+752049007,Overdrafts ($000s),2016,-
+752049007,Overdrafts ($000s),2015,-
+752049007,Loans - secured ($000s),2024,
+752049007,Loans - secured ($000s),2023,
+752049007,Loans - secured ($000s),2022,
+752049007,Loans - secured ($000s),2021,
+752049007,Loans - secured ($000s),2020,-
+752049007,Loans - secured ($000s),2019,-
+752049007,Loans - secured ($000s),2018,-
+752049007,Loans - secured ($000s),2017,-
+752049007,Loans - secured ($000s),2016,-
+752049007,Loans - secured ($000s),2015,-
+752049007,Loans - unsecured ($000s),2024,
+752049007,Loans - unsecured ($000s),2023,
+752049007,Loans - unsecured ($000s),2022,
+752049007,Loans - unsecured ($000s),2021,
+752049007,Loans - unsecured ($000s),2020,-
+752049007,Loans - unsecured ($000s),2019,-
+752049007,Loans - unsecured ($000s),2018,-
+752049007,Loans - unsecured ($000s),2017,-
+752049007,Loans - unsecured ($000s),2016,-
+752049007,Loans - unsecured ($000s),2015,-
+752049007,Obligations under finance leases and hire purchase ($000s),2024,$637
+752049007,Obligations under finance leases and hire purchase ($000s),2023,$656
+752049007,Obligations under finance leases and hire purchase ($000s),2022,$594
+752049007,Obligations under finance leases and hire purchase ($000s),2021,$535
+752049007,Obligations under finance leases and hire purchase ($000s),2020,$480
+752049007,Obligations under finance leases and hire purchase ($000s),2019,-
+752049007,Obligations under finance leases and hire purchase ($000s),2018,-
+752049007,Obligations under finance leases and hire purchase ($000s),2017,-
+752049007,Obligations under finance leases and hire purchase ($000s),2016,-
+752049007,Obligations under finance leases and hire purchase ($000s),2015,-
+752049007,Loans from related parties ($000s),2024,-
+752049007,Loans from related parties ($000s),2023,"$1,167"
+752049007,Loans from related parties ($000s),2022,$422
+752049007,Loans from related parties ($000s),2021,"$1,194"
+752049007,Loans from related parties ($000s),2020,-
+752049007,Loans from related parties ($000s),2019,-
+752049007,Loans from related parties ($000s),2018,-
+752049007,Loans from related parties ($000s),2017,-
+752049007,Loans from related parties ($000s),2016,$315
+752049007,Loans from related parties ($000s),2015,-
+752049007,Total current interest-bearing loans and borrowings ($000s),2024,$637
+752049007,Total current interest-bearing loans and borrowings ($000s),2023,"$1,822"
+752049007,Total current interest-bearing loans and borrowings ($000s),2022,"$1,016"
+752049007,Total current interest-bearing loans and borrowings ($000s),2021,"$1,729"
+752049007,Total current interest-bearing loans and borrowings ($000s),2020,$480
+752049007,Total current interest-bearing loans and borrowings ($000s),2019,-
+752049007,Total current interest-bearing loans and borrowings ($000s),2018,-
+752049007,Total current interest-bearing loans and borrowings ($000s),2017,-
+752049007,Total current interest-bearing loans and borrowings ($000s),2016,$315
+752049007,Total current interest-bearing loans and borrowings ($000s),2015,-
+752049007,Income tax payable/(refundable) ($000s),2024,"$1,918"
+752049007,Income tax payable/(refundable) ($000s),2023,"$1,490"
+752049007,Income tax payable/(refundable) ($000s),2022,$161
+752049007,Income tax payable/(refundable) ($000s),2021,$866
+752049007,Income tax payable/(refundable) ($000s),2020,$132
+752049007,Income tax payable/(refundable) ($000s),2019,-
+752049007,Income tax payable/(refundable) ($000s),2018,"$1,214"
+752049007,Income tax payable/(refundable) ($000s),2017,$724
+752049007,Income tax payable/(refundable) ($000s),2016,-
+752049007,Income tax payable/(refundable) ($000s),2015,-
+752049007,Provisions ($000s),2024,"$2,459"
+752049007,Provisions ($000s),2023,"$2,202"
+752049007,Provisions ($000s),2022,"$2,117"
+752049007,Provisions ($000s),2021,"$2,421"
+752049007,Provisions ($000s),2020,"$1,512"
+752049007,Provisions ($000s),2019,-
+752049007,Provisions ($000s),2018,"$1,019"
+752049007,Provisions ($000s),2017,$951
+752049007,Provisions ($000s),2016,"$1,118"
+752049007,Provisions ($000s),2015,$293
+752049007,Other current liabilities ($000s),2024,$0
+752049007,Other current liabilities ($000s),2023,$0
+752049007,Other current liabilities ($000s),2022,$0
+752049007,Other current liabilities ($000s),2021,$0
+752049007,Other current liabilities ($000s),2020,$0
+752049007,Other current liabilities ($000s),2019,-
+752049007,Other current liabilities ($000s),2018,$0
+752049007,Other current liabilities ($000s),2017,$0
+752049007,Other current liabilities ($000s),2016,$0
+752049007,Other current liabilities ($000s),2015,$270
+752049007,Total current liabilities for continuing operations ($000s),2024,"$8,467"
+752049007,Total current liabilities for continuing operations ($000s),2023,"$7,029"
+752049007,Total current liabilities for continuing operations ($000s),2022,"$5,031"
+752049007,Total current liabilities for continuing operations ($000s),2021,"$6,558"
+752049007,Total current liabilities for continuing operations ($000s),2020,"$3,052"
+752049007,Total current liabilities for continuing operations ($000s),2019,-
+752049007,Total current liabilities for continuing operations ($000s),2018,"$3,523"
+752049007,Total current liabilities for continuing operations ($000s),2017,"$2,847"
+752049007,Total current liabilities for continuing operations ($000s),2016,"$2,306"
+752049007,Total current liabilities for continuing operations ($000s),2015,"$1,841"
+752049007,Liabilities directly associated with assets held for sale ($000s),2024,
+752049007,Liabilities directly associated with assets held for sale ($000s),2023,
+752049007,Liabilities directly associated with assets held for sale ($000s),2022,
+752049007,Liabilities directly associated with assets held for sale ($000s),2021,
+752049007,Liabilities directly associated with assets held for sale ($000s),2020,-
+752049007,Liabilities directly associated with assets held for sale ($000s),2019,-
+752049007,Liabilities directly associated with assets held for sale ($000s),2018,-
+752049007,Liabilities directly associated with assets held for sale ($000s),2017,-
+752049007,Liabilities directly associated with assets held for sale ($000s),2016,-
+752049007,Liabilities directly associated with assets held for sale ($000s),2015,-
+752049007,Total current liabilities ($000s),2024,"$8,467"
+752049007,Total current liabilities ($000s),2023,"$7,029"
+752049007,Total current liabilities ($000s),2022,"$5,031"
+752049007,Total current liabilities ($000s),2021,"$6,558"
+752049007,Total current liabilities ($000s),2020,"$3,052"
+752049007,Total current liabilities ($000s),2019,-
+752049007,Total current liabilities ($000s),2018,"$3,523"
+752049007,Total current liabilities ($000s),2017,"$2,847"
+752049007,Total current liabilities ($000s),2016,"$2,306"
+752049007,Total current liabilities ($000s),2015,"$1,841"
+752049007,Total current liabilities for previous year ($000s),2024,"$7,029"
+752049007,Total current liabilities for previous year ($000s),2023,"$5,031"
+752049007,Total current liabilities for previous year ($000s),2022,"$6,558"
+752049007,Total current liabilities for previous year ($000s),2021,"$3,052"
+752049007,Total current liabilities for previous year ($000s),2020,-
+752049007,Total current liabilities for previous year ($000s),2019,-
+752049007,Total current liabilities for previous year ($000s),2018,"$2,847"
+752049007,Total current liabilities for previous year ($000s),2017,"$2,306"
+752049007,Total current liabilities for previous year ($000s),2016,"$1,841"
+752049007,Total current liabilities for previous year ($000s),2015,"$1,580"
+752049007,Non-current liabilities,2024,
+752049007,Non-current liabilities,2023,
+752049007,Non-current liabilities,2022,
+752049007,Non-current liabilities,2021,
+752049007,Non-current liabilities,2020,-
+752049007,Non-current liabilities,2019,-
+752049007,Non-current liabilities,2018,-
+752049007,Non-current liabilities,2017,-
+752049007,Non-current liabilities,2016,-
+752049007,Non-current liabilities,2015,-
+752049007,Total non-current interest-bearing loans and borrowings ($000s),2024,"$1,718"
+752049007,Total non-current interest-bearing loans and borrowings ($000s),2023,"$5,743"
+752049007,Total non-current interest-bearing loans and borrowings ($000s),2022,"$6,398"
+752049007,Total non-current interest-bearing loans and borrowings ($000s),2021,"$6,992"
+752049007,Total non-current interest-bearing loans and borrowings ($000s),2020,"$7,528"
+752049007,Total non-current interest-bearing loans and borrowings ($000s),2019,-
+752049007,Total non-current interest-bearing loans and borrowings ($000s),2018,-
+752049007,Total non-current interest-bearing loans and borrowings ($000s),2017,-
+752049007,Total non-current interest-bearing loans and borrowings ($000s),2016,-
+752049007,Total non-current interest-bearing loans and borrowings ($000s),2015,-
+752049007,Deferred tax liabilities ($000s),2024,
+752049007,Deferred tax liabilities ($000s),2023,
+752049007,Deferred tax liabilities ($000s),2022,
+752049007,Deferred tax liabilities ($000s),2021,
+752049007,Deferred tax liabilities ($000s),2020,-
+752049007,Deferred tax liabilities ($000s),2019,-
+752049007,Deferred tax liabilities ($000s),2018,-
+752049007,Deferred tax liabilities ($000s),2017,-
+752049007,Deferred tax liabilities ($000s),2016,-
+752049007,Deferred tax liabilities ($000s),2015,-
+752049007,Convertible redeemable preference shares ($000s),2024,
+752049007,Convertible redeemable preference shares ($000s),2023,
+752049007,Convertible redeemable preference shares ($000s),2022,
+752049007,Convertible redeemable preference shares ($000s),2021,
+752049007,Convertible redeemable preference shares ($000s),2020,-
+752049007,Convertible redeemable preference shares ($000s),2019,-
+752049007,Convertible redeemable preference shares ($000s),2018,-
+752049007,Convertible redeemable preference shares ($000s),2017,-
+752049007,Convertible redeemable preference shares ($000s),2016,-
+752049007,Convertible redeemable preference shares ($000s),2015,-
+752049007,Other non-current liabilities ($000s),2024,$0
+752049007,Other non-current liabilities ($000s),2023,$0
+752049007,Other non-current liabilities ($000s),2022,$0
+752049007,Other non-current liabilities ($000s),2021,$0
+752049007,Other non-current liabilities ($000s),2020,$0
+752049007,Other non-current liabilities ($000s),2019,-
+752049007,Other non-current liabilities ($000s),2018,$0
+752049007,Other non-current liabilities ($000s),2017,$0
+752049007,Other non-current liabilities ($000s),2016,$0
+752049007,Other non-current liabilities ($000s),2015,$0
+752049007,Total non-current liabilities ($000s),2024,"$3,048"
+752049007,Total non-current liabilities ($000s),2023,"$7,009"
+752049007,Total non-current liabilities ($000s),2022,"$7,448"
+752049007,Total non-current liabilities ($000s),2021,"$8,045"
+752049007,Total non-current liabilities ($000s),2020,"$8,210"
+752049007,Total non-current liabilities ($000s),2019,-
+752049007,Total non-current liabilities ($000s),2018,$91
+752049007,Total non-current liabilities ($000s),2017,$89
+752049007,Total non-current liabilities ($000s),2016,$103
+752049007,Total non-current liabilities ($000s),2015,$56
+752049007,TOTAL LIABILITIES ($000s),2024,"$11,515"
+752049007,TOTAL LIABILITIES ($000s),2023,"$14,039"
+752049007,TOTAL LIABILITIES ($000s),2022,"$12,479"
+752049007,TOTAL LIABILITIES ($000s),2021,"$14,604"
+752049007,TOTAL LIABILITIES ($000s),2020,"$11,261"
+752049007,TOTAL LIABILITIES ($000s),2019,-
+752049007,TOTAL LIABILITIES ($000s),2018,"$3,614"
+752049007,TOTAL LIABILITIES ($000s),2017,"$2,936"
+752049007,TOTAL LIABILITIES ($000s),2016,"$2,409"
+752049007,TOTAL LIABILITIES ($000s),2015,"$1,897"
+752049007,NET ASSETS ($000s),2024,"$39,389"
+752049007,NET ASSETS ($000s),2023,"$31,246"
+752049007,NET ASSETS ($000s),2022,"$24,883"
+752049007,NET ASSETS ($000s),2021,"$21,407"
+752049007,NET ASSETS ($000s),2020,"$19,934"
+752049007,NET ASSETS ($000s),2019,-
+752049007,NET ASSETS ($000s),2018,"$5,972"
+752049007,NET ASSETS ($000s),2017,"$4,258"
+752049007,NET ASSETS ($000s),2016,"$2,995"
+752049007,NET ASSETS ($000s),2015,"$1,492"
+752049007,Equity,2024,
+752049007,Equity,2023,
+752049007,Equity,2022,
+752049007,Equity,2021,
+752049007,Equity,2020,-
+752049007,Equity,2019,-
+752049007,Equity,2018,-
+752049007,Equity,2017,-
+752049007,Equity,2016,-
+752049007,Equity,2015,-
+752049007,Equity attributable to equity holders of the parent,2024,
+752049007,Equity attributable to equity holders of the parent,2023,
+752049007,Equity attributable to equity holders of the parent,2022,
+752049007,Equity attributable to equity holders of the parent,2021,
+752049007,Equity attributable to equity holders of the parent,2020,-
+752049007,Equity attributable to equity holders of the parent,2019,-
+752049007,Equity attributable to equity holders of the parent,2018,-
+752049007,Equity attributable to equity holders of the parent,2017,-
+752049007,Equity attributable to equity holders of the parent,2016,-
+752049007,Equity attributable to equity holders of the parent,2015,-
+752049007,Contributed equity ($000s),2024,"$73,454"
+752049007,Contributed equity ($000s),2023,"$73,454"
+752049007,Contributed equity ($000s),2022,"$73,454"
+752049007,Contributed equity ($000s),2021,"$73,454"
+752049007,Contributed equity ($000s),2020,"$73,454"
+752049007,Contributed equity ($000s),2019,-
+752049007,Contributed equity ($000s),2018,"$64,338"
+752049007,Contributed equity ($000s),2017,"$64,338"
+752049007,Contributed equity ($000s),2016,"$64,338"
+752049007,Contributed equity ($000s),2015,"$63,338"
+752049007,Retained earnings ($000s),2024,"($34,065)"
+752049007,Retained earnings ($000s),2023,"($42,208)"
+752049007,Retained earnings ($000s),2022,"($48,571)"
+752049007,Retained earnings ($000s),2021,"($52,046)"
+752049007,Retained earnings ($000s),2020,"($53,519)"
+752049007,Retained earnings ($000s),2019,-
+752049007,Retained earnings ($000s),2018,"($58,366)"
+752049007,Retained earnings ($000s),2017,"($60,080)"
+752049007,Retained earnings ($000s),2016,"($61,343)"
+752049007,Retained earnings ($000s),2015,"($61,846)"
+752049007,Reserves ($000s),2024,$0
+752049007,Reserves ($000s),2023,$0
+752049007,Reserves ($000s),2022,$0
+752049007,Reserves ($000s),2021,$0
+752049007,Reserves ($000s),2020,$0
+752049007,Reserves ($000s),2019,-
+752049007,Reserves ($000s),2018,$0
+752049007,Reserves ($000s),2017,$0
+752049007,Reserves ($000s),2016,$0
+752049007,Reserves ($000s),2015,$0
+752049007,Total Parent interests ($000s),2024,"$39,389"
+752049007,Total Parent interests ($000s),2023,"$31,246"
+752049007,Total Parent interests ($000s),2022,"$24,883"
+752049007,Total Parent interests ($000s),2021,"$21,407"
+752049007,Total Parent interests ($000s),2020,"$19,934"
+752049007,Total Parent interests ($000s),2019,-
+752049007,Total Parent interests ($000s),2018,"$5,972"
+752049007,Total Parent interests ($000s),2017,"$4,258"
+752049007,Total Parent interests ($000s),2016,"$2,995"
+752049007,Total Parent interests ($000s),2015,"$1,492"
+752049007,Minority interests ($000s),2024,
+752049007,Minority interests ($000s),2023,
+752049007,Minority interests ($000s),2022,
+752049007,Minority interests ($000s),2021,
+752049007,Minority interests ($000s),2020,-
+752049007,Minority interests ($000s),2019,-
+752049007,Minority interests ($000s),2018,-
+752049007,Minority interests ($000s),2017,-
+752049007,Minority interests ($000s),2016,-
+752049007,Minority interests ($000s),2015,-
+752049007,TOTAL EQUITY ($000s),2024,"$39,389"
+752049007,TOTAL EQUITY ($000s),2023,"$31,246"
+752049007,TOTAL EQUITY ($000s),2022,"$24,883"
+752049007,TOTAL EQUITY ($000s),2021,"$21,407"
+752049007,TOTAL EQUITY ($000s),2020,"$19,934"
+752049007,TOTAL EQUITY ($000s),2019,-
+752049007,TOTAL EQUITY ($000s),2018,"$5,972"
+752049007,TOTAL EQUITY ($000s),2017,"$4,258"
+752049007,TOTAL EQUITY ($000s),2016,"$2,995"
+752049007,TOTAL EQUITY ($000s),2015,"$1,492"
+752049007,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2024,"$31,246"
+752049007,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2023,"$24,883"
+752049007,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2022,"$21,407"
+752049007,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2021,"$19,934"
+752049007,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2020,-
+752049007,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2019,-
+752049007,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2018,"$4,258"
+752049007,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2017,"$2,995"
+752049007,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2016,"$1,492"
+752049007,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2015,$729

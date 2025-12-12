@@ -1,0 +1,601 @@
+duns,line_item,year,value
+752855408,Current Assets,2025,
+752855408,Current Assets,2024,
+752855408,Current Assets,2023,
+752855408,Current Assets,2022,
+752855408,Current Assets,2021,-
+752855408,Current Assets,2020,-
+752855408,Current Assets,2019,-
+752855408,Current Assets,2018,-
+752855408,Current Assets,2017,-
+752855408,Current Assets,2016,-
+752855408,Cash and cash equivalents ($000s),2025,"$4,336"
+752855408,Cash and cash equivalents ($000s),2024,"$1,068"
+752855408,Cash and cash equivalents ($000s),2023,-
+752855408,Cash and cash equivalents ($000s),2022,"$1,609"
+752855408,Cash and cash equivalents ($000s),2021,"$2,041"
+752855408,Cash and cash equivalents ($000s),2020,$748
+752855408,Cash and cash equivalents ($000s),2019,"$1,528"
+752855408,Cash and cash equivalents ($000s),2018,$17
+752855408,Cash and cash equivalents ($000s),2017,-
+752855408,Cash and cash equivalents ($000s),2016,-
+752855408,Growth,2025,305.99%
+752855408,Growth,2024,-
+752855408,Growth,2023,-
+752855408,Growth,2022,(21.17%)
+752855408,Growth,2021,172.86%
+752855408,Growth,2020,(51.05%)
+752855408,Growth,2019,"8,888.24%"
+752855408,Growth,2018,-
+752855408,Growth,2017,-
+752855408,Growth,2016,-
+752855408,Trade receivables ($000s),2025,"$4,879"
+752855408,Trade receivables ($000s),2024,"$7,788"
+752855408,Trade receivables ($000s),2023,-
+752855408,Trade receivables ($000s),2022,"$3,975"
+752855408,Trade receivables ($000s),2021,"$5,598"
+752855408,Trade receivables ($000s),2020,"$5,252"
+752855408,Trade receivables ($000s),2019,"$7,779"
+752855408,Trade receivables ($000s),2018,"$6,263"
+752855408,Trade receivables ($000s),2017,-
+752855408,Trade receivables ($000s),2016,-
+752855408,Other receivables ($000s),2025,"$1,419"
+752855408,Other receivables ($000s),2024,"$1,458"
+752855408,Other receivables ($000s),2023,-
+752855408,Other receivables ($000s),2022,"$1,981"
+752855408,Other receivables ($000s),2021,"$1,133"
+752855408,Other receivables ($000s),2020,$3
+752855408,Other receivables ($000s),2019,$401
+752855408,Other receivables ($000s),2018,$178
+752855408,Other receivables ($000s),2017,-
+752855408,Other receivables ($000s),2016,-
+752855408,Raw materials ($000s),2025,$0
+752855408,Raw materials ($000s),2024,$0
+752855408,Raw materials ($000s),2023,-
+752855408,Raw materials ($000s),2022,$0
+752855408,Raw materials ($000s),2021,$0
+752855408,Raw materials ($000s),2020,$0
+752855408,Raw materials ($000s),2019,$0
+752855408,Raw materials ($000s),2018,$0
+752855408,Raw materials ($000s),2017,-
+752855408,Raw materials ($000s),2016,-
+752855408,Work-in-progress ($000s),2025,"$1,135"
+752855408,Work-in-progress ($000s),2024,$807
+752855408,Work-in-progress ($000s),2023,-
+752855408,Work-in-progress ($000s),2022,$181
+752855408,Work-in-progress ($000s),2021,$909
+752855408,Work-in-progress ($000s),2020,$274
+752855408,Work-in-progress ($000s),2019,$224
+752855408,Work-in-progress ($000s),2018,$559
+752855408,Work-in-progress ($000s),2017,-
+752855408,Work-in-progress ($000s),2016,-
+752855408,Finished goods ($000s),2025,$34
+752855408,Finished goods ($000s),2024,$39
+752855408,Finished goods ($000s),2023,-
+752855408,Finished goods ($000s),2022,$50
+752855408,Finished goods ($000s),2021,$57
+752855408,Finished goods ($000s),2020,$43
+752855408,Finished goods ($000s),2019,$34
+752855408,Finished goods ($000s),2018,$50
+752855408,Finished goods ($000s),2017,-
+752855408,Finished goods ($000s),2016,-
+752855408,Total inventories ($000s),2025,"$1,169"
+752855408,Total inventories ($000s),2024,$846
+752855408,Total inventories ($000s),2023,-
+752855408,Total inventories ($000s),2022,$231
+752855408,Total inventories ($000s),2021,$966
+752855408,Total inventories ($000s),2020,$317
+752855408,Total inventories ($000s),2019,$259
+752855408,Total inventories ($000s),2018,$609
+752855408,Total inventories ($000s),2017,-
+752855408,Total inventories ($000s),2016,-
+752855408,Prepayments ($000s),2025,$166
+752855408,Prepayments ($000s),2024,$167
+752855408,Prepayments ($000s),2023,-
+752855408,Prepayments ($000s),2022,$173
+752855408,Prepayments ($000s),2021,$81
+752855408,Prepayments ($000s),2020,$113
+752855408,Prepayments ($000s),2019,-
+752855408,Prepayments ($000s),2018,-
+752855408,Prepayments ($000s),2017,-
+752855408,Prepayments ($000s),2016,-
+752855408,Derivative financial instruments ($000s),2025,
+752855408,Derivative financial instruments ($000s),2024,
+752855408,Derivative financial instruments ($000s),2023,
+752855408,Derivative financial instruments ($000s),2022,
+752855408,Derivative financial instruments ($000s),2021,-
+752855408,Derivative financial instruments ($000s),2020,-
+752855408,Derivative financial instruments ($000s),2019,-
+752855408,Derivative financial instruments ($000s),2018,-
+752855408,Derivative financial instruments ($000s),2017,-
+752855408,Derivative financial instruments ($000s),2016,-
+752855408,Other current assets ($000s),2025,$0
+752855408,Other current assets ($000s),2024,$0
+752855408,Other current assets ($000s),2023,-
+752855408,Other current assets ($000s),2022,$0
+752855408,Other current assets ($000s),2021,$16
+752855408,Other current assets ($000s),2020,$920
+752855408,Other current assets ($000s),2019,$827
+752855408,Other current assets ($000s),2018,$527
+752855408,Other current assets ($000s),2017,-
+752855408,Other current assets ($000s),2016,-
+752855408,Total current assets for continuing operations ($000s),2025,"$11,968"
+752855408,Total current assets for continuing operations ($000s),2024,"$11,327"
+752855408,Total current assets for continuing operations ($000s),2023,-
+752855408,Total current assets for continuing operations ($000s),2022,"$7,969"
+752855408,Total current assets for continuing operations ($000s),2021,"$9,835"
+752855408,Total current assets for continuing operations ($000s),2020,"$7,353"
+752855408,Total current assets for continuing operations ($000s),2019,"$10,794"
+752855408,Total current assets for continuing operations ($000s),2018,"$7,594"
+752855408,Total current assets for continuing operations ($000s),2017,-
+752855408,Total current assets for continuing operations ($000s),2016,-
+752855408,Assets held for sale ($000s),2025,
+752855408,Assets held for sale ($000s),2024,
+752855408,Assets held for sale ($000s),2023,
+752855408,Assets held for sale ($000s),2022,
+752855408,Assets held for sale ($000s),2021,-
+752855408,Assets held for sale ($000s),2020,-
+752855408,Assets held for sale ($000s),2019,-
+752855408,Assets held for sale ($000s),2018,-
+752855408,Assets held for sale ($000s),2017,-
+752855408,Assets held for sale ($000s),2016,-
+752855408,Total current assets ($000s),2025,"$11,968"
+752855408,Total current assets ($000s),2024,"$11,327"
+752855408,Total current assets ($000s),2023,-
+752855408,Total current assets ($000s),2022,"$7,969"
+752855408,Total current assets ($000s),2021,"$9,835"
+752855408,Total current assets ($000s),2020,"$7,353"
+752855408,Total current assets ($000s),2019,"$10,794"
+752855408,Total current assets ($000s),2018,"$7,594"
+752855408,Total current assets ($000s),2017,-
+752855408,Total current assets ($000s),2016,-
+752855408,Non-current assets,2025,
+752855408,Non-current assets,2024,
+752855408,Non-current assets,2023,
+752855408,Non-current assets,2022,
+752855408,Non-current assets,2021,-
+752855408,Non-current assets,2020,-
+752855408,Non-current assets,2019,-
+752855408,Non-current assets,2018,-
+752855408,Non-current assets,2017,-
+752855408,Non-current assets,2016,-
+752855408,Receivables ($000s),2025,
+752855408,Receivables ($000s),2024,
+752855408,Receivables ($000s),2023,
+752855408,Receivables ($000s),2022,
+752855408,Receivables ($000s),2021,-
+752855408,Receivables ($000s),2020,-
+752855408,Receivables ($000s),2019,-
+752855408,Receivables ($000s),2018,-
+752855408,Receivables ($000s),2017,-
+752855408,Receivables ($000s),2016,-
+752855408,Investments in associates ($000s),2025,$0
+752855408,Investments in associates ($000s),2024,$0
+752855408,Investments in associates ($000s),2023,-
+752855408,Investments in associates ($000s),2022,$0
+752855408,Investments in associates ($000s),2021,$0
+752855408,Investments in associates ($000s),2020,$0
+752855408,Investments in associates ($000s),2019,$0
+752855408,Investments in associates ($000s),2018,$0
+752855408,Investments in associates ($000s),2017,-
+752855408,Investments in associates ($000s),2016,-
+752855408,Investments in subsidiaries ($000s),2025,
+752855408,Investments in subsidiaries ($000s),2024,
+752855408,Investments in subsidiaries ($000s),2023,
+752855408,Investments in subsidiaries ($000s),2022,
+752855408,Investments in subsidiaries ($000s),2021,-
+752855408,Investments in subsidiaries ($000s),2020,-
+752855408,Investments in subsidiaries ($000s),2019,-
+752855408,Investments in subsidiaries ($000s),2018,-
+752855408,Investments in subsidiaries ($000s),2017,-
+752855408,Investments in subsidiaries ($000s),2016,-
+752855408,Available for sale financial assets ($000s),2025,$0
+752855408,Available for sale financial assets ($000s),2024,$0
+752855408,Available for sale financial assets ($000s),2023,-
+752855408,Available for sale financial assets ($000s),2022,$0
+752855408,Available for sale financial assets ($000s),2021,$0
+752855408,Available for sale financial assets ($000s),2020,$0
+752855408,Available for sale financial assets ($000s),2019,$0
+752855408,Available for sale financial assets ($000s),2018,$0
+752855408,Available for sale financial assets ($000s),2017,-
+752855408,Available for sale financial assets ($000s),2016,-
+752855408,"Property, plant and equipment ($000s)",2025,$234
+752855408,"Property, plant and equipment ($000s)",2024,$216
+752855408,"Property, plant and equipment ($000s)",2023,-
+752855408,"Property, plant and equipment ($000s)",2022,$304
+752855408,"Property, plant and equipment ($000s)",2021,$387
+752855408,"Property, plant and equipment ($000s)",2020,$411
+752855408,"Property, plant and equipment ($000s)",2019,$337
+752855408,"Property, plant and equipment ($000s)",2018,$329
+752855408,"Property, plant and equipment ($000s)",2017,-
+752855408,"Property, plant and equipment ($000s)",2016,-
+752855408,Intangible assets and goodwill ($000s),2025,$0
+752855408,Intangible assets and goodwill ($000s),2024,$0
+752855408,Intangible assets and goodwill ($000s),2023,-
+752855408,Intangible assets and goodwill ($000s),2022,$0
+752855408,Intangible assets and goodwill ($000s),2021,$0
+752855408,Intangible assets and goodwill ($000s),2020,$0
+752855408,Intangible assets and goodwill ($000s),2019,$0
+752855408,Intangible assets and goodwill ($000s),2018,$0
+752855408,Intangible assets and goodwill ($000s),2017,-
+752855408,Intangible assets and goodwill ($000s),2016,-
+752855408,Deferred tax assets ($000s),2025,$257
+752855408,Deferred tax assets ($000s),2024,$538
+752855408,Deferred tax assets ($000s),2023,-
+752855408,Deferred tax assets ($000s),2022,$451
+752855408,Deferred tax assets ($000s),2021,$215
+752855408,Deferred tax assets ($000s),2020,$374
+752855408,Deferred tax assets ($000s),2019,$67
+752855408,Deferred tax assets ($000s),2018,-
+752855408,Deferred tax assets ($000s),2017,-
+752855408,Deferred tax assets ($000s),2016,-
+752855408,Other non-current assets ($000s),2025,$0
+752855408,Other non-current assets ($000s),2024,$0
+752855408,Other non-current assets ($000s),2023,-
+752855408,Other non-current assets ($000s),2022,$0
+752855408,Other non-current assets ($000s),2021,$0
+752855408,Other non-current assets ($000s),2020,$0
+752855408,Other non-current assets ($000s),2019,$0
+752855408,Other non-current assets ($000s),2018,$0
+752855408,Other non-current assets ($000s),2017,-
+752855408,Other non-current assets ($000s),2016,-
+752855408,Total non-current assets ($000s),2025,$490
+752855408,Total non-current assets ($000s),2024,$754
+752855408,Total non-current assets ($000s),2023,-
+752855408,Total non-current assets ($000s),2022,$755
+752855408,Total non-current assets ($000s),2021,$601
+752855408,Total non-current assets ($000s),2020,$785
+752855408,Total non-current assets ($000s),2019,$404
+752855408,Total non-current assets ($000s),2018,$329
+752855408,Total non-current assets ($000s),2017,-
+752855408,Total non-current assets ($000s),2016,-
+752855408,TOTAL ASSETS ($000s),2025,"$12,459"
+752855408,TOTAL ASSETS ($000s),2024,"$12,081"
+752855408,TOTAL ASSETS ($000s),2023,-
+752855408,TOTAL ASSETS ($000s),2022,"$8,725"
+752855408,TOTAL ASSETS ($000s),2021,"$10,436"
+752855408,TOTAL ASSETS ($000s),2020,"$8,138"
+752855408,TOTAL ASSETS ($000s),2019,"$11,198"
+752855408,TOTAL ASSETS ($000s),2018,"$7,922"
+752855408,TOTAL ASSETS ($000s),2017,-
+752855408,TOTAL ASSETS ($000s),2016,-
+752855408,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2025,"$12,081"
+752855408,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2024,-
+752855408,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2023,-
+752855408,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2022,"$10,436"
+752855408,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2021,"$8,138"
+752855408,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2020,"$11,198"
+752855408,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2019,"$7,922"
+752855408,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2018,-
+752855408,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2017,-
+752855408,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2016,-
+752855408,Current liabilities,2025,
+752855408,Current liabilities,2024,
+752855408,Current liabilities,2023,
+752855408,Current liabilities,2022,
+752855408,Current liabilities,2021,-
+752855408,Current liabilities,2020,-
+752855408,Current liabilities,2019,-
+752855408,Current liabilities,2018,-
+752855408,Current liabilities,2017,-
+752855408,Current liabilities,2016,-
+752855408,Trade payables ($000s),2025,"$3,490"
+752855408,Trade payables ($000s),2024,"$4,222"
+752855408,Trade payables ($000s),2023,-
+752855408,Trade payables ($000s),2022,"$2,413"
+752855408,Trade payables ($000s),2021,"$3,697"
+752855408,Trade payables ($000s),2020,"$2,729"
+752855408,Trade payables ($000s),2019,"$4,276"
+752855408,Trade payables ($000s),2018,"$3,193"
+752855408,Trade payables ($000s),2017,-
+752855408,Trade payables ($000s),2016,-
+752855408,Other payables ($000s),2025,"$2,137"
+752855408,Other payables ($000s),2024,"$2,292"
+752855408,Other payables ($000s),2023,-
+752855408,Other payables ($000s),2022,"$2,247"
+752855408,Other payables ($000s),2021,"$1,435"
+752855408,Other payables ($000s),2020,-
+752855408,Other payables ($000s),2019,"$3,334"
+752855408,Other payables ($000s),2018,"$2,521"
+752855408,Other payables ($000s),2017,-
+752855408,Other payables ($000s),2016,-
+752855408,Overdrafts ($000s),2025,
+752855408,Overdrafts ($000s),2024,
+752855408,Overdrafts ($000s),2023,
+752855408,Overdrafts ($000s),2022,
+752855408,Overdrafts ($000s),2021,-
+752855408,Overdrafts ($000s),2020,-
+752855408,Overdrafts ($000s),2019,-
+752855408,Overdrafts ($000s),2018,-
+752855408,Overdrafts ($000s),2017,-
+752855408,Overdrafts ($000s),2016,-
+752855408,Loans - secured ($000s),2025,-
+752855408,Loans - secured ($000s),2024,-
+752855408,Loans - secured ($000s),2023,-
+752855408,Loans - secured ($000s),2022,$228
+752855408,Loans - secured ($000s),2021,-
+752855408,Loans - secured ($000s),2020,-
+752855408,Loans - secured ($000s),2019,-
+752855408,Loans - secured ($000s),2018,-
+752855408,Loans - secured ($000s),2017,-
+752855408,Loans - secured ($000s),2016,-
+752855408,Loans - unsecured ($000s),2025,
+752855408,Loans - unsecured ($000s),2024,
+752855408,Loans - unsecured ($000s),2023,
+752855408,Loans - unsecured ($000s),2022,
+752855408,Loans - unsecured ($000s),2021,-
+752855408,Loans - unsecured ($000s),2020,-
+752855408,Loans - unsecured ($000s),2019,-
+752855408,Loans - unsecured ($000s),2018,-
+752855408,Loans - unsecured ($000s),2017,-
+752855408,Loans - unsecured ($000s),2016,-
+752855408,Obligations under finance leases and hire purchase ($000s),2025,
+752855408,Obligations under finance leases and hire purchase ($000s),2024,
+752855408,Obligations under finance leases and hire purchase ($000s),2023,
+752855408,Obligations under finance leases and hire purchase ($000s),2022,
+752855408,Obligations under finance leases and hire purchase ($000s),2021,-
+752855408,Obligations under finance leases and hire purchase ($000s),2020,-
+752855408,Obligations under finance leases and hire purchase ($000s),2019,-
+752855408,Obligations under finance leases and hire purchase ($000s),2018,-
+752855408,Obligations under finance leases and hire purchase ($000s),2017,-
+752855408,Obligations under finance leases and hire purchase ($000s),2016,-
+752855408,Loans from related parties ($000s),2025,
+752855408,Loans from related parties ($000s),2024,
+752855408,Loans from related parties ($000s),2023,
+752855408,Loans from related parties ($000s),2022,
+752855408,Loans from related parties ($000s),2021,-
+752855408,Loans from related parties ($000s),2020,-
+752855408,Loans from related parties ($000s),2019,-
+752855408,Loans from related parties ($000s),2018,-
+752855408,Loans from related parties ($000s),2017,-
+752855408,Loans from related parties ($000s),2016,-
+752855408,Total current interest-bearing loans and borrowings ($000s),2025,-
+752855408,Total current interest-bearing loans and borrowings ($000s),2024,-
+752855408,Total current interest-bearing loans and borrowings ($000s),2023,-
+752855408,Total current interest-bearing loans and borrowings ($000s),2022,$228
+752855408,Total current interest-bearing loans and borrowings ($000s),2021,-
+752855408,Total current interest-bearing loans and borrowings ($000s),2020,-
+752855408,Total current interest-bearing loans and borrowings ($000s),2019,-
+752855408,Total current interest-bearing loans and borrowings ($000s),2018,-
+752855408,Total current interest-bearing loans and borrowings ($000s),2017,-
+752855408,Total current interest-bearing loans and borrowings ($000s),2016,-
+752855408,Income tax payable/(refundable) ($000s),2025,"$1,765"
+752855408,Income tax payable/(refundable) ($000s),2024,"$1,263"
+752855408,Income tax payable/(refundable) ($000s),2023,-
+752855408,Income tax payable/(refundable) ($000s),2022,$206
+752855408,Income tax payable/(refundable) ($000s),2021,$318
+752855408,Income tax payable/(refundable) ($000s),2020,$828
+752855408,Income tax payable/(refundable) ($000s),2019,"$2,304"
+752855408,Income tax payable/(refundable) ($000s),2018,"$1,002"
+752855408,Income tax payable/(refundable) ($000s),2017,-
+752855408,Income tax payable/(refundable) ($000s),2016,-
+752855408,Provisions ($000s),2025,"$1,268"
+752855408,Provisions ($000s),2024,"$1,152"
+752855408,Provisions ($000s),2023,-
+752855408,Provisions ($000s),2022,"$1,062"
+752855408,Provisions ($000s),2021,"$1,339"
+752855408,Provisions ($000s),2020,"$1,010"
+752855408,Provisions ($000s),2019,$734
+752855408,Provisions ($000s),2018,$590
+752855408,Provisions ($000s),2017,-
+752855408,Provisions ($000s),2016,-
+752855408,Other current liabilities ($000s),2025,$49
+752855408,Other current liabilities ($000s),2024,$247
+752855408,Other current liabilities ($000s),2023,-
+752855408,Other current liabilities ($000s),2022,$0
+752855408,Other current liabilities ($000s),2021,$106
+752855408,Other current liabilities ($000s),2020,"$2,048"
+752855408,Other current liabilities ($000s),2019,$79
+752855408,Other current liabilities ($000s),2018,$89
+752855408,Other current liabilities ($000s),2017,-
+752855408,Other current liabilities ($000s),2016,-
+752855408,Total current liabilities for continuing operations ($000s),2025,"$8,710"
+752855408,Total current liabilities for continuing operations ($000s),2024,"$9,176"
+752855408,Total current liabilities for continuing operations ($000s),2023,-
+752855408,Total current liabilities for continuing operations ($000s),2022,"$6,156"
+752855408,Total current liabilities for continuing operations ($000s),2021,"$6,895"
+752855408,Total current liabilities for continuing operations ($000s),2020,"$6,615"
+752855408,Total current liabilities for continuing operations ($000s),2019,"$10,727"
+752855408,Total current liabilities for continuing operations ($000s),2018,"$7,396"
+752855408,Total current liabilities for continuing operations ($000s),2017,-
+752855408,Total current liabilities for continuing operations ($000s),2016,-
+752855408,Liabilities directly associated with assets held for sale ($000s),2025,
+752855408,Liabilities directly associated with assets held for sale ($000s),2024,
+752855408,Liabilities directly associated with assets held for sale ($000s),2023,
+752855408,Liabilities directly associated with assets held for sale ($000s),2022,
+752855408,Liabilities directly associated with assets held for sale ($000s),2021,-
+752855408,Liabilities directly associated with assets held for sale ($000s),2020,-
+752855408,Liabilities directly associated with assets held for sale ($000s),2019,-
+752855408,Liabilities directly associated with assets held for sale ($000s),2018,-
+752855408,Liabilities directly associated with assets held for sale ($000s),2017,-
+752855408,Liabilities directly associated with assets held for sale ($000s),2016,-
+752855408,Total current liabilities ($000s),2025,"$8,710"
+752855408,Total current liabilities ($000s),2024,"$9,176"
+752855408,Total current liabilities ($000s),2023,-
+752855408,Total current liabilities ($000s),2022,"$6,156"
+752855408,Total current liabilities ($000s),2021,"$6,895"
+752855408,Total current liabilities ($000s),2020,"$6,615"
+752855408,Total current liabilities ($000s),2019,"$10,727"
+752855408,Total current liabilities ($000s),2018,"$7,396"
+752855408,Total current liabilities ($000s),2017,-
+752855408,Total current liabilities ($000s),2016,-
+752855408,Total current liabilities for previous year ($000s),2025,"$9,176"
+752855408,Total current liabilities for previous year ($000s),2024,-
+752855408,Total current liabilities for previous year ($000s),2023,-
+752855408,Total current liabilities for previous year ($000s),2022,"$6,895"
+752855408,Total current liabilities for previous year ($000s),2021,"$6,615"
+752855408,Total current liabilities for previous year ($000s),2020,"$10,727"
+752855408,Total current liabilities for previous year ($000s),2019,"$7,396"
+752855408,Total current liabilities for previous year ($000s),2018,-
+752855408,Total current liabilities for previous year ($000s),2017,-
+752855408,Total current liabilities for previous year ($000s),2016,-
+752855408,Non-current liabilities,2025,
+752855408,Non-current liabilities,2024,
+752855408,Non-current liabilities,2023,
+752855408,Non-current liabilities,2022,
+752855408,Non-current liabilities,2021,-
+752855408,Non-current liabilities,2020,-
+752855408,Non-current liabilities,2019,-
+752855408,Non-current liabilities,2018,-
+752855408,Non-current liabilities,2017,-
+752855408,Non-current liabilities,2016,-
+752855408,Total non-current interest-bearing loans and borrowings ($000s),2025,-
+752855408,Total non-current interest-bearing loans and borrowings ($000s),2024,$706
+752855408,Total non-current interest-bearing loans and borrowings ($000s),2023,-
+752855408,Total non-current interest-bearing loans and borrowings ($000s),2022,-
+752855408,Total non-current interest-bearing loans and borrowings ($000s),2021,"$4,000"
+752855408,Total non-current interest-bearing loans and borrowings ($000s),2020,-
+752855408,Total non-current interest-bearing loans and borrowings ($000s),2019,-
+752855408,Total non-current interest-bearing loans and borrowings ($000s),2018,-
+752855408,Total non-current interest-bearing loans and borrowings ($000s),2017,-
+752855408,Total non-current interest-bearing loans and borrowings ($000s),2016,-
+752855408,Deferred tax liabilities ($000s),2025,
+752855408,Deferred tax liabilities ($000s),2024,
+752855408,Deferred tax liabilities ($000s),2023,
+752855408,Deferred tax liabilities ($000s),2022,
+752855408,Deferred tax liabilities ($000s),2021,-
+752855408,Deferred tax liabilities ($000s),2020,-
+752855408,Deferred tax liabilities ($000s),2019,-
+752855408,Deferred tax liabilities ($000s),2018,-
+752855408,Deferred tax liabilities ($000s),2017,-
+752855408,Deferred tax liabilities ($000s),2016,-
+752855408,Convertible redeemable preference shares ($000s),2025,
+752855408,Convertible redeemable preference shares ($000s),2024,
+752855408,Convertible redeemable preference shares ($000s),2023,
+752855408,Convertible redeemable preference shares ($000s),2022,
+752855408,Convertible redeemable preference shares ($000s),2021,-
+752855408,Convertible redeemable preference shares ($000s),2020,-
+752855408,Convertible redeemable preference shares ($000s),2019,-
+752855408,Convertible redeemable preference shares ($000s),2018,-
+752855408,Convertible redeemable preference shares ($000s),2017,-
+752855408,Convertible redeemable preference shares ($000s),2016,-
+752855408,Other non-current liabilities ($000s),2025,$0
+752855408,Other non-current liabilities ($000s),2024,$0
+752855408,Other non-current liabilities ($000s),2023,-
+752855408,Other non-current liabilities ($000s),2022,"$1,028"
+752855408,Other non-current liabilities ($000s),2021,$0
+752855408,Other non-current liabilities ($000s),2020,$0
+752855408,Other non-current liabilities ($000s),2019,$0
+752855408,Other non-current liabilities ($000s),2018,$0
+752855408,Other non-current liabilities ($000s),2017,-
+752855408,Other non-current liabilities ($000s),2016,-
+752855408,Total non-current liabilities ($000s),2025,$211
+752855408,Total non-current liabilities ($000s),2024,$896
+752855408,Total non-current liabilities ($000s),2023,-
+752855408,Total non-current liabilities ($000s),2022,"$1,154"
+752855408,Total non-current liabilities ($000s),2021,"$4,000"
+752855408,Total non-current liabilities ($000s),2020,-
+752855408,Total non-current liabilities ($000s),2019,-
+752855408,Total non-current liabilities ($000s),2018,-
+752855408,Total non-current liabilities ($000s),2017,-
+752855408,Total non-current liabilities ($000s),2016,-
+752855408,TOTAL LIABILITIES ($000s),2025,"$8,921"
+752855408,TOTAL LIABILITIES ($000s),2024,"$10,072"
+752855408,TOTAL LIABILITIES ($000s),2023,-
+752855408,TOTAL LIABILITIES ($000s),2022,"$7,310"
+752855408,TOTAL LIABILITIES ($000s),2021,"$10,895"
+752855408,TOTAL LIABILITIES ($000s),2020,"$6,615"
+752855408,TOTAL LIABILITIES ($000s),2019,"$10,727"
+752855408,TOTAL LIABILITIES ($000s),2018,"$7,396"
+752855408,TOTAL LIABILITIES ($000s),2017,-
+752855408,TOTAL LIABILITIES ($000s),2016,-
+752855408,NET ASSETS ($000s),2025,"$3,538"
+752855408,NET ASSETS ($000s),2024,"$2,009"
+752855408,NET ASSETS ($000s),2023,-
+752855408,NET ASSETS ($000s),2022,"$1,415"
+752855408,NET ASSETS ($000s),2021,($459)
+752855408,NET ASSETS ($000s),2020,"$1,523"
+752855408,NET ASSETS ($000s),2019,$471
+752855408,NET ASSETS ($000s),2018,$526
+752855408,NET ASSETS ($000s),2017,-
+752855408,NET ASSETS ($000s),2016,-
+752855408,Equity,2025,
+752855408,Equity,2024,
+752855408,Equity,2023,
+752855408,Equity,2022,
+752855408,Equity,2021,-
+752855408,Equity,2020,-
+752855408,Equity,2019,-
+752855408,Equity,2018,-
+752855408,Equity,2017,-
+752855408,Equity,2016,-
+752855408,Equity attributable to equity holders of the parent,2025,
+752855408,Equity attributable to equity holders of the parent,2024,
+752855408,Equity attributable to equity holders of the parent,2023,
+752855408,Equity attributable to equity holders of the parent,2022,
+752855408,Equity attributable to equity holders of the parent,2021,-
+752855408,Equity attributable to equity holders of the parent,2020,-
+752855408,Equity attributable to equity holders of the parent,2019,-
+752855408,Equity attributable to equity holders of the parent,2018,-
+752855408,Equity attributable to equity holders of the parent,2017,-
+752855408,Equity attributable to equity holders of the parent,2016,-
+752855408,Contributed equity ($000s),2025,"$2,150"
+752855408,Contributed equity ($000s),2024,"$2,500"
+752855408,Contributed equity ($000s),2023,-
+752855408,Contributed equity ($000s),2022,"$2,500"
+752855408,Contributed equity ($000s),2021,$0
+752855408,Contributed equity ($000s),2020,$0
+752855408,Contributed equity ($000s),2019,$0
+752855408,Contributed equity ($000s),2018,$0
+752855408,Contributed equity ($000s),2017,-
+752855408,Contributed equity ($000s),2016,-
+752855408,Retained earnings ($000s),2025,"$1,387"
+752855408,Retained earnings ($000s),2024,($491)
+752855408,Retained earnings ($000s),2023,-
+752855408,Retained earnings ($000s),2022,"($1,086)"
+752855408,Retained earnings ($000s),2021,($459)
+752855408,Retained earnings ($000s),2020,"$1,523"
+752855408,Retained earnings ($000s),2019,$471
+752855408,Retained earnings ($000s),2018,$526
+752855408,Retained earnings ($000s),2017,-
+752855408,Retained earnings ($000s),2016,-
+752855408,Reserves ($000s),2025,$0
+752855408,Reserves ($000s),2024,$0
+752855408,Reserves ($000s),2023,-
+752855408,Reserves ($000s),2022,$0
+752855408,Reserves ($000s),2021,$0
+752855408,Reserves ($000s),2020,$0
+752855408,Reserves ($000s),2019,$0
+752855408,Reserves ($000s),2018,$0
+752855408,Reserves ($000s),2017,-
+752855408,Reserves ($000s),2016,-
+752855408,Total Parent interests ($000s),2025,"$3,538"
+752855408,Total Parent interests ($000s),2024,"$2,009"
+752855408,Total Parent interests ($000s),2023,-
+752855408,Total Parent interests ($000s),2022,"$1,415"
+752855408,Total Parent interests ($000s),2021,($459)
+752855408,Total Parent interests ($000s),2020,"$1,523"
+752855408,Total Parent interests ($000s),2019,$471
+752855408,Total Parent interests ($000s),2018,$526
+752855408,Total Parent interests ($000s),2017,-
+752855408,Total Parent interests ($000s),2016,-
+752855408,Minority interests ($000s),2025,
+752855408,Minority interests ($000s),2024,
+752855408,Minority interests ($000s),2023,
+752855408,Minority interests ($000s),2022,
+752855408,Minority interests ($000s),2021,-
+752855408,Minority interests ($000s),2020,-
+752855408,Minority interests ($000s),2019,-
+752855408,Minority interests ($000s),2018,-
+752855408,Minority interests ($000s),2017,-
+752855408,Minority interests ($000s),2016,-
+752855408,TOTAL EQUITY ($000s),2025,"$3,538"
+752855408,TOTAL EQUITY ($000s),2024,"$2,009"
+752855408,TOTAL EQUITY ($000s),2023,-
+752855408,TOTAL EQUITY ($000s),2022,"$1,415"
+752855408,TOTAL EQUITY ($000s),2021,($459)
+752855408,TOTAL EQUITY ($000s),2020,"$1,523"
+752855408,TOTAL EQUITY ($000s),2019,$471
+752855408,TOTAL EQUITY ($000s),2018,$526
+752855408,TOTAL EQUITY ($000s),2017,-
+752855408,TOTAL EQUITY ($000s),2016,-
+752855408,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2025,"$2,009"
+752855408,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2024,-
+752855408,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2023,-
+752855408,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2022,($459)
+752855408,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2021,"$1,523"
+752855408,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2020,$471
+752855408,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2019,$526
+752855408,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2018,-
+752855408,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2017,-
+752855408,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2016,-

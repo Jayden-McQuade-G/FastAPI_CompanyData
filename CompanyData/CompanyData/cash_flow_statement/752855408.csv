@@ -1,0 +1,301 @@
+duns,line_item,year,value
+752855408,Cash flow statement,2025,
+752855408,Cash flow statement,2024,
+752855408,Cash flow statement,2023,
+752855408,Cash flow statement,2022,
+752855408,Cash flow statement,2021,-
+752855408,Cash flow statement,2020,-
+752855408,Cash flow statement,2019,-
+752855408,Cash flow statement,2018,-
+752855408,Cash flow statement,2017,-
+752855408,Cash flow statement,2016,-
+752855408,Receipts from customers ($000s),2025,"$54,334"
+752855408,Receipts from customers ($000s),2024,"$33,802"
+752855408,Receipts from customers ($000s),2023,-
+752855408,Receipts from customers ($000s),2022,"$49,315"
+752855408,Receipts from customers ($000s),2021,"$43,734"
+752855408,Receipts from customers ($000s),2020,"$45,949"
+752855408,Receipts from customers ($000s),2019,"$37,112"
+752855408,Receipts from customers ($000s),2018,"$25,689"
+752855408,Receipts from customers ($000s),2017,-
+752855408,Receipts from customers ($000s),2016,-
+752855408,Payments to suppliers and employees ($000s),2025,"($49,732)"
+752855408,Payments to suppliers and employees ($000s),2024,"($34,380)"
+752855408,Payments to suppliers and employees ($000s),2023,-
+752855408,Payments to suppliers and employees ($000s),2022,"($49,399)"
+752855408,Payments to suppliers and employees ($000s),2021,"($45,852)"
+752855408,Payments to suppliers and employees ($000s),2020,"($46,582)"
+752855408,Payments to suppliers and employees ($000s),2019,"($35,536)"
+752855408,Payments to suppliers and employees ($000s),2018,"($25,571)"
+752855408,Payments to suppliers and employees ($000s),2017,-
+752855408,Payments to suppliers and employees ($000s),2016,-
+752855408,Interest paid ($000s),2025,
+752855408,Interest paid ($000s),2024,
+752855408,Interest paid ($000s),2023,
+752855408,Interest paid ($000s),2022,
+752855408,Interest paid ($000s),2021,-
+752855408,Interest paid ($000s),2020,-
+752855408,Interest paid ($000s),2019,-
+752855408,Interest paid ($000s),2018,-
+752855408,Interest paid ($000s),2017,-
+752855408,Interest paid ($000s),2016,-
+752855408,Tax paid ($000s),2025,
+752855408,Tax paid ($000s),2024,
+752855408,Tax paid ($000s),2023,
+752855408,Tax paid ($000s),2022,
+752855408,Tax paid ($000s),2021,-
+752855408,Tax paid ($000s),2020,-
+752855408,Tax paid ($000s),2019,-
+752855408,Tax paid ($000s),2018,-
+752855408,Tax paid ($000s),2017,-
+752855408,Tax paid ($000s),2016,-
+752855408,Other receipts ($000s),2025,$0
+752855408,Other receipts ($000s),2024,$0
+752855408,Other receipts ($000s),2023,-
+752855408,Other receipts ($000s),2022,$0
+752855408,Other receipts ($000s),2021,$0
+752855408,Other receipts ($000s),2020,$0
+752855408,Other receipts ($000s),2019,$0
+752855408,Other receipts ($000s),2018,$0
+752855408,Other receipts ($000s),2017,-
+752855408,Other receipts ($000s),2016,-
+752855408,Other payments ($000s),2025,$0
+752855408,Other payments ($000s),2024,$0
+752855408,Other payments ($000s),2023,-
+752855408,Other payments ($000s),2022,$0
+752855408,Other payments ($000s),2021,$0
+752855408,Other payments ($000s),2020,$0
+752855408,Other payments ($000s),2019,$0
+752855408,Other payments ($000s),2018,$0
+752855408,Other payments ($000s),2017,-
+752855408,Other payments ($000s),2016,-
+752855408,Net cashflow from/(used in) operating activities ($000s),2025,"$4,602"
+752855408,Net cashflow from/(used in) operating activities ($000s),2024,($578)
+752855408,Net cashflow from/(used in) operating activities ($000s),2023,-
+752855408,Net cashflow from/(used in) operating activities ($000s),2022,($83)
+752855408,Net cashflow from/(used in) operating activities ($000s),2021,"($2,118)"
+752855408,Net cashflow from/(used in) operating activities ($000s),2020,($633)
+752855408,Net cashflow from/(used in) operating activities ($000s),2019,"$1,576"
+752855408,Net cashflow from/(used in) operating activities ($000s),2018,$118
+752855408,Net cashflow from/(used in) operating activities ($000s),2017,-
+752855408,Net cashflow from/(used in) operating activities ($000s),2016,-
+752855408,Purchase of property plant and equipment ($000s),2025,($81)
+752855408,Purchase of property plant and equipment ($000s),2024,($69)
+752855408,Purchase of property plant and equipment ($000s),2023,-
+752855408,Purchase of property plant and equipment ($000s),2022,-
+752855408,Purchase of property plant and equipment ($000s),2021,($57)
+752855408,Purchase of property plant and equipment ($000s),2020,($141)
+752855408,Purchase of property plant and equipment ($000s),2019,($55)
+752855408,Purchase of property plant and equipment ($000s),2018,($140)
+752855408,Purchase of property plant and equipment ($000s),2017,-
+752855408,Purchase of property plant and equipment ($000s),2016,-
+752855408,Purchase of intangibles ($000s),2025,
+752855408,Purchase of intangibles ($000s),2024,
+752855408,Purchase of intangibles ($000s),2023,
+752855408,Purchase of intangibles ($000s),2022,
+752855408,Purchase of intangibles ($000s),2021,-
+752855408,Purchase of intangibles ($000s),2020,-
+752855408,Purchase of intangibles ($000s),2019,-
+752855408,Purchase of intangibles ($000s),2018,-
+752855408,Purchase of intangibles ($000s),2017,-
+752855408,Purchase of intangibles ($000s),2016,-
+752855408,Proceeds from the sale of property plant and equipment ($000s),2025,$0
+752855408,Proceeds from the sale of property plant and equipment ($000s),2024,$0
+752855408,Proceeds from the sale of property plant and equipment ($000s),2023,-
+752855408,Proceeds from the sale of property plant and equipment ($000s),2022,$0
+752855408,Proceeds from the sale of property plant and equipment ($000s),2021,$0
+752855408,Proceeds from the sale of property plant and equipment ($000s),2020,$0
+752855408,Proceeds from the sale of property plant and equipment ($000s),2019,$0
+752855408,Proceeds from the sale of property plant and equipment ($000s),2018,$0
+752855408,Proceeds from the sale of property plant and equipment ($000s),2017,-
+752855408,Proceeds from the sale of property plant and equipment ($000s),2016,-
+752855408,Proceeds from the disposal of investments/subsidiaries ($000s),2025,$0
+752855408,Proceeds from the disposal of investments/subsidiaries ($000s),2024,$0
+752855408,Proceeds from the disposal of investments/subsidiaries ($000s),2023,-
+752855408,Proceeds from the disposal of investments/subsidiaries ($000s),2022,$0
+752855408,Proceeds from the disposal of investments/subsidiaries ($000s),2021,$0
+752855408,Proceeds from the disposal of investments/subsidiaries ($000s),2020,$0
+752855408,Proceeds from the disposal of investments/subsidiaries ($000s),2019,$0
+752855408,Proceeds from the disposal of investments/subsidiaries ($000s),2018,$0
+752855408,Proceeds from the disposal of investments/subsidiaries ($000s),2017,-
+752855408,Proceeds from the disposal of investments/subsidiaries ($000s),2016,-
+752855408,Purchase of subisidiary/investment ($000s),2025,$0
+752855408,Purchase of subisidiary/investment ($000s),2024,$0
+752855408,Purchase of subisidiary/investment ($000s),2023,-
+752855408,Purchase of subisidiary/investment ($000s),2022,$0
+752855408,Purchase of subisidiary/investment ($000s),2021,$0
+752855408,Purchase of subisidiary/investment ($000s),2020,$0
+752855408,Purchase of subisidiary/investment ($000s),2019,$0
+752855408,Purchase of subisidiary/investment ($000s),2018,$0
+752855408,Purchase of subisidiary/investment ($000s),2017,-
+752855408,Purchase of subisidiary/investment ($000s),2016,-
+752855408,Interest received ($000s),2025,
+752855408,Interest received ($000s),2024,
+752855408,Interest received ($000s),2023,
+752855408,Interest received ($000s),2022,
+752855408,Interest received ($000s),2021,-
+752855408,Interest received ($000s),2020,-
+752855408,Interest received ($000s),2019,-
+752855408,Interest received ($000s),2018,-
+752855408,Interest received ($000s),2017,-
+752855408,Interest received ($000s),2016,-
+752855408,Dividends received ($000s),2025,
+752855408,Dividends received ($000s),2024,
+752855408,Dividends received ($000s),2023,
+752855408,Dividends received ($000s),2022,
+752855408,Dividends received ($000s),2021,-
+752855408,Dividends received ($000s),2020,-
+752855408,Dividends received ($000s),2019,-
+752855408,Dividends received ($000s),2018,-
+752855408,Dividends received ($000s),2017,-
+752855408,Dividends received ($000s),2016,-
+752855408,Other investing inflows/(outflows) ($000s),2025,$0
+752855408,Other investing inflows/(outflows) ($000s),2024,$0
+752855408,Other investing inflows/(outflows) ($000s),2023,-
+752855408,Other investing inflows/(outflows) ($000s),2022,$0
+752855408,Other investing inflows/(outflows) ($000s),2021,$0
+752855408,Other investing inflows/(outflows) ($000s),2020,$0
+752855408,Other investing inflows/(outflows) ($000s),2019,$0
+752855408,Other investing inflows/(outflows) ($000s),2018,$0
+752855408,Other investing inflows/(outflows) ($000s),2017,-
+752855408,Other investing inflows/(outflows) ($000s),2016,-
+752855408,Net cashflow from/(used in) investing activities ($000s),2025,($81)
+752855408,Net cashflow from/(used in) investing activities ($000s),2024,($69)
+752855408,Net cashflow from/(used in) investing activities ($000s),2023,-
+752855408,Net cashflow from/(used in) investing activities ($000s),2022,-
+752855408,Net cashflow from/(used in) investing activities ($000s),2021,($57)
+752855408,Net cashflow from/(used in) investing activities ($000s),2020,($141)
+752855408,Net cashflow from/(used in) investing activities ($000s),2019,($55)
+752855408,Net cashflow from/(used in) investing activities ($000s),2018,($140)
+752855408,Net cashflow from/(used in) investing activities ($000s),2017,-
+752855408,Net cashflow from/(used in) investing activities ($000s),2016,-
+752855408,Proceeds from the issue of shares ($000s),2025,$0
+752855408,Proceeds from the issue of shares ($000s),2024,$0
+752855408,Proceeds from the issue of shares ($000s),2023,-
+752855408,Proceeds from the issue of shares ($000s),2022,"$2,500"
+752855408,Proceeds from the issue of shares ($000s),2021,$0
+752855408,Proceeds from the issue of shares ($000s),2020,$0
+752855408,Proceeds from the issue of shares ($000s),2019,$0
+752855408,Proceeds from the issue of shares ($000s),2018,$0
+752855408,Proceeds from the issue of shares ($000s),2017,-
+752855408,Proceeds from the issue of shares ($000s),2016,-
+752855408,Proceeds from borrowings ($000s),2025,$0
+752855408,Proceeds from borrowings ($000s),2024,$561
+752855408,Proceeds from borrowings ($000s),2023,-
+752855408,Proceeds from borrowings ($000s),2022,$0
+752855408,Proceeds from borrowings ($000s),2021,"$3,469"
+752855408,Proceeds from borrowings ($000s),2020,$0
+752855408,Proceeds from borrowings ($000s),2019,$0
+752855408,Proceeds from borrowings ($000s),2018,$36
+752855408,Proceeds from borrowings ($000s),2017,-
+752855408,Proceeds from borrowings ($000s),2016,-
+752855408,Repayment of borrowings  ($000s),2025,($903)
+752855408,Repayment of borrowings  ($000s),2024,-
+752855408,Repayment of borrowings  ($000s),2023,-
+752855408,Repayment of borrowings  ($000s),2022,"($2,849)"
+752855408,Repayment of borrowings  ($000s),2021,-
+752855408,Repayment of borrowings  ($000s),2020,($6)
+752855408,Repayment of borrowings  ($000s),2019,($11)
+752855408,Repayment of borrowings  ($000s),2018,-
+752855408,Repayment of borrowings  ($000s),2017,-
+752855408,Repayment of borrowings  ($000s),2016,-
+752855408,Repayment of finance lease liabilities ($000s),2025,
+752855408,Repayment of finance lease liabilities ($000s),2024,
+752855408,Repayment of finance lease liabilities ($000s),2023,
+752855408,Repayment of finance lease liabilities ($000s),2022,
+752855408,Repayment of finance lease liabilities ($000s),2021,-
+752855408,Repayment of finance lease liabilities ($000s),2020,-
+752855408,Repayment of finance lease liabilities ($000s),2019,-
+752855408,Repayment of finance lease liabilities ($000s),2018,-
+752855408,Repayment of finance lease liabilities ($000s),2017,-
+752855408,Repayment of finance lease liabilities ($000s),2016,-
+752855408,Interest Paid ($000s),2025,
+752855408,Interest Paid ($000s),2024,
+752855408,Interest Paid ($000s),2023,
+752855408,Interest Paid ($000s),2022,
+752855408,Interest Paid ($000s),2021,-
+752855408,Interest Paid ($000s),2020,-
+752855408,Interest Paid ($000s),2019,-
+752855408,Interest Paid ($000s),2018,-
+752855408,Interest Paid ($000s),2017,-
+752855408,Interest Paid ($000s),2016,-
+752855408,Dividends paid ($000s),2025,
+752855408,Dividends paid ($000s),2024,
+752855408,Dividends paid ($000s),2023,
+752855408,Dividends paid ($000s),2022,
+752855408,Dividends paid ($000s),2021,-
+752855408,Dividends paid ($000s),2020,-
+752855408,Dividends paid ($000s),2019,-
+752855408,Dividends paid ($000s),2018,-
+752855408,Dividends paid ($000s),2017,-
+752855408,Dividends paid ($000s),2016,-
+752855408,Other inflows/(outflows) from financing activities ($000s),2025,($350)
+752855408,Other inflows/(outflows) from financing activities ($000s),2024,$0
+752855408,Other inflows/(outflows) from financing activities ($000s),2023,-
+752855408,Other inflows/(outflows) from financing activities ($000s),2022,$0
+752855408,Other inflows/(outflows) from financing activities ($000s),2021,$0
+752855408,Other inflows/(outflows) from financing activities ($000s),2020,$0
+752855408,Other inflows/(outflows) from financing activities ($000s),2019,$0
+752855408,Other inflows/(outflows) from financing activities ($000s),2018,$0
+752855408,Other inflows/(outflows) from financing activities ($000s),2017,-
+752855408,Other inflows/(outflows) from financing activities ($000s),2016,-
+752855408,Net cash flows from/(used in) financing activities ($000s),2025,"($1,253)"
+752855408,Net cash flows from/(used in) financing activities ($000s),2024,$561
+752855408,Net cash flows from/(used in) financing activities ($000s),2023,-
+752855408,Net cash flows from/(used in) financing activities ($000s),2022,($349)
+752855408,Net cash flows from/(used in) financing activities ($000s),2021,"$3,469"
+752855408,Net cash flows from/(used in) financing activities ($000s),2020,($6)
+752855408,Net cash flows from/(used in) financing activities ($000s),2019,($11)
+752855408,Net cash flows from/(used in) financing activities ($000s),2018,$36
+752855408,Net cash flows from/(used in) financing activities ($000s),2017,-
+752855408,Net cash flows from/(used in) financing activities ($000s),2016,-
+752855408,Net increase/(decrease) in cash and cash equivalents ($000s),2025,"$3,268"
+752855408,Net increase/(decrease) in cash and cash equivalents ($000s),2024,($87)
+752855408,Net increase/(decrease) in cash and cash equivalents ($000s),2023,-
+752855408,Net increase/(decrease) in cash and cash equivalents ($000s),2022,($433)
+752855408,Net increase/(decrease) in cash and cash equivalents ($000s),2021,"$1,294"
+752855408,Net increase/(decrease) in cash and cash equivalents ($000s),2020,($780)
+752855408,Net increase/(decrease) in cash and cash equivalents ($000s),2019,"$1,511"
+752855408,Net increase/(decrease) in cash and cash equivalents ($000s),2018,$14
+752855408,Net increase/(decrease) in cash and cash equivalents ($000s),2017,-
+752855408,Net increase/(decrease) in cash and cash equivalents ($000s),2016,-
+752855408,Other increase/(decrease) in cash and cash equivalents ($000s),2025,
+752855408,Other increase/(decrease) in cash and cash equivalents ($000s),2024,
+752855408,Other increase/(decrease) in cash and cash equivalents ($000s),2023,
+752855408,Other increase/(decrease) in cash and cash equivalents ($000s),2022,
+752855408,Other increase/(decrease) in cash and cash equivalents ($000s),2021,-
+752855408,Other increase/(decrease) in cash and cash equivalents ($000s),2020,-
+752855408,Other increase/(decrease) in cash and cash equivalents ($000s),2019,-
+752855408,Other increase/(decrease) in cash and cash equivalents ($000s),2018,-
+752855408,Other increase/(decrease) in cash and cash equivalents ($000s),2017,-
+752855408,Other increase/(decrease) in cash and cash equivalents ($000s),2016,-
+752855408,Net foreign exchange differences ($000s),2025,
+752855408,Net foreign exchange differences ($000s),2024,
+752855408,Net foreign exchange differences ($000s),2023,
+752855408,Net foreign exchange differences ($000s),2022,
+752855408,Net foreign exchange differences ($000s),2021,-
+752855408,Net foreign exchange differences ($000s),2020,-
+752855408,Net foreign exchange differences ($000s),2019,-
+752855408,Net foreign exchange differences ($000s),2018,-
+752855408,Net foreign exchange differences ($000s),2017,-
+752855408,Net foreign exchange differences ($000s),2016,-
+752855408,Cash and cash equivalents at the beginning of the period ($000s),2025,"$1,068"
+752855408,Cash and cash equivalents at the beginning of the period ($000s),2024,"$1,155"
+752855408,Cash and cash equivalents at the beginning of the period ($000s),2023,-
+752855408,Cash and cash equivalents at the beginning of the period ($000s),2022,"$2,041"
+752855408,Cash and cash equivalents at the beginning of the period ($000s),2021,$748
+752855408,Cash and cash equivalents at the beginning of the period ($000s),2020,"$1,528"
+752855408,Cash and cash equivalents at the beginning of the period ($000s),2019,$17
+752855408,Cash and cash equivalents at the beginning of the period ($000s),2018,$3
+752855408,Cash and cash equivalents at the beginning of the period ($000s),2017,-
+752855408,Cash and cash equivalents at the beginning of the period ($000s),2016,-
+752855408,Cash and cash equivalents at the end of the period ($000s),2025,"$4,336"
+752855408,Cash and cash equivalents at the end of the period ($000s),2024,"$1,068"
+752855408,Cash and cash equivalents at the end of the period ($000s),2023,-
+752855408,Cash and cash equivalents at the end of the period ($000s),2022,"$1,609"
+752855408,Cash and cash equivalents at the end of the period ($000s),2021,"$2,041"
+752855408,Cash and cash equivalents at the end of the period ($000s),2020,$748
+752855408,Cash and cash equivalents at the end of the period ($000s),2019,"$1,528"
+752855408,Cash and cash equivalents at the end of the period ($000s),2018,$17
+752855408,Cash and cash equivalents at the end of the period ($000s),2017,-
+752855408,Cash and cash equivalents at the end of the period ($000s),2016,-

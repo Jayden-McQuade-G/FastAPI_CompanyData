@@ -1,0 +1,601 @@
+duns,line_item,year,value
+755354685,Current Assets,2025,
+755354685,Current Assets,2024,
+755354685,Current Assets,2023,
+755354685,Current Assets,2022,
+755354685,Current Assets,2021,-
+755354685,Current Assets,2020,-
+755354685,Current Assets,2019,-
+755354685,Current Assets,2018,-
+755354685,Current Assets,2017,-
+755354685,Current Assets,2016,-
+755354685,Cash and cash equivalents ($000s),2025,"$2,177"
+755354685,Cash and cash equivalents ($000s),2024,"$2,089"
+755354685,Cash and cash equivalents ($000s),2023,"$2,004"
+755354685,Cash and cash equivalents ($000s),2022,"$1,857"
+755354685,Cash and cash equivalents ($000s),2021,"$1,798"
+755354685,Cash and cash equivalents ($000s),2020,"$1,639"
+755354685,Cash and cash equivalents ($000s),2019,"$1,550"
+755354685,Cash and cash equivalents ($000s),2018,$261
+755354685,Cash and cash equivalents ($000s),2017,"$1,246"
+755354685,Cash and cash equivalents ($000s),2016,$202
+755354685,Growth,2025,4.21%
+755354685,Growth,2024,4.24%
+755354685,Growth,2023,7.92%
+755354685,Growth,2022,3.28%
+755354685,Growth,2021,9.70%
+755354685,Growth,2020,5.74%
+755354685,Growth,2019,493.87%
+755354685,Growth,2018,(79.05%)
+755354685,Growth,2017,516.83%
+755354685,Growth,2016,-
+755354685,Trade receivables ($000s),2025,
+755354685,Trade receivables ($000s),2024,
+755354685,Trade receivables ($000s),2023,
+755354685,Trade receivables ($000s),2022,
+755354685,Trade receivables ($000s),2021,-
+755354685,Trade receivables ($000s),2020,-
+755354685,Trade receivables ($000s),2019,-
+755354685,Trade receivables ($000s),2018,-
+755354685,Trade receivables ($000s),2017,-
+755354685,Trade receivables ($000s),2016,-
+755354685,Other receivables ($000s),2025,-
+755354685,Other receivables ($000s),2024,"$9,782"
+755354685,Other receivables ($000s),2023,"$581,975"
+755354685,Other receivables ($000s),2022,-
+755354685,Other receivables ($000s),2021,"$33,834"
+755354685,Other receivables ($000s),2020,"$163,760"
+755354685,Other receivables ($000s),2019,"$121,508"
+755354685,Other receivables ($000s),2018,"$117,784"
+755354685,Other receivables ($000s),2017,"$89,857"
+755354685,Other receivables ($000s),2016,-
+755354685,Raw materials ($000s),2025,$0
+755354685,Raw materials ($000s),2024,$0
+755354685,Raw materials ($000s),2023,$0
+755354685,Raw materials ($000s),2022,$0
+755354685,Raw materials ($000s),2021,$0
+755354685,Raw materials ($000s),2020,$0
+755354685,Raw materials ($000s),2019,$0
+755354685,Raw materials ($000s),2018,$0
+755354685,Raw materials ($000s),2017,$0
+755354685,Raw materials ($000s),2016,$0
+755354685,Work-in-progress ($000s),2025,
+755354685,Work-in-progress ($000s),2024,
+755354685,Work-in-progress ($000s),2023,
+755354685,Work-in-progress ($000s),2022,
+755354685,Work-in-progress ($000s),2021,-
+755354685,Work-in-progress ($000s),2020,-
+755354685,Work-in-progress ($000s),2019,-
+755354685,Work-in-progress ($000s),2018,-
+755354685,Work-in-progress ($000s),2017,-
+755354685,Work-in-progress ($000s),2016,-
+755354685,Finished goods ($000s),2025,$0
+755354685,Finished goods ($000s),2024,$0
+755354685,Finished goods ($000s),2023,$0
+755354685,Finished goods ($000s),2022,$0
+755354685,Finished goods ($000s),2021,$0
+755354685,Finished goods ($000s),2020,$0
+755354685,Finished goods ($000s),2019,$0
+755354685,Finished goods ($000s),2018,$0
+755354685,Finished goods ($000s),2017,$0
+755354685,Finished goods ($000s),2016,$0
+755354685,Total inventories ($000s),2025,$0
+755354685,Total inventories ($000s),2024,$0
+755354685,Total inventories ($000s),2023,$0
+755354685,Total inventories ($000s),2022,$0
+755354685,Total inventories ($000s),2021,$0
+755354685,Total inventories ($000s),2020,$0
+755354685,Total inventories ($000s),2019,$0
+755354685,Total inventories ($000s),2018,$0
+755354685,Total inventories ($000s),2017,$0
+755354685,Total inventories ($000s),2016,$0
+755354685,Prepayments ($000s),2025,
+755354685,Prepayments ($000s),2024,
+755354685,Prepayments ($000s),2023,
+755354685,Prepayments ($000s),2022,
+755354685,Prepayments ($000s),2021,-
+755354685,Prepayments ($000s),2020,-
+755354685,Prepayments ($000s),2019,-
+755354685,Prepayments ($000s),2018,-
+755354685,Prepayments ($000s),2017,-
+755354685,Prepayments ($000s),2016,-
+755354685,Derivative financial instruments ($000s),2025,
+755354685,Derivative financial instruments ($000s),2024,
+755354685,Derivative financial instruments ($000s),2023,
+755354685,Derivative financial instruments ($000s),2022,
+755354685,Derivative financial instruments ($000s),2021,-
+755354685,Derivative financial instruments ($000s),2020,-
+755354685,Derivative financial instruments ($000s),2019,-
+755354685,Derivative financial instruments ($000s),2018,-
+755354685,Derivative financial instruments ($000s),2017,-
+755354685,Derivative financial instruments ($000s),2016,-
+755354685,Other current assets ($000s),2025,"$219,554"
+755354685,Other current assets ($000s),2024,"$292,073"
+755354685,Other current assets ($000s),2023,"$637,314"
+755354685,Other current assets ($000s),2022,"$713,173"
+755354685,Other current assets ($000s),2021,"$432,023"
+755354685,Other current assets ($000s),2020,"$70,951"
+755354685,Other current assets ($000s),2019,"$307,368"
+755354685,Other current assets ($000s),2018,"$13,900"
+755354685,Other current assets ($000s),2017,"$625,851"
+755354685,Other current assets ($000s),2016,"$700,758"
+755354685,Total current assets for continuing operations ($000s),2025,"$221,731"
+755354685,Total current assets for continuing operations ($000s),2024,"$303,944"
+755354685,Total current assets for continuing operations ($000s),2023,"$1,221,293"
+755354685,Total current assets for continuing operations ($000s),2022,"$715,030"
+755354685,Total current assets for continuing operations ($000s),2021,"$467,655"
+755354685,Total current assets for continuing operations ($000s),2020,"$236,350"
+755354685,Total current assets for continuing operations ($000s),2019,"$430,426"
+755354685,Total current assets for continuing operations ($000s),2018,"$131,945"
+755354685,Total current assets for continuing operations ($000s),2017,"$716,954"
+755354685,Total current assets for continuing operations ($000s),2016,"$700,960"
+755354685,Assets held for sale ($000s),2025,-
+755354685,Assets held for sale ($000s),2024,-
+755354685,Assets held for sale ($000s),2023,-
+755354685,Assets held for sale ($000s),2022,-
+755354685,Assets held for sale ($000s),2021,"$328,881"
+755354685,Assets held for sale ($000s),2020,"$20,000"
+755354685,Assets held for sale ($000s),2019,"$32,500"
+755354685,Assets held for sale ($000s),2018,"$79,421"
+755354685,Assets held for sale ($000s),2017,-
+755354685,Assets held for sale ($000s),2016,-
+755354685,Total current assets ($000s),2025,"$221,731"
+755354685,Total current assets ($000s),2024,"$303,944"
+755354685,Total current assets ($000s),2023,"$1,221,293"
+755354685,Total current assets ($000s),2022,"$715,030"
+755354685,Total current assets ($000s),2021,"$796,536"
+755354685,Total current assets ($000s),2020,"$256,350"
+755354685,Total current assets ($000s),2019,"$462,926"
+755354685,Total current assets ($000s),2018,"$211,366"
+755354685,Total current assets ($000s),2017,"$716,954"
+755354685,Total current assets ($000s),2016,"$700,960"
+755354685,Non-current assets,2025,
+755354685,Non-current assets,2024,
+755354685,Non-current assets,2023,
+755354685,Non-current assets,2022,
+755354685,Non-current assets,2021,-
+755354685,Non-current assets,2020,-
+755354685,Non-current assets,2019,-
+755354685,Non-current assets,2018,-
+755354685,Non-current assets,2017,-
+755354685,Non-current assets,2016,-
+755354685,Receivables ($000s),2025,
+755354685,Receivables ($000s),2024,
+755354685,Receivables ($000s),2023,
+755354685,Receivables ($000s),2022,
+755354685,Receivables ($000s),2021,-
+755354685,Receivables ($000s),2020,-
+755354685,Receivables ($000s),2019,-
+755354685,Receivables ($000s),2018,-
+755354685,Receivables ($000s),2017,-
+755354685,Receivables ($000s),2016,-
+755354685,Investments in associates ($000s),2025,$0
+755354685,Investments in associates ($000s),2024,$0
+755354685,Investments in associates ($000s),2023,$672
+755354685,Investments in associates ($000s),2022,$0
+755354685,Investments in associates ($000s),2021,$0
+755354685,Investments in associates ($000s),2020,"$255,976"
+755354685,Investments in associates ($000s),2019,"$398,535"
+755354685,Investments in associates ($000s),2018,"$398,535"
+755354685,Investments in associates ($000s),2017,$0
+755354685,Investments in associates ($000s),2016,"$387,104"
+755354685,Investments in subsidiaries ($000s),2025,"$1,174,202"
+755354685,Investments in subsidiaries ($000s),2024,"$1,174,202"
+755354685,Investments in subsidiaries ($000s),2023,"$1,270,065"
+755354685,Investments in subsidiaries ($000s),2022,"$1,203,813"
+755354685,Investments in subsidiaries ($000s),2021,"$1,612,947"
+755354685,Investments in subsidiaries ($000s),2020,"$1,762,624"
+755354685,Investments in subsidiaries ($000s),2019,"$1,310,914"
+755354685,Investments in subsidiaries ($000s),2018,"$1,722,881"
+755354685,Investments in subsidiaries ($000s),2017,"$1,818,363"
+755354685,Investments in subsidiaries ($000s),2016,"$2,474,889"
+755354685,Available for sale financial assets ($000s),2025,$0
+755354685,Available for sale financial assets ($000s),2024,$0
+755354685,Available for sale financial assets ($000s),2023,$0
+755354685,Available for sale financial assets ($000s),2022,$0
+755354685,Available for sale financial assets ($000s),2021,$0
+755354685,Available for sale financial assets ($000s),2020,$0
+755354685,Available for sale financial assets ($000s),2019,$0
+755354685,Available for sale financial assets ($000s),2018,$0
+755354685,Available for sale financial assets ($000s),2017,$0
+755354685,Available for sale financial assets ($000s),2016,$0
+755354685,"Property, plant and equipment ($000s)",2025,
+755354685,"Property, plant and equipment ($000s)",2024,
+755354685,"Property, plant and equipment ($000s)",2023,
+755354685,"Property, plant and equipment ($000s)",2022,
+755354685,"Property, plant and equipment ($000s)",2021,-
+755354685,"Property, plant and equipment ($000s)",2020,-
+755354685,"Property, plant and equipment ($000s)",2019,-
+755354685,"Property, plant and equipment ($000s)",2018,-
+755354685,"Property, plant and equipment ($000s)",2017,-
+755354685,"Property, plant and equipment ($000s)",2016,-
+755354685,Intangible assets and goodwill ($000s),2025,$0
+755354685,Intangible assets and goodwill ($000s),2024,$0
+755354685,Intangible assets and goodwill ($000s),2023,$0
+755354685,Intangible assets and goodwill ($000s),2022,$0
+755354685,Intangible assets and goodwill ($000s),2021,$0
+755354685,Intangible assets and goodwill ($000s),2020,$0
+755354685,Intangible assets and goodwill ($000s),2019,$0
+755354685,Intangible assets and goodwill ($000s),2018,$0
+755354685,Intangible assets and goodwill ($000s),2017,$0
+755354685,Intangible assets and goodwill ($000s),2016,$0
+755354685,Deferred tax assets ($000s),2025,"$1,318"
+755354685,Deferred tax assets ($000s),2024,"$1,348"
+755354685,Deferred tax assets ($000s),2023,"$2,388"
+755354685,Deferred tax assets ($000s),2022,"$4,529"
+755354685,Deferred tax assets ($000s),2021,"$5,947"
+755354685,Deferred tax assets ($000s),2020,-
+755354685,Deferred tax assets ($000s),2019,-
+755354685,Deferred tax assets ($000s),2018,-
+755354685,Deferred tax assets ($000s),2017,-
+755354685,Deferred tax assets ($000s),2016,"$3,114"
+755354685,Other non-current assets ($000s),2025,$766
+755354685,Other non-current assets ($000s),2024,$0
+755354685,Other non-current assets ($000s),2023,$0
+755354685,Other non-current assets ($000s),2022,$0
+755354685,Other non-current assets ($000s),2021,$0
+755354685,Other non-current assets ($000s),2020,$0
+755354685,Other non-current assets ($000s),2019,$0
+755354685,Other non-current assets ($000s),2018,$0
+755354685,Other non-current assets ($000s),2017,$0
+755354685,Other non-current assets ($000s),2016,$0
+755354685,Total non-current assets ($000s),2025,"$1,176,286"
+755354685,Total non-current assets ($000s),2024,"$1,175,550"
+755354685,Total non-current assets ($000s),2023,"$1,273,125"
+755354685,Total non-current assets ($000s),2022,"$1,208,342"
+755354685,Total non-current assets ($000s),2021,"$1,618,894"
+755354685,Total non-current assets ($000s),2020,"$2,018,600"
+755354685,Total non-current assets ($000s),2019,"$1,709,449"
+755354685,Total non-current assets ($000s),2018,"$2,121,416"
+755354685,Total non-current assets ($000s),2017,"$1,818,363"
+755354685,Total non-current assets ($000s),2016,"$2,865,107"
+755354685,TOTAL ASSETS ($000s),2025,"$1,398,017"
+755354685,TOTAL ASSETS ($000s),2024,"$1,479,494"
+755354685,TOTAL ASSETS ($000s),2023,"$2,494,418"
+755354685,TOTAL ASSETS ($000s),2022,"$1,923,372"
+755354685,TOTAL ASSETS ($000s),2021,"$2,415,430"
+755354685,TOTAL ASSETS ($000s),2020,"$2,274,950"
+755354685,TOTAL ASSETS ($000s),2019,"$2,172,375"
+755354685,TOTAL ASSETS ($000s),2018,"$2,332,782"
+755354685,TOTAL ASSETS ($000s),2017,"$2,535,317"
+755354685,TOTAL ASSETS ($000s),2016,"$3,566,067"
+755354685,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2025,"$1,479,494"
+755354685,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2024,"$2,494,418"
+755354685,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2023,"$1,923,372"
+755354685,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2022,"$2,415,430"
+755354685,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2021,"$2,274,950"
+755354685,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2020,"$2,172,375"
+755354685,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2019,"$2,332,782"
+755354685,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2018,"$2,535,317"
+755354685,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2017,"$3,566,067"
+755354685,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2016,"$3,123,914"
+755354685,Current liabilities,2025,
+755354685,Current liabilities,2024,
+755354685,Current liabilities,2023,
+755354685,Current liabilities,2022,
+755354685,Current liabilities,2021,-
+755354685,Current liabilities,2020,-
+755354685,Current liabilities,2019,-
+755354685,Current liabilities,2018,-
+755354685,Current liabilities,2017,-
+755354685,Current liabilities,2016,-
+755354685,Trade payables ($000s),2025,-
+755354685,Trade payables ($000s),2024,-
+755354685,Trade payables ($000s),2023,-
+755354685,Trade payables ($000s),2022,-
+755354685,Trade payables ($000s),2021,-
+755354685,Trade payables ($000s),2020,-
+755354685,Trade payables ($000s),2019,-
+755354685,Trade payables ($000s),2018,-
+755354685,Trade payables ($000s),2017,"$1,984"
+755354685,Trade payables ($000s),2016,"$1,984"
+755354685,Other payables ($000s),2025,$163
+755354685,Other payables ($000s),2024,$192
+755354685,Other payables ($000s),2023,$42
+755354685,Other payables ($000s),2022,-
+755354685,Other payables ($000s),2021,"$69,485"
+755354685,Other payables ($000s),2020,"$75,767"
+755354685,Other payables ($000s),2019,-
+755354685,Other payables ($000s),2018,-
+755354685,Other payables ($000s),2017,-
+755354685,Other payables ($000s),2016,-
+755354685,Overdrafts ($000s),2025,
+755354685,Overdrafts ($000s),2024,
+755354685,Overdrafts ($000s),2023,
+755354685,Overdrafts ($000s),2022,
+755354685,Overdrafts ($000s),2021,-
+755354685,Overdrafts ($000s),2020,-
+755354685,Overdrafts ($000s),2019,-
+755354685,Overdrafts ($000s),2018,-
+755354685,Overdrafts ($000s),2017,-
+755354685,Overdrafts ($000s),2016,-
+755354685,Loans - secured ($000s),2025,
+755354685,Loans - secured ($000s),2024,
+755354685,Loans - secured ($000s),2023,
+755354685,Loans - secured ($000s),2022,
+755354685,Loans - secured ($000s),2021,-
+755354685,Loans - secured ($000s),2020,-
+755354685,Loans - secured ($000s),2019,-
+755354685,Loans - secured ($000s),2018,-
+755354685,Loans - secured ($000s),2017,-
+755354685,Loans - secured ($000s),2016,-
+755354685,Loans - unsecured ($000s),2025,
+755354685,Loans - unsecured ($000s),2024,
+755354685,Loans - unsecured ($000s),2023,
+755354685,Loans - unsecured ($000s),2022,
+755354685,Loans - unsecured ($000s),2021,-
+755354685,Loans - unsecured ($000s),2020,-
+755354685,Loans - unsecured ($000s),2019,-
+755354685,Loans - unsecured ($000s),2018,-
+755354685,Loans - unsecured ($000s),2017,-
+755354685,Loans - unsecured ($000s),2016,-
+755354685,Obligations under finance leases and hire purchase ($000s),2025,
+755354685,Obligations under finance leases and hire purchase ($000s),2024,
+755354685,Obligations under finance leases and hire purchase ($000s),2023,
+755354685,Obligations under finance leases and hire purchase ($000s),2022,
+755354685,Obligations under finance leases and hire purchase ($000s),2021,-
+755354685,Obligations under finance leases and hire purchase ($000s),2020,-
+755354685,Obligations under finance leases and hire purchase ($000s),2019,-
+755354685,Obligations under finance leases and hire purchase ($000s),2018,-
+755354685,Obligations under finance leases and hire purchase ($000s),2017,-
+755354685,Obligations under finance leases and hire purchase ($000s),2016,-
+755354685,Loans from related parties ($000s),2025,-
+755354685,Loans from related parties ($000s),2024,"$242,147"
+755354685,Loans from related parties ($000s),2023,"$84,543"
+755354685,Loans from related parties ($000s),2022,"$74,989"
+755354685,Loans from related parties ($000s),2021,"$75,430"
+755354685,Loans from related parties ($000s),2020,-
+755354685,Loans from related parties ($000s),2019,"$52,431"
+755354685,Loans from related parties ($000s),2018,"$180,529"
+755354685,Loans from related parties ($000s),2017,"$99,749"
+755354685,Loans from related parties ($000s),2016,"$403,012"
+755354685,Total current interest-bearing loans and borrowings ($000s),2025,-
+755354685,Total current interest-bearing loans and borrowings ($000s),2024,"$242,147"
+755354685,Total current interest-bearing loans and borrowings ($000s),2023,"$84,543"
+755354685,Total current interest-bearing loans and borrowings ($000s),2022,"$74,989"
+755354685,Total current interest-bearing loans and borrowings ($000s),2021,"$75,430"
+755354685,Total current interest-bearing loans and borrowings ($000s),2020,-
+755354685,Total current interest-bearing loans and borrowings ($000s),2019,"$52,431"
+755354685,Total current interest-bearing loans and borrowings ($000s),2018,"$180,529"
+755354685,Total current interest-bearing loans and borrowings ($000s),2017,"$99,749"
+755354685,Total current interest-bearing loans and borrowings ($000s),2016,"$403,012"
+755354685,Income tax payable/(refundable) ($000s),2025,
+755354685,Income tax payable/(refundable) ($000s),2024,
+755354685,Income tax payable/(refundable) ($000s),2023,
+755354685,Income tax payable/(refundable) ($000s),2022,
+755354685,Income tax payable/(refundable) ($000s),2021,-
+755354685,Income tax payable/(refundable) ($000s),2020,-
+755354685,Income tax payable/(refundable) ($000s),2019,-
+755354685,Income tax payable/(refundable) ($000s),2018,-
+755354685,Income tax payable/(refundable) ($000s),2017,-
+755354685,Income tax payable/(refundable) ($000s),2016,-
+755354685,Provisions ($000s),2025,$0
+755354685,Provisions ($000s),2024,$0
+755354685,Provisions ($000s),2023,$0
+755354685,Provisions ($000s),2022,$0
+755354685,Provisions ($000s),2021,"$18,117"
+755354685,Provisions ($000s),2020,"$34,989"
+755354685,Provisions ($000s),2019,"$24,895"
+755354685,Provisions ($000s),2018,$0
+755354685,Provisions ($000s),2017,$0
+755354685,Provisions ($000s),2016,$0
+755354685,Other current liabilities ($000s),2025,"$244,710"
+755354685,Other current liabilities ($000s),2024,$0
+755354685,Other current liabilities ($000s),2023,$0
+755354685,Other current liabilities ($000s),2022,$0
+755354685,Other current liabilities ($000s),2021,$0
+755354685,Other current liabilities ($000s),2020,"$45,557"
+755354685,Other current liabilities ($000s),2019,$0
+755354685,Other current liabilities ($000s),2018,$0
+755354685,Other current liabilities ($000s),2017,$0
+755354685,Other current liabilities ($000s),2016,$0
+755354685,Total current liabilities for continuing operations ($000s),2025,"$244,873"
+755354685,Total current liabilities for continuing operations ($000s),2024,"$242,339"
+755354685,Total current liabilities for continuing operations ($000s),2023,"$84,585"
+755354685,Total current liabilities for continuing operations ($000s),2022,"$74,989"
+755354685,Total current liabilities for continuing operations ($000s),2021,"$163,032"
+755354685,Total current liabilities for continuing operations ($000s),2020,"$156,313"
+755354685,Total current liabilities for continuing operations ($000s),2019,"$77,326"
+755354685,Total current liabilities for continuing operations ($000s),2018,"$180,529"
+755354685,Total current liabilities for continuing operations ($000s),2017,"$101,733"
+755354685,Total current liabilities for continuing operations ($000s),2016,"$404,996"
+755354685,Liabilities directly associated with assets held for sale ($000s),2025,
+755354685,Liabilities directly associated with assets held for sale ($000s),2024,
+755354685,Liabilities directly associated with assets held for sale ($000s),2023,
+755354685,Liabilities directly associated with assets held for sale ($000s),2022,
+755354685,Liabilities directly associated with assets held for sale ($000s),2021,-
+755354685,Liabilities directly associated with assets held for sale ($000s),2020,-
+755354685,Liabilities directly associated with assets held for sale ($000s),2019,-
+755354685,Liabilities directly associated with assets held for sale ($000s),2018,-
+755354685,Liabilities directly associated with assets held for sale ($000s),2017,-
+755354685,Liabilities directly associated with assets held for sale ($000s),2016,-
+755354685,Total current liabilities ($000s),2025,"$244,873"
+755354685,Total current liabilities ($000s),2024,"$242,339"
+755354685,Total current liabilities ($000s),2023,"$84,585"
+755354685,Total current liabilities ($000s),2022,"$74,989"
+755354685,Total current liabilities ($000s),2021,"$163,032"
+755354685,Total current liabilities ($000s),2020,"$156,313"
+755354685,Total current liabilities ($000s),2019,"$77,326"
+755354685,Total current liabilities ($000s),2018,"$180,529"
+755354685,Total current liabilities ($000s),2017,"$101,733"
+755354685,Total current liabilities ($000s),2016,"$404,996"
+755354685,Total current liabilities for previous year ($000s),2025,"$242,339"
+755354685,Total current liabilities for previous year ($000s),2024,"$84,585"
+755354685,Total current liabilities for previous year ($000s),2023,"$74,989"
+755354685,Total current liabilities for previous year ($000s),2022,"$163,032"
+755354685,Total current liabilities for previous year ($000s),2021,"$156,313"
+755354685,Total current liabilities for previous year ($000s),2020,"$77,326"
+755354685,Total current liabilities for previous year ($000s),2019,"$180,529"
+755354685,Total current liabilities for previous year ($000s),2018,"$101,733"
+755354685,Total current liabilities for previous year ($000s),2017,"$404,996"
+755354685,Total current liabilities for previous year ($000s),2016,"$599,262"
+755354685,Non-current liabilities,2025,
+755354685,Non-current liabilities,2024,
+755354685,Non-current liabilities,2023,
+755354685,Non-current liabilities,2022,
+755354685,Non-current liabilities,2021,-
+755354685,Non-current liabilities,2020,-
+755354685,Non-current liabilities,2019,-
+755354685,Non-current liabilities,2018,-
+755354685,Non-current liabilities,2017,-
+755354685,Non-current liabilities,2016,-
+755354685,Total non-current interest-bearing loans and borrowings ($000s),2025,
+755354685,Total non-current interest-bearing loans and borrowings ($000s),2024,
+755354685,Total non-current interest-bearing loans and borrowings ($000s),2023,
+755354685,Total non-current interest-bearing loans and borrowings ($000s),2022,
+755354685,Total non-current interest-bearing loans and borrowings ($000s),2021,-
+755354685,Total non-current interest-bearing loans and borrowings ($000s),2020,-
+755354685,Total non-current interest-bearing loans and borrowings ($000s),2019,-
+755354685,Total non-current interest-bearing loans and borrowings ($000s),2018,-
+755354685,Total non-current interest-bearing loans and borrowings ($000s),2017,-
+755354685,Total non-current interest-bearing loans and borrowings ($000s),2016,-
+755354685,Deferred tax liabilities ($000s),2025,-
+755354685,Deferred tax liabilities ($000s),2024,-
+755354685,Deferred tax liabilities ($000s),2023,-
+755354685,Deferred tax liabilities ($000s),2022,-
+755354685,Deferred tax liabilities ($000s),2021,-
+755354685,Deferred tax liabilities ($000s),2020,"$6,192"
+755354685,Deferred tax liabilities ($000s),2019,"$1,272"
+755354685,Deferred tax liabilities ($000s),2018,"$1,890"
+755354685,Deferred tax liabilities ($000s),2017,"$6,081"
+755354685,Deferred tax liabilities ($000s),2016,-
+755354685,Convertible redeemable preference shares ($000s),2025,
+755354685,Convertible redeemable preference shares ($000s),2024,
+755354685,Convertible redeemable preference shares ($000s),2023,
+755354685,Convertible redeemable preference shares ($000s),2022,
+755354685,Convertible redeemable preference shares ($000s),2021,-
+755354685,Convertible redeemable preference shares ($000s),2020,-
+755354685,Convertible redeemable preference shares ($000s),2019,-
+755354685,Convertible redeemable preference shares ($000s),2018,-
+755354685,Convertible redeemable preference shares ($000s),2017,-
+755354685,Convertible redeemable preference shares ($000s),2016,-
+755354685,Other non-current liabilities ($000s),2025,$0
+755354685,Other non-current liabilities ($000s),2024,$0
+755354685,Other non-current liabilities ($000s),2023,$0
+755354685,Other non-current liabilities ($000s),2022,$0
+755354685,Other non-current liabilities ($000s),2021,$0
+755354685,Other non-current liabilities ($000s),2020,$0
+755354685,Other non-current liabilities ($000s),2019,$0
+755354685,Other non-current liabilities ($000s),2018,$0
+755354685,Other non-current liabilities ($000s),2017,$0
+755354685,Other non-current liabilities ($000s),2016,$0
+755354685,Total non-current liabilities ($000s),2025,-
+755354685,Total non-current liabilities ($000s),2024,-
+755354685,Total non-current liabilities ($000s),2023,-
+755354685,Total non-current liabilities ($000s),2022,-
+755354685,Total non-current liabilities ($000s),2021,-
+755354685,Total non-current liabilities ($000s),2020,"$6,192"
+755354685,Total non-current liabilities ($000s),2019,"$1,272"
+755354685,Total non-current liabilities ($000s),2018,"$1,890"
+755354685,Total non-current liabilities ($000s),2017,"$6,081"
+755354685,Total non-current liabilities ($000s),2016,-
+755354685,TOTAL LIABILITIES ($000s),2025,"$244,873"
+755354685,TOTAL LIABILITIES ($000s),2024,"$242,339"
+755354685,TOTAL LIABILITIES ($000s),2023,"$84,585"
+755354685,TOTAL LIABILITIES ($000s),2022,"$74,989"
+755354685,TOTAL LIABILITIES ($000s),2021,"$163,032"
+755354685,TOTAL LIABILITIES ($000s),2020,"$162,505"
+755354685,TOTAL LIABILITIES ($000s),2019,"$78,598"
+755354685,TOTAL LIABILITIES ($000s),2018,"$182,419"
+755354685,TOTAL LIABILITIES ($000s),2017,"$107,814"
+755354685,TOTAL LIABILITIES ($000s),2016,"$404,996"
+755354685,NET ASSETS ($000s),2025,"$1,153,144"
+755354685,NET ASSETS ($000s),2024,"$1,237,155"
+755354685,NET ASSETS ($000s),2023,"$2,409,833"
+755354685,NET ASSETS ($000s),2022,"$1,848,383"
+755354685,NET ASSETS ($000s),2021,"$2,252,398"
+755354685,NET ASSETS ($000s),2020,"$2,112,445"
+755354685,NET ASSETS ($000s),2019,"$2,093,777"
+755354685,NET ASSETS ($000s),2018,"$2,150,363"
+755354685,NET ASSETS ($000s),2017,"$2,427,503"
+755354685,NET ASSETS ($000s),2016,"$3,161,071"
+755354685,Equity,2025,
+755354685,Equity,2024,
+755354685,Equity,2023,
+755354685,Equity,2022,
+755354685,Equity,2021,-
+755354685,Equity,2020,-
+755354685,Equity,2019,-
+755354685,Equity,2018,-
+755354685,Equity,2017,-
+755354685,Equity,2016,-
+755354685,Equity attributable to equity holders of the parent,2025,
+755354685,Equity attributable to equity holders of the parent,2024,
+755354685,Equity attributable to equity holders of the parent,2023,
+755354685,Equity attributable to equity holders of the parent,2022,
+755354685,Equity attributable to equity holders of the parent,2021,-
+755354685,Equity attributable to equity holders of the parent,2020,-
+755354685,Equity attributable to equity holders of the parent,2019,-
+755354685,Equity attributable to equity holders of the parent,2018,-
+755354685,Equity attributable to equity holders of the parent,2017,-
+755354685,Equity attributable to equity holders of the parent,2016,-
+755354685,Contributed equity ($000s),2025,"$920,949"
+755354685,Contributed equity ($000s),2024,"$1,166,949"
+755354685,Contributed equity ($000s),2023,"$2,361,949"
+755354685,Contributed equity ($000s),2022,"$1,798,470"
+755354685,Contributed equity ($000s),2021,"$1,798,470"
+755354685,Contributed equity ($000s),2020,"$1,798,470"
+755354685,Contributed equity ($000s),2019,"$1,132,051"
+755354685,Contributed equity ($000s),2018,"$1,493,051"
+755354685,Contributed equity ($000s),2017,"$2,228,051"
+755354685,Contributed equity ($000s),2016,"$4,565,188"
+755354685,Retained earnings ($000s),2025,"$232,195"
+755354685,Retained earnings ($000s),2024,"$134,385"
+755354685,Retained earnings ($000s),2023,"$114,295"
+755354685,Retained earnings ($000s),2022,"$92,593"
+755354685,Retained earnings ($000s),2021,"$497,345"
+755354685,Retained earnings ($000s),2020,"$374,249"
+755354685,Retained earnings ($000s),2019,"$1,028,642"
+755354685,Retained earnings ($000s),2018,"$454,407"
+755354685,Retained earnings ($000s),2017,"($32,841)"
+755354685,Retained earnings ($000s),2016,"($1,614,385)"
+755354685,Reserves ($000s),2025,$0
+755354685,Reserves ($000s),2024,"($64,179)"
+755354685,Reserves ($000s),2023,"($66,411)"
+755354685,Reserves ($000s),2022,"($42,680)"
+755354685,Reserves ($000s),2021,"($43,417)"
+755354685,Reserves ($000s),2020,"($60,274)"
+755354685,Reserves ($000s),2019,"($66,916)"
+755354685,Reserves ($000s),2018,"$202,905"
+755354685,Reserves ($000s),2017,"$232,293"
+755354685,Reserves ($000s),2016,"$210,268"
+755354685,Total Parent interests ($000s),2025,"$1,153,144"
+755354685,Total Parent interests ($000s),2024,"$1,237,155"
+755354685,Total Parent interests ($000s),2023,"$2,409,833"
+755354685,Total Parent interests ($000s),2022,"$1,848,383"
+755354685,Total Parent interests ($000s),2021,"$2,252,398"
+755354685,Total Parent interests ($000s),2020,"$2,112,445"
+755354685,Total Parent interests ($000s),2019,"$2,093,777"
+755354685,Total Parent interests ($000s),2018,"$2,150,363"
+755354685,Total Parent interests ($000s),2017,"$2,427,503"
+755354685,Total Parent interests ($000s),2016,"$3,161,071"
+755354685,Minority interests ($000s),2025,
+755354685,Minority interests ($000s),2024,
+755354685,Minority interests ($000s),2023,
+755354685,Minority interests ($000s),2022,
+755354685,Minority interests ($000s),2021,-
+755354685,Minority interests ($000s),2020,-
+755354685,Minority interests ($000s),2019,-
+755354685,Minority interests ($000s),2018,-
+755354685,Minority interests ($000s),2017,-
+755354685,Minority interests ($000s),2016,-
+755354685,TOTAL EQUITY ($000s),2025,"$1,153,144"
+755354685,TOTAL EQUITY ($000s),2024,"$1,237,155"
+755354685,TOTAL EQUITY ($000s),2023,"$2,409,833"
+755354685,TOTAL EQUITY ($000s),2022,"$1,848,383"
+755354685,TOTAL EQUITY ($000s),2021,"$2,252,398"
+755354685,TOTAL EQUITY ($000s),2020,"$2,112,445"
+755354685,TOTAL EQUITY ($000s),2019,"$2,093,777"
+755354685,TOTAL EQUITY ($000s),2018,"$2,150,363"
+755354685,TOTAL EQUITY ($000s),2017,"$2,427,503"
+755354685,TOTAL EQUITY ($000s),2016,"$3,161,071"
+755354685,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2025,"$1,237,155"
+755354685,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2024,"$2,409,833"
+755354685,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2023,"$1,848,383"
+755354685,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2022,"$2,252,398"
+755354685,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2021,"$2,112,445"
+755354685,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2020,"$2,093,777"
+755354685,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2019,"$2,150,363"
+755354685,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2018,"$2,427,503"
+755354685,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2017,"$3,161,071"
+755354685,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2016,"$2,495,798"

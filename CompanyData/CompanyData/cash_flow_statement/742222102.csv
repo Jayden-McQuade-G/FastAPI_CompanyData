@@ -1,0 +1,301 @@
+duns,line_item,year,value
+742222102,Cash flow statement,2024,
+742222102,Cash flow statement,2023,
+742222102,Cash flow statement,2022,
+742222102,Cash flow statement,2021,
+742222102,Cash flow statement,2020,-
+742222102,Cash flow statement,2019,-
+742222102,Cash flow statement,2018,-
+742222102,Cash flow statement,2017,-
+742222102,Cash flow statement,2016,-
+742222102,Cash flow statement,2015,-
+742222102,Receipts from customers ($000s),2024,"$32,592"
+742222102,Receipts from customers ($000s),2023,"$34,835"
+742222102,Receipts from customers ($000s),2022,"$25,486"
+742222102,Receipts from customers ($000s),2021,"$28,948"
+742222102,Receipts from customers ($000s),2020,"$23,042"
+742222102,Receipts from customers ($000s),2019,"$30,024"
+742222102,Receipts from customers ($000s),2018,"$34,176"
+742222102,Receipts from customers ($000s),2017,"$26,506"
+742222102,Receipts from customers ($000s),2016,"$27,095"
+742222102,Receipts from customers ($000s),2015,"$26,609"
+742222102,Payments to suppliers and employees ($000s),2024,"($34,166)"
+742222102,Payments to suppliers and employees ($000s),2023,"($33,527)"
+742222102,Payments to suppliers and employees ($000s),2022,"($25,752)"
+742222102,Payments to suppliers and employees ($000s),2021,"($26,686)"
+742222102,Payments to suppliers and employees ($000s),2020,"($25,742)"
+742222102,Payments to suppliers and employees ($000s),2019,"($31,057)"
+742222102,Payments to suppliers and employees ($000s),2018,"($30,886)"
+742222102,Payments to suppliers and employees ($000s),2017,"($26,868)"
+742222102,Payments to suppliers and employees ($000s),2016,"($50,774)"
+742222102,Payments to suppliers and employees ($000s),2015,"($26,775)"
+742222102,Interest paid ($000s),2024,($255)
+742222102,Interest paid ($000s),2023,($120)
+742222102,Interest paid ($000s),2022,($74)
+742222102,Interest paid ($000s),2021,($77)
+742222102,Interest paid ($000s),2020,($77)
+742222102,Interest paid ($000s),2019,($134)
+742222102,Interest paid ($000s),2018,($83)
+742222102,Interest paid ($000s),2017,($183)
+742222102,Interest paid ($000s),2016,($403)
+742222102,Interest paid ($000s),2015,($434)
+742222102,Tax paid ($000s),2024,"($1,857)"
+742222102,Tax paid ($000s),2023,-
+742222102,Tax paid ($000s),2022,-
+742222102,Tax paid ($000s),2021,$68
+742222102,Tax paid ($000s),2020,$354
+742222102,Tax paid ($000s),2019,($254)
+742222102,Tax paid ($000s),2018,"($1,494)"
+742222102,Tax paid ($000s),2017,($378)
+742222102,Tax paid ($000s),2016,($359)
+742222102,Tax paid ($000s),2015,-
+742222102,Other receipts ($000s),2024,"$1,220"
+742222102,Other receipts ($000s),2023,$636
+742222102,Other receipts ($000s),2022,$429
+742222102,Other receipts ($000s),2021,"$2,031"
+742222102,Other receipts ($000s),2020,"$1,080"
+742222102,Other receipts ($000s),2019,"$2,978"
+742222102,Other receipts ($000s),2018,"$16,854"
+742222102,Other receipts ($000s),2017,"$8,973"
+742222102,Other receipts ($000s),2016,$524
+742222102,Other receipts ($000s),2015,$653
+742222102,Other payments ($000s),2024,($912)
+742222102,Other payments ($000s),2023,"($1,591)"
+742222102,Other payments ($000s),2022,"($2,173)"
+742222102,Other payments ($000s),2021,($750)
+742222102,Other payments ($000s),2020,"($4,215)"
+742222102,Other payments ($000s),2019,$0
+742222102,Other payments ($000s),2018,$0
+742222102,Other payments ($000s),2017,$0
+742222102,Other payments ($000s),2016,$0
+742222102,Other payments ($000s),2015,$0
+742222102,Net cashflow from/(used in) operating activities ($000s),2024,"($3,379)"
+742222102,Net cashflow from/(used in) operating activities ($000s),2023,$233
+742222102,Net cashflow from/(used in) operating activities ($000s),2022,"($2,084)"
+742222102,Net cashflow from/(used in) operating activities ($000s),2021,"$3,535"
+742222102,Net cashflow from/(used in) operating activities ($000s),2020,"($5,558)"
+742222102,Net cashflow from/(used in) operating activities ($000s),2019,"$1,558"
+742222102,Net cashflow from/(used in) operating activities ($000s),2018,"$18,567"
+742222102,Net cashflow from/(used in) operating activities ($000s),2017,"$8,050"
+742222102,Net cashflow from/(used in) operating activities ($000s),2016,"($23,917)"
+742222102,Net cashflow from/(used in) operating activities ($000s),2015,$53
+742222102,Purchase of property plant and equipment ($000s),2024,"($2,628)"
+742222102,Purchase of property plant and equipment ($000s),2023,"($2,212)"
+742222102,Purchase of property plant and equipment ($000s),2022,"($1,471)"
+742222102,Purchase of property plant and equipment ($000s),2021,"($1,828)"
+742222102,Purchase of property plant and equipment ($000s),2020,"($2,730)"
+742222102,Purchase of property plant and equipment ($000s),2019,"($2,352)"
+742222102,Purchase of property plant and equipment ($000s),2018,"($1,587)"
+742222102,Purchase of property plant and equipment ($000s),2017,"($2,866)"
+742222102,Purchase of property plant and equipment ($000s),2016,"($2,099)"
+742222102,Purchase of property plant and equipment ($000s),2015,($259)
+742222102,Purchase of intangibles ($000s),2024,($7)
+742222102,Purchase of intangibles ($000s),2023,($102)
+742222102,Purchase of intangibles ($000s),2022,($21)
+742222102,Purchase of intangibles ($000s),2021,($4)
+742222102,Purchase of intangibles ($000s),2020,($39)
+742222102,Purchase of intangibles ($000s),2019,($66)
+742222102,Purchase of intangibles ($000s),2018,-
+742222102,Purchase of intangibles ($000s),2017,-
+742222102,Purchase of intangibles ($000s),2016,-
+742222102,Purchase of intangibles ($000s),2015,-
+742222102,Proceeds from the sale of property plant and equipment ($000s),2024,$60
+742222102,Proceeds from the sale of property plant and equipment ($000s),2023,$0
+742222102,Proceeds from the sale of property plant and equipment ($000s),2022,$0
+742222102,Proceeds from the sale of property plant and equipment ($000s),2021,$0
+742222102,Proceeds from the sale of property plant and equipment ($000s),2020,$3
+742222102,Proceeds from the sale of property plant and equipment ($000s),2019,"$1,106"
+742222102,Proceeds from the sale of property plant and equipment ($000s),2018,$0
+742222102,Proceeds from the sale of property plant and equipment ($000s),2017,$22
+742222102,Proceeds from the sale of property plant and equipment ($000s),2016,$820
+742222102,Proceeds from the sale of property plant and equipment ($000s),2015,$0
+742222102,Proceeds from the disposal of investments/subsidiaries ($000s),2024,"$1,609"
+742222102,Proceeds from the disposal of investments/subsidiaries ($000s),2023,$0
+742222102,Proceeds from the disposal of investments/subsidiaries ($000s),2022,$185
+742222102,Proceeds from the disposal of investments/subsidiaries ($000s),2021,$0
+742222102,Proceeds from the disposal of investments/subsidiaries ($000s),2020,$0
+742222102,Proceeds from the disposal of investments/subsidiaries ($000s),2019,$31
+742222102,Proceeds from the disposal of investments/subsidiaries ($000s),2018,$0
+742222102,Proceeds from the disposal of investments/subsidiaries ($000s),2017,$51
+742222102,Proceeds from the disposal of investments/subsidiaries ($000s),2016,$0
+742222102,Proceeds from the disposal of investments/subsidiaries ($000s),2015,$0
+742222102,Purchase of subisidiary/investment ($000s),2024,$0
+742222102,Purchase of subisidiary/investment ($000s),2023,$0
+742222102,Purchase of subisidiary/investment ($000s),2022,$0
+742222102,Purchase of subisidiary/investment ($000s),2021,$0
+742222102,Purchase of subisidiary/investment ($000s),2020,$0
+742222102,Purchase of subisidiary/investment ($000s),2019,$0
+742222102,Purchase of subisidiary/investment ($000s),2018,($16)
+742222102,Purchase of subisidiary/investment ($000s),2017,$0
+742222102,Purchase of subisidiary/investment ($000s),2016,$0
+742222102,Purchase of subisidiary/investment ($000s),2015,$0
+742222102,Interest received ($000s),2024,
+742222102,Interest received ($000s),2023,
+742222102,Interest received ($000s),2022,
+742222102,Interest received ($000s),2021,
+742222102,Interest received ($000s),2020,-
+742222102,Interest received ($000s),2019,-
+742222102,Interest received ($000s),2018,-
+742222102,Interest received ($000s),2017,-
+742222102,Interest received ($000s),2016,-
+742222102,Interest received ($000s),2015,-
+742222102,Dividends received ($000s),2024,
+742222102,Dividends received ($000s),2023,
+742222102,Dividends received ($000s),2022,
+742222102,Dividends received ($000s),2021,
+742222102,Dividends received ($000s),2020,-
+742222102,Dividends received ($000s),2019,-
+742222102,Dividends received ($000s),2018,-
+742222102,Dividends received ($000s),2017,-
+742222102,Dividends received ($000s),2016,-
+742222102,Dividends received ($000s),2015,-
+742222102,Other investing inflows/(outflows) ($000s),2024,"$1,739"
+742222102,Other investing inflows/(outflows) ($000s),2023,"$4,861"
+742222102,Other investing inflows/(outflows) ($000s),2022,"$1,293"
+742222102,Other investing inflows/(outflows) ($000s),2021,"($7,349)"
+742222102,Other investing inflows/(outflows) ($000s),2020,($897)
+742222102,Other investing inflows/(outflows) ($000s),2019,"($3,566)"
+742222102,Other investing inflows/(outflows) ($000s),2018,"($2,119)"
+742222102,Other investing inflows/(outflows) ($000s),2017,"$4,097"
+742222102,Other investing inflows/(outflows) ($000s),2016,"$28,323"
+742222102,Other investing inflows/(outflows) ($000s),2015,"$5,135"
+742222102,Net cashflow from/(used in) investing activities ($000s),2024,$773
+742222102,Net cashflow from/(used in) investing activities ($000s),2023,"$2,548"
+742222102,Net cashflow from/(used in) investing activities ($000s),2022,($13)
+742222102,Net cashflow from/(used in) investing activities ($000s),2021,"($9,181)"
+742222102,Net cashflow from/(used in) investing activities ($000s),2020,"($3,664)"
+742222102,Net cashflow from/(used in) investing activities ($000s),2019,"($4,847)"
+742222102,Net cashflow from/(used in) investing activities ($000s),2018,"($3,722)"
+742222102,Net cashflow from/(used in) investing activities ($000s),2017,"$1,304"
+742222102,Net cashflow from/(used in) investing activities ($000s),2016,"$27,045"
+742222102,Net cashflow from/(used in) investing activities ($000s),2015,"$4,876"
+742222102,Proceeds from the issue of shares ($000s),2024,$0
+742222102,Proceeds from the issue of shares ($000s),2023,$0
+742222102,Proceeds from the issue of shares ($000s),2022,$0
+742222102,Proceeds from the issue of shares ($000s),2021,$0
+742222102,Proceeds from the issue of shares ($000s),2020,$0
+742222102,Proceeds from the issue of shares ($000s),2019,$0
+742222102,Proceeds from the issue of shares ($000s),2018,$0
+742222102,Proceeds from the issue of shares ($000s),2017,$0
+742222102,Proceeds from the issue of shares ($000s),2016,$0
+742222102,Proceeds from the issue of shares ($000s),2015,$0
+742222102,Proceeds from borrowings ($000s),2024,$0
+742222102,Proceeds from borrowings ($000s),2023,$0
+742222102,Proceeds from borrowings ($000s),2022,$0
+742222102,Proceeds from borrowings ($000s),2021,$0
+742222102,Proceeds from borrowings ($000s),2020,$0
+742222102,Proceeds from borrowings ($000s),2019,$0
+742222102,Proceeds from borrowings ($000s),2018,$798
+742222102,Proceeds from borrowings ($000s),2017,$57
+742222102,Proceeds from borrowings ($000s),2016,$920
+742222102,Proceeds from borrowings ($000s),2015,$32
+742222102,Repayment of borrowings  ($000s),2024,-
+742222102,Repayment of borrowings  ($000s),2023,($181)
+742222102,Repayment of borrowings  ($000s),2022,-
+742222102,Repayment of borrowings  ($000s),2021,-
+742222102,Repayment of borrowings  ($000s),2020,($43)
+742222102,Repayment of borrowings  ($000s),2019,"($1,124)"
+742222102,Repayment of borrowings  ($000s),2018,-
+742222102,Repayment of borrowings  ($000s),2017,"($5,781)"
+742222102,Repayment of borrowings  ($000s),2016,"($1,670)"
+742222102,Repayment of borrowings  ($000s),2015,"($1,710)"
+742222102,Repayment of finance lease liabilities ($000s),2024,
+742222102,Repayment of finance lease liabilities ($000s),2023,
+742222102,Repayment of finance lease liabilities ($000s),2022,
+742222102,Repayment of finance lease liabilities ($000s),2021,
+742222102,Repayment of finance lease liabilities ($000s),2020,-
+742222102,Repayment of finance lease liabilities ($000s),2019,-
+742222102,Repayment of finance lease liabilities ($000s),2018,-
+742222102,Repayment of finance lease liabilities ($000s),2017,-
+742222102,Repayment of finance lease liabilities ($000s),2016,-
+742222102,Repayment of finance lease liabilities ($000s),2015,-
+742222102,Interest Paid ($000s),2024,
+742222102,Interest Paid ($000s),2023,
+742222102,Interest Paid ($000s),2022,
+742222102,Interest Paid ($000s),2021,
+742222102,Interest Paid ($000s),2020,-
+742222102,Interest Paid ($000s),2019,-
+742222102,Interest Paid ($000s),2018,-
+742222102,Interest Paid ($000s),2017,-
+742222102,Interest Paid ($000s),2016,-
+742222102,Interest Paid ($000s),2015,-
+742222102,Dividends paid ($000s),2024,
+742222102,Dividends paid ($000s),2023,
+742222102,Dividends paid ($000s),2022,
+742222102,Dividends paid ($000s),2021,
+742222102,Dividends paid ($000s),2020,-
+742222102,Dividends paid ($000s),2019,-
+742222102,Dividends paid ($000s),2018,-
+742222102,Dividends paid ($000s),2017,-
+742222102,Dividends paid ($000s),2016,-
+742222102,Dividends paid ($000s),2015,-
+742222102,Other inflows/(outflows) from financing activities ($000s),2024,"$2,758"
+742222102,Other inflows/(outflows) from financing activities ($000s),2023,$0
+742222102,Other inflows/(outflows) from financing activities ($000s),2022,$500
+742222102,Other inflows/(outflows) from financing activities ($000s),2021,$0
+742222102,Other inflows/(outflows) from financing activities ($000s),2020,$0
+742222102,Other inflows/(outflows) from financing activities ($000s),2019,($184)
+742222102,Other inflows/(outflows) from financing activities ($000s),2018,($821)
+742222102,Other inflows/(outflows) from financing activities ($000s),2017,"($1,272)"
+742222102,Other inflows/(outflows) from financing activities ($000s),2016,$0
+742222102,Other inflows/(outflows) from financing activities ($000s),2015,$0
+742222102,Net cash flows from/(used in) financing activities ($000s),2024,"$2,758"
+742222102,Net cash flows from/(used in) financing activities ($000s),2023,($181)
+742222102,Net cash flows from/(used in) financing activities ($000s),2022,$500
+742222102,Net cash flows from/(used in) financing activities ($000s),2021,-
+742222102,Net cash flows from/(used in) financing activities ($000s),2020,($43)
+742222102,Net cash flows from/(used in) financing activities ($000s),2019,"($1,308)"
+742222102,Net cash flows from/(used in) financing activities ($000s),2018,($23)
+742222102,Net cash flows from/(used in) financing activities ($000s),2017,"($6,997)"
+742222102,Net cash flows from/(used in) financing activities ($000s),2016,($749)
+742222102,Net cash flows from/(used in) financing activities ($000s),2015,"($1,679)"
+742222102,Net increase/(decrease) in cash and cash equivalents ($000s),2024,$152
+742222102,Net increase/(decrease) in cash and cash equivalents ($000s),2023,"$2,600"
+742222102,Net increase/(decrease) in cash and cash equivalents ($000s),2022,"($1,597)"
+742222102,Net increase/(decrease) in cash and cash equivalents ($000s),2021,"($5,646)"
+742222102,Net increase/(decrease) in cash and cash equivalents ($000s),2020,"($9,265)"
+742222102,Net increase/(decrease) in cash and cash equivalents ($000s),2019,"($4,597)"
+742222102,Net increase/(decrease) in cash and cash equivalents ($000s),2018,"$14,822"
+742222102,Net increase/(decrease) in cash and cash equivalents ($000s),2017,"$2,357"
+742222102,Net increase/(decrease) in cash and cash equivalents ($000s),2016,"$2,379"
+742222102,Net increase/(decrease) in cash and cash equivalents ($000s),2015,"$3,251"
+742222102,Other increase/(decrease) in cash and cash equivalents ($000s),2024,
+742222102,Other increase/(decrease) in cash and cash equivalents ($000s),2023,
+742222102,Other increase/(decrease) in cash and cash equivalents ($000s),2022,
+742222102,Other increase/(decrease) in cash and cash equivalents ($000s),2021,
+742222102,Other increase/(decrease) in cash and cash equivalents ($000s),2020,-
+742222102,Other increase/(decrease) in cash and cash equivalents ($000s),2019,-
+742222102,Other increase/(decrease) in cash and cash equivalents ($000s),2018,-
+742222102,Other increase/(decrease) in cash and cash equivalents ($000s),2017,-
+742222102,Other increase/(decrease) in cash and cash equivalents ($000s),2016,-
+742222102,Other increase/(decrease) in cash and cash equivalents ($000s),2015,-
+742222102,Net foreign exchange differences ($000s),2024,
+742222102,Net foreign exchange differences ($000s),2023,
+742222102,Net foreign exchange differences ($000s),2022,
+742222102,Net foreign exchange differences ($000s),2021,
+742222102,Net foreign exchange differences ($000s),2020,-
+742222102,Net foreign exchange differences ($000s),2019,-
+742222102,Net foreign exchange differences ($000s),2018,-
+742222102,Net foreign exchange differences ($000s),2017,-
+742222102,Net foreign exchange differences ($000s),2016,-
+742222102,Net foreign exchange differences ($000s),2015,-
+742222102,Cash and cash equivalents at the beginning of the period ($000s),2024,"$7,030"
+742222102,Cash and cash equivalents at the beginning of the period ($000s),2023,"$4,430"
+742222102,Cash and cash equivalents at the beginning of the period ($000s),2022,"$6,027"
+742222102,Cash and cash equivalents at the beginning of the period ($000s),2021,"$11,673"
+742222102,Cash and cash equivalents at the beginning of the period ($000s),2020,"$20,939"
+742222102,Cash and cash equivalents at the beginning of the period ($000s),2019,"$25,536"
+742222102,Cash and cash equivalents at the beginning of the period ($000s),2018,"$10,714"
+742222102,Cash and cash equivalents at the beginning of the period ($000s),2017,"$8,357"
+742222102,Cash and cash equivalents at the beginning of the period ($000s),2016,"$5,978"
+742222102,Cash and cash equivalents at the beginning of the period ($000s),2015,"$2,728"
+742222102,Cash and cash equivalents at the end of the period ($000s),2024,"$7,182"
+742222102,Cash and cash equivalents at the end of the period ($000s),2023,"$7,030"
+742222102,Cash and cash equivalents at the end of the period ($000s),2022,"$4,430"
+742222102,Cash and cash equivalents at the end of the period ($000s),2021,"$6,027"
+742222102,Cash and cash equivalents at the end of the period ($000s),2020,"$11,673"
+742222102,Cash and cash equivalents at the end of the period ($000s),2019,"$20,939"
+742222102,Cash and cash equivalents at the end of the period ($000s),2018,"$25,536"
+742222102,Cash and cash equivalents at the end of the period ($000s),2017,"$10,714"
+742222102,Cash and cash equivalents at the end of the period ($000s),2016,"$8,357"
+742222102,Cash and cash equivalents at the end of the period ($000s),2015,"$5,978"

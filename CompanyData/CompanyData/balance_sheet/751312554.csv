@@ -1,0 +1,601 @@
+duns,line_item,year,value
+751312554,Current Assets,2023,
+751312554,Current Assets,2022,
+751312554,Current Assets,2021,
+751312554,Current Assets,2020,
+751312554,Current Assets,2019,-
+751312554,Current Assets,2018,-
+751312554,Current Assets,2017,-
+751312554,Current Assets,2016,-
+751312554,Current Assets,2015,-
+751312554,Current Assets,2014,-
+751312554,Cash and cash equivalents ($000s),2023,"$20,938"
+751312554,Cash and cash equivalents ($000s),2022,"$19,435"
+751312554,Cash and cash equivalents ($000s),2021,"$19,231"
+751312554,Cash and cash equivalents ($000s),2020,"$18,489"
+751312554,Cash and cash equivalents ($000s),2019,"$21,638"
+751312554,Cash and cash equivalents ($000s),2018,"$20,130"
+751312554,Cash and cash equivalents ($000s),2017,"$20,887"
+751312554,Cash and cash equivalents ($000s),2016,"$17,406"
+751312554,Cash and cash equivalents ($000s),2015,"$18,036"
+751312554,Cash and cash equivalents ($000s),2014,"$19,728"
+751312554,Growth,2023,7.73%
+751312554,Growth,2022,1.06%
+751312554,Growth,2021,4.01%
+751312554,Growth,2020,(14.55%)
+751312554,Growth,2019,7.49%
+751312554,Growth,2018,(3.62%)
+751312554,Growth,2017,20.00%
+751312554,Growth,2016,(3.49%)
+751312554,Growth,2015,(8.58%)
+751312554,Growth,2014,-
+751312554,Trade receivables ($000s),2023,
+751312554,Trade receivables ($000s),2022,
+751312554,Trade receivables ($000s),2021,
+751312554,Trade receivables ($000s),2020,
+751312554,Trade receivables ($000s),2019,-
+751312554,Trade receivables ($000s),2018,-
+751312554,Trade receivables ($000s),2017,-
+751312554,Trade receivables ($000s),2016,-
+751312554,Trade receivables ($000s),2015,-
+751312554,Trade receivables ($000s),2014,-
+751312554,Other receivables ($000s),2023,$82
+751312554,Other receivables ($000s),2022,$38
+751312554,Other receivables ($000s),2021,$340
+751312554,Other receivables ($000s),2020,"$2,285"
+751312554,Other receivables ($000s),2019,$341
+751312554,Other receivables ($000s),2018,$55
+751312554,Other receivables ($000s),2017,$56
+751312554,Other receivables ($000s),2016,$47
+751312554,Other receivables ($000s),2015,$75
+751312554,Other receivables ($000s),2014,$59
+751312554,Raw materials ($000s),2023,$0
+751312554,Raw materials ($000s),2022,$0
+751312554,Raw materials ($000s),2021,$0
+751312554,Raw materials ($000s),2020,$0
+751312554,Raw materials ($000s),2019,$0
+751312554,Raw materials ($000s),2018,$0
+751312554,Raw materials ($000s),2017,$0
+751312554,Raw materials ($000s),2016,$0
+751312554,Raw materials ($000s),2015,$0
+751312554,Raw materials ($000s),2014,$0
+751312554,Work-in-progress ($000s),2023,
+751312554,Work-in-progress ($000s),2022,
+751312554,Work-in-progress ($000s),2021,
+751312554,Work-in-progress ($000s),2020,
+751312554,Work-in-progress ($000s),2019,-
+751312554,Work-in-progress ($000s),2018,-
+751312554,Work-in-progress ($000s),2017,-
+751312554,Work-in-progress ($000s),2016,-
+751312554,Work-in-progress ($000s),2015,-
+751312554,Work-in-progress ($000s),2014,-
+751312554,Finished goods ($000s),2023,$0
+751312554,Finished goods ($000s),2022,$0
+751312554,Finished goods ($000s),2021,$0
+751312554,Finished goods ($000s),2020,$0
+751312554,Finished goods ($000s),2019,$0
+751312554,Finished goods ($000s),2018,$0
+751312554,Finished goods ($000s),2017,$0
+751312554,Finished goods ($000s),2016,$0
+751312554,Finished goods ($000s),2015,$0
+751312554,Finished goods ($000s),2014,$0
+751312554,Total inventories ($000s),2023,$0
+751312554,Total inventories ($000s),2022,$0
+751312554,Total inventories ($000s),2021,$0
+751312554,Total inventories ($000s),2020,$0
+751312554,Total inventories ($000s),2019,$0
+751312554,Total inventories ($000s),2018,$0
+751312554,Total inventories ($000s),2017,$0
+751312554,Total inventories ($000s),2016,$0
+751312554,Total inventories ($000s),2015,$0
+751312554,Total inventories ($000s),2014,$0
+751312554,Prepayments ($000s),2023,
+751312554,Prepayments ($000s),2022,
+751312554,Prepayments ($000s),2021,
+751312554,Prepayments ($000s),2020,
+751312554,Prepayments ($000s),2019,-
+751312554,Prepayments ($000s),2018,-
+751312554,Prepayments ($000s),2017,-
+751312554,Prepayments ($000s),2016,-
+751312554,Prepayments ($000s),2015,-
+751312554,Prepayments ($000s),2014,-
+751312554,Derivative financial instruments ($000s),2023,-
+751312554,Derivative financial instruments ($000s),2022,-
+751312554,Derivative financial instruments ($000s),2021,$272
+751312554,Derivative financial instruments ($000s),2020,-
+751312554,Derivative financial instruments ($000s),2019,-
+751312554,Derivative financial instruments ($000s),2018,-
+751312554,Derivative financial instruments ($000s),2017,-
+751312554,Derivative financial instruments ($000s),2016,-
+751312554,Derivative financial instruments ($000s),2015,-
+751312554,Derivative financial instruments ($000s),2014,-
+751312554,Other current assets ($000s),2023,$152
+751312554,Other current assets ($000s),2022,$0
+751312554,Other current assets ($000s),2021,$0
+751312554,Other current assets ($000s),2020,$75
+751312554,Other current assets ($000s),2019,"$5,577"
+751312554,Other current assets ($000s),2018,"$5,658"
+751312554,Other current assets ($000s),2017,"$4,320"
+751312554,Other current assets ($000s),2016,"$11,412"
+751312554,Other current assets ($000s),2015,"$5,844"
+751312554,Other current assets ($000s),2014,"$3,762"
+751312554,Total current assets for continuing operations ($000s),2023,"$21,172"
+751312554,Total current assets for continuing operations ($000s),2022,"$19,473"
+751312554,Total current assets for continuing operations ($000s),2021,"$19,843"
+751312554,Total current assets for continuing operations ($000s),2020,"$20,849"
+751312554,Total current assets for continuing operations ($000s),2019,"$27,556"
+751312554,Total current assets for continuing operations ($000s),2018,"$25,843"
+751312554,Total current assets for continuing operations ($000s),2017,"$25,263"
+751312554,Total current assets for continuing operations ($000s),2016,"$28,865"
+751312554,Total current assets for continuing operations ($000s),2015,"$23,955"
+751312554,Total current assets for continuing operations ($000s),2014,"$23,549"
+751312554,Assets held for sale ($000s),2023,
+751312554,Assets held for sale ($000s),2022,
+751312554,Assets held for sale ($000s),2021,
+751312554,Assets held for sale ($000s),2020,
+751312554,Assets held for sale ($000s),2019,-
+751312554,Assets held for sale ($000s),2018,-
+751312554,Assets held for sale ($000s),2017,-
+751312554,Assets held for sale ($000s),2016,-
+751312554,Assets held for sale ($000s),2015,-
+751312554,Assets held for sale ($000s),2014,-
+751312554,Total current assets ($000s),2023,"$21,172"
+751312554,Total current assets ($000s),2022,"$19,473"
+751312554,Total current assets ($000s),2021,"$19,843"
+751312554,Total current assets ($000s),2020,"$20,849"
+751312554,Total current assets ($000s),2019,"$27,556"
+751312554,Total current assets ($000s),2018,"$25,843"
+751312554,Total current assets ($000s),2017,"$25,263"
+751312554,Total current assets ($000s),2016,"$28,865"
+751312554,Total current assets ($000s),2015,"$23,955"
+751312554,Total current assets ($000s),2014,"$23,549"
+751312554,Non-current assets,2023,
+751312554,Non-current assets,2022,
+751312554,Non-current assets,2021,
+751312554,Non-current assets,2020,
+751312554,Non-current assets,2019,-
+751312554,Non-current assets,2018,-
+751312554,Non-current assets,2017,-
+751312554,Non-current assets,2016,-
+751312554,Non-current assets,2015,-
+751312554,Non-current assets,2014,-
+751312554,Receivables ($000s),2023,
+751312554,Receivables ($000s),2022,
+751312554,Receivables ($000s),2021,
+751312554,Receivables ($000s),2020,
+751312554,Receivables ($000s),2019,-
+751312554,Receivables ($000s),2018,-
+751312554,Receivables ($000s),2017,-
+751312554,Receivables ($000s),2016,-
+751312554,Receivables ($000s),2015,-
+751312554,Receivables ($000s),2014,-
+751312554,Investments in associates ($000s),2023,$0
+751312554,Investments in associates ($000s),2022,$0
+751312554,Investments in associates ($000s),2021,$0
+751312554,Investments in associates ($000s),2020,$0
+751312554,Investments in associates ($000s),2019,$0
+751312554,Investments in associates ($000s),2018,$0
+751312554,Investments in associates ($000s),2017,$0
+751312554,Investments in associates ($000s),2016,$0
+751312554,Investments in associates ($000s),2015,$0
+751312554,Investments in associates ($000s),2014,$0
+751312554,Investments in subsidiaries ($000s),2023,
+751312554,Investments in subsidiaries ($000s),2022,
+751312554,Investments in subsidiaries ($000s),2021,
+751312554,Investments in subsidiaries ($000s),2020,
+751312554,Investments in subsidiaries ($000s),2019,-
+751312554,Investments in subsidiaries ($000s),2018,-
+751312554,Investments in subsidiaries ($000s),2017,-
+751312554,Investments in subsidiaries ($000s),2016,-
+751312554,Investments in subsidiaries ($000s),2015,-
+751312554,Investments in subsidiaries ($000s),2014,-
+751312554,Available for sale financial assets ($000s),2023,$0
+751312554,Available for sale financial assets ($000s),2022,$0
+751312554,Available for sale financial assets ($000s),2021,$0
+751312554,Available for sale financial assets ($000s),2020,$0
+751312554,Available for sale financial assets ($000s),2019,$0
+751312554,Available for sale financial assets ($000s),2018,$0
+751312554,Available for sale financial assets ($000s),2017,$0
+751312554,Available for sale financial assets ($000s),2016,$0
+751312554,Available for sale financial assets ($000s),2015,$0
+751312554,Available for sale financial assets ($000s),2014,$0
+751312554,"Property, plant and equipment ($000s)",2023,
+751312554,"Property, plant and equipment ($000s)",2022,
+751312554,"Property, plant and equipment ($000s)",2021,
+751312554,"Property, plant and equipment ($000s)",2020,
+751312554,"Property, plant and equipment ($000s)",2019,-
+751312554,"Property, plant and equipment ($000s)",2018,-
+751312554,"Property, plant and equipment ($000s)",2017,-
+751312554,"Property, plant and equipment ($000s)",2016,-
+751312554,"Property, plant and equipment ($000s)",2015,-
+751312554,"Property, plant and equipment ($000s)",2014,-
+751312554,Intangible assets and goodwill ($000s),2023,$0
+751312554,Intangible assets and goodwill ($000s),2022,$0
+751312554,Intangible assets and goodwill ($000s),2021,$0
+751312554,Intangible assets and goodwill ($000s),2020,$0
+751312554,Intangible assets and goodwill ($000s),2019,$0
+751312554,Intangible assets and goodwill ($000s),2018,$0
+751312554,Intangible assets and goodwill ($000s),2017,$0
+751312554,Intangible assets and goodwill ($000s),2016,$0
+751312554,Intangible assets and goodwill ($000s),2015,$0
+751312554,Intangible assets and goodwill ($000s),2014,$0
+751312554,Deferred tax assets ($000s),2023,
+751312554,Deferred tax assets ($000s),2022,
+751312554,Deferred tax assets ($000s),2021,
+751312554,Deferred tax assets ($000s),2020,
+751312554,Deferred tax assets ($000s),2019,-
+751312554,Deferred tax assets ($000s),2018,-
+751312554,Deferred tax assets ($000s),2017,-
+751312554,Deferred tax assets ($000s),2016,-
+751312554,Deferred tax assets ($000s),2015,-
+751312554,Deferred tax assets ($000s),2014,-
+751312554,Other non-current assets ($000s),2023,$0
+751312554,Other non-current assets ($000s),2022,$0
+751312554,Other non-current assets ($000s),2021,$0
+751312554,Other non-current assets ($000s),2020,$0
+751312554,Other non-current assets ($000s),2019,$0
+751312554,Other non-current assets ($000s),2018,$0
+751312554,Other non-current assets ($000s),2017,$0
+751312554,Other non-current assets ($000s),2016,$0
+751312554,Other non-current assets ($000s),2015,$0
+751312554,Other non-current assets ($000s),2014,$0
+751312554,Total non-current assets ($000s),2023,
+751312554,Total non-current assets ($000s),2022,
+751312554,Total non-current assets ($000s),2021,
+751312554,Total non-current assets ($000s),2020,
+751312554,Total non-current assets ($000s),2019,-
+751312554,Total non-current assets ($000s),2018,-
+751312554,Total non-current assets ($000s),2017,-
+751312554,Total non-current assets ($000s),2016,-
+751312554,Total non-current assets ($000s),2015,-
+751312554,Total non-current assets ($000s),2014,-
+751312554,TOTAL ASSETS ($000s),2023,"$21,172"
+751312554,TOTAL ASSETS ($000s),2022,"$19,473"
+751312554,TOTAL ASSETS ($000s),2021,"$19,843"
+751312554,TOTAL ASSETS ($000s),2020,"$20,849"
+751312554,TOTAL ASSETS ($000s),2019,"$27,556"
+751312554,TOTAL ASSETS ($000s),2018,"$25,843"
+751312554,TOTAL ASSETS ($000s),2017,"$25,263"
+751312554,TOTAL ASSETS ($000s),2016,"$28,865"
+751312554,TOTAL ASSETS ($000s),2015,"$23,955"
+751312554,TOTAL ASSETS ($000s),2014,"$23,549"
+751312554,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2023,"$19,473"
+751312554,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2022,"$19,843"
+751312554,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2021,"$20,849"
+751312554,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2020,"$27,556"
+751312554,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2019,"$25,843"
+751312554,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2018,"$25,263"
+751312554,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2017,"$28,865"
+751312554,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2016,"$23,955"
+751312554,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2015,"$23,549"
+751312554,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2014,"$290,304"
+751312554,Current liabilities,2023,
+751312554,Current liabilities,2022,
+751312554,Current liabilities,2021,
+751312554,Current liabilities,2020,
+751312554,Current liabilities,2019,-
+751312554,Current liabilities,2018,-
+751312554,Current liabilities,2017,-
+751312554,Current liabilities,2016,-
+751312554,Current liabilities,2015,-
+751312554,Current liabilities,2014,-
+751312554,Trade payables ($000s),2023,
+751312554,Trade payables ($000s),2022,
+751312554,Trade payables ($000s),2021,
+751312554,Trade payables ($000s),2020,
+751312554,Trade payables ($000s),2019,-
+751312554,Trade payables ($000s),2018,-
+751312554,Trade payables ($000s),2017,-
+751312554,Trade payables ($000s),2016,-
+751312554,Trade payables ($000s),2015,-
+751312554,Trade payables ($000s),2014,-
+751312554,Other payables ($000s),2023,$122
+751312554,Other payables ($000s),2022,-
+751312554,Other payables ($000s),2021,-
+751312554,Other payables ($000s),2020,-
+751312554,Other payables ($000s),2019,-
+751312554,Other payables ($000s),2018,-
+751312554,Other payables ($000s),2017,-
+751312554,Other payables ($000s),2016,-
+751312554,Other payables ($000s),2015,-
+751312554,Other payables ($000s),2014,-
+751312554,Overdrafts ($000s),2023,
+751312554,Overdrafts ($000s),2022,
+751312554,Overdrafts ($000s),2021,
+751312554,Overdrafts ($000s),2020,
+751312554,Overdrafts ($000s),2019,-
+751312554,Overdrafts ($000s),2018,-
+751312554,Overdrafts ($000s),2017,-
+751312554,Overdrafts ($000s),2016,-
+751312554,Overdrafts ($000s),2015,-
+751312554,Overdrafts ($000s),2014,-
+751312554,Loans - secured ($000s),2023,
+751312554,Loans - secured ($000s),2022,
+751312554,Loans - secured ($000s),2021,
+751312554,Loans - secured ($000s),2020,
+751312554,Loans - secured ($000s),2019,-
+751312554,Loans - secured ($000s),2018,-
+751312554,Loans - secured ($000s),2017,-
+751312554,Loans - secured ($000s),2016,-
+751312554,Loans - secured ($000s),2015,-
+751312554,Loans - secured ($000s),2014,-
+751312554,Loans - unsecured ($000s),2023,
+751312554,Loans - unsecured ($000s),2022,
+751312554,Loans - unsecured ($000s),2021,
+751312554,Loans - unsecured ($000s),2020,
+751312554,Loans - unsecured ($000s),2019,-
+751312554,Loans - unsecured ($000s),2018,-
+751312554,Loans - unsecured ($000s),2017,-
+751312554,Loans - unsecured ($000s),2016,-
+751312554,Loans - unsecured ($000s),2015,-
+751312554,Loans - unsecured ($000s),2014,-
+751312554,Obligations under finance leases and hire purchase ($000s),2023,
+751312554,Obligations under finance leases and hire purchase ($000s),2022,
+751312554,Obligations under finance leases and hire purchase ($000s),2021,
+751312554,Obligations under finance leases and hire purchase ($000s),2020,
+751312554,Obligations under finance leases and hire purchase ($000s),2019,-
+751312554,Obligations under finance leases and hire purchase ($000s),2018,-
+751312554,Obligations under finance leases and hire purchase ($000s),2017,-
+751312554,Obligations under finance leases and hire purchase ($000s),2016,-
+751312554,Obligations under finance leases and hire purchase ($000s),2015,-
+751312554,Obligations under finance leases and hire purchase ($000s),2014,-
+751312554,Loans from related parties ($000s),2023,$296
+751312554,Loans from related parties ($000s),2022,-
+751312554,Loans from related parties ($000s),2021,-
+751312554,Loans from related parties ($000s),2020,-
+751312554,Loans from related parties ($000s),2019,-
+751312554,Loans from related parties ($000s),2018,-
+751312554,Loans from related parties ($000s),2017,-
+751312554,Loans from related parties ($000s),2016,-
+751312554,Loans from related parties ($000s),2015,-
+751312554,Loans from related parties ($000s),2014,-
+751312554,Total current interest-bearing loans and borrowings ($000s),2023,$296
+751312554,Total current interest-bearing loans and borrowings ($000s),2022,-
+751312554,Total current interest-bearing loans and borrowings ($000s),2021,-
+751312554,Total current interest-bearing loans and borrowings ($000s),2020,-
+751312554,Total current interest-bearing loans and borrowings ($000s),2019,-
+751312554,Total current interest-bearing loans and borrowings ($000s),2018,-
+751312554,Total current interest-bearing loans and borrowings ($000s),2017,-
+751312554,Total current interest-bearing loans and borrowings ($000s),2016,-
+751312554,Total current interest-bearing loans and borrowings ($000s),2015,-
+751312554,Total current interest-bearing loans and borrowings ($000s),2014,-
+751312554,Income tax payable/(refundable) ($000s),2023,$560
+751312554,Income tax payable/(refundable) ($000s),2022,-
+751312554,Income tax payable/(refundable) ($000s),2021,-
+751312554,Income tax payable/(refundable) ($000s),2020,-
+751312554,Income tax payable/(refundable) ($000s),2019,-
+751312554,Income tax payable/(refundable) ($000s),2018,-
+751312554,Income tax payable/(refundable) ($000s),2017,-
+751312554,Income tax payable/(refundable) ($000s),2016,-
+751312554,Income tax payable/(refundable) ($000s),2015,-
+751312554,Income tax payable/(refundable) ($000s),2014,-
+751312554,Provisions ($000s),2023,$0
+751312554,Provisions ($000s),2022,$190
+751312554,Provisions ($000s),2021,$640
+751312554,Provisions ($000s),2020,$15
+751312554,Provisions ($000s),2019,$49
+751312554,Provisions ($000s),2018,"$3,011"
+751312554,Provisions ($000s),2017,"$2,289"
+751312554,Provisions ($000s),2016,"$2,047"
+751312554,Provisions ($000s),2015,"$2,106"
+751312554,Provisions ($000s),2014,"$1,732"
+751312554,Other current liabilities ($000s),2023,$0
+751312554,Other current liabilities ($000s),2022,$0
+751312554,Other current liabilities ($000s),2021,$0
+751312554,Other current liabilities ($000s),2020,$0
+751312554,Other current liabilities ($000s),2019,$0
+751312554,Other current liabilities ($000s),2018,$0
+751312554,Other current liabilities ($000s),2017,$0
+751312554,Other current liabilities ($000s),2016,$0
+751312554,Other current liabilities ($000s),2015,$0
+751312554,Other current liabilities ($000s),2014,$0
+751312554,Total current liabilities for continuing operations ($000s),2023,$978
+751312554,Total current liabilities for continuing operations ($000s),2022,$190
+751312554,Total current liabilities for continuing operations ($000s),2021,$640
+751312554,Total current liabilities for continuing operations ($000s),2020,$15
+751312554,Total current liabilities for continuing operations ($000s),2019,$49
+751312554,Total current liabilities for continuing operations ($000s),2018,"$3,011"
+751312554,Total current liabilities for continuing operations ($000s),2017,"$2,289"
+751312554,Total current liabilities for continuing operations ($000s),2016,"$2,047"
+751312554,Total current liabilities for continuing operations ($000s),2015,"$2,106"
+751312554,Total current liabilities for continuing operations ($000s),2014,"$1,732"
+751312554,Liabilities directly associated with assets held for sale ($000s),2023,
+751312554,Liabilities directly associated with assets held for sale ($000s),2022,
+751312554,Liabilities directly associated with assets held for sale ($000s),2021,
+751312554,Liabilities directly associated with assets held for sale ($000s),2020,
+751312554,Liabilities directly associated with assets held for sale ($000s),2019,-
+751312554,Liabilities directly associated with assets held for sale ($000s),2018,-
+751312554,Liabilities directly associated with assets held for sale ($000s),2017,-
+751312554,Liabilities directly associated with assets held for sale ($000s),2016,-
+751312554,Liabilities directly associated with assets held for sale ($000s),2015,-
+751312554,Liabilities directly associated with assets held for sale ($000s),2014,-
+751312554,Total current liabilities ($000s),2023,$978
+751312554,Total current liabilities ($000s),2022,$190
+751312554,Total current liabilities ($000s),2021,$640
+751312554,Total current liabilities ($000s),2020,$15
+751312554,Total current liabilities ($000s),2019,$49
+751312554,Total current liabilities ($000s),2018,"$3,011"
+751312554,Total current liabilities ($000s),2017,"$2,289"
+751312554,Total current liabilities ($000s),2016,"$2,047"
+751312554,Total current liabilities ($000s),2015,"$2,106"
+751312554,Total current liabilities ($000s),2014,"$1,732"
+751312554,Total current liabilities for previous year ($000s),2023,$190
+751312554,Total current liabilities for previous year ($000s),2022,$640
+751312554,Total current liabilities for previous year ($000s),2021,$15
+751312554,Total current liabilities for previous year ($000s),2020,$49
+751312554,Total current liabilities for previous year ($000s),2019,"$3,011"
+751312554,Total current liabilities for previous year ($000s),2018,"$2,289"
+751312554,Total current liabilities for previous year ($000s),2017,"$2,047"
+751312554,Total current liabilities for previous year ($000s),2016,"$2,106"
+751312554,Total current liabilities for previous year ($000s),2015,"$1,732"
+751312554,Total current liabilities for previous year ($000s),2014,"$277,506"
+751312554,Non-current liabilities,2023,
+751312554,Non-current liabilities,2022,
+751312554,Non-current liabilities,2021,
+751312554,Non-current liabilities,2020,
+751312554,Non-current liabilities,2019,-
+751312554,Non-current liabilities,2018,-
+751312554,Non-current liabilities,2017,-
+751312554,Non-current liabilities,2016,-
+751312554,Non-current liabilities,2015,-
+751312554,Non-current liabilities,2014,-
+751312554,Total non-current interest-bearing loans and borrowings ($000s),2023,
+751312554,Total non-current interest-bearing loans and borrowings ($000s),2022,
+751312554,Total non-current interest-bearing loans and borrowings ($000s),2021,
+751312554,Total non-current interest-bearing loans and borrowings ($000s),2020,
+751312554,Total non-current interest-bearing loans and borrowings ($000s),2019,-
+751312554,Total non-current interest-bearing loans and borrowings ($000s),2018,-
+751312554,Total non-current interest-bearing loans and borrowings ($000s),2017,-
+751312554,Total non-current interest-bearing loans and borrowings ($000s),2016,-
+751312554,Total non-current interest-bearing loans and borrowings ($000s),2015,-
+751312554,Total non-current interest-bearing loans and borrowings ($000s),2014,-
+751312554,Deferred tax liabilities ($000s),2023,
+751312554,Deferred tax liabilities ($000s),2022,
+751312554,Deferred tax liabilities ($000s),2021,
+751312554,Deferred tax liabilities ($000s),2020,
+751312554,Deferred tax liabilities ($000s),2019,-
+751312554,Deferred tax liabilities ($000s),2018,-
+751312554,Deferred tax liabilities ($000s),2017,-
+751312554,Deferred tax liabilities ($000s),2016,-
+751312554,Deferred tax liabilities ($000s),2015,-
+751312554,Deferred tax liabilities ($000s),2014,-
+751312554,Convertible redeemable preference shares ($000s),2023,
+751312554,Convertible redeemable preference shares ($000s),2022,
+751312554,Convertible redeemable preference shares ($000s),2021,
+751312554,Convertible redeemable preference shares ($000s),2020,
+751312554,Convertible redeemable preference shares ($000s),2019,-
+751312554,Convertible redeemable preference shares ($000s),2018,-
+751312554,Convertible redeemable preference shares ($000s),2017,-
+751312554,Convertible redeemable preference shares ($000s),2016,-
+751312554,Convertible redeemable preference shares ($000s),2015,-
+751312554,Convertible redeemable preference shares ($000s),2014,-
+751312554,Other non-current liabilities ($000s),2023,$0
+751312554,Other non-current liabilities ($000s),2022,$0
+751312554,Other non-current liabilities ($000s),2021,$0
+751312554,Other non-current liabilities ($000s),2020,$0
+751312554,Other non-current liabilities ($000s),2019,$0
+751312554,Other non-current liabilities ($000s),2018,$0
+751312554,Other non-current liabilities ($000s),2017,$0
+751312554,Other non-current liabilities ($000s),2016,$0
+751312554,Other non-current liabilities ($000s),2015,$0
+751312554,Other non-current liabilities ($000s),2014,$0
+751312554,Total non-current liabilities ($000s),2023,
+751312554,Total non-current liabilities ($000s),2022,
+751312554,Total non-current liabilities ($000s),2021,
+751312554,Total non-current liabilities ($000s),2020,
+751312554,Total non-current liabilities ($000s),2019,-
+751312554,Total non-current liabilities ($000s),2018,-
+751312554,Total non-current liabilities ($000s),2017,-
+751312554,Total non-current liabilities ($000s),2016,-
+751312554,Total non-current liabilities ($000s),2015,-
+751312554,Total non-current liabilities ($000s),2014,-
+751312554,TOTAL LIABILITIES ($000s),2023,$978
+751312554,TOTAL LIABILITIES ($000s),2022,$190
+751312554,TOTAL LIABILITIES ($000s),2021,$640
+751312554,TOTAL LIABILITIES ($000s),2020,$15
+751312554,TOTAL LIABILITIES ($000s),2019,$49
+751312554,TOTAL LIABILITIES ($000s),2018,"$3,011"
+751312554,TOTAL LIABILITIES ($000s),2017,"$2,289"
+751312554,TOTAL LIABILITIES ($000s),2016,"$2,047"
+751312554,TOTAL LIABILITIES ($000s),2015,"$2,106"
+751312554,TOTAL LIABILITIES ($000s),2014,"$1,732"
+751312554,NET ASSETS ($000s),2023,"$20,194"
+751312554,NET ASSETS ($000s),2022,"$19,283"
+751312554,NET ASSETS ($000s),2021,"$19,203"
+751312554,NET ASSETS ($000s),2020,"$20,834"
+751312554,NET ASSETS ($000s),2019,"$27,507"
+751312554,NET ASSETS ($000s),2018,"$22,832"
+751312554,NET ASSETS ($000s),2017,"$22,974"
+751312554,NET ASSETS ($000s),2016,"$26,818"
+751312554,NET ASSETS ($000s),2015,"$21,849"
+751312554,NET ASSETS ($000s),2014,"$21,817"
+751312554,Equity,2023,
+751312554,Equity,2022,
+751312554,Equity,2021,
+751312554,Equity,2020,
+751312554,Equity,2019,-
+751312554,Equity,2018,-
+751312554,Equity,2017,-
+751312554,Equity,2016,-
+751312554,Equity,2015,-
+751312554,Equity,2014,-
+751312554,Equity attributable to equity holders of the parent,2023,
+751312554,Equity attributable to equity holders of the parent,2022,
+751312554,Equity attributable to equity holders of the parent,2021,
+751312554,Equity attributable to equity holders of the parent,2020,
+751312554,Equity attributable to equity holders of the parent,2019,-
+751312554,Equity attributable to equity holders of the parent,2018,-
+751312554,Equity attributable to equity holders of the parent,2017,-
+751312554,Equity attributable to equity holders of the parent,2016,-
+751312554,Equity attributable to equity holders of the parent,2015,-
+751312554,Equity attributable to equity holders of the parent,2014,-
+751312554,Contributed equity ($000s),2023,"$19,500"
+751312554,Contributed equity ($000s),2022,"$19,500"
+751312554,Contributed equity ($000s),2021,"$19,500"
+751312554,Contributed equity ($000s),2020,"$19,500"
+751312554,Contributed equity ($000s),2019,"$19,500"
+751312554,Contributed equity ($000s),2018,"$19,500"
+751312554,Contributed equity ($000s),2017,"$19,500"
+751312554,Contributed equity ($000s),2016,"$19,500"
+751312554,Contributed equity ($000s),2015,"$19,500"
+751312554,Contributed equity ($000s),2014,"$19,500"
+751312554,Retained earnings ($000s),2023,$694
+751312554,Retained earnings ($000s),2022,($217)
+751312554,Retained earnings ($000s),2021,($297)
+751312554,Retained earnings ($000s),2020,"$1,334"
+751312554,Retained earnings ($000s),2019,"$8,007"
+751312554,Retained earnings ($000s),2018,"$3,332"
+751312554,Retained earnings ($000s),2017,"$3,474"
+751312554,Retained earnings ($000s),2016,"$7,318"
+751312554,Retained earnings ($000s),2015,"$2,349"
+751312554,Retained earnings ($000s),2014,"$2,317"
+751312554,Reserves ($000s),2023,$0
+751312554,Reserves ($000s),2022,$0
+751312554,Reserves ($000s),2021,$0
+751312554,Reserves ($000s),2020,$0
+751312554,Reserves ($000s),2019,$0
+751312554,Reserves ($000s),2018,$0
+751312554,Reserves ($000s),2017,$0
+751312554,Reserves ($000s),2016,$0
+751312554,Reserves ($000s),2015,$0
+751312554,Reserves ($000s),2014,$0
+751312554,Total Parent interests ($000s),2023,"$20,194"
+751312554,Total Parent interests ($000s),2022,"$19,283"
+751312554,Total Parent interests ($000s),2021,"$19,203"
+751312554,Total Parent interests ($000s),2020,"$20,834"
+751312554,Total Parent interests ($000s),2019,"$27,507"
+751312554,Total Parent interests ($000s),2018,"$22,832"
+751312554,Total Parent interests ($000s),2017,"$22,974"
+751312554,Total Parent interests ($000s),2016,"$26,818"
+751312554,Total Parent interests ($000s),2015,"$21,849"
+751312554,Total Parent interests ($000s),2014,"$21,817"
+751312554,Minority interests ($000s),2023,
+751312554,Minority interests ($000s),2022,
+751312554,Minority interests ($000s),2021,
+751312554,Minority interests ($000s),2020,
+751312554,Minority interests ($000s),2019,-
+751312554,Minority interests ($000s),2018,-
+751312554,Minority interests ($000s),2017,-
+751312554,Minority interests ($000s),2016,-
+751312554,Minority interests ($000s),2015,-
+751312554,Minority interests ($000s),2014,-
+751312554,TOTAL EQUITY ($000s),2023,"$20,194"
+751312554,TOTAL EQUITY ($000s),2022,"$19,283"
+751312554,TOTAL EQUITY ($000s),2021,"$19,203"
+751312554,TOTAL EQUITY ($000s),2020,"$20,834"
+751312554,TOTAL EQUITY ($000s),2019,"$27,507"
+751312554,TOTAL EQUITY ($000s),2018,"$22,832"
+751312554,TOTAL EQUITY ($000s),2017,"$22,974"
+751312554,TOTAL EQUITY ($000s),2016,"$26,818"
+751312554,TOTAL EQUITY ($000s),2015,"$21,849"
+751312554,TOTAL EQUITY ($000s),2014,"$21,817"
+751312554,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2023,"$19,283"
+751312554,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2022,"$19,203"
+751312554,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2021,"$20,834"
+751312554,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2020,"$27,507"
+751312554,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2019,"$22,832"
+751312554,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2018,"$22,974"
+751312554,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2017,"$26,818"
+751312554,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2016,"$21,849"
+751312554,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2015,"$21,817"
+751312554,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2014,"$12,798"

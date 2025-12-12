@@ -1,0 +1,601 @@
+duns,line_item,year,value
+744341457,Current Assets,2024,
+744341457,Current Assets,2023,
+744341457,Current Assets,2022,
+744341457,Current Assets,2021,
+744341457,Current Assets,2020,-
+744341457,Current Assets,2019,-
+744341457,Current Assets,2018,-
+744341457,Current Assets,2017,-
+744341457,Current Assets,2016,-
+744341457,Current Assets,2015,-
+744341457,Cash and cash equivalents ($000s),2024,"$3,736"
+744341457,Cash and cash equivalents ($000s),2023,-
+744341457,Cash and cash equivalents ($000s),2022,"$6,841"
+744341457,Cash and cash equivalents ($000s),2021,"$5,665"
+744341457,Cash and cash equivalents ($000s),2020,"$6,024"
+744341457,Cash and cash equivalents ($000s),2019,"$4,516"
+744341457,Cash and cash equivalents ($000s),2018,"$3,671"
+744341457,Cash and cash equivalents ($000s),2017,"$3,697"
+744341457,Cash and cash equivalents ($000s),2016,-
+744341457,Cash and cash equivalents ($000s),2015,-
+744341457,Growth,2024,-
+744341457,Growth,2023,-
+744341457,Growth,2022,20.76%
+744341457,Growth,2021,(5.96%)
+744341457,Growth,2020,33.39%
+744341457,Growth,2019,23.02%
+744341457,Growth,2018,(0.70%)
+744341457,Growth,2017,-
+744341457,Growth,2016,-
+744341457,Growth,2015,-
+744341457,Trade receivables ($000s),2024,$287
+744341457,Trade receivables ($000s),2023,-
+744341457,Trade receivables ($000s),2022,$123
+744341457,Trade receivables ($000s),2021,$189
+744341457,Trade receivables ($000s),2020,$193
+744341457,Trade receivables ($000s),2019,$329
+744341457,Trade receivables ($000s),2018,$328
+744341457,Trade receivables ($000s),2017,$268
+744341457,Trade receivables ($000s),2016,-
+744341457,Trade receivables ($000s),2015,-
+744341457,Other receivables ($000s),2024,"$1,039"
+744341457,Other receivables ($000s),2023,-
+744341457,Other receivables ($000s),2022,$147
+744341457,Other receivables ($000s),2021,$186
+744341457,Other receivables ($000s),2020,$177
+744341457,Other receivables ($000s),2019,"$2,177"
+744341457,Other receivables ($000s),2018,"$2,172"
+744341457,Other receivables ($000s),2017,"$2,157"
+744341457,Other receivables ($000s),2016,-
+744341457,Other receivables ($000s),2015,-
+744341457,Raw materials ($000s),2024,$0
+744341457,Raw materials ($000s),2023,-
+744341457,Raw materials ($000s),2022,$0
+744341457,Raw materials ($000s),2021,$0
+744341457,Raw materials ($000s),2020,$0
+744341457,Raw materials ($000s),2019,$0
+744341457,Raw materials ($000s),2018,$0
+744341457,Raw materials ($000s),2017,$0
+744341457,Raw materials ($000s),2016,-
+744341457,Raw materials ($000s),2015,-
+744341457,Work-in-progress ($000s),2024,
+744341457,Work-in-progress ($000s),2023,
+744341457,Work-in-progress ($000s),2022,
+744341457,Work-in-progress ($000s),2021,
+744341457,Work-in-progress ($000s),2020,-
+744341457,Work-in-progress ($000s),2019,-
+744341457,Work-in-progress ($000s),2018,-
+744341457,Work-in-progress ($000s),2017,-
+744341457,Work-in-progress ($000s),2016,-
+744341457,Work-in-progress ($000s),2015,-
+744341457,Finished goods ($000s),2024,$0
+744341457,Finished goods ($000s),2023,-
+744341457,Finished goods ($000s),2022,$0
+744341457,Finished goods ($000s),2021,$0
+744341457,Finished goods ($000s),2020,$0
+744341457,Finished goods ($000s),2019,$0
+744341457,Finished goods ($000s),2018,$0
+744341457,Finished goods ($000s),2017,$0
+744341457,Finished goods ($000s),2016,-
+744341457,Finished goods ($000s),2015,-
+744341457,Total inventories ($000s),2024,$0
+744341457,Total inventories ($000s),2023,-
+744341457,Total inventories ($000s),2022,$0
+744341457,Total inventories ($000s),2021,$0
+744341457,Total inventories ($000s),2020,$0
+744341457,Total inventories ($000s),2019,$0
+744341457,Total inventories ($000s),2018,$0
+744341457,Total inventories ($000s),2017,$0
+744341457,Total inventories ($000s),2016,-
+744341457,Total inventories ($000s),2015,-
+744341457,Prepayments ($000s),2024,$4
+744341457,Prepayments ($000s),2023,-
+744341457,Prepayments ($000s),2022,$121
+744341457,Prepayments ($000s),2021,$113
+744341457,Prepayments ($000s),2020,$115
+744341457,Prepayments ($000s),2019,$7
+744341457,Prepayments ($000s),2018,$33
+744341457,Prepayments ($000s),2017,$10
+744341457,Prepayments ($000s),2016,-
+744341457,Prepayments ($000s),2015,-
+744341457,Derivative financial instruments ($000s),2024,
+744341457,Derivative financial instruments ($000s),2023,
+744341457,Derivative financial instruments ($000s),2022,
+744341457,Derivative financial instruments ($000s),2021,
+744341457,Derivative financial instruments ($000s),2020,-
+744341457,Derivative financial instruments ($000s),2019,-
+744341457,Derivative financial instruments ($000s),2018,-
+744341457,Derivative financial instruments ($000s),2017,-
+744341457,Derivative financial instruments ($000s),2016,-
+744341457,Derivative financial instruments ($000s),2015,-
+744341457,Other current assets ($000s),2024,$0
+744341457,Other current assets ($000s),2023,-
+744341457,Other current assets ($000s),2022,$0
+744341457,Other current assets ($000s),2021,$0
+744341457,Other current assets ($000s),2020,$0
+744341457,Other current assets ($000s),2019,$0
+744341457,Other current assets ($000s),2018,$0
+744341457,Other current assets ($000s),2017,$0
+744341457,Other current assets ($000s),2016,-
+744341457,Other current assets ($000s),2015,-
+744341457,Total current assets for continuing operations ($000s),2024,"$5,066"
+744341457,Total current assets for continuing operations ($000s),2023,-
+744341457,Total current assets for continuing operations ($000s),2022,"$7,232"
+744341457,Total current assets for continuing operations ($000s),2021,"$6,153"
+744341457,Total current assets for continuing operations ($000s),2020,"$6,509"
+744341457,Total current assets for continuing operations ($000s),2019,"$7,029"
+744341457,Total current assets for continuing operations ($000s),2018,"$6,204"
+744341457,Total current assets for continuing operations ($000s),2017,"$6,132"
+744341457,Total current assets for continuing operations ($000s),2016,-
+744341457,Total current assets for continuing operations ($000s),2015,-
+744341457,Assets held for sale ($000s),2024,
+744341457,Assets held for sale ($000s),2023,
+744341457,Assets held for sale ($000s),2022,
+744341457,Assets held for sale ($000s),2021,
+744341457,Assets held for sale ($000s),2020,-
+744341457,Assets held for sale ($000s),2019,-
+744341457,Assets held for sale ($000s),2018,-
+744341457,Assets held for sale ($000s),2017,-
+744341457,Assets held for sale ($000s),2016,-
+744341457,Assets held for sale ($000s),2015,-
+744341457,Total current assets ($000s),2024,"$5,066"
+744341457,Total current assets ($000s),2023,-
+744341457,Total current assets ($000s),2022,"$7,232"
+744341457,Total current assets ($000s),2021,"$6,153"
+744341457,Total current assets ($000s),2020,"$6,509"
+744341457,Total current assets ($000s),2019,"$7,029"
+744341457,Total current assets ($000s),2018,"$6,204"
+744341457,Total current assets ($000s),2017,"$6,132"
+744341457,Total current assets ($000s),2016,-
+744341457,Total current assets ($000s),2015,-
+744341457,Non-current assets,2024,
+744341457,Non-current assets,2023,
+744341457,Non-current assets,2022,
+744341457,Non-current assets,2021,
+744341457,Non-current assets,2020,-
+744341457,Non-current assets,2019,-
+744341457,Non-current assets,2018,-
+744341457,Non-current assets,2017,-
+744341457,Non-current assets,2016,-
+744341457,Non-current assets,2015,-
+744341457,Receivables ($000s),2024,
+744341457,Receivables ($000s),2023,
+744341457,Receivables ($000s),2022,
+744341457,Receivables ($000s),2021,
+744341457,Receivables ($000s),2020,-
+744341457,Receivables ($000s),2019,-
+744341457,Receivables ($000s),2018,-
+744341457,Receivables ($000s),2017,-
+744341457,Receivables ($000s),2016,-
+744341457,Receivables ($000s),2015,-
+744341457,Investments in associates ($000s),2024,$99
+744341457,Investments in associates ($000s),2023,-
+744341457,Investments in associates ($000s),2022,$354
+744341457,Investments in associates ($000s),2021,$489
+744341457,Investments in associates ($000s),2020,$381
+744341457,Investments in associates ($000s),2019,"$1,186"
+744341457,Investments in associates ($000s),2018,"$1,204"
+744341457,Investments in associates ($000s),2017,"$1,050"
+744341457,Investments in associates ($000s),2016,-
+744341457,Investments in associates ($000s),2015,-
+744341457,Investments in subsidiaries ($000s),2024,
+744341457,Investments in subsidiaries ($000s),2023,
+744341457,Investments in subsidiaries ($000s),2022,
+744341457,Investments in subsidiaries ($000s),2021,
+744341457,Investments in subsidiaries ($000s),2020,-
+744341457,Investments in subsidiaries ($000s),2019,-
+744341457,Investments in subsidiaries ($000s),2018,-
+744341457,Investments in subsidiaries ($000s),2017,-
+744341457,Investments in subsidiaries ($000s),2016,-
+744341457,Investments in subsidiaries ($000s),2015,-
+744341457,Available for sale financial assets ($000s),2024,$0
+744341457,Available for sale financial assets ($000s),2023,-
+744341457,Available for sale financial assets ($000s),2022,$0
+744341457,Available for sale financial assets ($000s),2021,$0
+744341457,Available for sale financial assets ($000s),2020,$0
+744341457,Available for sale financial assets ($000s),2019,$0
+744341457,Available for sale financial assets ($000s),2018,$0
+744341457,Available for sale financial assets ($000s),2017,$0
+744341457,Available for sale financial assets ($000s),2016,-
+744341457,Available for sale financial assets ($000s),2015,-
+744341457,"Property, plant and equipment ($000s)",2024,"$1,135"
+744341457,"Property, plant and equipment ($000s)",2023,-
+744341457,"Property, plant and equipment ($000s)",2022,"$1,111"
+744341457,"Property, plant and equipment ($000s)",2021,"$1,004"
+744341457,"Property, plant and equipment ($000s)",2020,"$1,083"
+744341457,"Property, plant and equipment ($000s)",2019,$935
+744341457,"Property, plant and equipment ($000s)",2018,$898
+744341457,"Property, plant and equipment ($000s)",2017,$896
+744341457,"Property, plant and equipment ($000s)",2016,-
+744341457,"Property, plant and equipment ($000s)",2015,-
+744341457,Intangible assets and goodwill ($000s),2024,"$14,058"
+744341457,Intangible assets and goodwill ($000s),2023,-
+744341457,Intangible assets and goodwill ($000s),2022,"$26,233"
+744341457,Intangible assets and goodwill ($000s),2021,"$28,121"
+744341457,Intangible assets and goodwill ($000s),2020,"$27,430"
+744341457,Intangible assets and goodwill ($000s),2019,"$21,611"
+744341457,Intangible assets and goodwill ($000s),2018,"$21,108"
+744341457,Intangible assets and goodwill ($000s),2017,"$19,620"
+744341457,Intangible assets and goodwill ($000s),2016,-
+744341457,Intangible assets and goodwill ($000s),2015,-
+744341457,Deferred tax assets ($000s),2024,$772
+744341457,Deferred tax assets ($000s),2023,-
+744341457,Deferred tax assets ($000s),2022,$892
+744341457,Deferred tax assets ($000s),2021,$865
+744341457,Deferred tax assets ($000s),2020,$767
+744341457,Deferred tax assets ($000s),2019,$601
+744341457,Deferred tax assets ($000s),2018,$548
+744341457,Deferred tax assets ($000s),2017,$461
+744341457,Deferred tax assets ($000s),2016,-
+744341457,Deferred tax assets ($000s),2015,-
+744341457,Other non-current assets ($000s),2024,"$2,964"
+744341457,Other non-current assets ($000s),2023,-
+744341457,Other non-current assets ($000s),2022,"$1,071"
+744341457,Other non-current assets ($000s),2021,"$1,277"
+744341457,Other non-current assets ($000s),2020,$47
+744341457,Other non-current assets ($000s),2019,$53
+744341457,Other non-current assets ($000s),2018,$53
+744341457,Other non-current assets ($000s),2017,$58
+744341457,Other non-current assets ($000s),2016,-
+744341457,Other non-current assets ($000s),2015,-
+744341457,Total non-current assets ($000s),2024,"$19,028"
+744341457,Total non-current assets ($000s),2023,-
+744341457,Total non-current assets ($000s),2022,"$29,661"
+744341457,Total non-current assets ($000s),2021,"$31,756"
+744341457,Total non-current assets ($000s),2020,"$29,708"
+744341457,Total non-current assets ($000s),2019,"$24,386"
+744341457,Total non-current assets ($000s),2018,"$23,811"
+744341457,Total non-current assets ($000s),2017,"$22,085"
+744341457,Total non-current assets ($000s),2016,-
+744341457,Total non-current assets ($000s),2015,-
+744341457,TOTAL ASSETS ($000s),2024,"$24,094"
+744341457,TOTAL ASSETS ($000s),2023,-
+744341457,TOTAL ASSETS ($000s),2022,"$36,893"
+744341457,TOTAL ASSETS ($000s),2021,"$37,909"
+744341457,TOTAL ASSETS ($000s),2020,"$36,217"
+744341457,TOTAL ASSETS ($000s),2019,"$31,415"
+744341457,TOTAL ASSETS ($000s),2018,"$30,015"
+744341457,TOTAL ASSETS ($000s),2017,"$28,217"
+744341457,TOTAL ASSETS ($000s),2016,-
+744341457,TOTAL ASSETS ($000s),2015,-
+744341457,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2024,-
+744341457,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2023,-
+744341457,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2022,"$37,909"
+744341457,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2021,"$36,217"
+744341457,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2020,"$31,415"
+744341457,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2019,"$30,015"
+744341457,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2018,"$28,217"
+744341457,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2017,-
+744341457,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2016,-
+744341457,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2015,-
+744341457,Current liabilities,2024,
+744341457,Current liabilities,2023,
+744341457,Current liabilities,2022,
+744341457,Current liabilities,2021,
+744341457,Current liabilities,2020,-
+744341457,Current liabilities,2019,-
+744341457,Current liabilities,2018,-
+744341457,Current liabilities,2017,-
+744341457,Current liabilities,2016,-
+744341457,Current liabilities,2015,-
+744341457,Trade payables ($000s),2024,"$1,174"
+744341457,Trade payables ($000s),2023,-
+744341457,Trade payables ($000s),2022,$945
+744341457,Trade payables ($000s),2021,$988
+744341457,Trade payables ($000s),2020,$880
+744341457,Trade payables ($000s),2019,"$1,035"
+744341457,Trade payables ($000s),2018,$924
+744341457,Trade payables ($000s),2017,$972
+744341457,Trade payables ($000s),2016,-
+744341457,Trade payables ($000s),2015,-
+744341457,Other payables ($000s),2024,"$2,265"
+744341457,Other payables ($000s),2023,-
+744341457,Other payables ($000s),2022,"$1,917"
+744341457,Other payables ($000s),2021,"$1,854"
+744341457,Other payables ($000s),2020,"$1,861"
+744341457,Other payables ($000s),2019,"$1,149"
+744341457,Other payables ($000s),2018,"$1,097"
+744341457,Other payables ($000s),2017,$996
+744341457,Other payables ($000s),2016,-
+744341457,Other payables ($000s),2015,-
+744341457,Overdrafts ($000s),2024,
+744341457,Overdrafts ($000s),2023,
+744341457,Overdrafts ($000s),2022,
+744341457,Overdrafts ($000s),2021,
+744341457,Overdrafts ($000s),2020,-
+744341457,Overdrafts ($000s),2019,-
+744341457,Overdrafts ($000s),2018,-
+744341457,Overdrafts ($000s),2017,-
+744341457,Overdrafts ($000s),2016,-
+744341457,Overdrafts ($000s),2015,-
+744341457,Loans - secured ($000s),2024,$778
+744341457,Loans - secured ($000s),2023,-
+744341457,Loans - secured ($000s),2022,"$4,940"
+744341457,Loans - secured ($000s),2021,"$6,781"
+744341457,Loans - secured ($000s),2020,"$8,086"
+744341457,Loans - secured ($000s),2019,"$5,538"
+744341457,Loans - secured ($000s),2018,"$6,936"
+744341457,Loans - secured ($000s),2017,"$7,228"
+744341457,Loans - secured ($000s),2016,-
+744341457,Loans - secured ($000s),2015,-
+744341457,Loans - unsecured ($000s),2024,
+744341457,Loans - unsecured ($000s),2023,
+744341457,Loans - unsecured ($000s),2022,
+744341457,Loans - unsecured ($000s),2021,
+744341457,Loans - unsecured ($000s),2020,-
+744341457,Loans - unsecured ($000s),2019,-
+744341457,Loans - unsecured ($000s),2018,-
+744341457,Loans - unsecured ($000s),2017,-
+744341457,Loans - unsecured ($000s),2016,-
+744341457,Loans - unsecured ($000s),2015,-
+744341457,Obligations under finance leases and hire purchase ($000s),2024,$733
+744341457,Obligations under finance leases and hire purchase ($000s),2023,-
+744341457,Obligations under finance leases and hire purchase ($000s),2022,$413
+744341457,Obligations under finance leases and hire purchase ($000s),2021,$318
+744341457,Obligations under finance leases and hire purchase ($000s),2020,$63
+744341457,Obligations under finance leases and hire purchase ($000s),2019,$38
+744341457,Obligations under finance leases and hire purchase ($000s),2018,$41
+744341457,Obligations under finance leases and hire purchase ($000s),2017,$20
+744341457,Obligations under finance leases and hire purchase ($000s),2016,-
+744341457,Obligations under finance leases and hire purchase ($000s),2015,-
+744341457,Loans from related parties ($000s),2024,-
+744341457,Loans from related parties ($000s),2023,-
+744341457,Loans from related parties ($000s),2022,-
+744341457,Loans from related parties ($000s),2021,-
+744341457,Loans from related parties ($000s),2020,-
+744341457,Loans from related parties ($000s),2019,"$1,987"
+744341457,Loans from related parties ($000s),2018,"$2,005"
+744341457,Loans from related parties ($000s),2017,"$1,988"
+744341457,Loans from related parties ($000s),2016,-
+744341457,Loans from related parties ($000s),2015,-
+744341457,Total current interest-bearing loans and borrowings ($000s),2024,"$1,511"
+744341457,Total current interest-bearing loans and borrowings ($000s),2023,-
+744341457,Total current interest-bearing loans and borrowings ($000s),2022,"$5,353"
+744341457,Total current interest-bearing loans and borrowings ($000s),2021,"$7,099"
+744341457,Total current interest-bearing loans and borrowings ($000s),2020,"$8,149"
+744341457,Total current interest-bearing loans and borrowings ($000s),2019,"$7,563"
+744341457,Total current interest-bearing loans and borrowings ($000s),2018,"$8,982"
+744341457,Total current interest-bearing loans and borrowings ($000s),2017,"$9,236"
+744341457,Total current interest-bearing loans and borrowings ($000s),2016,-
+744341457,Total current interest-bearing loans and borrowings ($000s),2015,-
+744341457,Income tax payable/(refundable) ($000s),2024,$996
+744341457,Income tax payable/(refundable) ($000s),2023,-
+744341457,Income tax payable/(refundable) ($000s),2022,$633
+744341457,Income tax payable/(refundable) ($000s),2021,$377
+744341457,Income tax payable/(refundable) ($000s),2020,$782
+744341457,Income tax payable/(refundable) ($000s),2019,$694
+744341457,Income tax payable/(refundable) ($000s),2018,$429
+744341457,Income tax payable/(refundable) ($000s),2017,$304
+744341457,Income tax payable/(refundable) ($000s),2016,-
+744341457,Income tax payable/(refundable) ($000s),2015,-
+744341457,Provisions ($000s),2024,"$2,167"
+744341457,Provisions ($000s),2023,-
+744341457,Provisions ($000s),2022,"$2,019"
+744341457,Provisions ($000s),2021,"$1,776"
+744341457,Provisions ($000s),2020,"$1,547"
+744341457,Provisions ($000s),2019,$566
+744341457,Provisions ($000s),2018,$558
+744341457,Provisions ($000s),2017,$500
+744341457,Provisions ($000s),2016,-
+744341457,Provisions ($000s),2015,-
+744341457,Other current liabilities ($000s),2024,$0
+744341457,Other current liabilities ($000s),2023,-
+744341457,Other current liabilities ($000s),2022,$0
+744341457,Other current liabilities ($000s),2021,$0
+744341457,Other current liabilities ($000s),2020,$0
+744341457,Other current liabilities ($000s),2019,$389
+744341457,Other current liabilities ($000s),2018,$332
+744341457,Other current liabilities ($000s),2017,$315
+744341457,Other current liabilities ($000s),2016,-
+744341457,Other current liabilities ($000s),2015,-
+744341457,Total current liabilities for continuing operations ($000s),2024,"$8,113"
+744341457,Total current liabilities for continuing operations ($000s),2023,-
+744341457,Total current liabilities for continuing operations ($000s),2022,"$10,867"
+744341457,Total current liabilities for continuing operations ($000s),2021,"$12,094"
+744341457,Total current liabilities for continuing operations ($000s),2020,"$13,219"
+744341457,Total current liabilities for continuing operations ($000s),2019,"$11,396"
+744341457,Total current liabilities for continuing operations ($000s),2018,"$12,322"
+744341457,Total current liabilities for continuing operations ($000s),2017,"$12,323"
+744341457,Total current liabilities for continuing operations ($000s),2016,-
+744341457,Total current liabilities for continuing operations ($000s),2015,-
+744341457,Liabilities directly associated with assets held for sale ($000s),2024,
+744341457,Liabilities directly associated with assets held for sale ($000s),2023,
+744341457,Liabilities directly associated with assets held for sale ($000s),2022,
+744341457,Liabilities directly associated with assets held for sale ($000s),2021,
+744341457,Liabilities directly associated with assets held for sale ($000s),2020,-
+744341457,Liabilities directly associated with assets held for sale ($000s),2019,-
+744341457,Liabilities directly associated with assets held for sale ($000s),2018,-
+744341457,Liabilities directly associated with assets held for sale ($000s),2017,-
+744341457,Liabilities directly associated with assets held for sale ($000s),2016,-
+744341457,Liabilities directly associated with assets held for sale ($000s),2015,-
+744341457,Total current liabilities ($000s),2024,"$8,113"
+744341457,Total current liabilities ($000s),2023,-
+744341457,Total current liabilities ($000s),2022,"$10,867"
+744341457,Total current liabilities ($000s),2021,"$12,094"
+744341457,Total current liabilities ($000s),2020,"$13,219"
+744341457,Total current liabilities ($000s),2019,"$11,396"
+744341457,Total current liabilities ($000s),2018,"$12,322"
+744341457,Total current liabilities ($000s),2017,"$12,323"
+744341457,Total current liabilities ($000s),2016,-
+744341457,Total current liabilities ($000s),2015,-
+744341457,Total current liabilities for previous year ($000s),2024,-
+744341457,Total current liabilities for previous year ($000s),2023,-
+744341457,Total current liabilities for previous year ($000s),2022,"$12,094"
+744341457,Total current liabilities for previous year ($000s),2021,"$13,219"
+744341457,Total current liabilities for previous year ($000s),2020,"$11,396"
+744341457,Total current liabilities for previous year ($000s),2019,"$12,322"
+744341457,Total current liabilities for previous year ($000s),2018,"$12,323"
+744341457,Total current liabilities for previous year ($000s),2017,-
+744341457,Total current liabilities for previous year ($000s),2016,-
+744341457,Total current liabilities for previous year ($000s),2015,-
+744341457,Non-current liabilities,2024,
+744341457,Non-current liabilities,2023,
+744341457,Non-current liabilities,2022,
+744341457,Non-current liabilities,2021,
+744341457,Non-current liabilities,2020,-
+744341457,Non-current liabilities,2019,-
+744341457,Non-current liabilities,2018,-
+744341457,Non-current liabilities,2017,-
+744341457,Non-current liabilities,2016,-
+744341457,Non-current liabilities,2015,-
+744341457,Total non-current interest-bearing loans and borrowings ($000s),2024,"$3,717"
+744341457,Total non-current interest-bearing loans and borrowings ($000s),2023,-
+744341457,Total non-current interest-bearing loans and borrowings ($000s),2022,$689
+744341457,Total non-current interest-bearing loans and borrowings ($000s),2021,$964
+744341457,Total non-current interest-bearing loans and borrowings ($000s),2020,-
+744341457,Total non-current interest-bearing loans and borrowings ($000s),2019,$59
+744341457,Total non-current interest-bearing loans and borrowings ($000s),2018,$92
+744341457,Total non-current interest-bearing loans and borrowings ($000s),2017,$59
+744341457,Total non-current interest-bearing loans and borrowings ($000s),2016,-
+744341457,Total non-current interest-bearing loans and borrowings ($000s),2015,-
+744341457,Deferred tax liabilities ($000s),2024,
+744341457,Deferred tax liabilities ($000s),2023,
+744341457,Deferred tax liabilities ($000s),2022,
+744341457,Deferred tax liabilities ($000s),2021,
+744341457,Deferred tax liabilities ($000s),2020,-
+744341457,Deferred tax liabilities ($000s),2019,-
+744341457,Deferred tax liabilities ($000s),2018,-
+744341457,Deferred tax liabilities ($000s),2017,-
+744341457,Deferred tax liabilities ($000s),2016,-
+744341457,Deferred tax liabilities ($000s),2015,-
+744341457,Convertible redeemable preference shares ($000s),2024,
+744341457,Convertible redeemable preference shares ($000s),2023,
+744341457,Convertible redeemable preference shares ($000s),2022,
+744341457,Convertible redeemable preference shares ($000s),2021,
+744341457,Convertible redeemable preference shares ($000s),2020,-
+744341457,Convertible redeemable preference shares ($000s),2019,-
+744341457,Convertible redeemable preference shares ($000s),2018,-
+744341457,Convertible redeemable preference shares ($000s),2017,-
+744341457,Convertible redeemable preference shares ($000s),2016,-
+744341457,Convertible redeemable preference shares ($000s),2015,-
+744341457,Other non-current liabilities ($000s),2024,$0
+744341457,Other non-current liabilities ($000s),2023,-
+744341457,Other non-current liabilities ($000s),2022,$0
+744341457,Other non-current liabilities ($000s),2021,$0
+744341457,Other non-current liabilities ($000s),2020,$0
+744341457,Other non-current liabilities ($000s),2019,$0
+744341457,Other non-current liabilities ($000s),2018,$0
+744341457,Other non-current liabilities ($000s),2017,$0
+744341457,Other non-current liabilities ($000s),2016,-
+744341457,Other non-current liabilities ($000s),2015,-
+744341457,Total non-current liabilities ($000s),2024,"$3,993"
+744341457,Total non-current liabilities ($000s),2023,-
+744341457,Total non-current liabilities ($000s),2022,"$1,364"
+744341457,Total non-current liabilities ($000s),2021,"$1,618"
+744341457,Total non-current liabilities ($000s),2020,$697
+744341457,Total non-current liabilities ($000s),2019,"$1,117"
+744341457,Total non-current liabilities ($000s),2018,"$1,116"
+744341457,Total non-current liabilities ($000s),2017,$982
+744341457,Total non-current liabilities ($000s),2016,-
+744341457,Total non-current liabilities ($000s),2015,-
+744341457,TOTAL LIABILITIES ($000s),2024,"$12,106"
+744341457,TOTAL LIABILITIES ($000s),2023,-
+744341457,TOTAL LIABILITIES ($000s),2022,"$12,231"
+744341457,TOTAL LIABILITIES ($000s),2021,"$13,712"
+744341457,TOTAL LIABILITIES ($000s),2020,"$13,916"
+744341457,TOTAL LIABILITIES ($000s),2019,"$12,513"
+744341457,TOTAL LIABILITIES ($000s),2018,"$13,438"
+744341457,TOTAL LIABILITIES ($000s),2017,"$13,305"
+744341457,TOTAL LIABILITIES ($000s),2016,-
+744341457,TOTAL LIABILITIES ($000s),2015,-
+744341457,NET ASSETS ($000s),2024,"$11,988"
+744341457,NET ASSETS ($000s),2023,-
+744341457,NET ASSETS ($000s),2022,"$24,662"
+744341457,NET ASSETS ($000s),2021,"$24,197"
+744341457,NET ASSETS ($000s),2020,"$22,301"
+744341457,NET ASSETS ($000s),2019,"$18,902"
+744341457,NET ASSETS ($000s),2018,"$16,577"
+744341457,NET ASSETS ($000s),2017,"$14,912"
+744341457,NET ASSETS ($000s),2016,-
+744341457,NET ASSETS ($000s),2015,-
+744341457,Equity,2024,
+744341457,Equity,2023,
+744341457,Equity,2022,
+744341457,Equity,2021,
+744341457,Equity,2020,-
+744341457,Equity,2019,-
+744341457,Equity,2018,-
+744341457,Equity,2017,-
+744341457,Equity,2016,-
+744341457,Equity,2015,-
+744341457,Equity attributable to equity holders of the parent,2024,
+744341457,Equity attributable to equity holders of the parent,2023,
+744341457,Equity attributable to equity holders of the parent,2022,
+744341457,Equity attributable to equity holders of the parent,2021,
+744341457,Equity attributable to equity holders of the parent,2020,-
+744341457,Equity attributable to equity holders of the parent,2019,-
+744341457,Equity attributable to equity holders of the parent,2018,-
+744341457,Equity attributable to equity holders of the parent,2017,-
+744341457,Equity attributable to equity holders of the parent,2016,-
+744341457,Equity attributable to equity holders of the parent,2015,-
+744341457,Contributed equity ($000s),2024,$83
+744341457,Contributed equity ($000s),2023,-
+744341457,Contributed equity ($000s),2022,$83
+744341457,Contributed equity ($000s),2021,$83
+744341457,Contributed equity ($000s),2020,$83
+744341457,Contributed equity ($000s),2019,$83
+744341457,Contributed equity ($000s),2018,$83
+744341457,Contributed equity ($000s),2017,$83
+744341457,Contributed equity ($000s),2016,-
+744341457,Contributed equity ($000s),2015,-
+744341457,Retained earnings ($000s),2024,"$8,213"
+744341457,Retained earnings ($000s),2023,-
+744341457,Retained earnings ($000s),2022,"$20,935"
+744341457,Retained earnings ($000s),2021,"$20,911"
+744341457,Retained earnings ($000s),2020,"$19,275"
+744341457,Retained earnings ($000s),2019,"$16,312"
+744341457,Retained earnings ($000s),2018,"$14,158"
+744341457,Retained earnings ($000s),2017,"$12,640"
+744341457,Retained earnings ($000s),2016,-
+744341457,Retained earnings ($000s),2015,-
+744341457,Reserves ($000s),2024,"$1,678"
+744341457,Reserves ($000s),2023,-
+744341457,Reserves ($000s),2022,"$1,604"
+744341457,Reserves ($000s),2021,"$1,604"
+744341457,Reserves ($000s),2020,"$1,604"
+744341457,Reserves ($000s),2019,"$1,604"
+744341457,Reserves ($000s),2018,"$1,604"
+744341457,Reserves ($000s),2017,"$1,604"
+744341457,Reserves ($000s),2016,-
+744341457,Reserves ($000s),2015,-
+744341457,Total Parent interests ($000s),2024,"$9,974"
+744341457,Total Parent interests ($000s),2023,-
+744341457,Total Parent interests ($000s),2022,"$22,622"
+744341457,Total Parent interests ($000s),2021,"$22,598"
+744341457,Total Parent interests ($000s),2020,"$20,962"
+744341457,Total Parent interests ($000s),2019,"$17,999"
+744341457,Total Parent interests ($000s),2018,"$15,845"
+744341457,Total Parent interests ($000s),2017,"$14,327"
+744341457,Total Parent interests ($000s),2016,-
+744341457,Total Parent interests ($000s),2015,-
+744341457,Minority interests ($000s),2024,"$2,014"
+744341457,Minority interests ($000s),2023,-
+744341457,Minority interests ($000s),2022,"$2,040"
+744341457,Minority interests ($000s),2021,"$1,599"
+744341457,Minority interests ($000s),2020,"$1,339"
+744341457,Minority interests ($000s),2019,$903
+744341457,Minority interests ($000s),2018,$732
+744341457,Minority interests ($000s),2017,$585
+744341457,Minority interests ($000s),2016,-
+744341457,Minority interests ($000s),2015,-
+744341457,TOTAL EQUITY ($000s),2024,"$11,988"
+744341457,TOTAL EQUITY ($000s),2023,-
+744341457,TOTAL EQUITY ($000s),2022,"$24,662"
+744341457,TOTAL EQUITY ($000s),2021,"$24,197"
+744341457,TOTAL EQUITY ($000s),2020,"$22,301"
+744341457,TOTAL EQUITY ($000s),2019,"$18,902"
+744341457,TOTAL EQUITY ($000s),2018,"$16,577"
+744341457,TOTAL EQUITY ($000s),2017,"$14,912"
+744341457,TOTAL EQUITY ($000s),2016,-
+744341457,TOTAL EQUITY ($000s),2015,-
+744341457,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2024,-
+744341457,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2023,-
+744341457,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2022,"$24,197"
+744341457,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2021,-
+744341457,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2020,"$18,902"
+744341457,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2019,"$16,577"
+744341457,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2018,"$14,912"
+744341457,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2017,-
+744341457,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2016,-
+744341457,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2015,-

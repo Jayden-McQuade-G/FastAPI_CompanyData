@@ -1,0 +1,301 @@
+duns,line_item,year,value
+752255195,Cash flow statement,2023,
+752255195,Cash flow statement,2022,
+752255195,Cash flow statement,2021,
+752255195,Cash flow statement,2020,
+752255195,Cash flow statement,2019,-
+752255195,Cash flow statement,2018,-
+752255195,Cash flow statement,2017,-
+752255195,Cash flow statement,2016,-
+752255195,Cash flow statement,2015,-
+752255195,Cash flow statement,2014,-
+752255195,Receipts from customers ($000s),2023,"$33,404"
+752255195,Receipts from customers ($000s),2022,"$33,615"
+752255195,Receipts from customers ($000s),2021,"$28,770"
+752255195,Receipts from customers ($000s),2020,"$31,074"
+752255195,Receipts from customers ($000s),2019,"$32,289"
+752255195,Receipts from customers ($000s),2018,"$34,911"
+752255195,Receipts from customers ($000s),2017,"$34,498"
+752255195,Receipts from customers ($000s),2016,"$34,404"
+752255195,Receipts from customers ($000s),2015,"$34,964"
+752255195,Receipts from customers ($000s),2014,"$43,638"
+752255195,Payments to suppliers and employees ($000s),2023,"($14,726)"
+752255195,Payments to suppliers and employees ($000s),2022,"($13,493)"
+752255195,Payments to suppliers and employees ($000s),2021,"($13,526)"
+752255195,Payments to suppliers and employees ($000s),2020,"($15,471)"
+752255195,Payments to suppliers and employees ($000s),2019,"($12,376)"
+752255195,Payments to suppliers and employees ($000s),2018,"($15,425)"
+752255195,Payments to suppliers and employees ($000s),2017,"($15,565)"
+752255195,Payments to suppliers and employees ($000s),2016,"($14,282)"
+752255195,Payments to suppliers and employees ($000s),2015,"($13,138)"
+752255195,Payments to suppliers and employees ($000s),2014,"($13,008)"
+752255195,Interest paid ($000s),2023,"($1,269)"
+752255195,Interest paid ($000s),2022,"($1,269)"
+752255195,Interest paid ($000s),2021,"($1,269)"
+752255195,Interest paid ($000s),2020,-
+752255195,Interest paid ($000s),2019,-
+752255195,Interest paid ($000s),2018,-
+752255195,Interest paid ($000s),2017,-
+752255195,Interest paid ($000s),2016,-
+752255195,Interest paid ($000s),2015,-
+752255195,Interest paid ($000s),2014,-
+752255195,Tax paid ($000s),2023,"($2,599)"
+752255195,Tax paid ($000s),2022,"($2,399)"
+752255195,Tax paid ($000s),2021,"($2,399)"
+752255195,Tax paid ($000s),2020,"($4,178)"
+752255195,Tax paid ($000s),2019,"($4,964)"
+752255195,Tax paid ($000s),2018,"($2,970)"
+752255195,Tax paid ($000s),2017,"($3,044)"
+752255195,Tax paid ($000s),2016,"($14,623)"
+752255195,Tax paid ($000s),2015,-
+752255195,Tax paid ($000s),2014,"($3,678)"
+752255195,Other receipts ($000s),2023,$0
+752255195,Other receipts ($000s),2022,$0
+752255195,Other receipts ($000s),2021,$0
+752255195,Other receipts ($000s),2020,$0
+752255195,Other receipts ($000s),2019,$0
+752255195,Other receipts ($000s),2018,$36
+752255195,Other receipts ($000s),2017,$33
+752255195,Other receipts ($000s),2016,$31
+752255195,Other receipts ($000s),2015,$10
+752255195,Other receipts ($000s),2014,$116
+752255195,Other payments ($000s),2023,$0
+752255195,Other payments ($000s),2022,$0
+752255195,Other payments ($000s),2021,$0
+752255195,Other payments ($000s),2020,$0
+752255195,Other payments ($000s),2019,$0
+752255195,Other payments ($000s),2018,$0
+752255195,Other payments ($000s),2017,$0
+752255195,Other payments ($000s),2016,$0
+752255195,Other payments ($000s),2015,$0
+752255195,Other payments ($000s),2014,$0
+752255195,Net cashflow from/(used in) operating activities ($000s),2023,"$14,811"
+752255195,Net cashflow from/(used in) operating activities ($000s),2022,"$16,453"
+752255195,Net cashflow from/(used in) operating activities ($000s),2021,"$11,575"
+752255195,Net cashflow from/(used in) operating activities ($000s),2020,"$11,425"
+752255195,Net cashflow from/(used in) operating activities ($000s),2019,"$14,949"
+752255195,Net cashflow from/(used in) operating activities ($000s),2018,"$16,552"
+752255195,Net cashflow from/(used in) operating activities ($000s),2017,"$15,923"
+752255195,Net cashflow from/(used in) operating activities ($000s),2016,"$5,530"
+752255195,Net cashflow from/(used in) operating activities ($000s),2015,"$21,836"
+752255195,Net cashflow from/(used in) operating activities ($000s),2014,"$27,067"
+752255195,Purchase of property plant and equipment ($000s),2023,"($1,600)"
+752255195,Purchase of property plant and equipment ($000s),2022,"($2,288)"
+752255195,Purchase of property plant and equipment ($000s),2021,($532)
+752255195,Purchase of property plant and equipment ($000s),2020,($733)
+752255195,Purchase of property plant and equipment ($000s),2019,"($1,358)"
+752255195,Purchase of property plant and equipment ($000s),2018,"($2,368)"
+752255195,Purchase of property plant and equipment ($000s),2017,"($2,411)"
+752255195,Purchase of property plant and equipment ($000s),2016,"($1,404)"
+752255195,Purchase of property plant and equipment ($000s),2015,"($2,752)"
+752255195,Purchase of property plant and equipment ($000s),2014,"($17,398)"
+752255195,Purchase of intangibles ($000s),2023,
+752255195,Purchase of intangibles ($000s),2022,
+752255195,Purchase of intangibles ($000s),2021,
+752255195,Purchase of intangibles ($000s),2020,
+752255195,Purchase of intangibles ($000s),2019,-
+752255195,Purchase of intangibles ($000s),2018,-
+752255195,Purchase of intangibles ($000s),2017,-
+752255195,Purchase of intangibles ($000s),2016,-
+752255195,Purchase of intangibles ($000s),2015,-
+752255195,Purchase of intangibles ($000s),2014,-
+752255195,Proceeds from the sale of property plant and equipment ($000s),2023,$0
+752255195,Proceeds from the sale of property plant and equipment ($000s),2022,$0
+752255195,Proceeds from the sale of property plant and equipment ($000s),2021,$0
+752255195,Proceeds from the sale of property plant and equipment ($000s),2020,$0
+752255195,Proceeds from the sale of property plant and equipment ($000s),2019,$0
+752255195,Proceeds from the sale of property plant and equipment ($000s),2018,$0
+752255195,Proceeds from the sale of property plant and equipment ($000s),2017,$0
+752255195,Proceeds from the sale of property plant and equipment ($000s),2016,$0
+752255195,Proceeds from the sale of property plant and equipment ($000s),2015,$0
+752255195,Proceeds from the sale of property plant and equipment ($000s),2014,$0
+752255195,Proceeds from the disposal of investments/subsidiaries ($000s),2023,$0
+752255195,Proceeds from the disposal of investments/subsidiaries ($000s),2022,$0
+752255195,Proceeds from the disposal of investments/subsidiaries ($000s),2021,$0
+752255195,Proceeds from the disposal of investments/subsidiaries ($000s),2020,$0
+752255195,Proceeds from the disposal of investments/subsidiaries ($000s),2019,$0
+752255195,Proceeds from the disposal of investments/subsidiaries ($000s),2018,$0
+752255195,Proceeds from the disposal of investments/subsidiaries ($000s),2017,$0
+752255195,Proceeds from the disposal of investments/subsidiaries ($000s),2016,$0
+752255195,Proceeds from the disposal of investments/subsidiaries ($000s),2015,$0
+752255195,Proceeds from the disposal of investments/subsidiaries ($000s),2014,$0
+752255195,Purchase of subisidiary/investment ($000s),2023,$0
+752255195,Purchase of subisidiary/investment ($000s),2022,$0
+752255195,Purchase of subisidiary/investment ($000s),2021,$0
+752255195,Purchase of subisidiary/investment ($000s),2020,$0
+752255195,Purchase of subisidiary/investment ($000s),2019,$0
+752255195,Purchase of subisidiary/investment ($000s),2018,$0
+752255195,Purchase of subisidiary/investment ($000s),2017,$0
+752255195,Purchase of subisidiary/investment ($000s),2016,$0
+752255195,Purchase of subisidiary/investment ($000s),2015,$0
+752255195,Purchase of subisidiary/investment ($000s),2014,$0
+752255195,Interest received ($000s),2023,
+752255195,Interest received ($000s),2022,
+752255195,Interest received ($000s),2021,
+752255195,Interest received ($000s),2020,
+752255195,Interest received ($000s),2019,-
+752255195,Interest received ($000s),2018,-
+752255195,Interest received ($000s),2017,-
+752255195,Interest received ($000s),2016,-
+752255195,Interest received ($000s),2015,-
+752255195,Interest received ($000s),2014,-
+752255195,Dividends received ($000s),2023,
+752255195,Dividends received ($000s),2022,
+752255195,Dividends received ($000s),2021,
+752255195,Dividends received ($000s),2020,
+752255195,Dividends received ($000s),2019,-
+752255195,Dividends received ($000s),2018,-
+752255195,Dividends received ($000s),2017,-
+752255195,Dividends received ($000s),2016,-
+752255195,Dividends received ($000s),2015,-
+752255195,Dividends received ($000s),2014,-
+752255195,Other investing inflows/(outflows) ($000s),2023,$0
+752255195,Other investing inflows/(outflows) ($000s),2022,$0
+752255195,Other investing inflows/(outflows) ($000s),2021,$0
+752255195,Other investing inflows/(outflows) ($000s),2020,$0
+752255195,Other investing inflows/(outflows) ($000s),2019,$0
+752255195,Other investing inflows/(outflows) ($000s),2018,$0
+752255195,Other investing inflows/(outflows) ($000s),2017,$0
+752255195,Other investing inflows/(outflows) ($000s),2016,$0
+752255195,Other investing inflows/(outflows) ($000s),2015,$0
+752255195,Other investing inflows/(outflows) ($000s),2014,$0
+752255195,Net cashflow from/(used in) investing activities ($000s),2023,"($1,600)"
+752255195,Net cashflow from/(used in) investing activities ($000s),2022,"($2,288)"
+752255195,Net cashflow from/(used in) investing activities ($000s),2021,($532)
+752255195,Net cashflow from/(used in) investing activities ($000s),2020,($733)
+752255195,Net cashflow from/(used in) investing activities ($000s),2019,"($1,358)"
+752255195,Net cashflow from/(used in) investing activities ($000s),2018,"($2,368)"
+752255195,Net cashflow from/(used in) investing activities ($000s),2017,"($2,411)"
+752255195,Net cashflow from/(used in) investing activities ($000s),2016,"($1,404)"
+752255195,Net cashflow from/(used in) investing activities ($000s),2015,"($2,752)"
+752255195,Net cashflow from/(used in) investing activities ($000s),2014,"($17,398)"
+752255195,Proceeds from the issue of shares ($000s),2023,$0
+752255195,Proceeds from the issue of shares ($000s),2022,$0
+752255195,Proceeds from the issue of shares ($000s),2021,$0
+752255195,Proceeds from the issue of shares ($000s),2020,$0
+752255195,Proceeds from the issue of shares ($000s),2019,$0
+752255195,Proceeds from the issue of shares ($000s),2018,$0
+752255195,Proceeds from the issue of shares ($000s),2017,$0
+752255195,Proceeds from the issue of shares ($000s),2016,$0
+752255195,Proceeds from the issue of shares ($000s),2015,$0
+752255195,Proceeds from the issue of shares ($000s),2014,$0
+752255195,Proceeds from borrowings ($000s),2023,"$9,770"
+752255195,Proceeds from borrowings ($000s),2022,"$4,316"
+752255195,Proceeds from borrowings ($000s),2021,$0
+752255195,Proceeds from borrowings ($000s),2020,$0
+752255195,Proceeds from borrowings ($000s),2019,$0
+752255195,Proceeds from borrowings ($000s),2018,$0
+752255195,Proceeds from borrowings ($000s),2017,$0
+752255195,Proceeds from borrowings ($000s),2016,$0
+752255195,Proceeds from borrowings ($000s),2015,$0
+752255195,Proceeds from borrowings ($000s),2014,$0
+752255195,Repayment of borrowings  ($000s),2023,-
+752255195,Repayment of borrowings  ($000s),2022,-
+752255195,Repayment of borrowings  ($000s),2021,-
+752255195,Repayment of borrowings  ($000s),2020,"($15,201)"
+752255195,Repayment of borrowings  ($000s),2019,-
+752255195,Repayment of borrowings  ($000s),2018,-
+752255195,Repayment of borrowings  ($000s),2017,"($13,151)"
+752255195,Repayment of borrowings  ($000s),2016,"($4,385)"
+752255195,Repayment of borrowings  ($000s),2015,-
+752255195,Repayment of borrowings  ($000s),2014,-
+752255195,Repayment of finance lease liabilities ($000s),2023,($536)
+752255195,Repayment of finance lease liabilities ($000s),2022,($513)
+752255195,Repayment of finance lease liabilities ($000s),2021,($565)
+752255195,Repayment of finance lease liabilities ($000s),2020,($337)
+752255195,Repayment of finance lease liabilities ($000s),2019,($441)
+752255195,Repayment of finance lease liabilities ($000s),2018,-
+752255195,Repayment of finance lease liabilities ($000s),2017,-
+752255195,Repayment of finance lease liabilities ($000s),2016,-
+752255195,Repayment of finance lease liabilities ($000s),2015,-
+752255195,Repayment of finance lease liabilities ($000s),2014,-
+752255195,Interest Paid ($000s),2023,
+752255195,Interest Paid ($000s),2022,
+752255195,Interest Paid ($000s),2021,
+752255195,Interest Paid ($000s),2020,
+752255195,Interest Paid ($000s),2019,-
+752255195,Interest Paid ($000s),2018,-
+752255195,Interest Paid ($000s),2017,-
+752255195,Interest Paid ($000s),2016,-
+752255195,Interest Paid ($000s),2015,-
+752255195,Interest Paid ($000s),2014,-
+752255195,Dividends paid ($000s),2023,"($22,000)"
+752255195,Dividends paid ($000s),2022,"($18,000)"
+752255195,Dividends paid ($000s),2021,"($141,958)"
+752255195,Dividends paid ($000s),2020,-
+752255195,Dividends paid ($000s),2019,-
+752255195,Dividends paid ($000s),2018,-
+752255195,Dividends paid ($000s),2017,-
+752255195,Dividends paid ($000s),2016,-
+752255195,Dividends paid ($000s),2015,-
+752255195,Dividends paid ($000s),2014,-
+752255195,Other inflows/(outflows) from financing activities ($000s),2023,$0
+752255195,Other inflows/(outflows) from financing activities ($000s),2022,$0
+752255195,Other inflows/(outflows) from financing activities ($000s),2021,"$130,905"
+752255195,Other inflows/(outflows) from financing activities ($000s),2020,$0
+752255195,Other inflows/(outflows) from financing activities ($000s),2019,"($8,074)"
+752255195,Other inflows/(outflows) from financing activities ($000s),2018,"($15,142)"
+752255195,Other inflows/(outflows) from financing activities ($000s),2017,$0
+752255195,Other inflows/(outflows) from financing activities ($000s),2016,$0
+752255195,Other inflows/(outflows) from financing activities ($000s),2015,"($18,892)"
+752255195,Other inflows/(outflows) from financing activities ($000s),2014,"($10,040)"
+752255195,Net cash flows from/(used in) financing activities ($000s),2023,"($12,766)"
+752255195,Net cash flows from/(used in) financing activities ($000s),2022,"($14,196)"
+752255195,Net cash flows from/(used in) financing activities ($000s),2021,"($11,618)"
+752255195,Net cash flows from/(used in) financing activities ($000s),2020,"($15,538)"
+752255195,Net cash flows from/(used in) financing activities ($000s),2019,"($8,516)"
+752255195,Net cash flows from/(used in) financing activities ($000s),2018,"($15,142)"
+752255195,Net cash flows from/(used in) financing activities ($000s),2017,"($13,151)"
+752255195,Net cash flows from/(used in) financing activities ($000s),2016,"($4,385)"
+752255195,Net cash flows from/(used in) financing activities ($000s),2015,"($18,892)"
+752255195,Net cash flows from/(used in) financing activities ($000s),2014,"($10,040)"
+752255195,Net increase/(decrease) in cash and cash equivalents ($000s),2023,$445
+752255195,Net increase/(decrease) in cash and cash equivalents ($000s),2022,($31)
+752255195,Net increase/(decrease) in cash and cash equivalents ($000s),2021,($575)
+752255195,Net increase/(decrease) in cash and cash equivalents ($000s),2020,"($4,846)"
+752255195,Net increase/(decrease) in cash and cash equivalents ($000s),2019,"$5,075"
+752255195,Net increase/(decrease) in cash and cash equivalents ($000s),2018,($958)
+752255195,Net increase/(decrease) in cash and cash equivalents ($000s),2017,$361
+752255195,Net increase/(decrease) in cash and cash equivalents ($000s),2016,($259)
+752255195,Net increase/(decrease) in cash and cash equivalents ($000s),2015,$192
+752255195,Net increase/(decrease) in cash and cash equivalents ($000s),2014,($371)
+752255195,Other increase/(decrease) in cash and cash equivalents ($000s),2023,
+752255195,Other increase/(decrease) in cash and cash equivalents ($000s),2022,
+752255195,Other increase/(decrease) in cash and cash equivalents ($000s),2021,
+752255195,Other increase/(decrease) in cash and cash equivalents ($000s),2020,
+752255195,Other increase/(decrease) in cash and cash equivalents ($000s),2019,-
+752255195,Other increase/(decrease) in cash and cash equivalents ($000s),2018,-
+752255195,Other increase/(decrease) in cash and cash equivalents ($000s),2017,-
+752255195,Other increase/(decrease) in cash and cash equivalents ($000s),2016,-
+752255195,Other increase/(decrease) in cash and cash equivalents ($000s),2015,-
+752255195,Other increase/(decrease) in cash and cash equivalents ($000s),2014,-
+752255195,Net foreign exchange differences ($000s),2023,
+752255195,Net foreign exchange differences ($000s),2022,
+752255195,Net foreign exchange differences ($000s),2021,
+752255195,Net foreign exchange differences ($000s),2020,
+752255195,Net foreign exchange differences ($000s),2019,-
+752255195,Net foreign exchange differences ($000s),2018,-
+752255195,Net foreign exchange differences ($000s),2017,-
+752255195,Net foreign exchange differences ($000s),2016,-
+752255195,Net foreign exchange differences ($000s),2015,-
+752255195,Net foreign exchange differences ($000s),2014,-
+752255195,Cash and cash equivalents at the beginning of the period ($000s),2023,$50
+752255195,Cash and cash equivalents at the beginning of the period ($000s),2022,$81
+752255195,Cash and cash equivalents at the beginning of the period ($000s),2021,$656
+752255195,Cash and cash equivalents at the beginning of the period ($000s),2020,"$5,502"
+752255195,Cash and cash equivalents at the beginning of the period ($000s),2019,$427
+752255195,Cash and cash equivalents at the beginning of the period ($000s),2018,"$1,386"
+752255195,Cash and cash equivalents at the beginning of the period ($000s),2017,"$1,025"
+752255195,Cash and cash equivalents at the beginning of the period ($000s),2016,"$1,284"
+752255195,Cash and cash equivalents at the beginning of the period ($000s),2015,"$1,092"
+752255195,Cash and cash equivalents at the beginning of the period ($000s),2014,"$1,463"
+752255195,Cash and cash equivalents at the end of the period ($000s),2023,$495
+752255195,Cash and cash equivalents at the end of the period ($000s),2022,$50
+752255195,Cash and cash equivalents at the end of the period ($000s),2021,$81
+752255195,Cash and cash equivalents at the end of the period ($000s),2020,$656
+752255195,Cash and cash equivalents at the end of the period ($000s),2019,"$5,502"
+752255195,Cash and cash equivalents at the end of the period ($000s),2018,$427
+752255195,Cash and cash equivalents at the end of the period ($000s),2017,"$1,386"
+752255195,Cash and cash equivalents at the end of the period ($000s),2016,"$1,025"
+752255195,Cash and cash equivalents at the end of the period ($000s),2015,"$1,284"
+752255195,Cash and cash equivalents at the end of the period ($000s),2014,"$1,092"

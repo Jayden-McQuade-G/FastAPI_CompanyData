@@ -1,0 +1,424 @@
+duns,line_item,year,value
+752405451,Revenue from continuing operations ($000s),2024,"$39,377"
+752405451,Revenue from continuing operations ($000s),2023,"$20,707"
+752405451,Revenue from continuing operations ($000s),2022,"$47,595"
+752405451,Revenue from continuing operations ($000s),2021,"$38,943"
+752405451,Revenue from continuing operations ($000s),2020,"$48,313"
+752405451,Revenue from continuing operations ($000s),2019,"$53,715"
+752405451,Revenue from continuing operations ($000s),2018,"$31,392"
+752405451,Revenue from continuing operations ($000s),2017,"$28,751"
+752405451,Revenue from continuing operations ($000s),2016,"$7,078"
+752405451,Growth,2024,90.16%
+752405451,Growth,2023,(56.49%)
+752405451,Growth,2022,22.22%
+752405451,Growth,2021,(19.39%)
+752405451,Growth,2020,(10.06%)
+752405451,Growth,2019,71.11%
+752405451,Growth,2018,9.19%
+752405451,Growth,2017,306.20%
+752405451,Growth,2016,-
+752405451,Cost of sales ($000s),2024,"($21,720)"
+752405451,Cost of sales ($000s),2023,"($16,458)"
+752405451,Cost of sales ($000s),2022,"($37,697)"
+752405451,Cost of sales ($000s),2021,"($61,228)"
+752405451,Cost of sales ($000s),2020,"($45,770)"
+752405451,Cost of sales ($000s),2019,"($46,395)"
+752405451,Cost of sales ($000s),2018,"($22,382)"
+752405451,Cost of sales ($000s),2017,"($10,366)"
+752405451,Cost of sales ($000s),2016,"($3,843)"
+752405451,Gross profit ($000s),2024,"$17,657"
+752405451,Gross profit ($000s),2023,"$4,249"
+752405451,Gross profit ($000s),2022,"$9,898"
+752405451,Gross profit ($000s),2021,"($22,285)"
+752405451,Gross profit ($000s),2020,"$2,543"
+752405451,Gross profit ($000s),2019,"$7,320"
+752405451,Gross profit ($000s),2018,"$9,010"
+752405451,Gross profit ($000s),2017,"$18,384"
+752405451,Gross profit ($000s),2016,"$3,235"
+752405451,Other income ($000s),2024,$37
+752405451,Other income ($000s),2023,$6
+752405451,Other income ($000s),2022,$2
+752405451,Other income ($000s),2021,$0
+752405451,Other income ($000s),2020,"$13,671"
+752405451,Other income ($000s),2019,-
+752405451,Other income ($000s),2018,-
+752405451,Other income ($000s),2017,-
+752405451,Other income ($000s),2016,-
+752405451,Administrative expenses ($000s),2024,"($10,033)"
+752405451,Administrative expenses ($000s),2023,"($9,598)"
+752405451,Administrative expenses ($000s),2022,"($8,201)"
+752405451,Administrative expenses ($000s),2021,"($8,764)"
+752405451,Administrative expenses ($000s),2020,"($5,230)"
+752405451,Administrative expenses ($000s),2019,($343)
+752405451,Administrative expenses ($000s),2018,($620)
+752405451,Administrative expenses ($000s),2017,($626)
+752405451,Administrative expenses ($000s),2016,($318)
+752405451,Finance costs ($000s),2024,"($3,247)"
+752405451,Finance costs ($000s),2023,"($2,619)"
+752405451,Finance costs ($000s),2022,"($1,349)"
+752405451,Finance costs ($000s),2021,($534)
+752405451,Finance costs ($000s),2020,($574)
+752405451,Finance costs ($000s),2019,($792)
+752405451,Finance costs ($000s),2018,($627)
+752405451,Finance costs ($000s),2017,($755)
+752405451,Finance costs ($000s),2016,"($1,106)"
+752405451,Share of associate profits/(losses) ($000s),2024,
+752405451,Share of associate profits/(losses) ($000s),2023,
+752405451,Share of associate profits/(losses) ($000s),2022,
+752405451,Share of associate profits/(losses) ($000s),2021,
+752405451,Share of associate profits/(losses) ($000s),2020,-
+752405451,Share of associate profits/(losses) ($000s),2019,-
+752405451,Share of associate profits/(losses) ($000s),2018,-
+752405451,Share of associate profits/(losses) ($000s),2017,-
+752405451,Share of associate profits/(losses) ($000s),2016,-
+752405451,Profit/(loss) from continuing operations before income tax ($000s),2024,"($3,735)"
+752405451,Profit/(loss) from continuing operations before income tax ($000s),2023,"($11,952)"
+752405451,Profit/(loss) from continuing operations before income tax ($000s),2022,"($4,254)"
+752405451,Profit/(loss) from continuing operations before income tax ($000s),2021,"($36,157)"
+752405451,Profit/(loss) from continuing operations before income tax ($000s),2020,$610
+752405451,Profit/(loss) from continuing operations before income tax ($000s),2019,"($7,185)"
+752405451,Profit/(loss) from continuing operations before income tax ($000s),2018,"$1,430"
+752405451,Profit/(loss) from continuing operations before income tax ($000s),2017,"$10,290"
+752405451,Profit/(loss) from continuing operations before income tax ($000s),2016,($695)
+752405451,Income tax expense ($000s),2024,
+752405451,Income tax expense ($000s),2023,
+752405451,Income tax expense ($000s),2022,
+752405451,Income tax expense ($000s),2021,
+752405451,Income tax expense ($000s),2020,-
+752405451,Income tax expense ($000s),2019,-
+752405451,Income tax expense ($000s),2018,-
+752405451,Income tax expense ($000s),2017,-
+752405451,Income tax expense ($000s),2016,-
+752405451,Profit from continuing operations after income tax ($000s),2024,"($3,735)"
+752405451,Profit from continuing operations after income tax ($000s),2023,"($11,952)"
+752405451,Profit from continuing operations after income tax ($000s),2022,"($4,254)"
+752405451,Profit from continuing operations after income tax ($000s),2021,"($36,157)"
+752405451,Profit from continuing operations after income tax ($000s),2020,$610
+752405451,Profit from continuing operations after income tax ($000s),2019,"($7,185)"
+752405451,Profit from continuing operations after income tax ($000s),2018,"$1,430"
+752405451,Profit from continuing operations after income tax ($000s),2017,"$10,290"
+752405451,Profit from continuing operations after income tax ($000s),2016,($695)
+752405451,Profit/(loss) from discontinued operations after tax ($000s),2024,
+752405451,Profit/(loss) from discontinued operations after tax ($000s),2023,
+752405451,Profit/(loss) from discontinued operations after tax ($000s),2022,
+752405451,Profit/(loss) from discontinued operations after tax ($000s),2021,
+752405451,Profit/(loss) from discontinued operations after tax ($000s),2020,-
+752405451,Profit/(loss) from discontinued operations after tax ($000s),2019,-
+752405451,Profit/(loss) from discontinued operations after tax ($000s),2018,-
+752405451,Profit/(loss) from discontinued operations after tax ($000s),2017,-
+752405451,Profit/(loss) from discontinued operations after tax ($000s),2016,-
+752405451,Profit/(loss) from restructuring activites after tax ($000s),2024,
+752405451,Profit/(loss) from restructuring activites after tax ($000s),2023,
+752405451,Profit/(loss) from restructuring activites after tax ($000s),2022,
+752405451,Profit/(loss) from restructuring activites after tax ($000s),2021,
+752405451,Profit/(loss) from restructuring activites after tax ($000s),2020,-
+752405451,Profit/(loss) from restructuring activites after tax ($000s),2019,-
+752405451,Profit/(loss) from restructuring activites after tax ($000s),2018,-
+752405451,Profit/(loss) from restructuring activites after tax ($000s),2017,-
+752405451,Profit/(loss) from restructuring activites after tax ($000s),2016,-
+752405451,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2024,
+752405451,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2023,
+752405451,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2022,
+752405451,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2021,
+752405451,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2020,-
+752405451,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2019,-
+752405451,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2018,-
+752405451,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2017,-
+752405451,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2016,-
+752405451,Profit/(loss) from disposals of investments after tax ($000s),2024,
+752405451,Profit/(loss) from disposals of investments after tax ($000s),2023,
+752405451,Profit/(loss) from disposals of investments after tax ($000s),2022,
+752405451,Profit/(loss) from disposals of investments after tax ($000s),2021,
+752405451,Profit/(loss) from disposals of investments after tax ($000s),2020,-
+752405451,Profit/(loss) from disposals of investments after tax ($000s),2019,-
+752405451,Profit/(loss) from disposals of investments after tax ($000s),2018,-
+752405451,Profit/(loss) from disposals of investments after tax ($000s),2017,-
+752405451,Profit/(loss) from disposals of investments after tax ($000s),2016,-
+752405451,Net profit for the period ($000s),2024,"($3,735)"
+752405451,Net profit for the period ($000s),2023,"($11,952)"
+752405451,Net profit for the period ($000s),2022,"($4,254)"
+752405451,Net profit for the period ($000s),2021,"($36,157)"
+752405451,Net profit for the period ($000s),2020,$610
+752405451,Net profit for the period ($000s),2019,"($7,185)"
+752405451,Net profit for the period ($000s),2018,"$1,430"
+752405451,Net profit for the period ($000s),2017,"$10,290"
+752405451,Net profit for the period ($000s),2016,($695)
+752405451,Attributable To:,2024,
+752405451,Attributable To:,2023,
+752405451,Attributable To:,2022,
+752405451,Attributable To:,2021,
+752405451,Attributable To:,2020,-
+752405451,Attributable To:,2019,-
+752405451,Attributable To:,2018,-
+752405451,Attributable To:,2017,-
+752405451,Attributable To:,2016,-
+752405451,Minority interest ($000s),2024,
+752405451,Minority interest ($000s),2023,
+752405451,Minority interest ($000s),2022,
+752405451,Minority interest ($000s),2021,
+752405451,Minority interest ($000s),2020,-
+752405451,Minority interest ($000s),2019,-
+752405451,Minority interest ($000s),2018,-
+752405451,Minority interest ($000s),2017,-
+752405451,Minority interest ($000s),2016,-
+752405451,Members of the parent ($000s),2024,"($3,735)"
+752405451,Members of the parent ($000s),2023,"($11,952)"
+752405451,Members of the parent ($000s),2022,"($4,254)"
+752405451,Members of the parent ($000s),2021,"($36,157)"
+752405451,Members of the parent ($000s),2020,$610
+752405451,Members of the parent ($000s),2019,"($7,185)"
+752405451,Members of the parent ($000s),2018,"$1,430"
+752405451,Members of the parent ($000s),2017,"$10,290"
+752405451,Members of the parent ($000s),2016,($695)
+752405451,Weighted average number of ordinary shares for basic earnings per share (000s),2024,
+752405451,Weighted average number of ordinary shares for basic earnings per share (000s),2023,
+752405451,Weighted average number of ordinary shares for basic earnings per share (000s),2022,
+752405451,Weighted average number of ordinary shares for basic earnings per share (000s),2021,
+752405451,Weighted average number of ordinary shares for basic earnings per share (000s),2020,-
+752405451,Weighted average number of ordinary shares for basic earnings per share (000s),2019,-
+752405451,Weighted average number of ordinary shares for basic earnings per share (000s),2018,-
+752405451,Weighted average number of ordinary shares for basic earnings per share (000s),2017,-
+752405451,Weighted average number of ordinary shares for basic earnings per share (000s),2016,-
+752405451,Weighted average number of ordinary shares for diluted earnings per share (000s),2024,
+752405451,Weighted average number of ordinary shares for diluted earnings per share (000s),2023,
+752405451,Weighted average number of ordinary shares for diluted earnings per share (000s),2022,
+752405451,Weighted average number of ordinary shares for diluted earnings per share (000s),2021,
+752405451,Weighted average number of ordinary shares for diluted earnings per share (000s),2020,-
+752405451,Weighted average number of ordinary shares for diluted earnings per share (000s),2019,-
+752405451,Weighted average number of ordinary shares for diluted earnings per share (000s),2018,-
+752405451,Weighted average number of ordinary shares for diluted earnings per share (000s),2017,-
+752405451,Weighted average number of ordinary shares for diluted earnings per share (000s),2016,-
+752405451,Basic earnings per share from continuing operations (cents),2024,
+752405451,Basic earnings per share from continuing operations (cents),2023,
+752405451,Basic earnings per share from continuing operations (cents),2022,
+752405451,Basic earnings per share from continuing operations (cents),2021,
+752405451,Basic earnings per share from continuing operations (cents),2020,-
+752405451,Basic earnings per share from continuing operations (cents),2019,-
+752405451,Basic earnings per share from continuing operations (cents),2018,-
+752405451,Basic earnings per share from continuing operations (cents),2017,-
+752405451,Basic earnings per share from continuing operations (cents),2016,-
+752405451,Diluted earnings per share from continuing operations (cents),2024,
+752405451,Diluted earnings per share from continuing operations (cents),2023,
+752405451,Diluted earnings per share from continuing operations (cents),2022,
+752405451,Diluted earnings per share from continuing operations (cents),2021,
+752405451,Diluted earnings per share from continuing operations (cents),2020,-
+752405451,Diluted earnings per share from continuing operations (cents),2019,-
+752405451,Diluted earnings per share from continuing operations (cents),2018,-
+752405451,Diluted earnings per share from continuing operations (cents),2017,-
+752405451,Diluted earnings per share from continuing operations (cents),2016,-
+752405451,Basic earnings per share (cents),2024,
+752405451,Basic earnings per share (cents),2023,
+752405451,Basic earnings per share (cents),2022,
+752405451,Basic earnings per share (cents),2021,
+752405451,Basic earnings per share (cents),2020,-
+752405451,Basic earnings per share (cents),2019,-
+752405451,Basic earnings per share (cents),2018,-
+752405451,Basic earnings per share (cents),2017,-
+752405451,Basic earnings per share (cents),2016,-
+752405451,Diluted earnings per share (cents),2024,
+752405451,Diluted earnings per share (cents),2023,
+752405451,Diluted earnings per share (cents),2022,
+752405451,Diluted earnings per share (cents),2021,
+752405451,Diluted earnings per share (cents),2020,-
+752405451,Diluted earnings per share (cents),2019,-
+752405451,Diluted earnings per share (cents),2018,-
+752405451,Diluted earnings per share (cents),2017,-
+752405451,Diluted earnings per share (cents),2016,-
+752405451,EBITDA ($000s),2024,($488)
+752405451,EBITDA ($000s),2023,"($8,880)"
+752405451,EBITDA ($000s),2022,"($2,402)"
+752405451,EBITDA ($000s),2021,"($35,066)"
+752405451,EBITDA ($000s),2020,"$1,733"
+752405451,EBITDA ($000s),2019,"($5,930)"
+752405451,EBITDA ($000s),2018,"$2,215"
+752405451,EBITDA ($000s),2017,"$11,045"
+752405451,EBITDA ($000s),2016,$412
+752405451,EBIT ($000s),2024,($488)
+752405451,EBIT ($000s),2023,"($9,333)"
+752405451,EBIT ($000s),2022,"($2,905)"
+752405451,EBIT ($000s),2021,"($35,623)"
+752405451,EBIT ($000s),2020,"$1,184"
+752405451,EBIT ($000s),2019,"($6,393)"
+752405451,EBIT ($000s),2018,"$2,057"
+752405451,EBIT ($000s),2017,"$11,045"
+752405451,EBIT ($000s),2016,$412
+752405451,Expenses included in income statement,2024,
+752405451,Expenses included in income statement,2023,
+752405451,Expenses included in income statement,2022,
+752405451,Expenses included in income statement,2021,
+752405451,Expenses included in income statement,2020,-
+752405451,Expenses included in income statement,2019,-
+752405451,Expenses included in income statement,2018,-
+752405451,Expenses included in income statement,2017,-
+752405451,Expenses included in income statement,2016,-
+752405451,Depreciation of property plant and equipment ($000s),2024,$0
+752405451,Depreciation of property plant and equipment ($000s),2023,($453)
+752405451,Depreciation of property plant and equipment ($000s),2022,($503)
+752405451,Depreciation of property plant and equipment ($000s),2021,($462)
+752405451,Depreciation of property plant and equipment ($000s),2020,($393)
+752405451,Depreciation of property plant and equipment ($000s),2019,$0
+752405451,Depreciation of property plant and equipment ($000s),2018,$0
+752405451,Depreciation of property plant and equipment ($000s),2017,$0
+752405451,Depreciation of property plant and equipment ($000s),2016,$0
+752405451,Impairment of property plant and equipment ($000s),2024,$0
+752405451,Impairment of property plant and equipment ($000s),2023,$0
+752405451,Impairment of property plant and equipment ($000s),2022,$0
+752405451,Impairment of property plant and equipment ($000s),2021,$0
+752405451,Impairment of property plant and equipment ($000s),2020,$0
+752405451,Impairment of property plant and equipment ($000s),2019,$0
+752405451,Impairment of property plant and equipment ($000s),2018,$0
+752405451,Impairment of property plant and equipment ($000s),2017,$0
+752405451,Impairment of property plant and equipment ($000s),2016,$0
+752405451,Amortisation of intangible assets ($000s),2024,$0
+752405451,Amortisation of intangible assets ($000s),2023,$0
+752405451,Amortisation of intangible assets ($000s),2022,$0
+752405451,Amortisation of intangible assets ($000s),2021,($96)
+752405451,Amortisation of intangible assets ($000s),2020,$0
+752405451,Amortisation of intangible assets ($000s),2019,($270)
+752405451,Amortisation of intangible assets ($000s),2018,$0
+752405451,Amortisation of intangible assets ($000s),2017,$0
+752405451,Amortisation of intangible assets ($000s),2016,$0
+752405451,Other Depreciation and Amortisation Expense ($000s),2024,-
+752405451,Other Depreciation and Amortisation Expense ($000s),2023,$0
+752405451,Other Depreciation and Amortisation Expense ($000s),2022,$0
+752405451,Other Depreciation and Amortisation Expense ($000s),2021,$0
+752405451,Other Depreciation and Amortisation Expense ($000s),2020,($157)
+752405451,Other Depreciation and Amortisation Expense ($000s),2019,($192)
+752405451,Other Depreciation and Amortisation Expense ($000s),2018,($158)
+752405451,Other Depreciation and Amortisation Expense ($000s),2017,-
+752405451,Other Depreciation and Amortisation Expense ($000s),2016,-
+752405451,Impairment of intangible assets ($000s),2024,$0
+752405451,Impairment of intangible assets ($000s),2023,$0
+752405451,Impairment of intangible assets ($000s),2022,$0
+752405451,Impairment of intangible assets ($000s),2021,$0
+752405451,Impairment of intangible assets ($000s),2020,$0
+752405451,Impairment of intangible assets ($000s),2019,$0
+752405451,Impairment of intangible assets ($000s),2018,$0
+752405451,Impairment of intangible assets ($000s),2017,$0
+752405451,Impairment of intangible assets ($000s),2016,$0
+752405451,"Total depreciation, amortisation and impairment ($000s)",2024,$0
+752405451,"Total depreciation, amortisation and impairment ($000s)",2023,($453)
+752405451,"Total depreciation, amortisation and impairment ($000s)",2022,($503)
+752405451,"Total depreciation, amortisation and impairment ($000s)",2021,($557)
+752405451,"Total depreciation, amortisation and impairment ($000s)",2020,($549)
+752405451,"Total depreciation, amortisation and impairment ($000s)",2019,($462)
+752405451,"Total depreciation, amortisation and impairment ($000s)",2018,($158)
+752405451,"Total depreciation, amortisation and impairment ($000s)",2017,$0
+752405451,"Total depreciation, amortisation and impairment ($000s)",2016,$0
+752405451,Salaries and wages ($000s),2024,-
+752405451,Salaries and wages ($000s),2023,"($9,144)"
+752405451,Salaries and wages ($000s),2022,"($7,698)"
+752405451,Salaries and wages ($000s),2021,"($8,164)"
+752405451,Salaries and wages ($000s),2020,"($8,947)"
+752405451,Salaries and wages ($000s),2019,"($8,447)"
+752405451,Salaries and wages ($000s),2018,"($5,088)"
+752405451,Salaries and wages ($000s),2017,"($4,534)"
+752405451,Salaries and wages ($000s),2016,"($2,402)"
+752405451,Defined contribution superannuation expense ($000s),2024,
+752405451,Defined contribution superannuation expense ($000s),2023,
+752405451,Defined contribution superannuation expense ($000s),2022,
+752405451,Defined contribution superannuation expense ($000s),2021,
+752405451,Defined contribution superannuation expense ($000s),2020,-
+752405451,Defined contribution superannuation expense ($000s),2019,-
+752405451,Defined contribution superannuation expense ($000s),2018,-
+752405451,Defined contribution superannuation expense ($000s),2017,-
+752405451,Defined contribution superannuation expense ($000s),2016,-
+752405451,Defined benefit superannuation expense ($000s),2024,
+752405451,Defined benefit superannuation expense ($000s),2023,
+752405451,Defined benefit superannuation expense ($000s),2022,
+752405451,Defined benefit superannuation expense ($000s),2021,
+752405451,Defined benefit superannuation expense ($000s),2020,-
+752405451,Defined benefit superannuation expense ($000s),2019,-
+752405451,Defined benefit superannuation expense ($000s),2018,-
+752405451,Defined benefit superannuation expense ($000s),2017,-
+752405451,Defined benefit superannuation expense ($000s),2016,-
+752405451,Share-based payments expense ($000s),2024,
+752405451,Share-based payments expense ($000s),2023,
+752405451,Share-based payments expense ($000s),2022,
+752405451,Share-based payments expense ($000s),2021,
+752405451,Share-based payments expense ($000s),2020,-
+752405451,Share-based payments expense ($000s),2019,-
+752405451,Share-based payments expense ($000s),2018,-
+752405451,Share-based payments expense ($000s),2017,-
+752405451,Share-based payments expense ($000s),2016,-
+752405451,Other employee benefits expense ($000s),2024,$0
+752405451,Other employee benefits expense ($000s),2023,$0
+752405451,Other employee benefits expense ($000s),2022,$0
+752405451,Other employee benefits expense ($000s),2021,$0
+752405451,Other employee benefits expense ($000s),2020,$0
+752405451,Other employee benefits expense ($000s),2019,$0
+752405451,Other employee benefits expense ($000s),2018,$0
+752405451,Other employee benefits expense ($000s),2017,$0
+752405451,Other employee benefits expense ($000s),2016,$0
+752405451,Total employee benefits expense ($000s),2024,-
+752405451,Total employee benefits expense ($000s),2023,"($9,144)"
+752405451,Total employee benefits expense ($000s),2022,"($7,698)"
+752405451,Total employee benefits expense ($000s),2021,"($8,164)"
+752405451,Total employee benefits expense ($000s),2020,"($8,947)"
+752405451,Total employee benefits expense ($000s),2019,"($8,447)"
+752405451,Total employee benefits expense ($000s),2018,"($5,088)"
+752405451,Total employee benefits expense ($000s),2017,"($4,534)"
+752405451,Total employee benefits expense ($000s),2016,"($2,402)"
+752405451,Number of employees,2024,-
+752405451,Number of employees,2023,-
+752405451,Number of employees,2022,-
+752405451,Number of employees,2021,-
+752405451,Number of employees,2020,44
+752405451,Number of employees,2019,45
+752405451,Number of employees,2018,-
+752405451,Number of employees,2017,-
+752405451,Number of employees,2016,-
+752405451,Lease payments included in income statement ($000s),2024,
+752405451,Lease payments included in income statement ($000s),2023,
+752405451,Lease payments included in income statement ($000s),2022,
+752405451,Lease payments included in income statement ($000s),2021,
+752405451,Lease payments included in income statement ($000s),2020,-
+752405451,Lease payments included in income statement ($000s),2019,-
+752405451,Lease payments included in income statement ($000s),2018,-
+752405451,Lease payments included in income statement ($000s),2017,-
+752405451,Lease payments included in income statement ($000s),2016,-
+752405451,Interest expense  ($000s),2024,"($3,247)"
+752405451,Interest expense  ($000s),2023,"($2,619)"
+752405451,Interest expense  ($000s),2022,"($1,349)"
+752405451,Interest expense  ($000s),2021,-
+752405451,Interest expense  ($000s),2020,-
+752405451,Interest expense  ($000s),2019,-
+752405451,Interest expense  ($000s),2018,-
+752405451,Interest expense  ($000s),2017,-
+752405451,Interest expense  ($000s),2016,-
+752405451,Finance charges payable under finance leases and hire purchase ($000s),2024,
+752405451,Finance charges payable under finance leases and hire purchase ($000s),2023,
+752405451,Finance charges payable under finance leases and hire purchase ($000s),2022,
+752405451,Finance charges payable under finance leases and hire purchase ($000s),2021,
+752405451,Finance charges payable under finance leases and hire purchase ($000s),2020,-
+752405451,Finance charges payable under finance leases and hire purchase ($000s),2019,-
+752405451,Finance charges payable under finance leases and hire purchase ($000s),2018,-
+752405451,Finance charges payable under finance leases and hire purchase ($000s),2017,-
+752405451,Finance charges payable under finance leases and hire purchase ($000s),2016,-
+752405451,Other finance costs ($000s),2024,-
+752405451,Other finance costs ($000s),2023,-
+752405451,Other finance costs ($000s),2022,-
+752405451,Other finance costs ($000s),2021,($534)
+752405451,Other finance costs ($000s),2020,($574)
+752405451,Other finance costs ($000s),2019,($792)
+752405451,Other finance costs ($000s),2018,($627)
+752405451,Other finance costs ($000s),2017,($755)
+752405451,Other finance costs ($000s),2016,"($1,106)"
+752405451,Total finance costs ($000s),2024,"($3,247)"
+752405451,Total finance costs ($000s),2023,"($2,619)"
+752405451,Total finance costs ($000s),2022,"($1,349)"
+752405451,Total finance costs ($000s),2021,($534)
+752405451,Total finance costs ($000s),2020,($574)
+752405451,Total finance costs ($000s),2019,($792)
+752405451,Total finance costs ($000s),2018,($627)
+752405451,Total finance costs ($000s),2017,($755)
+752405451,Total finance costs ($000s),2016,"($1,106)"
+752405451,Research and development costs ($000s),2024,
+752405451,Research and development costs ($000s),2023,
+752405451,Research and development costs ($000s),2022,
+752405451,Research and development costs ($000s),2021,
+752405451,Research and development costs ($000s),2020,-
+752405451,Research and development costs ($000s),2019,-
+752405451,Research and development costs ($000s),2018,-
+752405451,Research and development costs ($000s),2017,-
+752405451,Research and development costs ($000s),2016,-

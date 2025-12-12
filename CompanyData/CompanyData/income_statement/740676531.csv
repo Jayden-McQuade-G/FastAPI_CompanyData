@@ -1,0 +1,471 @@
+duns,line_item,year,value
+740676531,Revenue from continuing operations ($000s),2024,"$39,648"
+740676531,Revenue from continuing operations ($000s),2023,"$30,723"
+740676531,Revenue from continuing operations ($000s),2022,"$28,466"
+740676531,Revenue from continuing operations ($000s),2021,"$31,430"
+740676531,Revenue from continuing operations ($000s),2020,"$34,147"
+740676531,Revenue from continuing operations ($000s),2019,"$28,440"
+740676531,Revenue from continuing operations ($000s),2018,"$25,882"
+740676531,Revenue from continuing operations ($000s),2017,"$25,792"
+740676531,Revenue from continuing operations ($000s),2016,"$20,425"
+740676531,Revenue from continuing operations ($000s),2015,"$17,996"
+740676531,Growth,2024,29.05%
+740676531,Growth,2023,7.93%
+740676531,Growth,2022,(9.43%)
+740676531,Growth,2021,(7.96%)
+740676531,Growth,2020,20.07%
+740676531,Growth,2019,9.88%
+740676531,Growth,2018,0.35%
+740676531,Growth,2017,26.28%
+740676531,Growth,2016,13.50%
+740676531,Growth,2015,-
+740676531,Cost of sales ($000s),2024,"($27,012)"
+740676531,Cost of sales ($000s),2023,"($20,306)"
+740676531,Cost of sales ($000s),2022,"($18,609)"
+740676531,Cost of sales ($000s),2021,"($22,039)"
+740676531,Cost of sales ($000s),2020,"($23,763)"
+740676531,Cost of sales ($000s),2019,"($21,811)"
+740676531,Cost of sales ($000s),2018,"($21,544)"
+740676531,Cost of sales ($000s),2017,"($20,328)"
+740676531,Cost of sales ($000s),2016,"($15,268)"
+740676531,Cost of sales ($000s),2015,"($13,262)"
+740676531,Gross profit ($000s),2024,"$12,636"
+740676531,Gross profit ($000s),2023,"$10,417"
+740676531,Gross profit ($000s),2022,"$9,857"
+740676531,Gross profit ($000s),2021,"$9,391"
+740676531,Gross profit ($000s),2020,"$10,384"
+740676531,Gross profit ($000s),2019,"$6,629"
+740676531,Gross profit ($000s),2018,"$4,338"
+740676531,Gross profit ($000s),2017,"$5,465"
+740676531,Gross profit ($000s),2016,"$5,157"
+740676531,Gross profit ($000s),2015,"$4,734"
+740676531,Other income ($000s),2024,
+740676531,Other income ($000s),2023,
+740676531,Other income ($000s),2022,
+740676531,Other income ($000s),2021,
+740676531,Other income ($000s),2020,-
+740676531,Other income ($000s),2019,-
+740676531,Other income ($000s),2018,-
+740676531,Other income ($000s),2017,-
+740676531,Other income ($000s),2016,-
+740676531,Other income ($000s),2015,-
+740676531,Administrative expenses ($000s),2024,-
+740676531,Administrative expenses ($000s),2023,-
+740676531,Administrative expenses ($000s),2022,-
+740676531,Administrative expenses ($000s),2021,-
+740676531,Administrative expenses ($000s),2020,-
+740676531,Administrative expenses ($000s),2019,($957)
+740676531,Administrative expenses ($000s),2018,($899)
+740676531,Administrative expenses ($000s),2017,"($1,201)"
+740676531,Administrative expenses ($000s),2016,"($1,810)"
+740676531,Administrative expenses ($000s),2015,"($1,172)"
+740676531,Finance costs ($000s),2024,($33)
+740676531,Finance costs ($000s),2023,($45)
+740676531,Finance costs ($000s),2022,($17)
+740676531,Finance costs ($000s),2021,($29)
+740676531,Finance costs ($000s),2020,($100)
+740676531,Finance costs ($000s),2019,($191)
+740676531,Finance costs ($000s),2018,($180)
+740676531,Finance costs ($000s),2017,($80)
+740676531,Finance costs ($000s),2016,($75)
+740676531,Finance costs ($000s),2015,($53)
+740676531,Share of associate profits/(losses) ($000s),2024,
+740676531,Share of associate profits/(losses) ($000s),2023,
+740676531,Share of associate profits/(losses) ($000s),2022,
+740676531,Share of associate profits/(losses) ($000s),2021,
+740676531,Share of associate profits/(losses) ($000s),2020,-
+740676531,Share of associate profits/(losses) ($000s),2019,-
+740676531,Share of associate profits/(losses) ($000s),2018,-
+740676531,Share of associate profits/(losses) ($000s),2017,-
+740676531,Share of associate profits/(losses) ($000s),2016,-
+740676531,Share of associate profits/(losses) ($000s),2015,-
+740676531,Profit/(loss) from continuing operations before income tax ($000s),2024,"$4,135"
+740676531,Profit/(loss) from continuing operations before income tax ($000s),2023,"$3,238"
+740676531,Profit/(loss) from continuing operations before income tax ($000s),2022,"$2,811"
+740676531,Profit/(loss) from continuing operations before income tax ($000s),2021,"$2,431"
+740676531,Profit/(loss) from continuing operations before income tax ($000s),2020,"$3,338"
+740676531,Profit/(loss) from continuing operations before income tax ($000s),2019,"($1,401)"
+740676531,Profit/(loss) from continuing operations before income tax ($000s),2018,"($3,107)"
+740676531,Profit/(loss) from continuing operations before income tax ($000s),2017,"($2,103)"
+740676531,Profit/(loss) from continuing operations before income tax ($000s),2016,($645)
+740676531,Profit/(loss) from continuing operations before income tax ($000s),2015,($674)
+740676531,Income tax expense ($000s),2024,"($1,248)"
+740676531,Income tax expense ($000s),2023,"($1,009)"
+740676531,Income tax expense ($000s),2022,($864)
+740676531,Income tax expense ($000s),2021,($751)
+740676531,Income tax expense ($000s),2020,($999)
+740676531,Income tax expense ($000s),2019,$437
+740676531,Income tax expense ($000s),2018,$606
+740676531,Income tax expense ($000s),2017,$850
+740676531,Income tax expense ($000s),2016,$228
+740676531,Income tax expense ($000s),2015,$247
+740676531,Profit from continuing operations after income tax ($000s),2024,"$2,887"
+740676531,Profit from continuing operations after income tax ($000s),2023,"$2,229"
+740676531,Profit from continuing operations after income tax ($000s),2022,"$1,947"
+740676531,Profit from continuing operations after income tax ($000s),2021,"$1,680"
+740676531,Profit from continuing operations after income tax ($000s),2020,"$2,338"
+740676531,Profit from continuing operations after income tax ($000s),2019,($964)
+740676531,Profit from continuing operations after income tax ($000s),2018,"($2,501)"
+740676531,Profit from continuing operations after income tax ($000s),2017,"($1,254)"
+740676531,Profit from continuing operations after income tax ($000s),2016,($416)
+740676531,Profit from continuing operations after income tax ($000s),2015,($427)
+740676531,Profit/(loss) from discontinued operations after tax ($000s),2024,
+740676531,Profit/(loss) from discontinued operations after tax ($000s),2023,
+740676531,Profit/(loss) from discontinued operations after tax ($000s),2022,
+740676531,Profit/(loss) from discontinued operations after tax ($000s),2021,
+740676531,Profit/(loss) from discontinued operations after tax ($000s),2020,-
+740676531,Profit/(loss) from discontinued operations after tax ($000s),2019,-
+740676531,Profit/(loss) from discontinued operations after tax ($000s),2018,-
+740676531,Profit/(loss) from discontinued operations after tax ($000s),2017,-
+740676531,Profit/(loss) from discontinued operations after tax ($000s),2016,-
+740676531,Profit/(loss) from discontinued operations after tax ($000s),2015,-
+740676531,Profit/(loss) from restructuring activites after tax ($000s),2024,
+740676531,Profit/(loss) from restructuring activites after tax ($000s),2023,
+740676531,Profit/(loss) from restructuring activites after tax ($000s),2022,
+740676531,Profit/(loss) from restructuring activites after tax ($000s),2021,
+740676531,Profit/(loss) from restructuring activites after tax ($000s),2020,-
+740676531,Profit/(loss) from restructuring activites after tax ($000s),2019,-
+740676531,Profit/(loss) from restructuring activites after tax ($000s),2018,-
+740676531,Profit/(loss) from restructuring activites after tax ($000s),2017,-
+740676531,Profit/(loss) from restructuring activites after tax ($000s),2016,-
+740676531,Profit/(loss) from restructuring activites after tax ($000s),2015,-
+740676531,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2024,
+740676531,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2023,
+740676531,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2022,
+740676531,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2021,
+740676531,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2020,-
+740676531,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2019,-
+740676531,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2018,-
+740676531,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2017,-
+740676531,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2016,-
+740676531,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2015,-
+740676531,Profit/(loss) from disposals of investments after tax ($000s),2024,
+740676531,Profit/(loss) from disposals of investments after tax ($000s),2023,
+740676531,Profit/(loss) from disposals of investments after tax ($000s),2022,
+740676531,Profit/(loss) from disposals of investments after tax ($000s),2021,
+740676531,Profit/(loss) from disposals of investments after tax ($000s),2020,-
+740676531,Profit/(loss) from disposals of investments after tax ($000s),2019,-
+740676531,Profit/(loss) from disposals of investments after tax ($000s),2018,-
+740676531,Profit/(loss) from disposals of investments after tax ($000s),2017,-
+740676531,Profit/(loss) from disposals of investments after tax ($000s),2016,-
+740676531,Profit/(loss) from disposals of investments after tax ($000s),2015,-
+740676531,Net profit for the period ($000s),2024,"$2,887"
+740676531,Net profit for the period ($000s),2023,"$2,229"
+740676531,Net profit for the period ($000s),2022,"$1,947"
+740676531,Net profit for the period ($000s),2021,"$1,680"
+740676531,Net profit for the period ($000s),2020,"$2,338"
+740676531,Net profit for the period ($000s),2019,($964)
+740676531,Net profit for the period ($000s),2018,"($2,501)"
+740676531,Net profit for the period ($000s),2017,"($1,254)"
+740676531,Net profit for the period ($000s),2016,($416)
+740676531,Net profit for the period ($000s),2015,($427)
+740676531,Attributable To:,2024,
+740676531,Attributable To:,2023,
+740676531,Attributable To:,2022,
+740676531,Attributable To:,2021,
+740676531,Attributable To:,2020,-
+740676531,Attributable To:,2019,-
+740676531,Attributable To:,2018,-
+740676531,Attributable To:,2017,-
+740676531,Attributable To:,2016,-
+740676531,Attributable To:,2015,-
+740676531,Minority interest ($000s),2024,
+740676531,Minority interest ($000s),2023,
+740676531,Minority interest ($000s),2022,
+740676531,Minority interest ($000s),2021,
+740676531,Minority interest ($000s),2020,-
+740676531,Minority interest ($000s),2019,-
+740676531,Minority interest ($000s),2018,-
+740676531,Minority interest ($000s),2017,-
+740676531,Minority interest ($000s),2016,-
+740676531,Minority interest ($000s),2015,-
+740676531,Members of the parent ($000s),2024,-
+740676531,Members of the parent ($000s),2023,"$2,229"
+740676531,Members of the parent ($000s),2022,"$1,947"
+740676531,Members of the parent ($000s),2021,"$1,680"
+740676531,Members of the parent ($000s),2020,"$2,338"
+740676531,Members of the parent ($000s),2019,($964)
+740676531,Members of the parent ($000s),2018,"($2,501)"
+740676531,Members of the parent ($000s),2017,"($1,254)"
+740676531,Members of the parent ($000s),2016,($416)
+740676531,Members of the parent ($000s),2015,-
+740676531,Weighted average number of ordinary shares for basic earnings per share (000s),2024,
+740676531,Weighted average number of ordinary shares for basic earnings per share (000s),2023,
+740676531,Weighted average number of ordinary shares for basic earnings per share (000s),2022,
+740676531,Weighted average number of ordinary shares for basic earnings per share (000s),2021,
+740676531,Weighted average number of ordinary shares for basic earnings per share (000s),2020,-
+740676531,Weighted average number of ordinary shares for basic earnings per share (000s),2019,-
+740676531,Weighted average number of ordinary shares for basic earnings per share (000s),2018,-
+740676531,Weighted average number of ordinary shares for basic earnings per share (000s),2017,-
+740676531,Weighted average number of ordinary shares for basic earnings per share (000s),2016,-
+740676531,Weighted average number of ordinary shares for basic earnings per share (000s),2015,-
+740676531,Weighted average number of ordinary shares for diluted earnings per share (000s),2024,
+740676531,Weighted average number of ordinary shares for diluted earnings per share (000s),2023,
+740676531,Weighted average number of ordinary shares for diluted earnings per share (000s),2022,
+740676531,Weighted average number of ordinary shares for diluted earnings per share (000s),2021,
+740676531,Weighted average number of ordinary shares for diluted earnings per share (000s),2020,-
+740676531,Weighted average number of ordinary shares for diluted earnings per share (000s),2019,-
+740676531,Weighted average number of ordinary shares for diluted earnings per share (000s),2018,-
+740676531,Weighted average number of ordinary shares for diluted earnings per share (000s),2017,-
+740676531,Weighted average number of ordinary shares for diluted earnings per share (000s),2016,-
+740676531,Weighted average number of ordinary shares for diluted earnings per share (000s),2015,-
+740676531,Basic earnings per share from continuing operations (cents),2024,
+740676531,Basic earnings per share from continuing operations (cents),2023,
+740676531,Basic earnings per share from continuing operations (cents),2022,
+740676531,Basic earnings per share from continuing operations (cents),2021,
+740676531,Basic earnings per share from continuing operations (cents),2020,-
+740676531,Basic earnings per share from continuing operations (cents),2019,-
+740676531,Basic earnings per share from continuing operations (cents),2018,-
+740676531,Basic earnings per share from continuing operations (cents),2017,-
+740676531,Basic earnings per share from continuing operations (cents),2016,-
+740676531,Basic earnings per share from continuing operations (cents),2015,-
+740676531,Diluted earnings per share from continuing operations (cents),2024,
+740676531,Diluted earnings per share from continuing operations (cents),2023,
+740676531,Diluted earnings per share from continuing operations (cents),2022,
+740676531,Diluted earnings per share from continuing operations (cents),2021,
+740676531,Diluted earnings per share from continuing operations (cents),2020,-
+740676531,Diluted earnings per share from continuing operations (cents),2019,-
+740676531,Diluted earnings per share from continuing operations (cents),2018,-
+740676531,Diluted earnings per share from continuing operations (cents),2017,-
+740676531,Diluted earnings per share from continuing operations (cents),2016,-
+740676531,Diluted earnings per share from continuing operations (cents),2015,-
+740676531,Basic earnings per share (cents),2024,
+740676531,Basic earnings per share (cents),2023,
+740676531,Basic earnings per share (cents),2022,
+740676531,Basic earnings per share (cents),2021,
+740676531,Basic earnings per share (cents),2020,-
+740676531,Basic earnings per share (cents),2019,-
+740676531,Basic earnings per share (cents),2018,-
+740676531,Basic earnings per share (cents),2017,-
+740676531,Basic earnings per share (cents),2016,-
+740676531,Basic earnings per share (cents),2015,-
+740676531,Diluted earnings per share (cents),2024,
+740676531,Diluted earnings per share (cents),2023,
+740676531,Diluted earnings per share (cents),2022,
+740676531,Diluted earnings per share (cents),2021,
+740676531,Diluted earnings per share (cents),2020,-
+740676531,Diluted earnings per share (cents),2019,-
+740676531,Diluted earnings per share (cents),2018,-
+740676531,Diluted earnings per share (cents),2017,-
+740676531,Diluted earnings per share (cents),2016,-
+740676531,Diluted earnings per share (cents),2015,-
+740676531,EBITDA ($000s),2024,"$4,463"
+740676531,EBITDA ($000s),2023,"$3,375"
+740676531,EBITDA ($000s),2022,"$2,874"
+740676531,EBITDA ($000s),2021,"$2,520"
+740676531,EBITDA ($000s),2020,"$3,697"
+740676531,EBITDA ($000s),2019,($578)
+740676531,EBITDA ($000s),2018,"($2,523)"
+740676531,EBITDA ($000s),2017,"($1,865)"
+740676531,EBITDA ($000s),2016,($468)
+740676531,EBITDA ($000s),2015,($526)
+740676531,EBIT ($000s),2024,"$4,168"
+740676531,EBIT ($000s),2023,"$3,283"
+740676531,EBIT ($000s),2022,"$2,828"
+740676531,EBIT ($000s),2021,"$2,460"
+740676531,EBIT ($000s),2020,"$3,438"
+740676531,EBIT ($000s),2019,"($1,210)"
+740676531,EBIT ($000s),2018,"($2,927)"
+740676531,EBIT ($000s),2017,"($2,023)"
+740676531,EBIT ($000s),2016,($569)
+740676531,EBIT ($000s),2015,($621)
+740676531,Expenses included in income statement,2024,
+740676531,Expenses included in income statement,2023,
+740676531,Expenses included in income statement,2022,
+740676531,Expenses included in income statement,2021,
+740676531,Expenses included in income statement,2020,-
+740676531,Expenses included in income statement,2019,-
+740676531,Expenses included in income statement,2018,-
+740676531,Expenses included in income statement,2017,-
+740676531,Expenses included in income statement,2016,-
+740676531,Expenses included in income statement,2015,-
+740676531,Depreciation of property plant and equipment ($000s),2024,$0
+740676531,Depreciation of property plant and equipment ($000s),2023,$0
+740676531,Depreciation of property plant and equipment ($000s),2022,($46)
+740676531,Depreciation of property plant and equipment ($000s),2021,$0
+740676531,Depreciation of property plant and equipment ($000s),2020,$0
+740676531,Depreciation of property plant and equipment ($000s),2019,$0
+740676531,Depreciation of property plant and equipment ($000s),2018,$0
+740676531,Depreciation of property plant and equipment ($000s),2017,$0
+740676531,Depreciation of property plant and equipment ($000s),2016,($101)
+740676531,Depreciation of property plant and equipment ($000s),2015,$0
+740676531,Impairment of property plant and equipment ($000s),2024,$0
+740676531,Impairment of property plant and equipment ($000s),2023,$0
+740676531,Impairment of property plant and equipment ($000s),2022,$0
+740676531,Impairment of property plant and equipment ($000s),2021,$0
+740676531,Impairment of property plant and equipment ($000s),2020,$0
+740676531,Impairment of property plant and equipment ($000s),2019,$0
+740676531,Impairment of property plant and equipment ($000s),2018,$0
+740676531,Impairment of property plant and equipment ($000s),2017,($61)
+740676531,Impairment of property plant and equipment ($000s),2016,$0
+740676531,Impairment of property plant and equipment ($000s),2015,$0
+740676531,Amortisation of intangible assets ($000s),2024,$0
+740676531,Amortisation of intangible assets ($000s),2023,$0
+740676531,Amortisation of intangible assets ($000s),2022,$0
+740676531,Amortisation of intangible assets ($000s),2021,$0
+740676531,Amortisation of intangible assets ($000s),2020,$0
+740676531,Amortisation of intangible assets ($000s),2019,$0
+740676531,Amortisation of intangible assets ($000s),2018,$0
+740676531,Amortisation of intangible assets ($000s),2017,$0
+740676531,Amortisation of intangible assets ($000s),2016,$0
+740676531,Amortisation of intangible assets ($000s),2015,$0
+740676531,Other Depreciation and Amortisation Expense ($000s),2024,($295)
+740676531,Other Depreciation and Amortisation Expense ($000s),2023,($93)
+740676531,Other Depreciation and Amortisation Expense ($000s),2022,-
+740676531,Other Depreciation and Amortisation Expense ($000s),2021,($59)
+740676531,Other Depreciation and Amortisation Expense ($000s),2020,($259)
+740676531,Other Depreciation and Amortisation Expense ($000s),2019,($632)
+740676531,Other Depreciation and Amortisation Expense ($000s),2018,($404)
+740676531,Other Depreciation and Amortisation Expense ($000s),2017,($97)
+740676531,Other Depreciation and Amortisation Expense ($000s),2016,-
+740676531,Other Depreciation and Amortisation Expense ($000s),2015,($95)
+740676531,Impairment of intangible assets ($000s),2024,$0
+740676531,Impairment of intangible assets ($000s),2023,$0
+740676531,Impairment of intangible assets ($000s),2022,$0
+740676531,Impairment of intangible assets ($000s),2021,$0
+740676531,Impairment of intangible assets ($000s),2020,$0
+740676531,Impairment of intangible assets ($000s),2019,$0
+740676531,Impairment of intangible assets ($000s),2018,$0
+740676531,Impairment of intangible assets ($000s),2017,$0
+740676531,Impairment of intangible assets ($000s),2016,$0
+740676531,Impairment of intangible assets ($000s),2015,$0
+740676531,"Total depreciation, amortisation and impairment ($000s)",2024,($295)
+740676531,"Total depreciation, amortisation and impairment ($000s)",2023,($93)
+740676531,"Total depreciation, amortisation and impairment ($000s)",2022,($46)
+740676531,"Total depreciation, amortisation and impairment ($000s)",2021,($59)
+740676531,"Total depreciation, amortisation and impairment ($000s)",2020,($259)
+740676531,"Total depreciation, amortisation and impairment ($000s)",2019,($632)
+740676531,"Total depreciation, amortisation and impairment ($000s)",2018,($404)
+740676531,"Total depreciation, amortisation and impairment ($000s)",2017,($158)
+740676531,"Total depreciation, amortisation and impairment ($000s)",2016,($101)
+740676531,"Total depreciation, amortisation and impairment ($000s)",2015,($95)
+740676531,Salaries and wages ($000s),2024,
+740676531,Salaries and wages ($000s),2023,
+740676531,Salaries and wages ($000s),2022,
+740676531,Salaries and wages ($000s),2021,
+740676531,Salaries and wages ($000s),2020,-
+740676531,Salaries and wages ($000s),2019,-
+740676531,Salaries and wages ($000s),2018,-
+740676531,Salaries and wages ($000s),2017,-
+740676531,Salaries and wages ($000s),2016,-
+740676531,Salaries and wages ($000s),2015,-
+740676531,Defined contribution superannuation expense ($000s),2024,
+740676531,Defined contribution superannuation expense ($000s),2023,
+740676531,Defined contribution superannuation expense ($000s),2022,
+740676531,Defined contribution superannuation expense ($000s),2021,
+740676531,Defined contribution superannuation expense ($000s),2020,-
+740676531,Defined contribution superannuation expense ($000s),2019,-
+740676531,Defined contribution superannuation expense ($000s),2018,-
+740676531,Defined contribution superannuation expense ($000s),2017,-
+740676531,Defined contribution superannuation expense ($000s),2016,-
+740676531,Defined contribution superannuation expense ($000s),2015,-
+740676531,Defined benefit superannuation expense ($000s),2024,
+740676531,Defined benefit superannuation expense ($000s),2023,
+740676531,Defined benefit superannuation expense ($000s),2022,
+740676531,Defined benefit superannuation expense ($000s),2021,
+740676531,Defined benefit superannuation expense ($000s),2020,-
+740676531,Defined benefit superannuation expense ($000s),2019,-
+740676531,Defined benefit superannuation expense ($000s),2018,-
+740676531,Defined benefit superannuation expense ($000s),2017,-
+740676531,Defined benefit superannuation expense ($000s),2016,-
+740676531,Defined benefit superannuation expense ($000s),2015,-
+740676531,Share-based payments expense ($000s),2024,
+740676531,Share-based payments expense ($000s),2023,
+740676531,Share-based payments expense ($000s),2022,
+740676531,Share-based payments expense ($000s),2021,
+740676531,Share-based payments expense ($000s),2020,-
+740676531,Share-based payments expense ($000s),2019,-
+740676531,Share-based payments expense ($000s),2018,-
+740676531,Share-based payments expense ($000s),2017,-
+740676531,Share-based payments expense ($000s),2016,-
+740676531,Share-based payments expense ($000s),2015,-
+740676531,Other employee benefits expense ($000s),2024,"($5,656)"
+740676531,Other employee benefits expense ($000s),2023,"($5,517)"
+740676531,Other employee benefits expense ($000s),2022,"($4,783)"
+740676531,Other employee benefits expense ($000s),2021,"($4,813)"
+740676531,Other employee benefits expense ($000s),2020,"($4,875)"
+740676531,Other employee benefits expense ($000s),2019,"($5,023)"
+740676531,Other employee benefits expense ($000s),2018,"($4,727)"
+740676531,Other employee benefits expense ($000s),2017,"($4,936)"
+740676531,Other employee benefits expense ($000s),2016,"($3,710)"
+740676531,Other employee benefits expense ($000s),2015,"($3,455)"
+740676531,Total employee benefits expense ($000s),2024,"($5,656)"
+740676531,Total employee benefits expense ($000s),2023,"($5,517)"
+740676531,Total employee benefits expense ($000s),2022,"($4,783)"
+740676531,Total employee benefits expense ($000s),2021,"($4,813)"
+740676531,Total employee benefits expense ($000s),2020,"($4,875)"
+740676531,Total employee benefits expense ($000s),2019,"($5,023)"
+740676531,Total employee benefits expense ($000s),2018,"($4,727)"
+740676531,Total employee benefits expense ($000s),2017,"($4,936)"
+740676531,Total employee benefits expense ($000s),2016,"($3,710)"
+740676531,Total employee benefits expense ($000s),2015,"($3,455)"
+740676531,Number of employees,2024,
+740676531,Number of employees,2023,
+740676531,Number of employees,2022,
+740676531,Number of employees,2021,
+740676531,Number of employees,2020,-
+740676531,Number of employees,2019,-
+740676531,Number of employees,2018,-
+740676531,Number of employees,2017,-
+740676531,Number of employees,2016,-
+740676531,Number of employees,2015,-
+740676531,Lease payments included in income statement ($000s),2024,
+740676531,Lease payments included in income statement ($000s),2023,
+740676531,Lease payments included in income statement ($000s),2022,
+740676531,Lease payments included in income statement ($000s),2021,
+740676531,Lease payments included in income statement ($000s),2020,-
+740676531,Lease payments included in income statement ($000s),2019,-
+740676531,Lease payments included in income statement ($000s),2018,-
+740676531,Lease payments included in income statement ($000s),2017,-
+740676531,Lease payments included in income statement ($000s),2016,-
+740676531,Lease payments included in income statement ($000s),2015,-
+740676531,Interest expense  ($000s),2024,-
+740676531,Interest expense  ($000s),2023,($45)
+740676531,Interest expense  ($000s),2022,($17)
+740676531,Interest expense  ($000s),2021,($29)
+740676531,Interest expense  ($000s),2020,($100)
+740676531,Interest expense  ($000s),2019,-
+740676531,Interest expense  ($000s),2018,-
+740676531,Interest expense  ($000s),2017,-
+740676531,Interest expense  ($000s),2016,-
+740676531,Interest expense  ($000s),2015,-
+740676531,Finance charges payable under finance leases and hire purchase ($000s),2024,
+740676531,Finance charges payable under finance leases and hire purchase ($000s),2023,
+740676531,Finance charges payable under finance leases and hire purchase ($000s),2022,
+740676531,Finance charges payable under finance leases and hire purchase ($000s),2021,
+740676531,Finance charges payable under finance leases and hire purchase ($000s),2020,-
+740676531,Finance charges payable under finance leases and hire purchase ($000s),2019,-
+740676531,Finance charges payable under finance leases and hire purchase ($000s),2018,-
+740676531,Finance charges payable under finance leases and hire purchase ($000s),2017,-
+740676531,Finance charges payable under finance leases and hire purchase ($000s),2016,-
+740676531,Finance charges payable under finance leases and hire purchase ($000s),2015,-
+740676531,Other finance costs ($000s),2024,($33)
+740676531,Other finance costs ($000s),2023,-
+740676531,Other finance costs ($000s),2022,-
+740676531,Other finance costs ($000s),2021,-
+740676531,Other finance costs ($000s),2020,-
+740676531,Other finance costs ($000s),2019,($191)
+740676531,Other finance costs ($000s),2018,($180)
+740676531,Other finance costs ($000s),2017,($80)
+740676531,Other finance costs ($000s),2016,($75)
+740676531,Other finance costs ($000s),2015,($53)
+740676531,Total finance costs ($000s),2024,($33)
+740676531,Total finance costs ($000s),2023,($45)
+740676531,Total finance costs ($000s),2022,($17)
+740676531,Total finance costs ($000s),2021,($29)
+740676531,Total finance costs ($000s),2020,($100)
+740676531,Total finance costs ($000s),2019,($191)
+740676531,Total finance costs ($000s),2018,($180)
+740676531,Total finance costs ($000s),2017,($80)
+740676531,Total finance costs ($000s),2016,($75)
+740676531,Total finance costs ($000s),2015,($53)
+740676531,Research and development costs ($000s),2024,
+740676531,Research and development costs ($000s),2023,
+740676531,Research and development costs ($000s),2022,
+740676531,Research and development costs ($000s),2021,
+740676531,Research and development costs ($000s),2020,-
+740676531,Research and development costs ($000s),2019,-
+740676531,Research and development costs ($000s),2018,-
+740676531,Research and development costs ($000s),2017,-
+740676531,Research and development costs ($000s),2016,-
+740676531,Research and development costs ($000s),2015,-

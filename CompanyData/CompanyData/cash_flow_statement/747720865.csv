@@ -1,0 +1,271 @@
+duns,line_item,year,value
+747720865,Cash flow statement,2024,
+747720865,Cash flow statement,2023,
+747720865,Cash flow statement,2022,
+747720865,Cash flow statement,2021,
+747720865,Cash flow statement,2020,-
+747720865,Cash flow statement,2019,-
+747720865,Cash flow statement,2018,-
+747720865,Cash flow statement,2017,-
+747720865,Cash flow statement,2016,-
+747720865,Receipts from customers ($000s),2024,
+747720865,Receipts from customers ($000s),2023,
+747720865,Receipts from customers ($000s),2022,
+747720865,Receipts from customers ($000s),2021,
+747720865,Receipts from customers ($000s),2020,-
+747720865,Receipts from customers ($000s),2019,-
+747720865,Receipts from customers ($000s),2018,-
+747720865,Receipts from customers ($000s),2017,-
+747720865,Receipts from customers ($000s),2016,-
+747720865,Payments to suppliers and employees ($000s),2024,$0
+747720865,Payments to suppliers and employees ($000s),2023,-
+747720865,Payments to suppliers and employees ($000s),2022,$0
+747720865,Payments to suppliers and employees ($000s),2021,$0
+747720865,Payments to suppliers and employees ($000s),2020,$0
+747720865,Payments to suppliers and employees ($000s),2019,$0
+747720865,Payments to suppliers and employees ($000s),2018,$0
+747720865,Payments to suppliers and employees ($000s),2017,$0
+747720865,Payments to suppliers and employees ($000s),2016,$0
+747720865,Interest paid ($000s),2024,($575)
+747720865,Interest paid ($000s),2023,-
+747720865,Interest paid ($000s),2022,($173)
+747720865,Interest paid ($000s),2021,($260)
+747720865,Interest paid ($000s),2020,($341)
+747720865,Interest paid ($000s),2019,-
+747720865,Interest paid ($000s),2018,-
+747720865,Interest paid ($000s),2017,-
+747720865,Interest paid ($000s),2016,-
+747720865,Tax paid ($000s),2024,($306)
+747720865,Tax paid ($000s),2023,-
+747720865,Tax paid ($000s),2022,"($1,223)"
+747720865,Tax paid ($000s),2021,($300)
+747720865,Tax paid ($000s),2020,($498)
+747720865,Tax paid ($000s),2019,($331)
+747720865,Tax paid ($000s),2018,($219)
+747720865,Tax paid ($000s),2017,($718)
+747720865,Tax paid ($000s),2016,($821)
+747720865,Other receipts ($000s),2024,"$7,884"
+747720865,Other receipts ($000s),2023,-
+747720865,Other receipts ($000s),2022,"$15,000"
+747720865,Other receipts ($000s),2021,"$3,445"
+747720865,Other receipts ($000s),2020,"$3,526"
+747720865,Other receipts ($000s),2019,"$18,057"
+747720865,Other receipts ($000s),2018,"$10,566"
+747720865,Other receipts ($000s),2017,$490
+747720865,Other receipts ($000s),2016,"$6,392"
+747720865,Other payments ($000s),2024,"($3,620)"
+747720865,Other payments ($000s),2023,-
+747720865,Other payments ($000s),2022,"($10,802)"
+747720865,Other payments ($000s),2021,$0
+747720865,Other payments ($000s),2020,$0
+747720865,Other payments ($000s),2019,"($10,385)"
+747720865,Other payments ($000s),2018,"($11,481)"
+747720865,Other payments ($000s),2017,"($3,514)"
+747720865,Other payments ($000s),2016,"($3,734)"
+747720865,Net cashflow from/(used in) operating activities ($000s),2024,"$3,383"
+747720865,Net cashflow from/(used in) operating activities ($000s),2023,-
+747720865,Net cashflow from/(used in) operating activities ($000s),2022,"$2,802"
+747720865,Net cashflow from/(used in) operating activities ($000s),2021,"$2,885"
+747720865,Net cashflow from/(used in) operating activities ($000s),2020,"$2,687"
+747720865,Net cashflow from/(used in) operating activities ($000s),2019,"$7,341"
+747720865,Net cashflow from/(used in) operating activities ($000s),2018,"($1,134)"
+747720865,Net cashflow from/(used in) operating activities ($000s),2017,"($3,743)"
+747720865,Net cashflow from/(used in) operating activities ($000s),2016,"$1,838"
+747720865,Purchase of property plant and equipment ($000s),2024,($19)
+747720865,Purchase of property plant and equipment ($000s),2023,-
+747720865,Purchase of property plant and equipment ($000s),2022,($595)
+747720865,Purchase of property plant and equipment ($000s),2021,($50)
+747720865,Purchase of property plant and equipment ($000s),2020,($160)
+747720865,Purchase of property plant and equipment ($000s),2019,"($2,248)"
+747720865,Purchase of property plant and equipment ($000s),2018,($362)
+747720865,Purchase of property plant and equipment ($000s),2017,($65)
+747720865,Purchase of property plant and equipment ($000s),2016,($343)
+747720865,Purchase of intangibles ($000s),2024,
+747720865,Purchase of intangibles ($000s),2023,
+747720865,Purchase of intangibles ($000s),2022,
+747720865,Purchase of intangibles ($000s),2021,
+747720865,Purchase of intangibles ($000s),2020,-
+747720865,Purchase of intangibles ($000s),2019,-
+747720865,Purchase of intangibles ($000s),2018,-
+747720865,Purchase of intangibles ($000s),2017,-
+747720865,Purchase of intangibles ($000s),2016,-
+747720865,Proceeds from the sale of property plant and equipment ($000s),2024,$0
+747720865,Proceeds from the sale of property plant and equipment ($000s),2023,-
+747720865,Proceeds from the sale of property plant and equipment ($000s),2022,$0
+747720865,Proceeds from the sale of property plant and equipment ($000s),2021,$0
+747720865,Proceeds from the sale of property plant and equipment ($000s),2020,$0
+747720865,Proceeds from the sale of property plant and equipment ($000s),2019,$0
+747720865,Proceeds from the sale of property plant and equipment ($000s),2018,$0
+747720865,Proceeds from the sale of property plant and equipment ($000s),2017,$0
+747720865,Proceeds from the sale of property plant and equipment ($000s),2016,$0
+747720865,Proceeds from the disposal of investments/subsidiaries ($000s),2024,$0
+747720865,Proceeds from the disposal of investments/subsidiaries ($000s),2023,-
+747720865,Proceeds from the disposal of investments/subsidiaries ($000s),2022,$0
+747720865,Proceeds from the disposal of investments/subsidiaries ($000s),2021,$0
+747720865,Proceeds from the disposal of investments/subsidiaries ($000s),2020,$0
+747720865,Proceeds from the disposal of investments/subsidiaries ($000s),2019,$0
+747720865,Proceeds from the disposal of investments/subsidiaries ($000s),2018,$0
+747720865,Proceeds from the disposal of investments/subsidiaries ($000s),2017,$0
+747720865,Proceeds from the disposal of investments/subsidiaries ($000s),2016,$0
+747720865,Purchase of subisidiary/investment ($000s),2024,$0
+747720865,Purchase of subisidiary/investment ($000s),2023,-
+747720865,Purchase of subisidiary/investment ($000s),2022,$0
+747720865,Purchase of subisidiary/investment ($000s),2021,$0
+747720865,Purchase of subisidiary/investment ($000s),2020,$0
+747720865,Purchase of subisidiary/investment ($000s),2019,$0
+747720865,Purchase of subisidiary/investment ($000s),2018,$0
+747720865,Purchase of subisidiary/investment ($000s),2017,$0
+747720865,Purchase of subisidiary/investment ($000s),2016,$0
+747720865,Interest received ($000s),2024,
+747720865,Interest received ($000s),2023,
+747720865,Interest received ($000s),2022,
+747720865,Interest received ($000s),2021,
+747720865,Interest received ($000s),2020,-
+747720865,Interest received ($000s),2019,-
+747720865,Interest received ($000s),2018,-
+747720865,Interest received ($000s),2017,-
+747720865,Interest received ($000s),2016,-
+747720865,Dividends received ($000s),2024,
+747720865,Dividends received ($000s),2023,
+747720865,Dividends received ($000s),2022,
+747720865,Dividends received ($000s),2021,
+747720865,Dividends received ($000s),2020,-
+747720865,Dividends received ($000s),2019,-
+747720865,Dividends received ($000s),2018,-
+747720865,Dividends received ($000s),2017,-
+747720865,Dividends received ($000s),2016,-
+747720865,Other investing inflows/(outflows) ($000s),2024,$0
+747720865,Other investing inflows/(outflows) ($000s),2023,-
+747720865,Other investing inflows/(outflows) ($000s),2022,$0
+747720865,Other investing inflows/(outflows) ($000s),2021,$0
+747720865,Other investing inflows/(outflows) ($000s),2020,$0
+747720865,Other investing inflows/(outflows) ($000s),2019,$0
+747720865,Other investing inflows/(outflows) ($000s),2018,$0
+747720865,Other investing inflows/(outflows) ($000s),2017,$0
+747720865,Other investing inflows/(outflows) ($000s),2016,$0
+747720865,Net cashflow from/(used in) investing activities ($000s),2024,($19)
+747720865,Net cashflow from/(used in) investing activities ($000s),2023,-
+747720865,Net cashflow from/(used in) investing activities ($000s),2022,($595)
+747720865,Net cashflow from/(used in) investing activities ($000s),2021,($50)
+747720865,Net cashflow from/(used in) investing activities ($000s),2020,($160)
+747720865,Net cashflow from/(used in) investing activities ($000s),2019,"($2,248)"
+747720865,Net cashflow from/(used in) investing activities ($000s),2018,($362)
+747720865,Net cashflow from/(used in) investing activities ($000s),2017,($65)
+747720865,Net cashflow from/(used in) investing activities ($000s),2016,($343)
+747720865,Proceeds from the issue of shares ($000s),2024,$0
+747720865,Proceeds from the issue of shares ($000s),2023,-
+747720865,Proceeds from the issue of shares ($000s),2022,$0
+747720865,Proceeds from the issue of shares ($000s),2021,$0
+747720865,Proceeds from the issue of shares ($000s),2020,$0
+747720865,Proceeds from the issue of shares ($000s),2019,$0
+747720865,Proceeds from the issue of shares ($000s),2018,$0
+747720865,Proceeds from the issue of shares ($000s),2017,$0
+747720865,Proceeds from the issue of shares ($000s),2016,$0
+747720865,Proceeds from borrowings ($000s),2024,$0
+747720865,Proceeds from borrowings ($000s),2023,-
+747720865,Proceeds from borrowings ($000s),2022,"$1,305"
+747720865,Proceeds from borrowings ($000s),2021,$0
+747720865,Proceeds from borrowings ($000s),2020,$0
+747720865,Proceeds from borrowings ($000s),2019,$0
+747720865,Proceeds from borrowings ($000s),2018,$0
+747720865,Proceeds from borrowings ($000s),2017,"$1,454"
+747720865,Proceeds from borrowings ($000s),2016,$0
+747720865,Repayment of borrowings  ($000s),2024,-
+747720865,Repayment of borrowings  ($000s),2023,-
+747720865,Repayment of borrowings  ($000s),2022,-
+747720865,Repayment of borrowings  ($000s),2021,($775)
+747720865,Repayment of borrowings  ($000s),2020,-
+747720865,Repayment of borrowings  ($000s),2019,"($2,642)"
+747720865,Repayment of borrowings  ($000s),2018,-
+747720865,Repayment of borrowings  ($000s),2017,-
+747720865,Repayment of borrowings  ($000s),2016,-
+747720865,Repayment of finance lease liabilities ($000s),2024,"($1,000)"
+747720865,Repayment of finance lease liabilities ($000s),2023,-
+747720865,Repayment of finance lease liabilities ($000s),2022,"($3,512)"
+747720865,Repayment of finance lease liabilities ($000s),2021,"($2,958)"
+747720865,Repayment of finance lease liabilities ($000s),2020,"($2,994)"
+747720865,Repayment of finance lease liabilities ($000s),2019,"($2,450)"
+747720865,Repayment of finance lease liabilities ($000s),2018,-
+747720865,Repayment of finance lease liabilities ($000s),2017,-
+747720865,Repayment of finance lease liabilities ($000s),2016,-
+747720865,Interest Paid ($000s),2024,
+747720865,Interest Paid ($000s),2023,
+747720865,Interest Paid ($000s),2022,
+747720865,Interest Paid ($000s),2021,
+747720865,Interest Paid ($000s),2020,-
+747720865,Interest Paid ($000s),2019,-
+747720865,Interest Paid ($000s),2018,-
+747720865,Interest Paid ($000s),2017,-
+747720865,Interest Paid ($000s),2016,-
+747720865,Dividends paid ($000s),2024,
+747720865,Dividends paid ($000s),2023,
+747720865,Dividends paid ($000s),2022,
+747720865,Dividends paid ($000s),2021,
+747720865,Dividends paid ($000s),2020,-
+747720865,Dividends paid ($000s),2019,-
+747720865,Dividends paid ($000s),2018,-
+747720865,Dividends paid ($000s),2017,-
+747720865,Dividends paid ($000s),2016,-
+747720865,Other inflows/(outflows) from financing activities ($000s),2024,"($2,362)"
+747720865,Other inflows/(outflows) from financing activities ($000s),2023,-
+747720865,Other inflows/(outflows) from financing activities ($000s),2022,$0
+747720865,Other inflows/(outflows) from financing activities ($000s),2021,$898
+747720865,Other inflows/(outflows) from financing activities ($000s),2020,$467
+747720865,Other inflows/(outflows) from financing activities ($000s),2019,$0
+747720865,Other inflows/(outflows) from financing activities ($000s),2018,"$1,496"
+747720865,Other inflows/(outflows) from financing activities ($000s),2017,$0
+747720865,Other inflows/(outflows) from financing activities ($000s),2016,$0
+747720865,Net cash flows from/(used in) financing activities ($000s),2024,"($3,362)"
+747720865,Net cash flows from/(used in) financing activities ($000s),2023,-
+747720865,Net cash flows from/(used in) financing activities ($000s),2022,"($2,207)"
+747720865,Net cash flows from/(used in) financing activities ($000s),2021,"($2,835)"
+747720865,Net cash flows from/(used in) financing activities ($000s),2020,"($2,527)"
+747720865,Net cash flows from/(used in) financing activities ($000s),2019,"($5,093)"
+747720865,Net cash flows from/(used in) financing activities ($000s),2018,"$1,496"
+747720865,Net cash flows from/(used in) financing activities ($000s),2017,"$1,454"
+747720865,Net cash flows from/(used in) financing activities ($000s),2016,-
+747720865,Net increase/(decrease) in cash and cash equivalents ($000s),2024,$2
+747720865,Net increase/(decrease) in cash and cash equivalents ($000s),2023,-
+747720865,Net increase/(decrease) in cash and cash equivalents ($000s),2022,-
+747720865,Net increase/(decrease) in cash and cash equivalents ($000s),2021,-
+747720865,Net increase/(decrease) in cash and cash equivalents ($000s),2020,-
+747720865,Net increase/(decrease) in cash and cash equivalents ($000s),2019,-
+747720865,Net increase/(decrease) in cash and cash equivalents ($000s),2018,-
+747720865,Net increase/(decrease) in cash and cash equivalents ($000s),2017,"($2,354)"
+747720865,Net increase/(decrease) in cash and cash equivalents ($000s),2016,"$1,494"
+747720865,Other increase/(decrease) in cash and cash equivalents ($000s),2024,
+747720865,Other increase/(decrease) in cash and cash equivalents ($000s),2023,
+747720865,Other increase/(decrease) in cash and cash equivalents ($000s),2022,
+747720865,Other increase/(decrease) in cash and cash equivalents ($000s),2021,
+747720865,Other increase/(decrease) in cash and cash equivalents ($000s),2020,-
+747720865,Other increase/(decrease) in cash and cash equivalents ($000s),2019,-
+747720865,Other increase/(decrease) in cash and cash equivalents ($000s),2018,-
+747720865,Other increase/(decrease) in cash and cash equivalents ($000s),2017,-
+747720865,Other increase/(decrease) in cash and cash equivalents ($000s),2016,-
+747720865,Net foreign exchange differences ($000s),2024,
+747720865,Net foreign exchange differences ($000s),2023,
+747720865,Net foreign exchange differences ($000s),2022,
+747720865,Net foreign exchange differences ($000s),2021,
+747720865,Net foreign exchange differences ($000s),2020,-
+747720865,Net foreign exchange differences ($000s),2019,-
+747720865,Net foreign exchange differences ($000s),2018,-
+747720865,Net foreign exchange differences ($000s),2017,-
+747720865,Net foreign exchange differences ($000s),2016,-
+747720865,Cash and cash equivalents at the beginning of the period ($000s),2024,-
+747720865,Cash and cash equivalents at the beginning of the period ($000s),2023,-
+747720865,Cash and cash equivalents at the beginning of the period ($000s),2022,-
+747720865,Cash and cash equivalents at the beginning of the period ($000s),2021,-
+747720865,Cash and cash equivalents at the beginning of the period ($000s),2020,-
+747720865,Cash and cash equivalents at the beginning of the period ($000s),2019,-
+747720865,Cash and cash equivalents at the beginning of the period ($000s),2018,-
+747720865,Cash and cash equivalents at the beginning of the period ($000s),2017,"$2,354"
+747720865,Cash and cash equivalents at the beginning of the period ($000s),2016,$859
+747720865,Cash and cash equivalents at the end of the period ($000s),2024,$2
+747720865,Cash and cash equivalents at the end of the period ($000s),2023,-
+747720865,Cash and cash equivalents at the end of the period ($000s),2022,-
+747720865,Cash and cash equivalents at the end of the period ($000s),2021,-
+747720865,Cash and cash equivalents at the end of the period ($000s),2020,-
+747720865,Cash and cash equivalents at the end of the period ($000s),2019,-
+747720865,Cash and cash equivalents at the end of the period ($000s),2018,-
+747720865,Cash and cash equivalents at the end of the period ($000s),2017,-
+747720865,Cash and cash equivalents at the end of the period ($000s),2016,"$2,354"

@@ -1,0 +1,601 @@
+duns,line_item,year,value
+890526015,Current Assets,2024,
+890526015,Current Assets,2023,
+890526015,Current Assets,2022,
+890526015,Current Assets,2021,
+890526015,Current Assets,2020,-
+890526015,Current Assets,2019,-
+890526015,Current Assets,2018,-
+890526015,Current Assets,2017,-
+890526015,Current Assets,2016,-
+890526015,Current Assets,2015,-
+890526015,Cash and cash equivalents ($000s),2024,"$6,010"
+890526015,Cash and cash equivalents ($000s),2023,"$1,794"
+890526015,Cash and cash equivalents ($000s),2022,"$2,662"
+890526015,Cash and cash equivalents ($000s),2021,"$1,290"
+890526015,Cash and cash equivalents ($000s),2020,"$8,115"
+890526015,Cash and cash equivalents ($000s),2019,"$2,039"
+890526015,Cash and cash equivalents ($000s),2018,$349
+890526015,Cash and cash equivalents ($000s),2017,$383
+890526015,Cash and cash equivalents ($000s),2016,$759
+890526015,Cash and cash equivalents ($000s),2015,$119
+890526015,Growth,2024,235.01%
+890526015,Growth,2023,(32.61%)
+890526015,Growth,2022,106.36%
+890526015,Growth,2021,(84.10%)
+890526015,Growth,2020,297.99%
+890526015,Growth,2019,484.24%
+890526015,Growth,2018,(8.88%)
+890526015,Growth,2017,(49.54%)
+890526015,Growth,2016,537.82%
+890526015,Growth,2015,-
+890526015,Trade receivables ($000s),2024,"$3,605"
+890526015,Trade receivables ($000s),2023,"$2,933"
+890526015,Trade receivables ($000s),2022,"$2,780"
+890526015,Trade receivables ($000s),2021,"$3,007"
+890526015,Trade receivables ($000s),2020,"$7,757"
+890526015,Trade receivables ($000s),2019,"$6,806"
+890526015,Trade receivables ($000s),2018,"$3,493"
+890526015,Trade receivables ($000s),2017,"$4,192"
+890526015,Trade receivables ($000s),2016,"$4,131"
+890526015,Trade receivables ($000s),2015,"$4,252"
+890526015,Other receivables ($000s),2024,-
+890526015,Other receivables ($000s),2023,-
+890526015,Other receivables ($000s),2022,-
+890526015,Other receivables ($000s),2021,-
+890526015,Other receivables ($000s),2020,$122
+890526015,Other receivables ($000s),2019,"$2,252"
+890526015,Other receivables ($000s),2018,"$5,469"
+890526015,Other receivables ($000s),2017,"$4,594"
+890526015,Other receivables ($000s),2016,"$4,301"
+890526015,Other receivables ($000s),2015,$103
+890526015,Raw materials ($000s),2024,$0
+890526015,Raw materials ($000s),2023,$0
+890526015,Raw materials ($000s),2022,$0
+890526015,Raw materials ($000s),2021,$0
+890526015,Raw materials ($000s),2020,"$1,236"
+890526015,Raw materials ($000s),2019,"$1,391"
+890526015,Raw materials ($000s),2018,"$1,522"
+890526015,Raw materials ($000s),2017,"$1,584"
+890526015,Raw materials ($000s),2016,"$1,440"
+890526015,Raw materials ($000s),2015,"$1,839"
+890526015,Work-in-progress ($000s),2024,-
+890526015,Work-in-progress ($000s),2023,-
+890526015,Work-in-progress ($000s),2022,-
+890526015,Work-in-progress ($000s),2021,$187
+890526015,Work-in-progress ($000s),2020,$333
+890526015,Work-in-progress ($000s),2019,$414
+890526015,Work-in-progress ($000s),2018,$273
+890526015,Work-in-progress ($000s),2017,$216
+890526015,Work-in-progress ($000s),2016,$122
+890526015,Work-in-progress ($000s),2015,$297
+890526015,Finished goods ($000s),2024,"$5,487"
+890526015,Finished goods ($000s),2023,"$8,714"
+890526015,Finished goods ($000s),2022,"$4,874"
+890526015,Finished goods ($000s),2021,"$6,687"
+890526015,Finished goods ($000s),2020,"$7,556"
+890526015,Finished goods ($000s),2019,"$12,188"
+890526015,Finished goods ($000s),2018,"$4,207"
+890526015,Finished goods ($000s),2017,"$5,150"
+890526015,Finished goods ($000s),2016,"$4,746"
+890526015,Finished goods ($000s),2015,"$6,589"
+890526015,Total inventories ($000s),2024,"$5,487"
+890526015,Total inventories ($000s),2023,"$8,714"
+890526015,Total inventories ($000s),2022,"$4,874"
+890526015,Total inventories ($000s),2021,"$6,874"
+890526015,Total inventories ($000s),2020,"$9,125"
+890526015,Total inventories ($000s),2019,"$13,992"
+890526015,Total inventories ($000s),2018,"$6,003"
+890526015,Total inventories ($000s),2017,"$6,950"
+890526015,Total inventories ($000s),2016,"$6,308"
+890526015,Total inventories ($000s),2015,"$8,725"
+890526015,Prepayments ($000s),2024,$183
+890526015,Prepayments ($000s),2023,$209
+890526015,Prepayments ($000s),2022,$409
+890526015,Prepayments ($000s),2021,$101
+890526015,Prepayments ($000s),2020,$237
+890526015,Prepayments ($000s),2019,$293
+890526015,Prepayments ($000s),2018,$166
+890526015,Prepayments ($000s),2017,$146
+890526015,Prepayments ($000s),2016,$114
+890526015,Prepayments ($000s),2015,$199
+890526015,Derivative financial instruments ($000s),2024,
+890526015,Derivative financial instruments ($000s),2023,
+890526015,Derivative financial instruments ($000s),2022,
+890526015,Derivative financial instruments ($000s),2021,
+890526015,Derivative financial instruments ($000s),2020,-
+890526015,Derivative financial instruments ($000s),2019,-
+890526015,Derivative financial instruments ($000s),2018,-
+890526015,Derivative financial instruments ($000s),2017,-
+890526015,Derivative financial instruments ($000s),2016,-
+890526015,Derivative financial instruments ($000s),2015,-
+890526015,Other current assets ($000s),2024,"$1,325"
+890526015,Other current assets ($000s),2023,"$5,901"
+890526015,Other current assets ($000s),2022,"$1,636"
+890526015,Other current assets ($000s),2021,"$1,485"
+890526015,Other current assets ($000s),2020,"$2,351"
+890526015,Other current assets ($000s),2019,$539
+890526015,Other current assets ($000s),2018,$63
+890526015,Other current assets ($000s),2017,$490
+890526015,Other current assets ($000s),2016,$714
+890526015,Other current assets ($000s),2015,"$3,571"
+890526015,Total current assets for continuing operations ($000s),2024,"$16,609"
+890526015,Total current assets for continuing operations ($000s),2023,"$19,551"
+890526015,Total current assets for continuing operations ($000s),2022,"$12,360"
+890526015,Total current assets for continuing operations ($000s),2021,"$12,757"
+890526015,Total current assets for continuing operations ($000s),2020,"$27,706"
+890526015,Total current assets for continuing operations ($000s),2019,"$25,920"
+890526015,Total current assets for continuing operations ($000s),2018,"$15,543"
+890526015,Total current assets for continuing operations ($000s),2017,"$16,755"
+890526015,Total current assets for continuing operations ($000s),2016,"$16,328"
+890526015,Total current assets for continuing operations ($000s),2015,"$16,968"
+890526015,Assets held for sale ($000s),2024,-
+890526015,Assets held for sale ($000s),2023,-
+890526015,Assets held for sale ($000s),2022,"$6,238"
+890526015,Assets held for sale ($000s),2021,"$4,392"
+890526015,Assets held for sale ($000s),2020,"$4,450"
+890526015,Assets held for sale ($000s),2019,-
+890526015,Assets held for sale ($000s),2018,-
+890526015,Assets held for sale ($000s),2017,-
+890526015,Assets held for sale ($000s),2016,-
+890526015,Assets held for sale ($000s),2015,-
+890526015,Total current assets ($000s),2024,"$16,609"
+890526015,Total current assets ($000s),2023,"$19,551"
+890526015,Total current assets ($000s),2022,"$18,598"
+890526015,Total current assets ($000s),2021,"$17,149"
+890526015,Total current assets ($000s),2020,"$32,156"
+890526015,Total current assets ($000s),2019,"$25,920"
+890526015,Total current assets ($000s),2018,"$15,543"
+890526015,Total current assets ($000s),2017,"$16,755"
+890526015,Total current assets ($000s),2016,"$16,328"
+890526015,Total current assets ($000s),2015,"$16,968"
+890526015,Non-current assets,2024,
+890526015,Non-current assets,2023,
+890526015,Non-current assets,2022,
+890526015,Non-current assets,2021,
+890526015,Non-current assets,2020,-
+890526015,Non-current assets,2019,-
+890526015,Non-current assets,2018,-
+890526015,Non-current assets,2017,-
+890526015,Non-current assets,2016,-
+890526015,Non-current assets,2015,-
+890526015,Receivables ($000s),2024,-
+890526015,Receivables ($000s),2023,-
+890526015,Receivables ($000s),2022,-
+890526015,Receivables ($000s),2021,-
+890526015,Receivables ($000s),2020,-
+890526015,Receivables ($000s),2019,-
+890526015,Receivables ($000s),2018,$12
+890526015,Receivables ($000s),2017,$12
+890526015,Receivables ($000s),2016,$22
+890526015,Receivables ($000s),2015,$22
+890526015,Investments in associates ($000s),2024,$0
+890526015,Investments in associates ($000s),2023,$0
+890526015,Investments in associates ($000s),2022,$0
+890526015,Investments in associates ($000s),2021,$0
+890526015,Investments in associates ($000s),2020,$0
+890526015,Investments in associates ($000s),2019,$0
+890526015,Investments in associates ($000s),2018,$0
+890526015,Investments in associates ($000s),2017,$0
+890526015,Investments in associates ($000s),2016,$0
+890526015,Investments in associates ($000s),2015,$0
+890526015,Investments in subsidiaries ($000s),2024,-
+890526015,Investments in subsidiaries ($000s),2023,-
+890526015,Investments in subsidiaries ($000s),2022,-
+890526015,Investments in subsidiaries ($000s),2021,-
+890526015,Investments in subsidiaries ($000s),2020,-
+890526015,Investments in subsidiaries ($000s),2019,-
+890526015,Investments in subsidiaries ($000s),2018,-
+890526015,Investments in subsidiaries ($000s),2017,-
+890526015,Investments in subsidiaries ($000s),2016,-
+890526015,Investments in subsidiaries ($000s),2015,$0
+890526015,Available for sale financial assets ($000s),2024,$0
+890526015,Available for sale financial assets ($000s),2023,$0
+890526015,Available for sale financial assets ($000s),2022,$0
+890526015,Available for sale financial assets ($000s),2021,$0
+890526015,Available for sale financial assets ($000s),2020,$0
+890526015,Available for sale financial assets ($000s),2019,$0
+890526015,Available for sale financial assets ($000s),2018,$0
+890526015,Available for sale financial assets ($000s),2017,$0
+890526015,Available for sale financial assets ($000s),2016,$0
+890526015,Available for sale financial assets ($000s),2015,$0
+890526015,"Property, plant and equipment ($000s)",2024,$7
+890526015,"Property, plant and equipment ($000s)",2023,$586
+890526015,"Property, plant and equipment ($000s)",2022,$16
+890526015,"Property, plant and equipment ($000s)",2021,$179
+890526015,"Property, plant and equipment ($000s)",2020,"$1,495"
+890526015,"Property, plant and equipment ($000s)",2019,"$8,470"
+890526015,"Property, plant and equipment ($000s)",2018,"$6,157"
+890526015,"Property, plant and equipment ($000s)",2017,"$4,838"
+890526015,"Property, plant and equipment ($000s)",2016,"$4,685"
+890526015,"Property, plant and equipment ($000s)",2015,"$4,373"
+890526015,Intangible assets and goodwill ($000s),2024,$161
+890526015,Intangible assets and goodwill ($000s),2023,$161
+890526015,Intangible assets and goodwill ($000s),2022,$161
+890526015,Intangible assets and goodwill ($000s),2021,$161
+890526015,Intangible assets and goodwill ($000s),2020,$161
+890526015,Intangible assets and goodwill ($000s),2019,$161
+890526015,Intangible assets and goodwill ($000s),2018,$0
+890526015,Intangible assets and goodwill ($000s),2017,$0
+890526015,Intangible assets and goodwill ($000s),2016,$0
+890526015,Intangible assets and goodwill ($000s),2015,$0
+890526015,Deferred tax assets ($000s),2024,"$5,583"
+890526015,Deferred tax assets ($000s),2023,-
+890526015,Deferred tax assets ($000s),2022,-
+890526015,Deferred tax assets ($000s),2021,-
+890526015,Deferred tax assets ($000s),2020,-
+890526015,Deferred tax assets ($000s),2019,"$1,822"
+890526015,Deferred tax assets ($000s),2018,$406
+890526015,Deferred tax assets ($000s),2017,$273
+890526015,Deferred tax assets ($000s),2016,$302
+890526015,Deferred tax assets ($000s),2015,$225
+890526015,Other non-current assets ($000s),2024,$746
+890526015,Other non-current assets ($000s),2023,$272
+890526015,Other non-current assets ($000s),2022,$927
+890526015,Other non-current assets ($000s),2021,"$1,113"
+890526015,Other non-current assets ($000s),2020,"$8,565"
+890526015,Other non-current assets ($000s),2019,"$1,273"
+890526015,Other non-current assets ($000s),2018,$0
+890526015,Other non-current assets ($000s),2017,$476
+890526015,Other non-current assets ($000s),2016,$428
+890526015,Other non-current assets ($000s),2015,$0
+890526015,Total non-current assets ($000s),2024,"$6,497"
+890526015,Total non-current assets ($000s),2023,"$1,019"
+890526015,Total non-current assets ($000s),2022,"$1,104"
+890526015,Total non-current assets ($000s),2021,"$1,453"
+890526015,Total non-current assets ($000s),2020,"$10,220"
+890526015,Total non-current assets ($000s),2019,"$11,725"
+890526015,Total non-current assets ($000s),2018,"$6,575"
+890526015,Total non-current assets ($000s),2017,"$5,598"
+890526015,Total non-current assets ($000s),2016,"$5,437"
+890526015,Total non-current assets ($000s),2015,"$4,619"
+890526015,TOTAL ASSETS ($000s),2024,"$23,106"
+890526015,TOTAL ASSETS ($000s),2023,"$20,569"
+890526015,TOTAL ASSETS ($000s),2022,"$19,702"
+890526015,TOTAL ASSETS ($000s),2021,"$18,602"
+890526015,TOTAL ASSETS ($000s),2020,"$42,377"
+890526015,TOTAL ASSETS ($000s),2019,"$37,646"
+890526015,TOTAL ASSETS ($000s),2018,"$22,118"
+890526015,TOTAL ASSETS ($000s),2017,"$22,353"
+890526015,TOTAL ASSETS ($000s),2016,"$21,764"
+890526015,TOTAL ASSETS ($000s),2015,"$21,588"
+890526015,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2024,"$20,569"
+890526015,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2023,"$19,702"
+890526015,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2022,"$18,602"
+890526015,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2021,"$42,377"
+890526015,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2020,"$37,646"
+890526015,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2019,"$22,118"
+890526015,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2018,"$22,353"
+890526015,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2017,"$21,764"
+890526015,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2016,"$21,588"
+890526015,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2015,"$20,061"
+890526015,Current liabilities,2024,
+890526015,Current liabilities,2023,
+890526015,Current liabilities,2022,
+890526015,Current liabilities,2021,
+890526015,Current liabilities,2020,-
+890526015,Current liabilities,2019,-
+890526015,Current liabilities,2018,-
+890526015,Current liabilities,2017,-
+890526015,Current liabilities,2016,-
+890526015,Current liabilities,2015,-
+890526015,Trade payables ($000s),2024,"$1,558"
+890526015,Trade payables ($000s),2023,"$1,542"
+890526015,Trade payables ($000s),2022,"$1,200"
+890526015,Trade payables ($000s),2021,"$1,286"
+890526015,Trade payables ($000s),2020,"$2,092"
+890526015,Trade payables ($000s),2019,"$2,278"
+890526015,Trade payables ($000s),2018,"$2,430"
+890526015,Trade payables ($000s),2017,"$2,138"
+890526015,Trade payables ($000s),2016,"$2,825"
+890526015,Trade payables ($000s),2015,"$2,703"
+890526015,Other payables ($000s),2024,"$1,301"
+890526015,Other payables ($000s),2023,-
+890526015,Other payables ($000s),2022,"$1,742"
+890526015,Other payables ($000s),2021,"$2,668"
+890526015,Other payables ($000s),2020,"$2,858"
+890526015,Other payables ($000s),2019,"$2,497"
+890526015,Other payables ($000s),2018,$638
+890526015,Other payables ($000s),2017,$666
+890526015,Other payables ($000s),2016,$597
+890526015,Other payables ($000s),2015,$306
+890526015,Overdrafts ($000s),2024,
+890526015,Overdrafts ($000s),2023,
+890526015,Overdrafts ($000s),2022,
+890526015,Overdrafts ($000s),2021,
+890526015,Overdrafts ($000s),2020,-
+890526015,Overdrafts ($000s),2019,-
+890526015,Overdrafts ($000s),2018,-
+890526015,Overdrafts ($000s),2017,-
+890526015,Overdrafts ($000s),2016,-
+890526015,Overdrafts ($000s),2015,-
+890526015,Loans - secured ($000s),2024,
+890526015,Loans - secured ($000s),2023,
+890526015,Loans - secured ($000s),2022,
+890526015,Loans - secured ($000s),2021,
+890526015,Loans - secured ($000s),2020,-
+890526015,Loans - secured ($000s),2019,-
+890526015,Loans - secured ($000s),2018,-
+890526015,Loans - secured ($000s),2017,-
+890526015,Loans - secured ($000s),2016,-
+890526015,Loans - secured ($000s),2015,-
+890526015,Loans - unsecured ($000s),2024,
+890526015,Loans - unsecured ($000s),2023,
+890526015,Loans - unsecured ($000s),2022,
+890526015,Loans - unsecured ($000s),2021,
+890526015,Loans - unsecured ($000s),2020,-
+890526015,Loans - unsecured ($000s),2019,-
+890526015,Loans - unsecured ($000s),2018,-
+890526015,Loans - unsecured ($000s),2017,-
+890526015,Loans - unsecured ($000s),2016,-
+890526015,Loans - unsecured ($000s),2015,-
+890526015,Obligations under finance leases and hire purchase ($000s),2024,$288
+890526015,Obligations under finance leases and hire purchase ($000s),2023,$265
+890526015,Obligations under finance leases and hire purchase ($000s),2022,$235
+890526015,Obligations under finance leases and hire purchase ($000s),2021,$674
+890526015,Obligations under finance leases and hire purchase ($000s),2020,"$1,684"
+890526015,Obligations under finance leases and hire purchase ($000s),2019,-
+890526015,Obligations under finance leases and hire purchase ($000s),2018,-
+890526015,Obligations under finance leases and hire purchase ($000s),2017,-
+890526015,Obligations under finance leases and hire purchase ($000s),2016,-
+890526015,Obligations under finance leases and hire purchase ($000s),2015,-
+890526015,Loans from related parties ($000s),2024,-
+890526015,Loans from related parties ($000s),2023,-
+890526015,Loans from related parties ($000s),2022,$571
+890526015,Loans from related parties ($000s),2021,"$5,457"
+890526015,Loans from related parties ($000s),2020,"$11,871"
+890526015,Loans from related parties ($000s),2019,"$31,114"
+890526015,Loans from related parties ($000s),2018,"$7,901"
+890526015,Loans from related parties ($000s),2017,"$6,648"
+890526015,Loans from related parties ($000s),2016,"$4,368"
+890526015,Loans from related parties ($000s),2015,"$3,339"
+890526015,Total current interest-bearing loans and borrowings ($000s),2024,$288
+890526015,Total current interest-bearing loans and borrowings ($000s),2023,$265
+890526015,Total current interest-bearing loans and borrowings ($000s),2022,$806
+890526015,Total current interest-bearing loans and borrowings ($000s),2021,"$6,131"
+890526015,Total current interest-bearing loans and borrowings ($000s),2020,"$13,555"
+890526015,Total current interest-bearing loans and borrowings ($000s),2019,"$31,114"
+890526015,Total current interest-bearing loans and borrowings ($000s),2018,"$7,901"
+890526015,Total current interest-bearing loans and borrowings ($000s),2017,"$6,648"
+890526015,Total current interest-bearing loans and borrowings ($000s),2016,"$4,368"
+890526015,Total current interest-bearing loans and borrowings ($000s),2015,"$3,339"
+890526015,Income tax payable/(refundable) ($000s),2024,$154
+890526015,Income tax payable/(refundable) ($000s),2023,-
+890526015,Income tax payable/(refundable) ($000s),2022,-
+890526015,Income tax payable/(refundable) ($000s),2021,-
+890526015,Income tax payable/(refundable) ($000s),2020,-
+890526015,Income tax payable/(refundable) ($000s),2019,-
+890526015,Income tax payable/(refundable) ($000s),2018,-
+890526015,Income tax payable/(refundable) ($000s),2017,-
+890526015,Income tax payable/(refundable) ($000s),2016,-
+890526015,Income tax payable/(refundable) ($000s),2015,$22
+890526015,Provisions ($000s),2024,$416
+890526015,Provisions ($000s),2023,$470
+890526015,Provisions ($000s),2022,"$1,054"
+890526015,Provisions ($000s),2021,"$1,265"
+890526015,Provisions ($000s),2020,"$5,541"
+890526015,Provisions ($000s),2019,$888
+890526015,Provisions ($000s),2018,$657
+890526015,Provisions ($000s),2017,$604
+890526015,Provisions ($000s),2016,$673
+890526015,Provisions ($000s),2015,$510
+890526015,Other current liabilities ($000s),2024,$0
+890526015,Other current liabilities ($000s),2023,"$4,614"
+890526015,Other current liabilities ($000s),2022,$0
+890526015,Other current liabilities ($000s),2021,$0
+890526015,Other current liabilities ($000s),2020,$0
+890526015,Other current liabilities ($000s),2019,$130
+890526015,Other current liabilities ($000s),2018,$0
+890526015,Other current liabilities ($000s),2017,$0
+890526015,Other current liabilities ($000s),2016,$0
+890526015,Other current liabilities ($000s),2015,$0
+890526015,Total current liabilities for continuing operations ($000s),2024,"$3,715"
+890526015,Total current liabilities for continuing operations ($000s),2023,"$6,891"
+890526015,Total current liabilities for continuing operations ($000s),2022,"$4,803"
+890526015,Total current liabilities for continuing operations ($000s),2021,"$11,350"
+890526015,Total current liabilities for continuing operations ($000s),2020,"$24,047"
+890526015,Total current liabilities for continuing operations ($000s),2019,"$36,908"
+890526015,Total current liabilities for continuing operations ($000s),2018,"$11,626"
+890526015,Total current liabilities for continuing operations ($000s),2017,"$10,055"
+890526015,Total current liabilities for continuing operations ($000s),2016,"$8,463"
+890526015,Total current liabilities for continuing operations ($000s),2015,"$6,878"
+890526015,Liabilities directly associated with assets held for sale ($000s),2024,
+890526015,Liabilities directly associated with assets held for sale ($000s),2023,
+890526015,Liabilities directly associated with assets held for sale ($000s),2022,
+890526015,Liabilities directly associated with assets held for sale ($000s),2021,
+890526015,Liabilities directly associated with assets held for sale ($000s),2020,-
+890526015,Liabilities directly associated with assets held for sale ($000s),2019,-
+890526015,Liabilities directly associated with assets held for sale ($000s),2018,-
+890526015,Liabilities directly associated with assets held for sale ($000s),2017,-
+890526015,Liabilities directly associated with assets held for sale ($000s),2016,-
+890526015,Liabilities directly associated with assets held for sale ($000s),2015,-
+890526015,Total current liabilities ($000s),2024,"$3,715"
+890526015,Total current liabilities ($000s),2023,"$6,891"
+890526015,Total current liabilities ($000s),2022,"$4,803"
+890526015,Total current liabilities ($000s),2021,"$11,350"
+890526015,Total current liabilities ($000s),2020,"$24,047"
+890526015,Total current liabilities ($000s),2019,"$36,908"
+890526015,Total current liabilities ($000s),2018,"$11,626"
+890526015,Total current liabilities ($000s),2017,"$10,055"
+890526015,Total current liabilities ($000s),2016,"$8,463"
+890526015,Total current liabilities ($000s),2015,"$6,878"
+890526015,Total current liabilities for previous year ($000s),2024,"$6,891"
+890526015,Total current liabilities for previous year ($000s),2023,"$4,803"
+890526015,Total current liabilities for previous year ($000s),2022,"$11,350"
+890526015,Total current liabilities for previous year ($000s),2021,"$24,047"
+890526015,Total current liabilities for previous year ($000s),2020,"$36,908"
+890526015,Total current liabilities for previous year ($000s),2019,"$11,626"
+890526015,Total current liabilities for previous year ($000s),2018,"$10,055"
+890526015,Total current liabilities for previous year ($000s),2017,"$8,463"
+890526015,Total current liabilities for previous year ($000s),2016,"$6,878"
+890526015,Total current liabilities for previous year ($000s),2015,"$5,504"
+890526015,Non-current liabilities,2024,
+890526015,Non-current liabilities,2023,
+890526015,Non-current liabilities,2022,
+890526015,Non-current liabilities,2021,
+890526015,Non-current liabilities,2020,-
+890526015,Non-current liabilities,2019,-
+890526015,Non-current liabilities,2018,-
+890526015,Non-current liabilities,2017,-
+890526015,Non-current liabilities,2016,-
+890526015,Non-current liabilities,2015,-
+890526015,Total non-current interest-bearing loans and borrowings ($000s),2024,$242
+890526015,Total non-current interest-bearing loans and borrowings ($000s),2023,$409
+890526015,Total non-current interest-bearing loans and borrowings ($000s),2022,"$1,471"
+890526015,Total non-current interest-bearing loans and borrowings ($000s),2021,"$34,223"
+890526015,Total non-current interest-bearing loans and borrowings ($000s),2020,"$41,829"
+890526015,Total non-current interest-bearing loans and borrowings ($000s),2019,"$1,105"
+890526015,Total non-current interest-bearing loans and borrowings ($000s),2018,-
+890526015,Total non-current interest-bearing loans and borrowings ($000s),2017,-
+890526015,Total non-current interest-bearing loans and borrowings ($000s),2016,-
+890526015,Total non-current interest-bearing loans and borrowings ($000s),2015,-
+890526015,Deferred tax liabilities ($000s),2024,
+890526015,Deferred tax liabilities ($000s),2023,
+890526015,Deferred tax liabilities ($000s),2022,
+890526015,Deferred tax liabilities ($000s),2021,
+890526015,Deferred tax liabilities ($000s),2020,-
+890526015,Deferred tax liabilities ($000s),2019,-
+890526015,Deferred tax liabilities ($000s),2018,-
+890526015,Deferred tax liabilities ($000s),2017,-
+890526015,Deferred tax liabilities ($000s),2016,-
+890526015,Deferred tax liabilities ($000s),2015,-
+890526015,Convertible redeemable preference shares ($000s),2024,
+890526015,Convertible redeemable preference shares ($000s),2023,
+890526015,Convertible redeemable preference shares ($000s),2022,
+890526015,Convertible redeemable preference shares ($000s),2021,
+890526015,Convertible redeemable preference shares ($000s),2020,-
+890526015,Convertible redeemable preference shares ($000s),2019,-
+890526015,Convertible redeemable preference shares ($000s),2018,-
+890526015,Convertible redeemable preference shares ($000s),2017,-
+890526015,Convertible redeemable preference shares ($000s),2016,-
+890526015,Convertible redeemable preference shares ($000s),2015,-
+890526015,Other non-current liabilities ($000s),2024,$0
+890526015,Other non-current liabilities ($000s),2023,$0
+890526015,Other non-current liabilities ($000s),2022,$0
+890526015,Other non-current liabilities ($000s),2021,$0
+890526015,Other non-current liabilities ($000s),2020,$0
+890526015,Other non-current liabilities ($000s),2019,$0
+890526015,Other non-current liabilities ($000s),2018,$0
+890526015,Other non-current liabilities ($000s),2017,$0
+890526015,Other non-current liabilities ($000s),2016,$0
+890526015,Other non-current liabilities ($000s),2015,$0
+890526015,Total non-current liabilities ($000s),2024,$361
+890526015,Total non-current liabilities ($000s),2023,$409
+890526015,Total non-current liabilities ($000s),2022,"$1,471"
+890526015,Total non-current liabilities ($000s),2021,"$34,223"
+890526015,Total non-current liabilities ($000s),2020,"$41,829"
+890526015,Total non-current liabilities ($000s),2019,"$1,141"
+890526015,Total non-current liabilities ($000s),2018,$47
+890526015,Total non-current liabilities ($000s),2017,$56
+890526015,Total non-current liabilities ($000s),2016,$41
+890526015,Total non-current liabilities ($000s),2015,-
+890526015,TOTAL LIABILITIES ($000s),2024,"$4,076"
+890526015,TOTAL LIABILITIES ($000s),2023,"$7,300"
+890526015,TOTAL LIABILITIES ($000s),2022,"$6,273"
+890526015,TOTAL LIABILITIES ($000s),2021,"$45,573"
+890526015,TOTAL LIABILITIES ($000s),2020,"$65,876"
+890526015,TOTAL LIABILITIES ($000s),2019,"$38,049"
+890526015,TOTAL LIABILITIES ($000s),2018,"$11,673"
+890526015,TOTAL LIABILITIES ($000s),2017,"$10,111"
+890526015,TOTAL LIABILITIES ($000s),2016,"$8,503"
+890526015,TOTAL LIABILITIES ($000s),2015,"$6,878"
+890526015,NET ASSETS ($000s),2024,"$19,030"
+890526015,NET ASSETS ($000s),2023,"$13,270"
+890526015,NET ASSETS ($000s),2022,"$13,429"
+890526015,NET ASSETS ($000s),2021,"($26,971)"
+890526015,NET ASSETS ($000s),2020,"($23,499)"
+890526015,NET ASSETS ($000s),2019,($403)
+890526015,NET ASSETS ($000s),2018,"$10,445"
+890526015,NET ASSETS ($000s),2017,"$12,242"
+890526015,NET ASSETS ($000s),2016,"$13,261"
+890526015,NET ASSETS ($000s),2015,"$14,709"
+890526015,Equity,2024,
+890526015,Equity,2023,
+890526015,Equity,2022,
+890526015,Equity,2021,
+890526015,Equity,2020,-
+890526015,Equity,2019,-
+890526015,Equity,2018,-
+890526015,Equity,2017,-
+890526015,Equity,2016,-
+890526015,Equity,2015,-
+890526015,Equity attributable to equity holders of the parent,2024,
+890526015,Equity attributable to equity holders of the parent,2023,
+890526015,Equity attributable to equity holders of the parent,2022,
+890526015,Equity attributable to equity holders of the parent,2021,
+890526015,Equity attributable to equity holders of the parent,2020,-
+890526015,Equity attributable to equity holders of the parent,2019,-
+890526015,Equity attributable to equity holders of the parent,2018,-
+890526015,Equity attributable to equity holders of the parent,2017,-
+890526015,Equity attributable to equity holders of the parent,2016,-
+890526015,Equity attributable to equity holders of the parent,2015,-
+890526015,Contributed equity ($000s),2024,"$48,843"
+890526015,Contributed equity ($000s),2023,"$48,843"
+890526015,Contributed equity ($000s),2022,"$48,843"
+890526015,Contributed equity ($000s),2021,"$11,194"
+890526015,Contributed equity ($000s),2020,"$11,194"
+890526015,Contributed equity ($000s),2019,"$11,194"
+890526015,Contributed equity ($000s),2018,"$11,194"
+890526015,Contributed equity ($000s),2017,"$11,194"
+890526015,Contributed equity ($000s),2016,"$11,194"
+890526015,Contributed equity ($000s),2015,"$11,194"
+890526015,Retained earnings ($000s),2024,"($29,813)"
+890526015,Retained earnings ($000s),2023,"($35,573)"
+890526015,Retained earnings ($000s),2022,"($36,682)"
+890526015,Retained earnings ($000s),2021,"($39,434)"
+890526015,Retained earnings ($000s),2020,"($36,612)"
+890526015,Retained earnings ($000s),2019,"($11,598)"
+890526015,Retained earnings ($000s),2018,($749)
+890526015,Retained earnings ($000s),2017,"$1,047"
+890526015,Retained earnings ($000s),2016,"$2,066"
+890526015,Retained earnings ($000s),2015,"$3,515"
+890526015,Reserves ($000s),2024,$0
+890526015,Reserves ($000s),2023,$0
+890526015,Reserves ($000s),2022,"$1,268"
+890526015,Reserves ($000s),2021,"$1,268"
+890526015,Reserves ($000s),2020,"$1,919"
+890526015,Reserves ($000s),2019,$0
+890526015,Reserves ($000s),2018,$0
+890526015,Reserves ($000s),2017,$0
+890526015,Reserves ($000s),2016,$0
+890526015,Reserves ($000s),2015,$0
+890526015,Total Parent interests ($000s),2024,"$19,030"
+890526015,Total Parent interests ($000s),2023,"$13,270"
+890526015,Total Parent interests ($000s),2022,"$13,429"
+890526015,Total Parent interests ($000s),2021,"($26,971)"
+890526015,Total Parent interests ($000s),2020,"($23,499)"
+890526015,Total Parent interests ($000s),2019,($403)
+890526015,Total Parent interests ($000s),2018,"$10,445"
+890526015,Total Parent interests ($000s),2017,"$12,242"
+890526015,Total Parent interests ($000s),2016,"$13,261"
+890526015,Total Parent interests ($000s),2015,"$14,709"
+890526015,Minority interests ($000s),2024,
+890526015,Minority interests ($000s),2023,
+890526015,Minority interests ($000s),2022,
+890526015,Minority interests ($000s),2021,
+890526015,Minority interests ($000s),2020,-
+890526015,Minority interests ($000s),2019,-
+890526015,Minority interests ($000s),2018,-
+890526015,Minority interests ($000s),2017,-
+890526015,Minority interests ($000s),2016,-
+890526015,Minority interests ($000s),2015,-
+890526015,TOTAL EQUITY ($000s),2024,"$19,030"
+890526015,TOTAL EQUITY ($000s),2023,"$13,270"
+890526015,TOTAL EQUITY ($000s),2022,"$13,429"
+890526015,TOTAL EQUITY ($000s),2021,"($26,971)"
+890526015,TOTAL EQUITY ($000s),2020,"($23,499)"
+890526015,TOTAL EQUITY ($000s),2019,($403)
+890526015,TOTAL EQUITY ($000s),2018,"$10,445"
+890526015,TOTAL EQUITY ($000s),2017,"$12,242"
+890526015,TOTAL EQUITY ($000s),2016,"$13,261"
+890526015,TOTAL EQUITY ($000s),2015,"$14,709"
+890526015,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2024,"$13,270"
+890526015,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2023,"$13,429"
+890526015,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2022,"($26,971)"
+890526015,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2021,"($23,499)"
+890526015,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2020,($403)
+890526015,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2019,"$10,445"
+890526015,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2018,"$12,242"
+890526015,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2017,"$13,261"
+890526015,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2016,"$14,709"
+890526015,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2015,"$14,205"

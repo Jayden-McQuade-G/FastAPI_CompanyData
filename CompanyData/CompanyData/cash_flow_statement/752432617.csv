@@ -1,0 +1,301 @@
+duns,line_item,year,value
+752432617,Cash flow statement,2023,
+752432617,Cash flow statement,2022,
+752432617,Cash flow statement,2021,
+752432617,Cash flow statement,2020,
+752432617,Cash flow statement,2019,-
+752432617,Cash flow statement,2018,-
+752432617,Cash flow statement,2017,-
+752432617,Cash flow statement,2016,-
+752432617,Cash flow statement,2015,-
+752432617,Cash flow statement,2014,-
+752432617,Receipts from customers ($000s),2023,"$56,378"
+752432617,Receipts from customers ($000s),2022,"$293,255"
+752432617,Receipts from customers ($000s),2021,"$274,185"
+752432617,Receipts from customers ($000s),2020,"$308,890"
+752432617,Receipts from customers ($000s),2019,"$430,612"
+752432617,Receipts from customers ($000s),2018,-
+752432617,Receipts from customers ($000s),2017,-
+752432617,Receipts from customers ($000s),2016,-
+752432617,Receipts from customers ($000s),2015,-
+752432617,Receipts from customers ($000s),2014,-
+752432617,Payments to suppliers and employees ($000s),2023,"($19,344)"
+752432617,Payments to suppliers and employees ($000s),2022,"($121,027)"
+752432617,Payments to suppliers and employees ($000s),2021,"($94,632)"
+752432617,Payments to suppliers and employees ($000s),2020,"($203,581)"
+752432617,Payments to suppliers and employees ($000s),2019,"($221,626)"
+752432617,Payments to suppliers and employees ($000s),2018,-
+752432617,Payments to suppliers and employees ($000s),2017,-
+752432617,Payments to suppliers and employees ($000s),2016,-
+752432617,Payments to suppliers and employees ($000s),2015,-
+752432617,Payments to suppliers and employees ($000s),2014,-
+752432617,Interest paid ($000s),2023,-
+752432617,Interest paid ($000s),2022,-
+752432617,Interest paid ($000s),2021,-
+752432617,Interest paid ($000s),2020,($10)
+752432617,Interest paid ($000s),2019,($13)
+752432617,Interest paid ($000s),2018,-
+752432617,Interest paid ($000s),2017,-
+752432617,Interest paid ($000s),2016,-
+752432617,Interest paid ($000s),2015,-
+752432617,Interest paid ($000s),2014,-
+752432617,Tax paid ($000s),2023,"($9,068)"
+752432617,Tax paid ($000s),2022,"($52,404)"
+752432617,Tax paid ($000s),2021,"($55,615)"
+752432617,Tax paid ($000s),2020,"($32,947)"
+752432617,Tax paid ($000s),2019,"($81,288)"
+752432617,Tax paid ($000s),2018,-
+752432617,Tax paid ($000s),2017,-
+752432617,Tax paid ($000s),2016,-
+752432617,Tax paid ($000s),2015,-
+752432617,Tax paid ($000s),2014,-
+752432617,Other receipts ($000s),2023,"$22,108"
+752432617,Other receipts ($000s),2022,"$6,599"
+752432617,Other receipts ($000s),2021,$27
+752432617,Other receipts ($000s),2020,$26
+752432617,Other receipts ($000s),2019,$45
+752432617,Other receipts ($000s),2018,-
+752432617,Other receipts ($000s),2017,-
+752432617,Other receipts ($000s),2016,-
+752432617,Other receipts ($000s),2015,-
+752432617,Other receipts ($000s),2014,-
+752432617,Other payments ($000s),2023,"($2,236)"
+752432617,Other payments ($000s),2022,($220)
+752432617,Other payments ($000s),2021,($134)
+752432617,Other payments ($000s),2020,$0
+752432617,Other payments ($000s),2019,$0
+752432617,Other payments ($000s),2018,-
+752432617,Other payments ($000s),2017,-
+752432617,Other payments ($000s),2016,-
+752432617,Other payments ($000s),2015,-
+752432617,Other payments ($000s),2014,-
+752432617,Net cashflow from/(used in) operating activities ($000s),2023,"$47,838"
+752432617,Net cashflow from/(used in) operating activities ($000s),2022,"$126,203"
+752432617,Net cashflow from/(used in) operating activities ($000s),2021,"$123,831"
+752432617,Net cashflow from/(used in) operating activities ($000s),2020,"$72,378"
+752432617,Net cashflow from/(used in) operating activities ($000s),2019,"$127,730"
+752432617,Net cashflow from/(used in) operating activities ($000s),2018,-
+752432617,Net cashflow from/(used in) operating activities ($000s),2017,-
+752432617,Net cashflow from/(used in) operating activities ($000s),2016,-
+752432617,Net cashflow from/(used in) operating activities ($000s),2015,-
+752432617,Net cashflow from/(used in) operating activities ($000s),2014,-
+752432617,Purchase of property plant and equipment ($000s),2023,-
+752432617,Purchase of property plant and equipment ($000s),2022,-
+752432617,Purchase of property plant and equipment ($000s),2021,($118)
+752432617,Purchase of property plant and equipment ($000s),2020,-
+752432617,Purchase of property plant and equipment ($000s),2019,-
+752432617,Purchase of property plant and equipment ($000s),2018,-
+752432617,Purchase of property plant and equipment ($000s),2017,-
+752432617,Purchase of property plant and equipment ($000s),2016,-
+752432617,Purchase of property plant and equipment ($000s),2015,-
+752432617,Purchase of property plant and equipment ($000s),2014,-
+752432617,Purchase of intangibles ($000s),2023,
+752432617,Purchase of intangibles ($000s),2022,
+752432617,Purchase of intangibles ($000s),2021,
+752432617,Purchase of intangibles ($000s),2020,
+752432617,Purchase of intangibles ($000s),2019,-
+752432617,Purchase of intangibles ($000s),2018,-
+752432617,Purchase of intangibles ($000s),2017,-
+752432617,Purchase of intangibles ($000s),2016,-
+752432617,Purchase of intangibles ($000s),2015,-
+752432617,Purchase of intangibles ($000s),2014,-
+752432617,Proceeds from the sale of property plant and equipment ($000s),2023,$0
+752432617,Proceeds from the sale of property plant and equipment ($000s),2022,$0
+752432617,Proceeds from the sale of property plant and equipment ($000s),2021,$0
+752432617,Proceeds from the sale of property plant and equipment ($000s),2020,$0
+752432617,Proceeds from the sale of property plant and equipment ($000s),2019,$0
+752432617,Proceeds from the sale of property plant and equipment ($000s),2018,-
+752432617,Proceeds from the sale of property plant and equipment ($000s),2017,-
+752432617,Proceeds from the sale of property plant and equipment ($000s),2016,-
+752432617,Proceeds from the sale of property plant and equipment ($000s),2015,-
+752432617,Proceeds from the sale of property plant and equipment ($000s),2014,-
+752432617,Proceeds from the disposal of investments/subsidiaries ($000s),2023,$0
+752432617,Proceeds from the disposal of investments/subsidiaries ($000s),2022,$0
+752432617,Proceeds from the disposal of investments/subsidiaries ($000s),2021,$0
+752432617,Proceeds from the disposal of investments/subsidiaries ($000s),2020,$0
+752432617,Proceeds from the disposal of investments/subsidiaries ($000s),2019,$0
+752432617,Proceeds from the disposal of investments/subsidiaries ($000s),2018,-
+752432617,Proceeds from the disposal of investments/subsidiaries ($000s),2017,-
+752432617,Proceeds from the disposal of investments/subsidiaries ($000s),2016,-
+752432617,Proceeds from the disposal of investments/subsidiaries ($000s),2015,-
+752432617,Proceeds from the disposal of investments/subsidiaries ($000s),2014,-
+752432617,Purchase of subisidiary/investment ($000s),2023,$0
+752432617,Purchase of subisidiary/investment ($000s),2022,$0
+752432617,Purchase of subisidiary/investment ($000s),2021,$0
+752432617,Purchase of subisidiary/investment ($000s),2020,$0
+752432617,Purchase of subisidiary/investment ($000s),2019,$0
+752432617,Purchase of subisidiary/investment ($000s),2018,-
+752432617,Purchase of subisidiary/investment ($000s),2017,-
+752432617,Purchase of subisidiary/investment ($000s),2016,-
+752432617,Purchase of subisidiary/investment ($000s),2015,-
+752432617,Purchase of subisidiary/investment ($000s),2014,-
+752432617,Interest received ($000s),2023,
+752432617,Interest received ($000s),2022,
+752432617,Interest received ($000s),2021,
+752432617,Interest received ($000s),2020,
+752432617,Interest received ($000s),2019,-
+752432617,Interest received ($000s),2018,-
+752432617,Interest received ($000s),2017,-
+752432617,Interest received ($000s),2016,-
+752432617,Interest received ($000s),2015,-
+752432617,Interest received ($000s),2014,-
+752432617,Dividends received ($000s),2023,
+752432617,Dividends received ($000s),2022,
+752432617,Dividends received ($000s),2021,
+752432617,Dividends received ($000s),2020,
+752432617,Dividends received ($000s),2019,-
+752432617,Dividends received ($000s),2018,-
+752432617,Dividends received ($000s),2017,-
+752432617,Dividends received ($000s),2016,-
+752432617,Dividends received ($000s),2015,-
+752432617,Dividends received ($000s),2014,-
+752432617,Other investing inflows/(outflows) ($000s),2023,"($1,842)"
+752432617,Other investing inflows/(outflows) ($000s),2022,"($10,378)"
+752432617,Other investing inflows/(outflows) ($000s),2021,"($28,716)"
+752432617,Other investing inflows/(outflows) ($000s),2020,"($6,981)"
+752432617,Other investing inflows/(outflows) ($000s),2019,"($2,533)"
+752432617,Other investing inflows/(outflows) ($000s),2018,-
+752432617,Other investing inflows/(outflows) ($000s),2017,-
+752432617,Other investing inflows/(outflows) ($000s),2016,-
+752432617,Other investing inflows/(outflows) ($000s),2015,-
+752432617,Other investing inflows/(outflows) ($000s),2014,-
+752432617,Net cashflow from/(used in) investing activities ($000s),2023,"($1,842)"
+752432617,Net cashflow from/(used in) investing activities ($000s),2022,"($10,378)"
+752432617,Net cashflow from/(used in) investing activities ($000s),2021,"($28,834)"
+752432617,Net cashflow from/(used in) investing activities ($000s),2020,"($6,981)"
+752432617,Net cashflow from/(used in) investing activities ($000s),2019,"($2,533)"
+752432617,Net cashflow from/(used in) investing activities ($000s),2018,-
+752432617,Net cashflow from/(used in) investing activities ($000s),2017,-
+752432617,Net cashflow from/(used in) investing activities ($000s),2016,-
+752432617,Net cashflow from/(used in) investing activities ($000s),2015,-
+752432617,Net cashflow from/(used in) investing activities ($000s),2014,-
+752432617,Proceeds from the issue of shares ($000s),2023,$0
+752432617,Proceeds from the issue of shares ($000s),2022,$0
+752432617,Proceeds from the issue of shares ($000s),2021,$0
+752432617,Proceeds from the issue of shares ($000s),2020,$0
+752432617,Proceeds from the issue of shares ($000s),2019,$0
+752432617,Proceeds from the issue of shares ($000s),2018,-
+752432617,Proceeds from the issue of shares ($000s),2017,-
+752432617,Proceeds from the issue of shares ($000s),2016,-
+752432617,Proceeds from the issue of shares ($000s),2015,-
+752432617,Proceeds from the issue of shares ($000s),2014,-
+752432617,Proceeds from borrowings ($000s),2023,$0
+752432617,Proceeds from borrowings ($000s),2022,$0
+752432617,Proceeds from borrowings ($000s),2021,$0
+752432617,Proceeds from borrowings ($000s),2020,$0
+752432617,Proceeds from borrowings ($000s),2019,$0
+752432617,Proceeds from borrowings ($000s),2018,-
+752432617,Proceeds from borrowings ($000s),2017,-
+752432617,Proceeds from borrowings ($000s),2016,-
+752432617,Proceeds from borrowings ($000s),2015,-
+752432617,Proceeds from borrowings ($000s),2014,-
+752432617,Repayment of borrowings  ($000s),2023,"($29,524)"
+752432617,Repayment of borrowings  ($000s),2022,"($110,516)"
+752432617,Repayment of borrowings  ($000s),2021,-
+752432617,Repayment of borrowings  ($000s),2020,"($41,517)"
+752432617,Repayment of borrowings  ($000s),2019,"($132,328)"
+752432617,Repayment of borrowings  ($000s),2018,-
+752432617,Repayment of borrowings  ($000s),2017,-
+752432617,Repayment of borrowings  ($000s),2016,-
+752432617,Repayment of borrowings  ($000s),2015,-
+752432617,Repayment of borrowings  ($000s),2014,-
+752432617,Repayment of finance lease liabilities ($000s),2023,-
+752432617,Repayment of finance lease liabilities ($000s),2022,-
+752432617,Repayment of finance lease liabilities ($000s),2021,"($31,301)"
+752432617,Repayment of finance lease liabilities ($000s),2020,"($7,083)"
+752432617,Repayment of finance lease liabilities ($000s),2019,"($11,799)"
+752432617,Repayment of finance lease liabilities ($000s),2018,-
+752432617,Repayment of finance lease liabilities ($000s),2017,-
+752432617,Repayment of finance lease liabilities ($000s),2016,-
+752432617,Repayment of finance lease liabilities ($000s),2015,-
+752432617,Repayment of finance lease liabilities ($000s),2014,-
+752432617,Interest Paid ($000s),2023,
+752432617,Interest Paid ($000s),2022,
+752432617,Interest Paid ($000s),2021,
+752432617,Interest Paid ($000s),2020,
+752432617,Interest Paid ($000s),2019,-
+752432617,Interest Paid ($000s),2018,-
+752432617,Interest Paid ($000s),2017,-
+752432617,Interest Paid ($000s),2016,-
+752432617,Interest Paid ($000s),2015,-
+752432617,Interest Paid ($000s),2014,-
+752432617,Dividends paid ($000s),2023,
+752432617,Dividends paid ($000s),2022,
+752432617,Dividends paid ($000s),2021,
+752432617,Dividends paid ($000s),2020,
+752432617,Dividends paid ($000s),2019,-
+752432617,Dividends paid ($000s),2018,-
+752432617,Dividends paid ($000s),2017,-
+752432617,Dividends paid ($000s),2016,-
+752432617,Dividends paid ($000s),2015,-
+752432617,Dividends paid ($000s),2014,-
+752432617,Other inflows/(outflows) from financing activities ($000s),2023,"($9,587)"
+752432617,Other inflows/(outflows) from financing activities ($000s),2022,($713)
+752432617,Other inflows/(outflows) from financing activities ($000s),2021,"($80,190)"
+752432617,Other inflows/(outflows) from financing activities ($000s),2020,"($1,399)"
+752432617,Other inflows/(outflows) from financing activities ($000s),2019,"($1,278)"
+752432617,Other inflows/(outflows) from financing activities ($000s),2018,-
+752432617,Other inflows/(outflows) from financing activities ($000s),2017,-
+752432617,Other inflows/(outflows) from financing activities ($000s),2016,-
+752432617,Other inflows/(outflows) from financing activities ($000s),2015,-
+752432617,Other inflows/(outflows) from financing activities ($000s),2014,-
+752432617,Net cash flows from/(used in) financing activities ($000s),2023,"($39,111)"
+752432617,Net cash flows from/(used in) financing activities ($000s),2022,"($111,229)"
+752432617,Net cash flows from/(used in) financing activities ($000s),2021,"($111,491)"
+752432617,Net cash flows from/(used in) financing activities ($000s),2020,"($49,999)"
+752432617,Net cash flows from/(used in) financing activities ($000s),2019,"($145,405)"
+752432617,Net cash flows from/(used in) financing activities ($000s),2018,-
+752432617,Net cash flows from/(used in) financing activities ($000s),2017,-
+752432617,Net cash flows from/(used in) financing activities ($000s),2016,-
+752432617,Net cash flows from/(used in) financing activities ($000s),2015,-
+752432617,Net cash flows from/(used in) financing activities ($000s),2014,-
+752432617,Net increase/(decrease) in cash and cash equivalents ($000s),2023,"$6,885"
+752432617,Net increase/(decrease) in cash and cash equivalents ($000s),2022,"$4,596"
+752432617,Net increase/(decrease) in cash and cash equivalents ($000s),2021,"($16,494)"
+752432617,Net increase/(decrease) in cash and cash equivalents ($000s),2020,"$15,398"
+752432617,Net increase/(decrease) in cash and cash equivalents ($000s),2019,"($20,208)"
+752432617,Net increase/(decrease) in cash and cash equivalents ($000s),2018,-
+752432617,Net increase/(decrease) in cash and cash equivalents ($000s),2017,-
+752432617,Net increase/(decrease) in cash and cash equivalents ($000s),2016,-
+752432617,Net increase/(decrease) in cash and cash equivalents ($000s),2015,-
+752432617,Net increase/(decrease) in cash and cash equivalents ($000s),2014,-
+752432617,Other increase/(decrease) in cash and cash equivalents ($000s),2023,
+752432617,Other increase/(decrease) in cash and cash equivalents ($000s),2022,
+752432617,Other increase/(decrease) in cash and cash equivalents ($000s),2021,
+752432617,Other increase/(decrease) in cash and cash equivalents ($000s),2020,
+752432617,Other increase/(decrease) in cash and cash equivalents ($000s),2019,-
+752432617,Other increase/(decrease) in cash and cash equivalents ($000s),2018,-
+752432617,Other increase/(decrease) in cash and cash equivalents ($000s),2017,-
+752432617,Other increase/(decrease) in cash and cash equivalents ($000s),2016,-
+752432617,Other increase/(decrease) in cash and cash equivalents ($000s),2015,-
+752432617,Other increase/(decrease) in cash and cash equivalents ($000s),2014,-
+752432617,Net foreign exchange differences ($000s),2023,($227)
+752432617,Net foreign exchange differences ($000s),2022,$589
+752432617,Net foreign exchange differences ($000s),2021,$223
+752432617,Net foreign exchange differences ($000s),2020,-
+752432617,Net foreign exchange differences ($000s),2019,-
+752432617,Net foreign exchange differences ($000s),2018,-
+752432617,Net foreign exchange differences ($000s),2017,-
+752432617,Net foreign exchange differences ($000s),2016,-
+752432617,Net foreign exchange differences ($000s),2015,-
+752432617,Net foreign exchange differences ($000s),2014,-
+752432617,Cash and cash equivalents at the beginning of the period ($000s),2023,"$6,236"
+752432617,Cash and cash equivalents at the beginning of the period ($000s),2022,"$1,051"
+752432617,Cash and cash equivalents at the beginning of the period ($000s),2021,"$17,322"
+752432617,Cash and cash equivalents at the beginning of the period ($000s),2020,"$1,924"
+752432617,Cash and cash equivalents at the beginning of the period ($000s),2019,"$22,132"
+752432617,Cash and cash equivalents at the beginning of the period ($000s),2018,-
+752432617,Cash and cash equivalents at the beginning of the period ($000s),2017,-
+752432617,Cash and cash equivalents at the beginning of the period ($000s),2016,-
+752432617,Cash and cash equivalents at the beginning of the period ($000s),2015,-
+752432617,Cash and cash equivalents at the beginning of the period ($000s),2014,-
+752432617,Cash and cash equivalents at the end of the period ($000s),2023,"$12,894"
+752432617,Cash and cash equivalents at the end of the period ($000s),2022,"$6,236"
+752432617,Cash and cash equivalents at the end of the period ($000s),2021,"$1,051"
+752432617,Cash and cash equivalents at the end of the period ($000s),2020,"$17,322"
+752432617,Cash and cash equivalents at the end of the period ($000s),2019,"$1,924"
+752432617,Cash and cash equivalents at the end of the period ($000s),2018,-
+752432617,Cash and cash equivalents at the end of the period ($000s),2017,-
+752432617,Cash and cash equivalents at the end of the period ($000s),2016,-
+752432617,Cash and cash equivalents at the end of the period ($000s),2015,-
+752432617,Cash and cash equivalents at the end of the period ($000s),2014,-

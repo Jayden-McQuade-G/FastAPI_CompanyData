@@ -1,0 +1,601 @@
+duns,line_item,year,value
+740676531,Current Assets,2024,
+740676531,Current Assets,2023,
+740676531,Current Assets,2022,
+740676531,Current Assets,2021,
+740676531,Current Assets,2020,-
+740676531,Current Assets,2019,-
+740676531,Current Assets,2018,-
+740676531,Current Assets,2017,-
+740676531,Current Assets,2016,-
+740676531,Current Assets,2015,-
+740676531,Cash and cash equivalents ($000s),2024,"$4,133"
+740676531,Cash and cash equivalents ($000s),2023,"$2,115"
+740676531,Cash and cash equivalents ($000s),2022,$210
+740676531,Cash and cash equivalents ($000s),2021,$293
+740676531,Cash and cash equivalents ($000s),2020,$425
+740676531,Cash and cash equivalents ($000s),2019,"($7,228)"
+740676531,Cash and cash equivalents ($000s),2018,$135
+740676531,Cash and cash equivalents ($000s),2017,$99
+740676531,Cash and cash equivalents ($000s),2016,$566
+740676531,Cash and cash equivalents ($000s),2015,"($2,392)"
+740676531,Growth,2024,95.41%
+740676531,Growth,2023,907.14%
+740676531,Growth,2022,(28.33%)
+740676531,Growth,2021,(31.06%)
+740676531,Growth,2020,-
+740676531,Growth,2019,-
+740676531,Growth,2018,36.36%
+740676531,Growth,2017,(82.51%)
+740676531,Growth,2016,-
+740676531,Growth,2015,-
+740676531,Trade receivables ($000s),2024,"$2,797"
+740676531,Trade receivables ($000s),2023,"$3,024"
+740676531,Trade receivables ($000s),2022,"$2,140"
+740676531,Trade receivables ($000s),2021,"$2,261"
+740676531,Trade receivables ($000s),2020,"$2,833"
+740676531,Trade receivables ($000s),2019,-
+740676531,Trade receivables ($000s),2018,"$2,874"
+740676531,Trade receivables ($000s),2017,"$2,317"
+740676531,Trade receivables ($000s),2016,"$1,817"
+740676531,Trade receivables ($000s),2015,"$2,165"
+740676531,Other receivables ($000s),2024,$139
+740676531,Other receivables ($000s),2023,$175
+740676531,Other receivables ($000s),2022,$158
+740676531,Other receivables ($000s),2021,$98
+740676531,Other receivables ($000s),2020,$181
+740676531,Other receivables ($000s),2019,"$4,213"
+740676531,Other receivables ($000s),2018,$882
+740676531,Other receivables ($000s),2017,$866
+740676531,Other receivables ($000s),2016,$461
+740676531,Other receivables ($000s),2015,$559
+740676531,Raw materials ($000s),2024,$0
+740676531,Raw materials ($000s),2023,$0
+740676531,Raw materials ($000s),2022,$0
+740676531,Raw materials ($000s),2021,$0
+740676531,Raw materials ($000s),2020,$0
+740676531,Raw materials ($000s),2019,$0
+740676531,Raw materials ($000s),2018,$0
+740676531,Raw materials ($000s),2017,$0
+740676531,Raw materials ($000s),2016,$0
+740676531,Raw materials ($000s),2015,$0
+740676531,Work-in-progress ($000s),2024,
+740676531,Work-in-progress ($000s),2023,
+740676531,Work-in-progress ($000s),2022,
+740676531,Work-in-progress ($000s),2021,
+740676531,Work-in-progress ($000s),2020,-
+740676531,Work-in-progress ($000s),2019,-
+740676531,Work-in-progress ($000s),2018,-
+740676531,Work-in-progress ($000s),2017,-
+740676531,Work-in-progress ($000s),2016,-
+740676531,Work-in-progress ($000s),2015,-
+740676531,Finished goods ($000s),2024,$0
+740676531,Finished goods ($000s),2023,$0
+740676531,Finished goods ($000s),2022,$0
+740676531,Finished goods ($000s),2021,$0
+740676531,Finished goods ($000s),2020,$0
+740676531,Finished goods ($000s),2019,$0
+740676531,Finished goods ($000s),2018,$0
+740676531,Finished goods ($000s),2017,$0
+740676531,Finished goods ($000s),2016,$0
+740676531,Finished goods ($000s),2015,$0
+740676531,Total inventories ($000s),2024,$0
+740676531,Total inventories ($000s),2023,$0
+740676531,Total inventories ($000s),2022,$0
+740676531,Total inventories ($000s),2021,$0
+740676531,Total inventories ($000s),2020,$0
+740676531,Total inventories ($000s),2019,$0
+740676531,Total inventories ($000s),2018,$0
+740676531,Total inventories ($000s),2017,$0
+740676531,Total inventories ($000s),2016,$0
+740676531,Total inventories ($000s),2015,$0
+740676531,Prepayments ($000s),2024,$132
+740676531,Prepayments ($000s),2023,$155
+740676531,Prepayments ($000s),2022,$88
+740676531,Prepayments ($000s),2021,$41
+740676531,Prepayments ($000s),2020,$46
+740676531,Prepayments ($000s),2019,$39
+740676531,Prepayments ($000s),2018,$27
+740676531,Prepayments ($000s),2017,$22
+740676531,Prepayments ($000s),2016,$57
+740676531,Prepayments ($000s),2015,$61
+740676531,Derivative financial instruments ($000s),2024,
+740676531,Derivative financial instruments ($000s),2023,
+740676531,Derivative financial instruments ($000s),2022,
+740676531,Derivative financial instruments ($000s),2021,
+740676531,Derivative financial instruments ($000s),2020,-
+740676531,Derivative financial instruments ($000s),2019,-
+740676531,Derivative financial instruments ($000s),2018,-
+740676531,Derivative financial instruments ($000s),2017,-
+740676531,Derivative financial instruments ($000s),2016,-
+740676531,Derivative financial instruments ($000s),2015,-
+740676531,Other current assets ($000s),2024,$0
+740676531,Other current assets ($000s),2023,$0
+740676531,Other current assets ($000s),2022,$0
+740676531,Other current assets ($000s),2021,$0
+740676531,Other current assets ($000s),2020,$0
+740676531,Other current assets ($000s),2019,$0
+740676531,Other current assets ($000s),2018,$0
+740676531,Other current assets ($000s),2017,$0
+740676531,Other current assets ($000s),2016,$0
+740676531,Other current assets ($000s),2015,$0
+740676531,Total current assets for continuing operations ($000s),2024,"$7,201"
+740676531,Total current assets for continuing operations ($000s),2023,"$5,470"
+740676531,Total current assets for continuing operations ($000s),2022,"$2,596"
+740676531,Total current assets for continuing operations ($000s),2021,"$2,693"
+740676531,Total current assets for continuing operations ($000s),2020,"$3,485"
+740676531,Total current assets for continuing operations ($000s),2019,"$4,252"
+740676531,Total current assets for continuing operations ($000s),2018,"$3,917"
+740676531,Total current assets for continuing operations ($000s),2017,"$3,303"
+740676531,Total current assets for continuing operations ($000s),2016,"$2,901"
+740676531,Total current assets for continuing operations ($000s),2015,"$2,785"
+740676531,Assets held for sale ($000s),2024,
+740676531,Assets held for sale ($000s),2023,
+740676531,Assets held for sale ($000s),2022,
+740676531,Assets held for sale ($000s),2021,
+740676531,Assets held for sale ($000s),2020,-
+740676531,Assets held for sale ($000s),2019,-
+740676531,Assets held for sale ($000s),2018,-
+740676531,Assets held for sale ($000s),2017,-
+740676531,Assets held for sale ($000s),2016,-
+740676531,Assets held for sale ($000s),2015,-
+740676531,Total current assets ($000s),2024,"$7,201"
+740676531,Total current assets ($000s),2023,"$5,470"
+740676531,Total current assets ($000s),2022,"$2,596"
+740676531,Total current assets ($000s),2021,"$2,693"
+740676531,Total current assets ($000s),2020,"$3,485"
+740676531,Total current assets ($000s),2019,"$4,252"
+740676531,Total current assets ($000s),2018,"$3,917"
+740676531,Total current assets ($000s),2017,"$3,303"
+740676531,Total current assets ($000s),2016,"$2,901"
+740676531,Total current assets ($000s),2015,"$2,785"
+740676531,Non-current assets,2024,
+740676531,Non-current assets,2023,
+740676531,Non-current assets,2022,
+740676531,Non-current assets,2021,
+740676531,Non-current assets,2020,-
+740676531,Non-current assets,2019,-
+740676531,Non-current assets,2018,-
+740676531,Non-current assets,2017,-
+740676531,Non-current assets,2016,-
+740676531,Non-current assets,2015,-
+740676531,Receivables ($000s),2024,
+740676531,Receivables ($000s),2023,
+740676531,Receivables ($000s),2022,
+740676531,Receivables ($000s),2021,
+740676531,Receivables ($000s),2020,-
+740676531,Receivables ($000s),2019,-
+740676531,Receivables ($000s),2018,-
+740676531,Receivables ($000s),2017,-
+740676531,Receivables ($000s),2016,-
+740676531,Receivables ($000s),2015,-
+740676531,Investments in associates ($000s),2024,$0
+740676531,Investments in associates ($000s),2023,$0
+740676531,Investments in associates ($000s),2022,$0
+740676531,Investments in associates ($000s),2021,$0
+740676531,Investments in associates ($000s),2020,$0
+740676531,Investments in associates ($000s),2019,$0
+740676531,Investments in associates ($000s),2018,$0
+740676531,Investments in associates ($000s),2017,$0
+740676531,Investments in associates ($000s),2016,$0
+740676531,Investments in associates ($000s),2015,$0
+740676531,Investments in subsidiaries ($000s),2024,
+740676531,Investments in subsidiaries ($000s),2023,
+740676531,Investments in subsidiaries ($000s),2022,
+740676531,Investments in subsidiaries ($000s),2021,
+740676531,Investments in subsidiaries ($000s),2020,-
+740676531,Investments in subsidiaries ($000s),2019,-
+740676531,Investments in subsidiaries ($000s),2018,-
+740676531,Investments in subsidiaries ($000s),2017,-
+740676531,Investments in subsidiaries ($000s),2016,-
+740676531,Investments in subsidiaries ($000s),2015,-
+740676531,Available for sale financial assets ($000s),2024,$0
+740676531,Available for sale financial assets ($000s),2023,$0
+740676531,Available for sale financial assets ($000s),2022,$0
+740676531,Available for sale financial assets ($000s),2021,$0
+740676531,Available for sale financial assets ($000s),2020,$0
+740676531,Available for sale financial assets ($000s),2019,$0
+740676531,Available for sale financial assets ($000s),2018,$0
+740676531,Available for sale financial assets ($000s),2017,$0
+740676531,Available for sale financial assets ($000s),2016,$0
+740676531,Available for sale financial assets ($000s),2015,$0
+740676531,"Property, plant and equipment ($000s)",2024,"$2,361"
+740676531,"Property, plant and equipment ($000s)",2023,"$2,487"
+740676531,"Property, plant and equipment ($000s)",2022,"$2,376"
+740676531,"Property, plant and equipment ($000s)",2021,$801
+740676531,"Property, plant and equipment ($000s)",2020,$193
+740676531,"Property, plant and equipment ($000s)",2019,$237
+740676531,"Property, plant and equipment ($000s)",2018,$82
+740676531,"Property, plant and equipment ($000s)",2017,$382
+740676531,"Property, plant and equipment ($000s)",2016,$169
+740676531,"Property, plant and equipment ($000s)",2015,$129
+740676531,Intangible assets and goodwill ($000s),2024,$0
+740676531,Intangible assets and goodwill ($000s),2023,$0
+740676531,Intangible assets and goodwill ($000s),2022,$0
+740676531,Intangible assets and goodwill ($000s),2021,$0
+740676531,Intangible assets and goodwill ($000s),2020,$4
+740676531,Intangible assets and goodwill ($000s),2019,$7
+740676531,Intangible assets and goodwill ($000s),2018,$217
+740676531,Intangible assets and goodwill ($000s),2017,$0
+740676531,Intangible assets and goodwill ($000s),2016,$0
+740676531,Intangible assets and goodwill ($000s),2015,$0
+740676531,Deferred tax assets ($000s),2024,$677
+740676531,Deferred tax assets ($000s),2023,$518
+740676531,Deferred tax assets ($000s),2022,$394
+740676531,Deferred tax assets ($000s),2021,$416
+740676531,Deferred tax assets ($000s),2020,$386
+740676531,Deferred tax assets ($000s),2019,$336
+740676531,Deferred tax assets ($000s),2018,$306
+740676531,Deferred tax assets ($000s),2017,$206
+740676531,Deferred tax assets ($000s),2016,$194
+740676531,Deferred tax assets ($000s),2015,$87
+740676531,Other non-current assets ($000s),2024,$35
+740676531,Other non-current assets ($000s),2023,$58
+740676531,Other non-current assets ($000s),2022,$80
+740676531,Other non-current assets ($000s),2021,$42
+740676531,Other non-current assets ($000s),2020,$36
+740676531,Other non-current assets ($000s),2019,$118
+740676531,Other non-current assets ($000s),2018,$124
+740676531,Other non-current assets ($000s),2017,$0
+740676531,Other non-current assets ($000s),2016,$0
+740676531,Other non-current assets ($000s),2015,$0
+740676531,Total non-current assets ($000s),2024,"$3,073"
+740676531,Total non-current assets ($000s),2023,"$3,063"
+740676531,Total non-current assets ($000s),2022,"$2,850"
+740676531,Total non-current assets ($000s),2021,"$1,259"
+740676531,Total non-current assets ($000s),2020,$619
+740676531,Total non-current assets ($000s),2019,$698
+740676531,Total non-current assets ($000s),2018,$729
+740676531,Total non-current assets ($000s),2017,$588
+740676531,Total non-current assets ($000s),2016,$364
+740676531,Total non-current assets ($000s),2015,$215
+740676531,TOTAL ASSETS ($000s),2024,"$10,274"
+740676531,TOTAL ASSETS ($000s),2023,"$8,533"
+740676531,TOTAL ASSETS ($000s),2022,"$5,447"
+740676531,TOTAL ASSETS ($000s),2021,"$3,951"
+740676531,TOTAL ASSETS ($000s),2020,"$4,104"
+740676531,TOTAL ASSETS ($000s),2019,"$4,950"
+740676531,TOTAL ASSETS ($000s),2018,"$4,647"
+740676531,TOTAL ASSETS ($000s),2017,"$3,891"
+740676531,TOTAL ASSETS ($000s),2016,"$3,265"
+740676531,TOTAL ASSETS ($000s),2015,"$3,001"
+740676531,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2024,"$8,533"
+740676531,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2023,"$5,447"
+740676531,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2022,"$3,951"
+740676531,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2021,"$4,104"
+740676531,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2020,"$4,950"
+740676531,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2019,"$4,647"
+740676531,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2018,"$3,891"
+740676531,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2017,"$3,265"
+740676531,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2016,"$3,001"
+740676531,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2015,"$2,187"
+740676531,Current liabilities,2024,
+740676531,Current liabilities,2023,
+740676531,Current liabilities,2022,
+740676531,Current liabilities,2021,
+740676531,Current liabilities,2020,-
+740676531,Current liabilities,2019,-
+740676531,Current liabilities,2018,-
+740676531,Current liabilities,2017,-
+740676531,Current liabilities,2016,-
+740676531,Current liabilities,2015,-
+740676531,Trade payables ($000s),2024,$416
+740676531,Trade payables ($000s),2023,$425
+740676531,Trade payables ($000s),2022,"$1,047"
+740676531,Trade payables ($000s),2021,$341
+740676531,Trade payables ($000s),2020,$878
+740676531,Trade payables ($000s),2019,$960
+740676531,Trade payables ($000s),2018,"$1,645"
+740676531,Trade payables ($000s),2017,$830
+740676531,Trade payables ($000s),2016,"$1,739"
+740676531,Trade payables ($000s),2015,$974
+740676531,Other payables ($000s),2024,"$3,954"
+740676531,Other payables ($000s),2023,"$4,099"
+740676531,Other payables ($000s),2022,"$3,012"
+740676531,Other payables ($000s),2021,"$3,034"
+740676531,Other payables ($000s),2020,"$2,976"
+740676531,Other payables ($000s),2019,"$2,621"
+740676531,Other payables ($000s),2018,"$1,558"
+740676531,Other payables ($000s),2017,"$1,969"
+740676531,Other payables ($000s),2016,$867
+740676531,Other payables ($000s),2015,$875
+740676531,Overdrafts ($000s),2024,$0
+740676531,Overdrafts ($000s),2023,$0
+740676531,Overdrafts ($000s),2022,$0
+740676531,Overdrafts ($000s),2021,$0
+740676531,Overdrafts ($000s),2020,$0
+740676531,Overdrafts ($000s),2019,$161
+740676531,Overdrafts ($000s),2018,$0
+740676531,Overdrafts ($000s),2017,-
+740676531,Overdrafts ($000s),2016,-
+740676531,Overdrafts ($000s),2015,-
+740676531,Loans - secured ($000s),2024,-
+740676531,Loans - secured ($000s),2023,"$1,040"
+740676531,Loans - secured ($000s),2022,"$1,012"
+740676531,Loans - secured ($000s),2021,-
+740676531,Loans - secured ($000s),2020,-
+740676531,Loans - secured ($000s),2019,"$7,068"
+740676531,Loans - secured ($000s),2018,-
+740676531,Loans - secured ($000s),2017,-
+740676531,Loans - secured ($000s),2016,-
+740676531,Loans - secured ($000s),2015,-
+740676531,Loans - unsecured ($000s),2024,
+740676531,Loans - unsecured ($000s),2023,
+740676531,Loans - unsecured ($000s),2022,
+740676531,Loans - unsecured ($000s),2021,
+740676531,Loans - unsecured ($000s),2020,-
+740676531,Loans - unsecured ($000s),2019,-
+740676531,Loans - unsecured ($000s),2018,-
+740676531,Loans - unsecured ($000s),2017,-
+740676531,Loans - unsecured ($000s),2016,-
+740676531,Loans - unsecured ($000s),2015,-
+740676531,Obligations under finance leases and hire purchase ($000s),2024,$35
+740676531,Obligations under finance leases and hire purchase ($000s),2023,$28
+740676531,Obligations under finance leases and hire purchase ($000s),2022,$23
+740676531,Obligations under finance leases and hire purchase ($000s),2021,$17
+740676531,Obligations under finance leases and hire purchase ($000s),2020,$8
+740676531,Obligations under finance leases and hire purchase ($000s),2019,$140
+740676531,Obligations under finance leases and hire purchase ($000s),2018,$121
+740676531,Obligations under finance leases and hire purchase ($000s),2017,-
+740676531,Obligations under finance leases and hire purchase ($000s),2016,-
+740676531,Obligations under finance leases and hire purchase ($000s),2015,-
+740676531,Loans from related parties ($000s),2024,-
+740676531,Loans from related parties ($000s),2023,-
+740676531,Loans from related parties ($000s),2022,-
+740676531,Loans from related parties ($000s),2021,"$1,758"
+740676531,Loans from related parties ($000s),2020,"$2,752"
+740676531,Loans from related parties ($000s),2019,-
+740676531,Loans from related parties ($000s),2018,"$6,386"
+740676531,Loans from related parties ($000s),2017,"$3,970"
+740676531,Loans from related parties ($000s),2016,"$2,271"
+740676531,Loans from related parties ($000s),2015,"$2,392"
+740676531,Total current interest-bearing loans and borrowings ($000s),2024,$35
+740676531,Total current interest-bearing loans and borrowings ($000s),2023,"$1,068"
+740676531,Total current interest-bearing loans and borrowings ($000s),2022,"$1,036"
+740676531,Total current interest-bearing loans and borrowings ($000s),2021,"$1,774"
+740676531,Total current interest-bearing loans and borrowings ($000s),2020,"$2,761"
+740676531,Total current interest-bearing loans and borrowings ($000s),2019,"$7,368"
+740676531,Total current interest-bearing loans and borrowings ($000s),2018,"$6,507"
+740676531,Total current interest-bearing loans and borrowings ($000s),2017,"$3,970"
+740676531,Total current interest-bearing loans and borrowings ($000s),2016,"$2,271"
+740676531,Total current interest-bearing loans and borrowings ($000s),2015,"$2,392"
+740676531,Income tax payable/(refundable) ($000s),2024,$339
+740676531,Income tax payable/(refundable) ($000s),2023,$404
+740676531,Income tax payable/(refundable) ($000s),2022,$182
+740676531,Income tax payable/(refundable) ($000s),2021,$616
+740676531,Income tax payable/(refundable) ($000s),2020,"$1,050"
+740676531,Income tax payable/(refundable) ($000s),2019,-
+740676531,Income tax payable/(refundable) ($000s),2018,-
+740676531,Income tax payable/(refundable) ($000s),2017,-
+740676531,Income tax payable/(refundable) ($000s),2016,-
+740676531,Income tax payable/(refundable) ($000s),2015,-
+740676531,Provisions ($000s),2024,$285
+740676531,Provisions ($000s),2023,$312
+740676531,Provisions ($000s),2022,$240
+740676531,Provisions ($000s),2021,$265
+740676531,Provisions ($000s),2020,$232
+740676531,Provisions ($000s),2019,$183
+740676531,Provisions ($000s),2018,$134
+740676531,Provisions ($000s),2017,$213
+740676531,Provisions ($000s),2016,$168
+740676531,Provisions ($000s),2015,$132
+740676531,Other current liabilities ($000s),2024,$0
+740676531,Other current liabilities ($000s),2023,$0
+740676531,Other current liabilities ($000s),2022,$0
+740676531,Other current liabilities ($000s),2021,$0
+740676531,Other current liabilities ($000s),2020,$0
+740676531,Other current liabilities ($000s),2019,$0
+740676531,Other current liabilities ($000s),2018,$0
+740676531,Other current liabilities ($000s),2017,$0
+740676531,Other current liabilities ($000s),2016,$0
+740676531,Other current liabilities ($000s),2015,$0
+740676531,Total current liabilities for continuing operations ($000s),2024,"$5,028"
+740676531,Total current liabilities for continuing operations ($000s),2023,"$6,308"
+740676531,Total current liabilities for continuing operations ($000s),2022,"$5,517"
+740676531,Total current liabilities for continuing operations ($000s),2021,"$6,030"
+740676531,Total current liabilities for continuing operations ($000s),2020,"$7,896"
+740676531,Total current liabilities for continuing operations ($000s),2019,"$11,131"
+740676531,Total current liabilities for continuing operations ($000s),2018,"$9,844"
+740676531,Total current liabilities for continuing operations ($000s),2017,"$6,982"
+740676531,Total current liabilities for continuing operations ($000s),2016,"$5,046"
+740676531,Total current liabilities for continuing operations ($000s),2015,"$4,373"
+740676531,Liabilities directly associated with assets held for sale ($000s),2024,
+740676531,Liabilities directly associated with assets held for sale ($000s),2023,
+740676531,Liabilities directly associated with assets held for sale ($000s),2022,
+740676531,Liabilities directly associated with assets held for sale ($000s),2021,
+740676531,Liabilities directly associated with assets held for sale ($000s),2020,-
+740676531,Liabilities directly associated with assets held for sale ($000s),2019,-
+740676531,Liabilities directly associated with assets held for sale ($000s),2018,-
+740676531,Liabilities directly associated with assets held for sale ($000s),2017,-
+740676531,Liabilities directly associated with assets held for sale ($000s),2016,-
+740676531,Liabilities directly associated with assets held for sale ($000s),2015,-
+740676531,Total current liabilities ($000s),2024,"$5,028"
+740676531,Total current liabilities ($000s),2023,"$6,308"
+740676531,Total current liabilities ($000s),2022,"$5,517"
+740676531,Total current liabilities ($000s),2021,"$6,030"
+740676531,Total current liabilities ($000s),2020,"$7,896"
+740676531,Total current liabilities ($000s),2019,"$11,131"
+740676531,Total current liabilities ($000s),2018,"$9,844"
+740676531,Total current liabilities ($000s),2017,"$6,982"
+740676531,Total current liabilities ($000s),2016,"$5,046"
+740676531,Total current liabilities ($000s),2015,"$4,373"
+740676531,Total current liabilities for previous year ($000s),2024,"$6,308"
+740676531,Total current liabilities for previous year ($000s),2023,"$5,517"
+740676531,Total current liabilities for previous year ($000s),2022,"$6,030"
+740676531,Total current liabilities for previous year ($000s),2021,"$7,896"
+740676531,Total current liabilities for previous year ($000s),2020,"$11,131"
+740676531,Total current liabilities for previous year ($000s),2019,"$9,844"
+740676531,Total current liabilities for previous year ($000s),2018,"$6,982"
+740676531,Total current liabilities for previous year ($000s),2017,"$5,046"
+740676531,Total current liabilities for previous year ($000s),2016,"$4,373"
+740676531,Total current liabilities for previous year ($000s),2015,"$3,067"
+740676531,Non-current liabilities,2024,
+740676531,Non-current liabilities,2023,
+740676531,Non-current liabilities,2022,
+740676531,Non-current liabilities,2021,
+740676531,Non-current liabilities,2020,-
+740676531,Non-current liabilities,2019,-
+740676531,Non-current liabilities,2018,-
+740676531,Non-current liabilities,2017,-
+740676531,Non-current liabilities,2016,-
+740676531,Non-current liabilities,2015,-
+740676531,Total non-current interest-bearing loans and borrowings ($000s),2024,$17
+740676531,Total non-current interest-bearing loans and borrowings ($000s),2023,$39
+740676531,Total non-current interest-bearing loans and borrowings ($000s),2022,$62
+740676531,Total non-current interest-bearing loans and borrowings ($000s),2021,$34
+740676531,Total non-current interest-bearing loans and borrowings ($000s),2020,$30
+740676531,Total non-current interest-bearing loans and borrowings ($000s),2019,-
+740676531,Total non-current interest-bearing loans and borrowings ($000s),2018,$7
+740676531,Total non-current interest-bearing loans and borrowings ($000s),2017,-
+740676531,Total non-current interest-bearing loans and borrowings ($000s),2016,-
+740676531,Total non-current interest-bearing loans and borrowings ($000s),2015,-
+740676531,Deferred tax liabilities ($000s),2024,$19
+740676531,Deferred tax liabilities ($000s),2023,$32
+740676531,Deferred tax liabilities ($000s),2022,$19
+740676531,Deferred tax liabilities ($000s),2021,$12
+740676531,Deferred tax liabilities ($000s),2020,$10
+740676531,Deferred tax liabilities ($000s),2019,$11
+740676531,Deferred tax liabilities ($000s),2018,$9
+740676531,Deferred tax liabilities ($000s),2017,$2
+740676531,Deferred tax liabilities ($000s),2016,$0
+740676531,Deferred tax liabilities ($000s),2015,-
+740676531,Convertible redeemable preference shares ($000s),2024,
+740676531,Convertible redeemable preference shares ($000s),2023,
+740676531,Convertible redeemable preference shares ($000s),2022,
+740676531,Convertible redeemable preference shares ($000s),2021,
+740676531,Convertible redeemable preference shares ($000s),2020,-
+740676531,Convertible redeemable preference shares ($000s),2019,-
+740676531,Convertible redeemable preference shares ($000s),2018,-
+740676531,Convertible redeemable preference shares ($000s),2017,-
+740676531,Convertible redeemable preference shares ($000s),2016,-
+740676531,Convertible redeemable preference shares ($000s),2015,-
+740676531,Other non-current liabilities ($000s),2024,$0
+740676531,Other non-current liabilities ($000s),2023,$0
+740676531,Other non-current liabilities ($000s),2022,$0
+740676531,Other non-current liabilities ($000s),2021,$0
+740676531,Other non-current liabilities ($000s),2020,$0
+740676531,Other non-current liabilities ($000s),2019,$0
+740676531,Other non-current liabilities ($000s),2018,$0
+740676531,Other non-current liabilities ($000s),2017,$0
+740676531,Other non-current liabilities ($000s),2016,$0
+740676531,Other non-current liabilities ($000s),2015,$0
+740676531,Total non-current liabilities ($000s),2024,$396
+740676531,Total non-current liabilities ($000s),2023,$273
+740676531,Total non-current liabilities ($000s),2022,$213
+740676531,Total non-current liabilities ($000s),2021,$152
+740676531,Total non-current liabilities ($000s),2020,$118
+740676531,Total non-current liabilities ($000s),2019,$63
+740676531,Total non-current liabilities ($000s),2018,$88
+740676531,Total non-current liabilities ($000s),2017,$36
+740676531,Total non-current liabilities ($000s),2016,$93
+740676531,Total non-current liabilities ($000s),2015,$85
+740676531,TOTAL LIABILITIES ($000s),2024,"$5,424"
+740676531,TOTAL LIABILITIES ($000s),2023,"$6,581"
+740676531,TOTAL LIABILITIES ($000s),2022,"$5,730"
+740676531,TOTAL LIABILITIES ($000s),2021,"$6,182"
+740676531,TOTAL LIABILITIES ($000s),2020,"$8,014"
+740676531,TOTAL LIABILITIES ($000s),2019,"$11,195"
+740676531,TOTAL LIABILITIES ($000s),2018,"$9,932"
+740676531,TOTAL LIABILITIES ($000s),2017,"$7,019"
+740676531,TOTAL LIABILITIES ($000s),2016,"$5,138"
+740676531,TOTAL LIABILITIES ($000s),2015,"$4,458"
+740676531,NET ASSETS ($000s),2024,"$4,850"
+740676531,NET ASSETS ($000s),2023,"$1,952"
+740676531,NET ASSETS ($000s),2022,($283)
+740676531,NET ASSETS ($000s),2021,"($2,231)"
+740676531,NET ASSETS ($000s),2020,"($3,911)"
+740676531,NET ASSETS ($000s),2019,"($6,245)"
+740676531,NET ASSETS ($000s),2018,"($5,285)"
+740676531,NET ASSETS ($000s),2017,"($3,128)"
+740676531,NET ASSETS ($000s),2016,"($1,874)"
+740676531,NET ASSETS ($000s),2015,"($1,457)"
+740676531,Equity,2024,
+740676531,Equity,2023,
+740676531,Equity,2022,
+740676531,Equity,2021,
+740676531,Equity,2020,-
+740676531,Equity,2019,-
+740676531,Equity,2018,-
+740676531,Equity,2017,-
+740676531,Equity,2016,-
+740676531,Equity,2015,-
+740676531,Equity attributable to equity holders of the parent,2024,
+740676531,Equity attributable to equity holders of the parent,2023,
+740676531,Equity attributable to equity holders of the parent,2022,
+740676531,Equity attributable to equity holders of the parent,2021,
+740676531,Equity attributable to equity holders of the parent,2020,-
+740676531,Equity attributable to equity holders of the parent,2019,-
+740676531,Equity attributable to equity holders of the parent,2018,-
+740676531,Equity attributable to equity holders of the parent,2017,-
+740676531,Equity attributable to equity holders of the parent,2016,-
+740676531,Equity attributable to equity holders of the parent,2015,-
+740676531,Contributed equity ($000s),2024,"$2,700"
+740676531,Contributed equity ($000s),2023,"$2,700"
+740676531,Contributed equity ($000s),2022,"$2,700"
+740676531,Contributed equity ($000s),2021,"$2,700"
+740676531,Contributed equity ($000s),2020,"$2,700"
+740676531,Contributed equity ($000s),2019,"$2,700"
+740676531,Contributed equity ($000s),2018,"$2,700"
+740676531,Contributed equity ($000s),2017,"$2,700"
+740676531,Contributed equity ($000s),2016,"$2,700"
+740676531,Contributed equity ($000s),2015,"$2,700"
+740676531,Retained earnings ($000s),2024,"$2,132"
+740676531,Retained earnings ($000s),2023,($755)
+740676531,Retained earnings ($000s),2022,"($2,984)"
+740676531,Retained earnings ($000s),2021,"($4,931)"
+740676531,Retained earnings ($000s),2020,"($6,611)"
+740676531,Retained earnings ($000s),2019,"($8,949)"
+740676531,Retained earnings ($000s),2018,"($7,985)"
+740676531,Retained earnings ($000s),2017,"($5,828)"
+740676531,Retained earnings ($000s),2016,"($4,574)"
+740676531,Retained earnings ($000s),2015,"($4,157)"
+740676531,Reserves ($000s),2024,$18
+740676531,Reserves ($000s),2023,$7
+740676531,Reserves ($000s),2022,$1
+740676531,Reserves ($000s),2021,$0
+740676531,Reserves ($000s),2020,$0
+740676531,Reserves ($000s),2019,$5
+740676531,Reserves ($000s),2018,$0
+740676531,Reserves ($000s),2017,$0
+740676531,Reserves ($000s),2016,$0
+740676531,Reserves ($000s),2015,$0
+740676531,Total Parent interests ($000s),2024,"$4,850"
+740676531,Total Parent interests ($000s),2023,"$1,952"
+740676531,Total Parent interests ($000s),2022,($283)
+740676531,Total Parent interests ($000s),2021,"($2,231)"
+740676531,Total Parent interests ($000s),2020,"($3,911)"
+740676531,Total Parent interests ($000s),2019,"($6,245)"
+740676531,Total Parent interests ($000s),2018,"($5,285)"
+740676531,Total Parent interests ($000s),2017,"($3,128)"
+740676531,Total Parent interests ($000s),2016,"($1,874)"
+740676531,Total Parent interests ($000s),2015,"($1,457)"
+740676531,Minority interests ($000s),2024,
+740676531,Minority interests ($000s),2023,
+740676531,Minority interests ($000s),2022,
+740676531,Minority interests ($000s),2021,
+740676531,Minority interests ($000s),2020,-
+740676531,Minority interests ($000s),2019,-
+740676531,Minority interests ($000s),2018,-
+740676531,Minority interests ($000s),2017,-
+740676531,Minority interests ($000s),2016,-
+740676531,Minority interests ($000s),2015,-
+740676531,TOTAL EQUITY ($000s),2024,"$4,850"
+740676531,TOTAL EQUITY ($000s),2023,"$1,952"
+740676531,TOTAL EQUITY ($000s),2022,($283)
+740676531,TOTAL EQUITY ($000s),2021,"($2,231)"
+740676531,TOTAL EQUITY ($000s),2020,"($3,911)"
+740676531,TOTAL EQUITY ($000s),2019,"($6,245)"
+740676531,TOTAL EQUITY ($000s),2018,"($5,285)"
+740676531,TOTAL EQUITY ($000s),2017,"($3,128)"
+740676531,TOTAL EQUITY ($000s),2016,"($1,874)"
+740676531,TOTAL EQUITY ($000s),2015,"($1,457)"
+740676531,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2024,"$1,952"
+740676531,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2023,($283)
+740676531,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2022,"($2,231)"
+740676531,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2021,"($3,911)"
+740676531,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2020,"($6,245)"
+740676531,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2019,"($5,285)"
+740676531,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2018,"($3,128)"
+740676531,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2017,"($1,874)"
+740676531,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2016,"($1,457)"
+740676531,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2015,"($1,030)"

@@ -1,0 +1,601 @@
+duns,line_item,year,value
+752290858,Current Assets,2023,
+752290858,Current Assets,2022,
+752290858,Current Assets,2021,
+752290858,Current Assets,2020,
+752290858,Current Assets,2019,-
+752290858,Current Assets,2018,-
+752290858,Current Assets,2017,-
+752290858,Current Assets,2016,-
+752290858,Current Assets,2015,-
+752290858,Current Assets,2014,-
+752290858,Cash and cash equivalents ($000s),2023,"$20,938"
+752290858,Cash and cash equivalents ($000s),2022,"$19,435"
+752290858,Cash and cash equivalents ($000s),2021,"$19,231"
+752290858,Cash and cash equivalents ($000s),2020,"$18,489"
+752290858,Cash and cash equivalents ($000s),2019,"$21,638"
+752290858,Cash and cash equivalents ($000s),2018,"$20,130"
+752290858,Cash and cash equivalents ($000s),2017,"$20,887"
+752290858,Cash and cash equivalents ($000s),2016,"$17,406"
+752290858,Cash and cash equivalents ($000s),2015,"$18,036"
+752290858,Cash and cash equivalents ($000s),2014,"$19,728"
+752290858,Growth,2023,7.73%
+752290858,Growth,2022,1.06%
+752290858,Growth,2021,4.01%
+752290858,Growth,2020,(14.55%)
+752290858,Growth,2019,7.49%
+752290858,Growth,2018,(3.62%)
+752290858,Growth,2017,20.00%
+752290858,Growth,2016,(3.49%)
+752290858,Growth,2015,(8.58%)
+752290858,Growth,2014,-
+752290858,Trade receivables ($000s),2023,
+752290858,Trade receivables ($000s),2022,
+752290858,Trade receivables ($000s),2021,
+752290858,Trade receivables ($000s),2020,
+752290858,Trade receivables ($000s),2019,-
+752290858,Trade receivables ($000s),2018,-
+752290858,Trade receivables ($000s),2017,-
+752290858,Trade receivables ($000s),2016,-
+752290858,Trade receivables ($000s),2015,-
+752290858,Trade receivables ($000s),2014,-
+752290858,Other receivables ($000s),2023,$82
+752290858,Other receivables ($000s),2022,$38
+752290858,Other receivables ($000s),2021,$340
+752290858,Other receivables ($000s),2020,"$2,285"
+752290858,Other receivables ($000s),2019,$341
+752290858,Other receivables ($000s),2018,$55
+752290858,Other receivables ($000s),2017,$55
+752290858,Other receivables ($000s),2016,$47
+752290858,Other receivables ($000s),2015,$74
+752290858,Other receivables ($000s),2014,$59
+752290858,Raw materials ($000s),2023,$0
+752290858,Raw materials ($000s),2022,$0
+752290858,Raw materials ($000s),2021,$0
+752290858,Raw materials ($000s),2020,$0
+752290858,Raw materials ($000s),2019,$0
+752290858,Raw materials ($000s),2018,$0
+752290858,Raw materials ($000s),2017,$0
+752290858,Raw materials ($000s),2016,$0
+752290858,Raw materials ($000s),2015,$0
+752290858,Raw materials ($000s),2014,$0
+752290858,Work-in-progress ($000s),2023,
+752290858,Work-in-progress ($000s),2022,
+752290858,Work-in-progress ($000s),2021,
+752290858,Work-in-progress ($000s),2020,
+752290858,Work-in-progress ($000s),2019,-
+752290858,Work-in-progress ($000s),2018,-
+752290858,Work-in-progress ($000s),2017,-
+752290858,Work-in-progress ($000s),2016,-
+752290858,Work-in-progress ($000s),2015,-
+752290858,Work-in-progress ($000s),2014,-
+752290858,Finished goods ($000s),2023,$0
+752290858,Finished goods ($000s),2022,$0
+752290858,Finished goods ($000s),2021,$0
+752290858,Finished goods ($000s),2020,$0
+752290858,Finished goods ($000s),2019,$0
+752290858,Finished goods ($000s),2018,$0
+752290858,Finished goods ($000s),2017,$0
+752290858,Finished goods ($000s),2016,$0
+752290858,Finished goods ($000s),2015,$0
+752290858,Finished goods ($000s),2014,$0
+752290858,Total inventories ($000s),2023,$0
+752290858,Total inventories ($000s),2022,$0
+752290858,Total inventories ($000s),2021,$0
+752290858,Total inventories ($000s),2020,$0
+752290858,Total inventories ($000s),2019,$0
+752290858,Total inventories ($000s),2018,$0
+752290858,Total inventories ($000s),2017,$0
+752290858,Total inventories ($000s),2016,$0
+752290858,Total inventories ($000s),2015,$0
+752290858,Total inventories ($000s),2014,$0
+752290858,Prepayments ($000s),2023,
+752290858,Prepayments ($000s),2022,
+752290858,Prepayments ($000s),2021,
+752290858,Prepayments ($000s),2020,
+752290858,Prepayments ($000s),2019,-
+752290858,Prepayments ($000s),2018,-
+752290858,Prepayments ($000s),2017,-
+752290858,Prepayments ($000s),2016,-
+752290858,Prepayments ($000s),2015,-
+752290858,Prepayments ($000s),2014,-
+752290858,Derivative financial instruments ($000s),2023,
+752290858,Derivative financial instruments ($000s),2022,
+752290858,Derivative financial instruments ($000s),2021,
+752290858,Derivative financial instruments ($000s),2020,
+752290858,Derivative financial instruments ($000s),2019,-
+752290858,Derivative financial instruments ($000s),2018,-
+752290858,Derivative financial instruments ($000s),2017,-
+752290858,Derivative financial instruments ($000s),2016,-
+752290858,Derivative financial instruments ($000s),2015,-
+752290858,Derivative financial instruments ($000s),2014,-
+752290858,Other current assets ($000s),2023,$152
+752290858,Other current assets ($000s),2022,$0
+752290858,Other current assets ($000s),2021,$272
+752290858,Other current assets ($000s),2020,$75
+752290858,Other current assets ($000s),2019,"$5,577"
+752290858,Other current assets ($000s),2018,"$5,658"
+752290858,Other current assets ($000s),2017,"$4,321"
+752290858,Other current assets ($000s),2016,"$11,412"
+752290858,Other current assets ($000s),2015,"$5,845"
+752290858,Other current assets ($000s),2014,"$3,762"
+752290858,Total current assets for continuing operations ($000s),2023,"$21,172"
+752290858,Total current assets for continuing operations ($000s),2022,"$19,473"
+752290858,Total current assets for continuing operations ($000s),2021,"$19,843"
+752290858,Total current assets for continuing operations ($000s),2020,"$20,849"
+752290858,Total current assets for continuing operations ($000s),2019,"$27,556"
+752290858,Total current assets for continuing operations ($000s),2018,"$25,843"
+752290858,Total current assets for continuing operations ($000s),2017,"$25,263"
+752290858,Total current assets for continuing operations ($000s),2016,"$28,865"
+752290858,Total current assets for continuing operations ($000s),2015,"$23,955"
+752290858,Total current assets for continuing operations ($000s),2014,"$23,549"
+752290858,Assets held for sale ($000s),2023,
+752290858,Assets held for sale ($000s),2022,
+752290858,Assets held for sale ($000s),2021,
+752290858,Assets held for sale ($000s),2020,
+752290858,Assets held for sale ($000s),2019,-
+752290858,Assets held for sale ($000s),2018,-
+752290858,Assets held for sale ($000s),2017,-
+752290858,Assets held for sale ($000s),2016,-
+752290858,Assets held for sale ($000s),2015,-
+752290858,Assets held for sale ($000s),2014,-
+752290858,Total current assets ($000s),2023,"$21,172"
+752290858,Total current assets ($000s),2022,"$19,473"
+752290858,Total current assets ($000s),2021,"$19,843"
+752290858,Total current assets ($000s),2020,"$20,849"
+752290858,Total current assets ($000s),2019,"$27,556"
+752290858,Total current assets ($000s),2018,"$25,843"
+752290858,Total current assets ($000s),2017,"$25,263"
+752290858,Total current assets ($000s),2016,"$28,865"
+752290858,Total current assets ($000s),2015,"$23,955"
+752290858,Total current assets ($000s),2014,"$23,549"
+752290858,Non-current assets,2023,
+752290858,Non-current assets,2022,
+752290858,Non-current assets,2021,
+752290858,Non-current assets,2020,
+752290858,Non-current assets,2019,-
+752290858,Non-current assets,2018,-
+752290858,Non-current assets,2017,-
+752290858,Non-current assets,2016,-
+752290858,Non-current assets,2015,-
+752290858,Non-current assets,2014,-
+752290858,Receivables ($000s),2023,
+752290858,Receivables ($000s),2022,
+752290858,Receivables ($000s),2021,
+752290858,Receivables ($000s),2020,
+752290858,Receivables ($000s),2019,-
+752290858,Receivables ($000s),2018,-
+752290858,Receivables ($000s),2017,-
+752290858,Receivables ($000s),2016,-
+752290858,Receivables ($000s),2015,-
+752290858,Receivables ($000s),2014,-
+752290858,Investments in associates ($000s),2023,$0
+752290858,Investments in associates ($000s),2022,$0
+752290858,Investments in associates ($000s),2021,$0
+752290858,Investments in associates ($000s),2020,$0
+752290858,Investments in associates ($000s),2019,$0
+752290858,Investments in associates ($000s),2018,$0
+752290858,Investments in associates ($000s),2017,$0
+752290858,Investments in associates ($000s),2016,$0
+752290858,Investments in associates ($000s),2015,$0
+752290858,Investments in associates ($000s),2014,$0
+752290858,Investments in subsidiaries ($000s),2023,
+752290858,Investments in subsidiaries ($000s),2022,
+752290858,Investments in subsidiaries ($000s),2021,
+752290858,Investments in subsidiaries ($000s),2020,
+752290858,Investments in subsidiaries ($000s),2019,-
+752290858,Investments in subsidiaries ($000s),2018,-
+752290858,Investments in subsidiaries ($000s),2017,-
+752290858,Investments in subsidiaries ($000s),2016,-
+752290858,Investments in subsidiaries ($000s),2015,-
+752290858,Investments in subsidiaries ($000s),2014,-
+752290858,Available for sale financial assets ($000s),2023,$0
+752290858,Available for sale financial assets ($000s),2022,$0
+752290858,Available for sale financial assets ($000s),2021,$0
+752290858,Available for sale financial assets ($000s),2020,$0
+752290858,Available for sale financial assets ($000s),2019,$0
+752290858,Available for sale financial assets ($000s),2018,$0
+752290858,Available for sale financial assets ($000s),2017,$0
+752290858,Available for sale financial assets ($000s),2016,$0
+752290858,Available for sale financial assets ($000s),2015,$0
+752290858,Available for sale financial assets ($000s),2014,$0
+752290858,"Property, plant and equipment ($000s)",2023,
+752290858,"Property, plant and equipment ($000s)",2022,
+752290858,"Property, plant and equipment ($000s)",2021,
+752290858,"Property, plant and equipment ($000s)",2020,
+752290858,"Property, plant and equipment ($000s)",2019,-
+752290858,"Property, plant and equipment ($000s)",2018,-
+752290858,"Property, plant and equipment ($000s)",2017,-
+752290858,"Property, plant and equipment ($000s)",2016,-
+752290858,"Property, plant and equipment ($000s)",2015,-
+752290858,"Property, plant and equipment ($000s)",2014,-
+752290858,Intangible assets and goodwill ($000s),2023,$0
+752290858,Intangible assets and goodwill ($000s),2022,$0
+752290858,Intangible assets and goodwill ($000s),2021,$0
+752290858,Intangible assets and goodwill ($000s),2020,$0
+752290858,Intangible assets and goodwill ($000s),2019,$0
+752290858,Intangible assets and goodwill ($000s),2018,$0
+752290858,Intangible assets and goodwill ($000s),2017,$0
+752290858,Intangible assets and goodwill ($000s),2016,$0
+752290858,Intangible assets and goodwill ($000s),2015,$0
+752290858,Intangible assets and goodwill ($000s),2014,$0
+752290858,Deferred tax assets ($000s),2023,
+752290858,Deferred tax assets ($000s),2022,
+752290858,Deferred tax assets ($000s),2021,
+752290858,Deferred tax assets ($000s),2020,
+752290858,Deferred tax assets ($000s),2019,-
+752290858,Deferred tax assets ($000s),2018,-
+752290858,Deferred tax assets ($000s),2017,-
+752290858,Deferred tax assets ($000s),2016,-
+752290858,Deferred tax assets ($000s),2015,-
+752290858,Deferred tax assets ($000s),2014,-
+752290858,Other non-current assets ($000s),2023,$0
+752290858,Other non-current assets ($000s),2022,$0
+752290858,Other non-current assets ($000s),2021,$0
+752290858,Other non-current assets ($000s),2020,$0
+752290858,Other non-current assets ($000s),2019,$0
+752290858,Other non-current assets ($000s),2018,$0
+752290858,Other non-current assets ($000s),2017,$0
+752290858,Other non-current assets ($000s),2016,$0
+752290858,Other non-current assets ($000s),2015,$0
+752290858,Other non-current assets ($000s),2014,$0
+752290858,Total non-current assets ($000s),2023,
+752290858,Total non-current assets ($000s),2022,
+752290858,Total non-current assets ($000s),2021,
+752290858,Total non-current assets ($000s),2020,
+752290858,Total non-current assets ($000s),2019,-
+752290858,Total non-current assets ($000s),2018,-
+752290858,Total non-current assets ($000s),2017,-
+752290858,Total non-current assets ($000s),2016,-
+752290858,Total non-current assets ($000s),2015,-
+752290858,Total non-current assets ($000s),2014,-
+752290858,TOTAL ASSETS ($000s),2023,"$21,172"
+752290858,TOTAL ASSETS ($000s),2022,"$19,473"
+752290858,TOTAL ASSETS ($000s),2021,"$19,843"
+752290858,TOTAL ASSETS ($000s),2020,"$20,849"
+752290858,TOTAL ASSETS ($000s),2019,"$27,556"
+752290858,TOTAL ASSETS ($000s),2018,"$25,843"
+752290858,TOTAL ASSETS ($000s),2017,"$25,263"
+752290858,TOTAL ASSETS ($000s),2016,"$28,865"
+752290858,TOTAL ASSETS ($000s),2015,"$23,955"
+752290858,TOTAL ASSETS ($000s),2014,"$23,549"
+752290858,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2023,"$19,473"
+752290858,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2022,"$19,843"
+752290858,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2021,"$20,849"
+752290858,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2020,"$27,556"
+752290858,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2019,"$25,843"
+752290858,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2018,"$25,263"
+752290858,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2017,"$28,865"
+752290858,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2016,"$23,955"
+752290858,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2015,"$23,549"
+752290858,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2014,"$290,304"
+752290858,Current liabilities,2023,
+752290858,Current liabilities,2022,
+752290858,Current liabilities,2021,
+752290858,Current liabilities,2020,
+752290858,Current liabilities,2019,-
+752290858,Current liabilities,2018,-
+752290858,Current liabilities,2017,-
+752290858,Current liabilities,2016,-
+752290858,Current liabilities,2015,-
+752290858,Current liabilities,2014,-
+752290858,Trade payables ($000s),2023,
+752290858,Trade payables ($000s),2022,
+752290858,Trade payables ($000s),2021,
+752290858,Trade payables ($000s),2020,
+752290858,Trade payables ($000s),2019,-
+752290858,Trade payables ($000s),2018,-
+752290858,Trade payables ($000s),2017,-
+752290858,Trade payables ($000s),2016,-
+752290858,Trade payables ($000s),2015,-
+752290858,Trade payables ($000s),2014,-
+752290858,Other payables ($000s),2023,$123
+752290858,Other payables ($000s),2022,-
+752290858,Other payables ($000s),2021,-
+752290858,Other payables ($000s),2020,-
+752290858,Other payables ($000s),2019,-
+752290858,Other payables ($000s),2018,-
+752290858,Other payables ($000s),2017,"$2,289"
+752290858,Other payables ($000s),2016,-
+752290858,Other payables ($000s),2015,-
+752290858,Other payables ($000s),2014,-
+752290858,Overdrafts ($000s),2023,
+752290858,Overdrafts ($000s),2022,
+752290858,Overdrafts ($000s),2021,
+752290858,Overdrafts ($000s),2020,
+752290858,Overdrafts ($000s),2019,-
+752290858,Overdrafts ($000s),2018,-
+752290858,Overdrafts ($000s),2017,-
+752290858,Overdrafts ($000s),2016,-
+752290858,Overdrafts ($000s),2015,-
+752290858,Overdrafts ($000s),2014,-
+752290858,Loans - secured ($000s),2023,
+752290858,Loans - secured ($000s),2022,
+752290858,Loans - secured ($000s),2021,
+752290858,Loans - secured ($000s),2020,
+752290858,Loans - secured ($000s),2019,-
+752290858,Loans - secured ($000s),2018,-
+752290858,Loans - secured ($000s),2017,-
+752290858,Loans - secured ($000s),2016,-
+752290858,Loans - secured ($000s),2015,-
+752290858,Loans - secured ($000s),2014,-
+752290858,Loans - unsecured ($000s),2023,
+752290858,Loans - unsecured ($000s),2022,
+752290858,Loans - unsecured ($000s),2021,
+752290858,Loans - unsecured ($000s),2020,
+752290858,Loans - unsecured ($000s),2019,-
+752290858,Loans - unsecured ($000s),2018,-
+752290858,Loans - unsecured ($000s),2017,-
+752290858,Loans - unsecured ($000s),2016,-
+752290858,Loans - unsecured ($000s),2015,-
+752290858,Loans - unsecured ($000s),2014,-
+752290858,Obligations under finance leases and hire purchase ($000s),2023,"$17,345"
+752290858,Obligations under finance leases and hire purchase ($000s),2022,-
+752290858,Obligations under finance leases and hire purchase ($000s),2021,-
+752290858,Obligations under finance leases and hire purchase ($000s),2020,-
+752290858,Obligations under finance leases and hire purchase ($000s),2019,-
+752290858,Obligations under finance leases and hire purchase ($000s),2018,-
+752290858,Obligations under finance leases and hire purchase ($000s),2017,-
+752290858,Obligations under finance leases and hire purchase ($000s),2016,-
+752290858,Obligations under finance leases and hire purchase ($000s),2015,-
+752290858,Obligations under finance leases and hire purchase ($000s),2014,-
+752290858,Loans from related parties ($000s),2023,-
+752290858,Loans from related parties ($000s),2022,"$16,908"
+752290858,Loans from related parties ($000s),2021,"$17,054"
+752290858,Loans from related parties ($000s),2020,-
+752290858,Loans from related parties ($000s),2019,"$20,965"
+752290858,Loans from related parties ($000s),2018,"$20,263"
+752290858,Loans from related parties ($000s),2017,"$20,263"
+752290858,Loans from related parties ($000s),2016,"$21,071"
+752290858,Loans from related parties ($000s),2015,"$19,510"
+752290858,Loans from related parties ($000s),2014,-
+752290858,Total current interest-bearing loans and borrowings ($000s),2023,"$17,345"
+752290858,Total current interest-bearing loans and borrowings ($000s),2022,"$16,908"
+752290858,Total current interest-bearing loans and borrowings ($000s),2021,"$17,054"
+752290858,Total current interest-bearing loans and borrowings ($000s),2020,-
+752290858,Total current interest-bearing loans and borrowings ($000s),2019,"$20,965"
+752290858,Total current interest-bearing loans and borrowings ($000s),2018,"$20,263"
+752290858,Total current interest-bearing loans and borrowings ($000s),2017,"$20,263"
+752290858,Total current interest-bearing loans and borrowings ($000s),2016,"$21,071"
+752290858,Total current interest-bearing loans and borrowings ($000s),2015,"$19,510"
+752290858,Total current interest-bearing loans and borrowings ($000s),2014,-
+752290858,Income tax payable/(refundable) ($000s),2023,$560
+752290858,Income tax payable/(refundable) ($000s),2022,-
+752290858,Income tax payable/(refundable) ($000s),2021,-
+752290858,Income tax payable/(refundable) ($000s),2020,-
+752290858,Income tax payable/(refundable) ($000s),2019,-
+752290858,Income tax payable/(refundable) ($000s),2018,-
+752290858,Income tax payable/(refundable) ($000s),2017,-
+752290858,Income tax payable/(refundable) ($000s),2016,-
+752290858,Income tax payable/(refundable) ($000s),2015,-
+752290858,Income tax payable/(refundable) ($000s),2014,-
+752290858,Provisions ($000s),2023,$0
+752290858,Provisions ($000s),2022,$190
+752290858,Provisions ($000s),2021,$477
+752290858,Provisions ($000s),2020,$15
+752290858,Provisions ($000s),2019,$49
+752290858,Provisions ($000s),2018,"$3,011"
+752290858,Provisions ($000s),2017,$0
+752290858,Provisions ($000s),2016,"$2,041"
+752290858,Provisions ($000s),2015,"$2,106"
+752290858,Provisions ($000s),2014,"$1,724"
+752290858,Other current liabilities ($000s),2023,$0
+752290858,Other current liabilities ($000s),2022,$0
+752290858,Other current liabilities ($000s),2021,$0
+752290858,Other current liabilities ($000s),2020,"$17,055"
+752290858,Other current liabilities ($000s),2019,$0
+752290858,Other current liabilities ($000s),2018,$0
+752290858,Other current liabilities ($000s),2017,$0
+752290858,Other current liabilities ($000s),2016,$0
+752290858,Other current liabilities ($000s),2015,$0
+752290858,Other current liabilities ($000s),2014,"$19,208"
+752290858,Total current liabilities for continuing operations ($000s),2023,"$18,028"
+752290858,Total current liabilities for continuing operations ($000s),2022,"$17,098"
+752290858,Total current liabilities for continuing operations ($000s),2021,"$17,531"
+752290858,Total current liabilities for continuing operations ($000s),2020,"$17,070"
+752290858,Total current liabilities for continuing operations ($000s),2019,"$21,014"
+752290858,Total current liabilities for continuing operations ($000s),2018,"$23,274"
+752290858,Total current liabilities for continuing operations ($000s),2017,"$22,552"
+752290858,Total current liabilities for continuing operations ($000s),2016,"$23,112"
+752290858,Total current liabilities for continuing operations ($000s),2015,"$21,616"
+752290858,Total current liabilities for continuing operations ($000s),2014,"$20,932"
+752290858,Liabilities directly associated with assets held for sale ($000s),2023,
+752290858,Liabilities directly associated with assets held for sale ($000s),2022,
+752290858,Liabilities directly associated with assets held for sale ($000s),2021,
+752290858,Liabilities directly associated with assets held for sale ($000s),2020,
+752290858,Liabilities directly associated with assets held for sale ($000s),2019,-
+752290858,Liabilities directly associated with assets held for sale ($000s),2018,-
+752290858,Liabilities directly associated with assets held for sale ($000s),2017,-
+752290858,Liabilities directly associated with assets held for sale ($000s),2016,-
+752290858,Liabilities directly associated with assets held for sale ($000s),2015,-
+752290858,Liabilities directly associated with assets held for sale ($000s),2014,-
+752290858,Total current liabilities ($000s),2023,"$18,028"
+752290858,Total current liabilities ($000s),2022,"$17,098"
+752290858,Total current liabilities ($000s),2021,"$17,531"
+752290858,Total current liabilities ($000s),2020,"$17,070"
+752290858,Total current liabilities ($000s),2019,"$21,014"
+752290858,Total current liabilities ($000s),2018,"$23,274"
+752290858,Total current liabilities ($000s),2017,"$22,552"
+752290858,Total current liabilities ($000s),2016,"$23,112"
+752290858,Total current liabilities ($000s),2015,"$21,616"
+752290858,Total current liabilities ($000s),2014,"$20,932"
+752290858,Total current liabilities for previous year ($000s),2023,"$17,098"
+752290858,Total current liabilities for previous year ($000s),2022,"$17,531"
+752290858,Total current liabilities for previous year ($000s),2021,"$17,070"
+752290858,Total current liabilities for previous year ($000s),2020,"$21,014"
+752290858,Total current liabilities for previous year ($000s),2019,"$23,274"
+752290858,Total current liabilities for previous year ($000s),2018,"$22,552"
+752290858,Total current liabilities for previous year ($000s),2017,"$23,112"
+752290858,Total current liabilities for previous year ($000s),2016,"$21,616"
+752290858,Total current liabilities for previous year ($000s),2015,"$20,932"
+752290858,Total current liabilities for previous year ($000s),2014,"$275,695"
+752290858,Non-current liabilities,2023,
+752290858,Non-current liabilities,2022,
+752290858,Non-current liabilities,2021,
+752290858,Non-current liabilities,2020,
+752290858,Non-current liabilities,2019,-
+752290858,Non-current liabilities,2018,-
+752290858,Non-current liabilities,2017,-
+752290858,Non-current liabilities,2016,-
+752290858,Non-current liabilities,2015,-
+752290858,Non-current liabilities,2014,-
+752290858,Total non-current interest-bearing loans and borrowings ($000s),2023,
+752290858,Total non-current interest-bearing loans and borrowings ($000s),2022,
+752290858,Total non-current interest-bearing loans and borrowings ($000s),2021,
+752290858,Total non-current interest-bearing loans and borrowings ($000s),2020,
+752290858,Total non-current interest-bearing loans and borrowings ($000s),2019,-
+752290858,Total non-current interest-bearing loans and borrowings ($000s),2018,-
+752290858,Total non-current interest-bearing loans and borrowings ($000s),2017,-
+752290858,Total non-current interest-bearing loans and borrowings ($000s),2016,-
+752290858,Total non-current interest-bearing loans and borrowings ($000s),2015,-
+752290858,Total non-current interest-bearing loans and borrowings ($000s),2014,-
+752290858,Deferred tax liabilities ($000s),2023,
+752290858,Deferred tax liabilities ($000s),2022,
+752290858,Deferred tax liabilities ($000s),2021,
+752290858,Deferred tax liabilities ($000s),2020,
+752290858,Deferred tax liabilities ($000s),2019,-
+752290858,Deferred tax liabilities ($000s),2018,-
+752290858,Deferred tax liabilities ($000s),2017,-
+752290858,Deferred tax liabilities ($000s),2016,-
+752290858,Deferred tax liabilities ($000s),2015,-
+752290858,Deferred tax liabilities ($000s),2014,-
+752290858,Convertible redeemable preference shares ($000s),2023,
+752290858,Convertible redeemable preference shares ($000s),2022,
+752290858,Convertible redeemable preference shares ($000s),2021,
+752290858,Convertible redeemable preference shares ($000s),2020,
+752290858,Convertible redeemable preference shares ($000s),2019,-
+752290858,Convertible redeemable preference shares ($000s),2018,-
+752290858,Convertible redeemable preference shares ($000s),2017,-
+752290858,Convertible redeemable preference shares ($000s),2016,-
+752290858,Convertible redeemable preference shares ($000s),2015,-
+752290858,Convertible redeemable preference shares ($000s),2014,-
+752290858,Other non-current liabilities ($000s),2023,$0
+752290858,Other non-current liabilities ($000s),2022,$0
+752290858,Other non-current liabilities ($000s),2021,$0
+752290858,Other non-current liabilities ($000s),2020,$0
+752290858,Other non-current liabilities ($000s),2019,$0
+752290858,Other non-current liabilities ($000s),2018,$0
+752290858,Other non-current liabilities ($000s),2017,$0
+752290858,Other non-current liabilities ($000s),2016,$0
+752290858,Other non-current liabilities ($000s),2015,$0
+752290858,Other non-current liabilities ($000s),2014,$0
+752290858,Total non-current liabilities ($000s),2023,
+752290858,Total non-current liabilities ($000s),2022,
+752290858,Total non-current liabilities ($000s),2021,
+752290858,Total non-current liabilities ($000s),2020,
+752290858,Total non-current liabilities ($000s),2019,-
+752290858,Total non-current liabilities ($000s),2018,-
+752290858,Total non-current liabilities ($000s),2017,-
+752290858,Total non-current liabilities ($000s),2016,-
+752290858,Total non-current liabilities ($000s),2015,-
+752290858,Total non-current liabilities ($000s),2014,-
+752290858,TOTAL LIABILITIES ($000s),2023,"$18,028"
+752290858,TOTAL LIABILITIES ($000s),2022,"$17,098"
+752290858,TOTAL LIABILITIES ($000s),2021,"$17,531"
+752290858,TOTAL LIABILITIES ($000s),2020,"$17,070"
+752290858,TOTAL LIABILITIES ($000s),2019,"$21,014"
+752290858,TOTAL LIABILITIES ($000s),2018,"$23,274"
+752290858,TOTAL LIABILITIES ($000s),2017,"$22,552"
+752290858,TOTAL LIABILITIES ($000s),2016,"$23,112"
+752290858,TOTAL LIABILITIES ($000s),2015,"$21,616"
+752290858,TOTAL LIABILITIES ($000s),2014,"$20,932"
+752290858,NET ASSETS ($000s),2023,"$3,144"
+752290858,NET ASSETS ($000s),2022,"$2,375"
+752290858,NET ASSETS ($000s),2021,"$2,312"
+752290858,NET ASSETS ($000s),2020,"$3,779"
+752290858,NET ASSETS ($000s),2019,"$6,542"
+752290858,NET ASSETS ($000s),2018,"$2,569"
+752290858,NET ASSETS ($000s),2017,"$2,711"
+752290858,NET ASSETS ($000s),2016,"$5,753"
+752290858,NET ASSETS ($000s),2015,"$2,339"
+752290858,NET ASSETS ($000s),2014,"$2,617"
+752290858,Equity,2023,
+752290858,Equity,2022,
+752290858,Equity,2021,
+752290858,Equity,2020,
+752290858,Equity,2019,-
+752290858,Equity,2018,-
+752290858,Equity,2017,-
+752290858,Equity,2016,-
+752290858,Equity,2015,-
+752290858,Equity,2014,-
+752290858,Equity attributable to equity holders of the parent,2023,
+752290858,Equity attributable to equity holders of the parent,2022,
+752290858,Equity attributable to equity holders of the parent,2021,
+752290858,Equity attributable to equity holders of the parent,2020,
+752290858,Equity attributable to equity holders of the parent,2019,-
+752290858,Equity attributable to equity holders of the parent,2018,-
+752290858,Equity attributable to equity holders of the parent,2017,-
+752290858,Equity attributable to equity holders of the parent,2016,-
+752290858,Equity attributable to equity holders of the parent,2015,-
+752290858,Equity attributable to equity holders of the parent,2014,-
+752290858,Contributed equity ($000s),2023,"$26,500"
+752290858,Contributed equity ($000s),2022,"$26,500"
+752290858,Contributed equity ($000s),2021,"$26,500"
+752290858,Contributed equity ($000s),2020,"$26,500"
+752290858,Contributed equity ($000s),2019,"$26,500"
+752290858,Contributed equity ($000s),2018,"$26,500"
+752290858,Contributed equity ($000s),2017,"$26,500"
+752290858,Contributed equity ($000s),2016,"$26,500"
+752290858,Contributed equity ($000s),2015,"$26,500"
+752290858,Contributed equity ($000s),2014,"$26,500"
+752290858,Retained earnings ($000s),2023,"($23,356)"
+752290858,Retained earnings ($000s),2022,"($24,125)"
+752290858,Retained earnings ($000s),2021,"($24,188)"
+752290858,Retained earnings ($000s),2020,"($22,721)"
+752290858,Retained earnings ($000s),2019,"($19,958)"
+752290858,Retained earnings ($000s),2018,"($23,931)"
+752290858,Retained earnings ($000s),2017,"($23,789)"
+752290858,Retained earnings ($000s),2016,"($20,747)"
+752290858,Retained earnings ($000s),2015,"($24,161)"
+752290858,Retained earnings ($000s),2014,"($23,883)"
+752290858,Reserves ($000s),2023,$0
+752290858,Reserves ($000s),2022,$0
+752290858,Reserves ($000s),2021,$0
+752290858,Reserves ($000s),2020,$0
+752290858,Reserves ($000s),2019,$0
+752290858,Reserves ($000s),2018,$0
+752290858,Reserves ($000s),2017,$0
+752290858,Reserves ($000s),2016,$0
+752290858,Reserves ($000s),2015,$0
+752290858,Reserves ($000s),2014,$0
+752290858,Total Parent interests ($000s),2023,"$3,144"
+752290858,Total Parent interests ($000s),2022,"$2,375"
+752290858,Total Parent interests ($000s),2021,"$2,312"
+752290858,Total Parent interests ($000s),2020,"$3,779"
+752290858,Total Parent interests ($000s),2019,"$6,542"
+752290858,Total Parent interests ($000s),2018,"$2,569"
+752290858,Total Parent interests ($000s),2017,"$2,711"
+752290858,Total Parent interests ($000s),2016,"$5,753"
+752290858,Total Parent interests ($000s),2015,"$2,339"
+752290858,Total Parent interests ($000s),2014,"$2,617"
+752290858,Minority interests ($000s),2023,
+752290858,Minority interests ($000s),2022,
+752290858,Minority interests ($000s),2021,
+752290858,Minority interests ($000s),2020,
+752290858,Minority interests ($000s),2019,-
+752290858,Minority interests ($000s),2018,-
+752290858,Minority interests ($000s),2017,-
+752290858,Minority interests ($000s),2016,-
+752290858,Minority interests ($000s),2015,-
+752290858,Minority interests ($000s),2014,-
+752290858,TOTAL EQUITY ($000s),2023,"$3,144"
+752290858,TOTAL EQUITY ($000s),2022,"$2,375"
+752290858,TOTAL EQUITY ($000s),2021,"$2,312"
+752290858,TOTAL EQUITY ($000s),2020,"$3,779"
+752290858,TOTAL EQUITY ($000s),2019,"$6,542"
+752290858,TOTAL EQUITY ($000s),2018,"$2,569"
+752290858,TOTAL EQUITY ($000s),2017,"$2,711"
+752290858,TOTAL EQUITY ($000s),2016,"$5,753"
+752290858,TOTAL EQUITY ($000s),2015,"$2,339"
+752290858,TOTAL EQUITY ($000s),2014,"$2,617"
+752290858,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2023,"$2,375"
+752290858,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2022,"$2,312"
+752290858,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2021,"$3,779"
+752290858,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2020,"$6,542"
+752290858,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2019,"$2,569"
+752290858,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2018,"$2,711"
+752290858,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2017,"$5,753"
+752290858,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2016,"$2,339"
+752290858,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2015,"$2,617"
+752290858,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2014,"$14,609"

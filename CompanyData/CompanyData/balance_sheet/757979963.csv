@@ -1,0 +1,601 @@
+duns,line_item,year,value
+757979963,Current Assets,2024,
+757979963,Current Assets,2023,
+757979963,Current Assets,2022,
+757979963,Current Assets,2021,
+757979963,Current Assets,2020,-
+757979963,Current Assets,2019,-
+757979963,Current Assets,2018,-
+757979963,Current Assets,2017,-
+757979963,Current Assets,2016,-
+757979963,Current Assets,2015,-
+757979963,Cash and cash equivalents ($000s),2024,"$13,348"
+757979963,Cash and cash equivalents ($000s),2023,"$3,193"
+757979963,Cash and cash equivalents ($000s),2022,"$2,441"
+757979963,Cash and cash equivalents ($000s),2021,"$4,328"
+757979963,Cash and cash equivalents ($000s),2020,"$5,166"
+757979963,Cash and cash equivalents ($000s),2019,"$2,664"
+757979963,Cash and cash equivalents ($000s),2018,"$6,064"
+757979963,Cash and cash equivalents ($000s),2017,"$5,190"
+757979963,Cash and cash equivalents ($000s),2016,"$3,197"
+757979963,Cash and cash equivalents ($000s),2015,$21
+757979963,Growth,2024,318.04%
+757979963,Growth,2023,30.81%
+757979963,Growth,2022,(43.60%)
+757979963,Growth,2021,(16.22%)
+757979963,Growth,2020,93.92%
+757979963,Growth,2019,(56.07%)
+757979963,Growth,2018,16.84%
+757979963,Growth,2017,62.34%
+757979963,Growth,2016,"15,123.81%"
+757979963,Growth,2015,-
+757979963,Trade receivables ($000s),2024,
+757979963,Trade receivables ($000s),2023,
+757979963,Trade receivables ($000s),2022,
+757979963,Trade receivables ($000s),2021,
+757979963,Trade receivables ($000s),2020,-
+757979963,Trade receivables ($000s),2019,-
+757979963,Trade receivables ($000s),2018,-
+757979963,Trade receivables ($000s),2017,-
+757979963,Trade receivables ($000s),2016,-
+757979963,Trade receivables ($000s),2015,-
+757979963,Other receivables ($000s),2024,-
+757979963,Other receivables ($000s),2023,-
+757979963,Other receivables ($000s),2022,-
+757979963,Other receivables ($000s),2021,-
+757979963,Other receivables ($000s),2020,$77
+757979963,Other receivables ($000s),2019,$400
+757979963,Other receivables ($000s),2018,$397
+757979963,Other receivables ($000s),2017,"$1,774"
+757979963,Other receivables ($000s),2016,"$1,763"
+757979963,Other receivables ($000s),2015,$14
+757979963,Raw materials ($000s),2024,$0
+757979963,Raw materials ($000s),2023,$0
+757979963,Raw materials ($000s),2022,$0
+757979963,Raw materials ($000s),2021,$0
+757979963,Raw materials ($000s),2020,$0
+757979963,Raw materials ($000s),2019,$0
+757979963,Raw materials ($000s),2018,$0
+757979963,Raw materials ($000s),2017,$0
+757979963,Raw materials ($000s),2016,$0
+757979963,Raw materials ($000s),2015,$0
+757979963,Work-in-progress ($000s),2024,
+757979963,Work-in-progress ($000s),2023,
+757979963,Work-in-progress ($000s),2022,
+757979963,Work-in-progress ($000s),2021,
+757979963,Work-in-progress ($000s),2020,-
+757979963,Work-in-progress ($000s),2019,-
+757979963,Work-in-progress ($000s),2018,-
+757979963,Work-in-progress ($000s),2017,-
+757979963,Work-in-progress ($000s),2016,-
+757979963,Work-in-progress ($000s),2015,-
+757979963,Finished goods ($000s),2024,$0
+757979963,Finished goods ($000s),2023,$0
+757979963,Finished goods ($000s),2022,$0
+757979963,Finished goods ($000s),2021,$0
+757979963,Finished goods ($000s),2020,$0
+757979963,Finished goods ($000s),2019,$0
+757979963,Finished goods ($000s),2018,$0
+757979963,Finished goods ($000s),2017,$0
+757979963,Finished goods ($000s),2016,$0
+757979963,Finished goods ($000s),2015,$0
+757979963,Total inventories ($000s),2024,$0
+757979963,Total inventories ($000s),2023,$0
+757979963,Total inventories ($000s),2022,$0
+757979963,Total inventories ($000s),2021,$0
+757979963,Total inventories ($000s),2020,$0
+757979963,Total inventories ($000s),2019,$0
+757979963,Total inventories ($000s),2018,$0
+757979963,Total inventories ($000s),2017,$0
+757979963,Total inventories ($000s),2016,$0
+757979963,Total inventories ($000s),2015,$0
+757979963,Prepayments ($000s),2024,"$9,278"
+757979963,Prepayments ($000s),2023,"$2,552"
+757979963,Prepayments ($000s),2022,"$1,064"
+757979963,Prepayments ($000s),2021,$18
+757979963,Prepayments ($000s),2020,$21
+757979963,Prepayments ($000s),2019,-
+757979963,Prepayments ($000s),2018,-
+757979963,Prepayments ($000s),2017,-
+757979963,Prepayments ($000s),2016,-
+757979963,Prepayments ($000s),2015,-
+757979963,Derivative financial instruments ($000s),2024,
+757979963,Derivative financial instruments ($000s),2023,
+757979963,Derivative financial instruments ($000s),2022,
+757979963,Derivative financial instruments ($000s),2021,
+757979963,Derivative financial instruments ($000s),2020,-
+757979963,Derivative financial instruments ($000s),2019,-
+757979963,Derivative financial instruments ($000s),2018,-
+757979963,Derivative financial instruments ($000s),2017,-
+757979963,Derivative financial instruments ($000s),2016,-
+757979963,Derivative financial instruments ($000s),2015,-
+757979963,Other current assets ($000s),2024,"$7,075"
+757979963,Other current assets ($000s),2023,"$6,461"
+757979963,Other current assets ($000s),2022,"$3,805"
+757979963,Other current assets ($000s),2021,"$3,450"
+757979963,Other current assets ($000s),2020,"$1,497"
+757979963,Other current assets ($000s),2019,"$1,329"
+757979963,Other current assets ($000s),2018,$36
+757979963,Other current assets ($000s),2017,"$10,320"
+757979963,Other current assets ($000s),2016,"$8,488"
+757979963,Other current assets ($000s),2015,$120
+757979963,Total current assets for continuing operations ($000s),2024,"$29,701"
+757979963,Total current assets for continuing operations ($000s),2023,"$12,206"
+757979963,Total current assets for continuing operations ($000s),2022,"$7,310"
+757979963,Total current assets for continuing operations ($000s),2021,"$7,797"
+757979963,Total current assets for continuing operations ($000s),2020,"$6,761"
+757979963,Total current assets for continuing operations ($000s),2019,"$4,393"
+757979963,Total current assets for continuing operations ($000s),2018,"$6,497"
+757979963,Total current assets for continuing operations ($000s),2017,"$17,283"
+757979963,Total current assets for continuing operations ($000s),2016,"$13,448"
+757979963,Total current assets for continuing operations ($000s),2015,$154
+757979963,Assets held for sale ($000s),2024,
+757979963,Assets held for sale ($000s),2023,
+757979963,Assets held for sale ($000s),2022,
+757979963,Assets held for sale ($000s),2021,
+757979963,Assets held for sale ($000s),2020,-
+757979963,Assets held for sale ($000s),2019,-
+757979963,Assets held for sale ($000s),2018,-
+757979963,Assets held for sale ($000s),2017,-
+757979963,Assets held for sale ($000s),2016,-
+757979963,Assets held for sale ($000s),2015,-
+757979963,Total current assets ($000s),2024,"$29,701"
+757979963,Total current assets ($000s),2023,"$12,206"
+757979963,Total current assets ($000s),2022,"$7,310"
+757979963,Total current assets ($000s),2021,"$7,797"
+757979963,Total current assets ($000s),2020,"$6,761"
+757979963,Total current assets ($000s),2019,"$4,393"
+757979963,Total current assets ($000s),2018,"$6,497"
+757979963,Total current assets ($000s),2017,"$17,283"
+757979963,Total current assets ($000s),2016,"$13,448"
+757979963,Total current assets ($000s),2015,$154
+757979963,Non-current assets,2024,
+757979963,Non-current assets,2023,
+757979963,Non-current assets,2022,
+757979963,Non-current assets,2021,
+757979963,Non-current assets,2020,-
+757979963,Non-current assets,2019,-
+757979963,Non-current assets,2018,-
+757979963,Non-current assets,2017,-
+757979963,Non-current assets,2016,-
+757979963,Non-current assets,2015,-
+757979963,Receivables ($000s),2024,
+757979963,Receivables ($000s),2023,
+757979963,Receivables ($000s),2022,
+757979963,Receivables ($000s),2021,
+757979963,Receivables ($000s),2020,-
+757979963,Receivables ($000s),2019,-
+757979963,Receivables ($000s),2018,-
+757979963,Receivables ($000s),2017,-
+757979963,Receivables ($000s),2016,-
+757979963,Receivables ($000s),2015,-
+757979963,Investments in associates ($000s),2024,$0
+757979963,Investments in associates ($000s),2023,$0
+757979963,Investments in associates ($000s),2022,$0
+757979963,Investments in associates ($000s),2021,$0
+757979963,Investments in associates ($000s),2020,$0
+757979963,Investments in associates ($000s),2019,$0
+757979963,Investments in associates ($000s),2018,$0
+757979963,Investments in associates ($000s),2017,$0
+757979963,Investments in associates ($000s),2016,$0
+757979963,Investments in associates ($000s),2015,$0
+757979963,Investments in subsidiaries ($000s),2024,
+757979963,Investments in subsidiaries ($000s),2023,
+757979963,Investments in subsidiaries ($000s),2022,
+757979963,Investments in subsidiaries ($000s),2021,
+757979963,Investments in subsidiaries ($000s),2020,-
+757979963,Investments in subsidiaries ($000s),2019,-
+757979963,Investments in subsidiaries ($000s),2018,-
+757979963,Investments in subsidiaries ($000s),2017,-
+757979963,Investments in subsidiaries ($000s),2016,-
+757979963,Investments in subsidiaries ($000s),2015,-
+757979963,Available for sale financial assets ($000s),2024,$0
+757979963,Available for sale financial assets ($000s),2023,$0
+757979963,Available for sale financial assets ($000s),2022,$0
+757979963,Available for sale financial assets ($000s),2021,$0
+757979963,Available for sale financial assets ($000s),2020,$0
+757979963,Available for sale financial assets ($000s),2019,$0
+757979963,Available for sale financial assets ($000s),2018,$0
+757979963,Available for sale financial assets ($000s),2017,$0
+757979963,Available for sale financial assets ($000s),2016,$0
+757979963,Available for sale financial assets ($000s),2015,$0
+757979963,"Property, plant and equipment ($000s)",2024,$20
+757979963,"Property, plant and equipment ($000s)",2023,$74
+757979963,"Property, plant and equipment ($000s)",2022,$70
+757979963,"Property, plant and equipment ($000s)",2021,$1
+757979963,"Property, plant and equipment ($000s)",2020,$2
+757979963,"Property, plant and equipment ($000s)",2019,$48
+757979963,"Property, plant and equipment ($000s)",2018,$148
+757979963,"Property, plant and equipment ($000s)",2017,$181
+757979963,"Property, plant and equipment ($000s)",2016,$1
+757979963,"Property, plant and equipment ($000s)",2015,-
+757979963,Intangible assets and goodwill ($000s),2024,"$67,557"
+757979963,Intangible assets and goodwill ($000s),2023,"$71,473"
+757979963,Intangible assets and goodwill ($000s),2022,"$48,329"
+757979963,Intangible assets and goodwill ($000s),2021,$468
+757979963,Intangible assets and goodwill ($000s),2020,$0
+757979963,Intangible assets and goodwill ($000s),2019,$0
+757979963,Intangible assets and goodwill ($000s),2018,$0
+757979963,Intangible assets and goodwill ($000s),2017,$0
+757979963,Intangible assets and goodwill ($000s),2016,$0
+757979963,Intangible assets and goodwill ($000s),2015,$0
+757979963,Deferred tax assets ($000s),2024,"$3,395"
+757979963,Deferred tax assets ($000s),2023,"$3,813"
+757979963,Deferred tax assets ($000s),2022,$576
+757979963,Deferred tax assets ($000s),2021,$271
+757979963,Deferred tax assets ($000s),2020,$838
+757979963,Deferred tax assets ($000s),2019,"$1,186"
+757979963,Deferred tax assets ($000s),2018,$399
+757979963,Deferred tax assets ($000s),2017,$123
+757979963,Deferred tax assets ($000s),2016,-
+757979963,Deferred tax assets ($000s),2015,-
+757979963,Other non-current assets ($000s),2024,$116
+757979963,Other non-current assets ($000s),2023,$357
+757979963,Other non-current assets ($000s),2022,$362
+757979963,Other non-current assets ($000s),2021,$0
+757979963,Other non-current assets ($000s),2020,$23
+757979963,Other non-current assets ($000s),2019,$79
+757979963,Other non-current assets ($000s),2018,$0
+757979963,Other non-current assets ($000s),2017,$0
+757979963,Other non-current assets ($000s),2016,$0
+757979963,Other non-current assets ($000s),2015,$0
+757979963,Total non-current assets ($000s),2024,"$71,088"
+757979963,Total non-current assets ($000s),2023,"$75,717"
+757979963,Total non-current assets ($000s),2022,"$49,337"
+757979963,Total non-current assets ($000s),2021,$740
+757979963,Total non-current assets ($000s),2020,$863
+757979963,Total non-current assets ($000s),2019,"$1,313"
+757979963,Total non-current assets ($000s),2018,$548
+757979963,Total non-current assets ($000s),2017,$305
+757979963,Total non-current assets ($000s),2016,$1
+757979963,Total non-current assets ($000s),2015,-
+757979963,TOTAL ASSETS ($000s),2024,"$100,789"
+757979963,TOTAL ASSETS ($000s),2023,"$87,923"
+757979963,TOTAL ASSETS ($000s),2022,"$56,646"
+757979963,TOTAL ASSETS ($000s),2021,"$8,537"
+757979963,TOTAL ASSETS ($000s),2020,"$7,624"
+757979963,TOTAL ASSETS ($000s),2019,"$5,706"
+757979963,TOTAL ASSETS ($000s),2018,"$7,044"
+757979963,TOTAL ASSETS ($000s),2017,"$17,588"
+757979963,TOTAL ASSETS ($000s),2016,"$13,448"
+757979963,TOTAL ASSETS ($000s),2015,$154
+757979963,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2024,"$87,923"
+757979963,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2023,"$56,646"
+757979963,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2022,"$8,537"
+757979963,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2021,"$7,624"
+757979963,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2020,"$5,706"
+757979963,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2019,"$7,044"
+757979963,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2018,"$17,588"
+757979963,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2017,"$13,448"
+757979963,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2016,$154
+757979963,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2015,-
+757979963,Current liabilities,2024,
+757979963,Current liabilities,2023,
+757979963,Current liabilities,2022,
+757979963,Current liabilities,2021,
+757979963,Current liabilities,2020,-
+757979963,Current liabilities,2019,-
+757979963,Current liabilities,2018,-
+757979963,Current liabilities,2017,-
+757979963,Current liabilities,2016,-
+757979963,Current liabilities,2015,-
+757979963,Trade payables ($000s),2024,$136
+757979963,Trade payables ($000s),2023,$159
+757979963,Trade payables ($000s),2022,$696
+757979963,Trade payables ($000s),2021,$65
+757979963,Trade payables ($000s),2020,$42
+757979963,Trade payables ($000s),2019,$110
+757979963,Trade payables ($000s),2018,-
+757979963,Trade payables ($000s),2017,-
+757979963,Trade payables ($000s),2016,-
+757979963,Trade payables ($000s),2015,-
+757979963,Other payables ($000s),2024,"$3,667"
+757979963,Other payables ($000s),2023,"$4,137"
+757979963,Other payables ($000s),2022,-
+757979963,Other payables ($000s),2021,"$1,429"
+757979963,Other payables ($000s),2020,"$1,595"
+757979963,Other payables ($000s),2019,"$1,153"
+757979963,Other payables ($000s),2018,"$1,945"
+757979963,Other payables ($000s),2017,"$1,609"
+757979963,Other payables ($000s),2016,$729
+757979963,Other payables ($000s),2015,$152
+757979963,Overdrafts ($000s),2024,
+757979963,Overdrafts ($000s),2023,
+757979963,Overdrafts ($000s),2022,
+757979963,Overdrafts ($000s),2021,
+757979963,Overdrafts ($000s),2020,-
+757979963,Overdrafts ($000s),2019,-
+757979963,Overdrafts ($000s),2018,-
+757979963,Overdrafts ($000s),2017,-
+757979963,Overdrafts ($000s),2016,-
+757979963,Overdrafts ($000s),2015,-
+757979963,Loans - secured ($000s),2024,
+757979963,Loans - secured ($000s),2023,
+757979963,Loans - secured ($000s),2022,
+757979963,Loans - secured ($000s),2021,
+757979963,Loans - secured ($000s),2020,-
+757979963,Loans - secured ($000s),2019,-
+757979963,Loans - secured ($000s),2018,-
+757979963,Loans - secured ($000s),2017,-
+757979963,Loans - secured ($000s),2016,-
+757979963,Loans - secured ($000s),2015,-
+757979963,Loans - unsecured ($000s),2024,
+757979963,Loans - unsecured ($000s),2023,
+757979963,Loans - unsecured ($000s),2022,
+757979963,Loans - unsecured ($000s),2021,
+757979963,Loans - unsecured ($000s),2020,-
+757979963,Loans - unsecured ($000s),2019,-
+757979963,Loans - unsecured ($000s),2018,-
+757979963,Loans - unsecured ($000s),2017,-
+757979963,Loans - unsecured ($000s),2016,-
+757979963,Loans - unsecured ($000s),2015,-
+757979963,Obligations under finance leases and hire purchase ($000s),2024,$73
+757979963,Obligations under finance leases and hire purchase ($000s),2023,$204
+757979963,Obligations under finance leases and hire purchase ($000s),2022,$108
+757979963,Obligations under finance leases and hire purchase ($000s),2021,-
+757979963,Obligations under finance leases and hire purchase ($000s),2020,$26
+757979963,Obligations under finance leases and hire purchase ($000s),2019,$57
+757979963,Obligations under finance leases and hire purchase ($000s),2018,-
+757979963,Obligations under finance leases and hire purchase ($000s),2017,-
+757979963,Obligations under finance leases and hire purchase ($000s),2016,-
+757979963,Obligations under finance leases and hire purchase ($000s),2015,-
+757979963,Loans from related parties ($000s),2024,"$15,265"
+757979963,Loans from related parties ($000s),2023,"$19,624"
+757979963,Loans from related parties ($000s),2022,-
+757979963,Loans from related parties ($000s),2021,"$6,450"
+757979963,Loans from related parties ($000s),2020,"$5,692"
+757979963,Loans from related parties ($000s),2019,"$5,223"
+757979963,Loans from related parties ($000s),2018,"$3,492"
+757979963,Loans from related parties ($000s),2017,"$15,491"
+757979963,Loans from related parties ($000s),2016,"$11,815"
+757979963,Loans from related parties ($000s),2015,$240
+757979963,Total current interest-bearing loans and borrowings ($000s),2024,"$15,338"
+757979963,Total current interest-bearing loans and borrowings ($000s),2023,"$19,828"
+757979963,Total current interest-bearing loans and borrowings ($000s),2022,$108
+757979963,Total current interest-bearing loans and borrowings ($000s),2021,"$6,450"
+757979963,Total current interest-bearing loans and borrowings ($000s),2020,"$5,718"
+757979963,Total current interest-bearing loans and borrowings ($000s),2019,"$5,280"
+757979963,Total current interest-bearing loans and borrowings ($000s),2018,"$3,492"
+757979963,Total current interest-bearing loans and borrowings ($000s),2017,"$15,491"
+757979963,Total current interest-bearing loans and borrowings ($000s),2016,"$11,815"
+757979963,Total current interest-bearing loans and borrowings ($000s),2015,$240
+757979963,Income tax payable/(refundable) ($000s),2024,"$1,140"
+757979963,Income tax payable/(refundable) ($000s),2023,-
+757979963,Income tax payable/(refundable) ($000s),2022,-
+757979963,Income tax payable/(refundable) ($000s),2021,$27
+757979963,Income tax payable/(refundable) ($000s),2020,$491
+757979963,Income tax payable/(refundable) ($000s),2019,$51
+757979963,Income tax payable/(refundable) ($000s),2018,$510
+757979963,Income tax payable/(refundable) ($000s),2017,$338
+757979963,Income tax payable/(refundable) ($000s),2016,$43
+757979963,Income tax payable/(refundable) ($000s),2015,-
+757979963,Provisions ($000s),2024,"$2,971"
+757979963,Provisions ($000s),2023,$168
+757979963,Provisions ($000s),2022,$0
+757979963,Provisions ($000s),2021,$0
+757979963,Provisions ($000s),2020,$0
+757979963,Provisions ($000s),2019,$244
+757979963,Provisions ($000s),2018,$0
+757979963,Provisions ($000s),2017,$0
+757979963,Provisions ($000s),2016,$0
+757979963,Provisions ($000s),2015,$0
+757979963,Other current liabilities ($000s),2024,$0
+757979963,Other current liabilities ($000s),2023,$0
+757979963,Other current liabilities ($000s),2022,"$55,616"
+757979963,Other current liabilities ($000s),2021,$0
+757979963,Other current liabilities ($000s),2020,$0
+757979963,Other current liabilities ($000s),2019,$0
+757979963,Other current liabilities ($000s),2018,$0
+757979963,Other current liabilities ($000s),2017,$0
+757979963,Other current liabilities ($000s),2016,$0
+757979963,Other current liabilities ($000s),2015,$0
+757979963,Total current liabilities for continuing operations ($000s),2024,"$23,253"
+757979963,Total current liabilities for continuing operations ($000s),2023,"$24,292"
+757979963,Total current liabilities for continuing operations ($000s),2022,"$56,421"
+757979963,Total current liabilities for continuing operations ($000s),2021,"$7,971"
+757979963,Total current liabilities for continuing operations ($000s),2020,"$7,845"
+757979963,Total current liabilities for continuing operations ($000s),2019,"$6,838"
+757979963,Total current liabilities for continuing operations ($000s),2018,"$5,947"
+757979963,Total current liabilities for continuing operations ($000s),2017,"$17,438"
+757979963,Total current liabilities for continuing operations ($000s),2016,"$12,587"
+757979963,Total current liabilities for continuing operations ($000s),2015,$392
+757979963,Liabilities directly associated with assets held for sale ($000s),2024,
+757979963,Liabilities directly associated with assets held for sale ($000s),2023,
+757979963,Liabilities directly associated with assets held for sale ($000s),2022,
+757979963,Liabilities directly associated with assets held for sale ($000s),2021,
+757979963,Liabilities directly associated with assets held for sale ($000s),2020,-
+757979963,Liabilities directly associated with assets held for sale ($000s),2019,-
+757979963,Liabilities directly associated with assets held for sale ($000s),2018,-
+757979963,Liabilities directly associated with assets held for sale ($000s),2017,-
+757979963,Liabilities directly associated with assets held for sale ($000s),2016,-
+757979963,Liabilities directly associated with assets held for sale ($000s),2015,-
+757979963,Total current liabilities ($000s),2024,"$23,253"
+757979963,Total current liabilities ($000s),2023,"$24,292"
+757979963,Total current liabilities ($000s),2022,"$56,421"
+757979963,Total current liabilities ($000s),2021,"$7,971"
+757979963,Total current liabilities ($000s),2020,"$7,845"
+757979963,Total current liabilities ($000s),2019,"$6,838"
+757979963,Total current liabilities ($000s),2018,"$5,947"
+757979963,Total current liabilities ($000s),2017,"$17,438"
+757979963,Total current liabilities ($000s),2016,"$12,587"
+757979963,Total current liabilities ($000s),2015,$392
+757979963,Total current liabilities for previous year ($000s),2024,"$24,292"
+757979963,Total current liabilities for previous year ($000s),2023,"$56,421"
+757979963,Total current liabilities for previous year ($000s),2022,"$7,971"
+757979963,Total current liabilities for previous year ($000s),2021,"$7,845"
+757979963,Total current liabilities for previous year ($000s),2020,"$6,838"
+757979963,Total current liabilities for previous year ($000s),2019,"$5,947"
+757979963,Total current liabilities for previous year ($000s),2018,"$17,438"
+757979963,Total current liabilities for previous year ($000s),2017,"$12,587"
+757979963,Total current liabilities for previous year ($000s),2016,$392
+757979963,Total current liabilities for previous year ($000s),2015,-
+757979963,Non-current liabilities,2024,
+757979963,Non-current liabilities,2023,
+757979963,Non-current liabilities,2022,
+757979963,Non-current liabilities,2021,
+757979963,Non-current liabilities,2020,-
+757979963,Non-current liabilities,2019,-
+757979963,Non-current liabilities,2018,-
+757979963,Non-current liabilities,2017,-
+757979963,Non-current liabilities,2016,-
+757979963,Non-current liabilities,2015,-
+757979963,Total non-current interest-bearing loans and borrowings ($000s),2024,"$16,940"
+757979963,Total non-current interest-bearing loans and borrowings ($000s),2023,$68
+757979963,Total non-current interest-bearing loans and borrowings ($000s),2022,$168
+757979963,Total non-current interest-bearing loans and borrowings ($000s),2021,-
+757979963,Total non-current interest-bearing loans and borrowings ($000s),2020,-
+757979963,Total non-current interest-bearing loans and borrowings ($000s),2019,$26
+757979963,Total non-current interest-bearing loans and borrowings ($000s),2018,-
+757979963,Total non-current interest-bearing loans and borrowings ($000s),2017,-
+757979963,Total non-current interest-bearing loans and borrowings ($000s),2016,-
+757979963,Total non-current interest-bearing loans and borrowings ($000s),2015,-
+757979963,Deferred tax liabilities ($000s),2024,
+757979963,Deferred tax liabilities ($000s),2023,
+757979963,Deferred tax liabilities ($000s),2022,
+757979963,Deferred tax liabilities ($000s),2021,
+757979963,Deferred tax liabilities ($000s),2020,-
+757979963,Deferred tax liabilities ($000s),2019,-
+757979963,Deferred tax liabilities ($000s),2018,-
+757979963,Deferred tax liabilities ($000s),2017,-
+757979963,Deferred tax liabilities ($000s),2016,-
+757979963,Deferred tax liabilities ($000s),2015,-
+757979963,Convertible redeemable preference shares ($000s),2024,
+757979963,Convertible redeemable preference shares ($000s),2023,
+757979963,Convertible redeemable preference shares ($000s),2022,
+757979963,Convertible redeemable preference shares ($000s),2021,
+757979963,Convertible redeemable preference shares ($000s),2020,-
+757979963,Convertible redeemable preference shares ($000s),2019,-
+757979963,Convertible redeemable preference shares ($000s),2018,-
+757979963,Convertible redeemable preference shares ($000s),2017,-
+757979963,Convertible redeemable preference shares ($000s),2016,-
+757979963,Convertible redeemable preference shares ($000s),2015,-
+757979963,Other non-current liabilities ($000s),2024,$0
+757979963,Other non-current liabilities ($000s),2023,$0
+757979963,Other non-current liabilities ($000s),2022,$0
+757979963,Other non-current liabilities ($000s),2021,$0
+757979963,Other non-current liabilities ($000s),2020,$0
+757979963,Other non-current liabilities ($000s),2019,$0
+757979963,Other non-current liabilities ($000s),2018,$0
+757979963,Other non-current liabilities ($000s),2017,$0
+757979963,Other non-current liabilities ($000s),2016,$0
+757979963,Other non-current liabilities ($000s),2015,$0
+757979963,Total non-current liabilities ($000s),2024,"$17,016"
+757979963,Total non-current liabilities ($000s),2023,$110
+757979963,Total non-current liabilities ($000s),2022,$168
+757979963,Total non-current liabilities ($000s),2021,-
+757979963,Total non-current liabilities ($000s),2020,-
+757979963,Total non-current liabilities ($000s),2019,$26
+757979963,Total non-current liabilities ($000s),2018,-
+757979963,Total non-current liabilities ($000s),2017,-
+757979963,Total non-current liabilities ($000s),2016,-
+757979963,Total non-current liabilities ($000s),2015,-
+757979963,TOTAL LIABILITIES ($000s),2024,"$40,269"
+757979963,TOTAL LIABILITIES ($000s),2023,"$24,402"
+757979963,TOTAL LIABILITIES ($000s),2022,"$56,589"
+757979963,TOTAL LIABILITIES ($000s),2021,"$7,971"
+757979963,TOTAL LIABILITIES ($000s),2020,"$7,845"
+757979963,TOTAL LIABILITIES ($000s),2019,"$6,864"
+757979963,TOTAL LIABILITIES ($000s),2018,"$5,947"
+757979963,TOTAL LIABILITIES ($000s),2017,"$17,438"
+757979963,TOTAL LIABILITIES ($000s),2016,"$12,587"
+757979963,TOTAL LIABILITIES ($000s),2015,$392
+757979963,NET ASSETS ($000s),2024,"$60,520"
+757979963,NET ASSETS ($000s),2023,"$63,522"
+757979963,NET ASSETS ($000s),2022,$57
+757979963,NET ASSETS ($000s),2021,$566
+757979963,NET ASSETS ($000s),2020,($222)
+757979963,NET ASSETS ($000s),2019,"($1,158)"
+757979963,NET ASSETS ($000s),2018,"$1,097"
+757979963,NET ASSETS ($000s),2017,$149
+757979963,NET ASSETS ($000s),2016,$861
+757979963,NET ASSETS ($000s),2015,($238)
+757979963,Equity,2024,
+757979963,Equity,2023,
+757979963,Equity,2022,
+757979963,Equity,2021,
+757979963,Equity,2020,-
+757979963,Equity,2019,-
+757979963,Equity,2018,-
+757979963,Equity,2017,-
+757979963,Equity,2016,-
+757979963,Equity,2015,-
+757979963,Equity attributable to equity holders of the parent,2024,
+757979963,Equity attributable to equity holders of the parent,2023,
+757979963,Equity attributable to equity holders of the parent,2022,
+757979963,Equity attributable to equity holders of the parent,2021,
+757979963,Equity attributable to equity holders of the parent,2020,-
+757979963,Equity attributable to equity holders of the parent,2019,-
+757979963,Equity attributable to equity holders of the parent,2018,-
+757979963,Equity attributable to equity holders of the parent,2017,-
+757979963,Equity attributable to equity holders of the parent,2016,-
+757979963,Equity attributable to equity holders of the parent,2015,-
+757979963,Contributed equity ($000s),2024,"$75,001"
+757979963,Contributed equity ($000s),2023,"$75,001"
+757979963,Contributed equity ($000s),2022,$1
+757979963,Contributed equity ($000s),2021,$1
+757979963,Contributed equity ($000s),2020,$1
+757979963,Contributed equity ($000s),2019,$1
+757979963,Contributed equity ($000s),2018,$1
+757979963,Contributed equity ($000s),2017,$1
+757979963,Contributed equity ($000s),2016,$0
+757979963,Contributed equity ($000s),2015,$0
+757979963,Retained earnings ($000s),2024,"($14,568)"
+757979963,Retained earnings ($000s),2023,"($11,566)"
+757979963,Retained earnings ($000s),2022,$1
+757979963,Retained earnings ($000s),2021,$510
+757979963,Retained earnings ($000s),2020,($278)
+757979963,Retained earnings ($000s),2019,"($1,214)"
+757979963,Retained earnings ($000s),2018,"$1,041"
+757979963,Retained earnings ($000s),2017,$93
+757979963,Retained earnings ($000s),2016,$813
+757979963,Retained earnings ($000s),2015,($269)
+757979963,Reserves ($000s),2024,$87
+757979963,Reserves ($000s),2023,$87
+757979963,Reserves ($000s),2022,$55
+757979963,Reserves ($000s),2021,$55
+757979963,Reserves ($000s),2020,$55
+757979963,Reserves ($000s),2019,$55
+757979963,Reserves ($000s),2018,$55
+757979963,Reserves ($000s),2017,$55
+757979963,Reserves ($000s),2016,$47
+757979963,Reserves ($000s),2015,$30
+757979963,Total Parent interests ($000s),2024,"$60,520"
+757979963,Total Parent interests ($000s),2023,"$63,522"
+757979963,Total Parent interests ($000s),2022,$57
+757979963,Total Parent interests ($000s),2021,$566
+757979963,Total Parent interests ($000s),2020,($222)
+757979963,Total Parent interests ($000s),2019,"($1,158)"
+757979963,Total Parent interests ($000s),2018,"$1,097"
+757979963,Total Parent interests ($000s),2017,$149
+757979963,Total Parent interests ($000s),2016,$861
+757979963,Total Parent interests ($000s),2015,($238)
+757979963,Minority interests ($000s),2024,
+757979963,Minority interests ($000s),2023,
+757979963,Minority interests ($000s),2022,
+757979963,Minority interests ($000s),2021,
+757979963,Minority interests ($000s),2020,-
+757979963,Minority interests ($000s),2019,-
+757979963,Minority interests ($000s),2018,-
+757979963,Minority interests ($000s),2017,-
+757979963,Minority interests ($000s),2016,-
+757979963,Minority interests ($000s),2015,-
+757979963,TOTAL EQUITY ($000s),2024,"$60,520"
+757979963,TOTAL EQUITY ($000s),2023,"$63,522"
+757979963,TOTAL EQUITY ($000s),2022,$57
+757979963,TOTAL EQUITY ($000s),2021,$566
+757979963,TOTAL EQUITY ($000s),2020,($222)
+757979963,TOTAL EQUITY ($000s),2019,"($1,158)"
+757979963,TOTAL EQUITY ($000s),2018,"$1,097"
+757979963,TOTAL EQUITY ($000s),2017,$149
+757979963,TOTAL EQUITY ($000s),2016,$861
+757979963,TOTAL EQUITY ($000s),2015,($238)
+757979963,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2024,"$63,522"
+757979963,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2023,$57
+757979963,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2022,$566
+757979963,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2021,($222)
+757979963,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2020,"($1,158)"
+757979963,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2019,"$1,097"
+757979963,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2018,$149
+757979963,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2017,$861
+757979963,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2016,($238)
+757979963,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2015,-

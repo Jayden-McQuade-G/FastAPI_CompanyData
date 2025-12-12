@@ -1,0 +1,471 @@
+duns,line_item,year,value
+754396385,Revenue from continuing operations ($000s),2024,"$38,560"
+754396385,Revenue from continuing operations ($000s),2023,"$20,033"
+754396385,Revenue from continuing operations ($000s),2022,"$45,485"
+754396385,Revenue from continuing operations ($000s),2021,"$29,240"
+754396385,Revenue from continuing operations ($000s),2020,"$20,935"
+754396385,Revenue from continuing operations ($000s),2019,"$45,928"
+754396385,Revenue from continuing operations ($000s),2018,"$60,516"
+754396385,Revenue from continuing operations ($000s),2017,"$20,996"
+754396385,Revenue from continuing operations ($000s),2016,"$23,493"
+754396385,Revenue from continuing operations ($000s),2015,"$3,896"
+754396385,Growth,2024,92.48%
+754396385,Growth,2023,(55.96%)
+754396385,Growth,2022,55.56%
+754396385,Growth,2021,39.67%
+754396385,Growth,2020,(54.42%)
+754396385,Growth,2019,(24.11%)
+754396385,Growth,2018,188.23%
+754396385,Growth,2017,(10.63%)
+754396385,Growth,2016,503.00%
+754396385,Growth,2015,-
+754396385,Cost of sales ($000s),2024,$0
+754396385,Cost of sales ($000s),2023,$0
+754396385,Cost of sales ($000s),2022,$0
+754396385,Cost of sales ($000s),2021,$0
+754396385,Cost of sales ($000s),2020,$0
+754396385,Cost of sales ($000s),2019,$0
+754396385,Cost of sales ($000s),2018,$0
+754396385,Cost of sales ($000s),2017,$0
+754396385,Cost of sales ($000s),2016,$0
+754396385,Cost of sales ($000s),2015,$0
+754396385,Gross profit ($000s),2024,
+754396385,Gross profit ($000s),2023,
+754396385,Gross profit ($000s),2022,
+754396385,Gross profit ($000s),2021,
+754396385,Gross profit ($000s),2020,-
+754396385,Gross profit ($000s),2019,-
+754396385,Gross profit ($000s),2018,-
+754396385,Gross profit ($000s),2017,-
+754396385,Gross profit ($000s),2016,-
+754396385,Gross profit ($000s),2015,-
+754396385,Other income ($000s),2024,$3
+754396385,Other income ($000s),2023,-
+754396385,Other income ($000s),2022,$8
+754396385,Other income ($000s),2021,-
+754396385,Other income ($000s),2020,-
+754396385,Other income ($000s),2019,-
+754396385,Other income ($000s),2018,-
+754396385,Other income ($000s),2017,-
+754396385,Other income ($000s),2016,-
+754396385,Other income ($000s),2015,-
+754396385,Administrative expenses ($000s),2024,
+754396385,Administrative expenses ($000s),2023,
+754396385,Administrative expenses ($000s),2022,
+754396385,Administrative expenses ($000s),2021,
+754396385,Administrative expenses ($000s),2020,-
+754396385,Administrative expenses ($000s),2019,-
+754396385,Administrative expenses ($000s),2018,-
+754396385,Administrative expenses ($000s),2017,-
+754396385,Administrative expenses ($000s),2016,-
+754396385,Administrative expenses ($000s),2015,-
+754396385,Finance costs ($000s),2024,"($45,764)"
+754396385,Finance costs ($000s),2023,"($40,301)"
+754396385,Finance costs ($000s),2022,"($26,379)"
+754396385,Finance costs ($000s),2021,"($17,399)"
+754396385,Finance costs ($000s),2020,"($19,460)"
+754396385,Finance costs ($000s),2019,"($18,126)"
+754396385,Finance costs ($000s),2018,"($16,259)"
+754396385,Finance costs ($000s),2017,"($10,665)"
+754396385,Finance costs ($000s),2016,"($3,870)"
+754396385,Finance costs ($000s),2015,"($2,648)"
+754396385,Share of associate profits/(losses) ($000s),2024,
+754396385,Share of associate profits/(losses) ($000s),2023,
+754396385,Share of associate profits/(losses) ($000s),2022,
+754396385,Share of associate profits/(losses) ($000s),2021,
+754396385,Share of associate profits/(losses) ($000s),2020,-
+754396385,Share of associate profits/(losses) ($000s),2019,-
+754396385,Share of associate profits/(losses) ($000s),2018,-
+754396385,Share of associate profits/(losses) ($000s),2017,-
+754396385,Share of associate profits/(losses) ($000s),2016,-
+754396385,Share of associate profits/(losses) ($000s),2015,-
+754396385,Profit/(loss) from continuing operations before income tax ($000s),2024,"$55,350"
+754396385,Profit/(loss) from continuing operations before income tax ($000s),2023,"($70,166)"
+754396385,Profit/(loss) from continuing operations before income tax ($000s),2022,"$46,275"
+754396385,Profit/(loss) from continuing operations before income tax ($000s),2021,"$7,815"
+754396385,Profit/(loss) from continuing operations before income tax ($000s),2020,($975)
+754396385,Profit/(loss) from continuing operations before income tax ($000s),2019,"$26,647"
+754396385,Profit/(loss) from continuing operations before income tax ($000s),2018,"$38,970"
+754396385,Profit/(loss) from continuing operations before income tax ($000s),2017,"$10,138"
+754396385,Profit/(loss) from continuing operations before income tax ($000s),2016,"$19,402"
+754396385,Profit/(loss) from continuing operations before income tax ($000s),2015,($195)
+754396385,Income tax expense ($000s),2024,
+754396385,Income tax expense ($000s),2023,
+754396385,Income tax expense ($000s),2022,
+754396385,Income tax expense ($000s),2021,
+754396385,Income tax expense ($000s),2020,-
+754396385,Income tax expense ($000s),2019,-
+754396385,Income tax expense ($000s),2018,-
+754396385,Income tax expense ($000s),2017,-
+754396385,Income tax expense ($000s),2016,-
+754396385,Income tax expense ($000s),2015,-
+754396385,Profit from continuing operations after income tax ($000s),2024,"$55,350"
+754396385,Profit from continuing operations after income tax ($000s),2023,"($70,166)"
+754396385,Profit from continuing operations after income tax ($000s),2022,"$46,275"
+754396385,Profit from continuing operations after income tax ($000s),2021,"$7,815"
+754396385,Profit from continuing operations after income tax ($000s),2020,($975)
+754396385,Profit from continuing operations after income tax ($000s),2019,"$26,647"
+754396385,Profit from continuing operations after income tax ($000s),2018,"$38,970"
+754396385,Profit from continuing operations after income tax ($000s),2017,"$10,138"
+754396385,Profit from continuing operations after income tax ($000s),2016,"$19,402"
+754396385,Profit from continuing operations after income tax ($000s),2015,($195)
+754396385,Profit/(loss) from discontinued operations after tax ($000s),2024,
+754396385,Profit/(loss) from discontinued operations after tax ($000s),2023,
+754396385,Profit/(loss) from discontinued operations after tax ($000s),2022,
+754396385,Profit/(loss) from discontinued operations after tax ($000s),2021,
+754396385,Profit/(loss) from discontinued operations after tax ($000s),2020,-
+754396385,Profit/(loss) from discontinued operations after tax ($000s),2019,-
+754396385,Profit/(loss) from discontinued operations after tax ($000s),2018,-
+754396385,Profit/(loss) from discontinued operations after tax ($000s),2017,-
+754396385,Profit/(loss) from discontinued operations after tax ($000s),2016,-
+754396385,Profit/(loss) from discontinued operations after tax ($000s),2015,-
+754396385,Profit/(loss) from restructuring activites after tax ($000s),2024,
+754396385,Profit/(loss) from restructuring activites after tax ($000s),2023,
+754396385,Profit/(loss) from restructuring activites after tax ($000s),2022,
+754396385,Profit/(loss) from restructuring activites after tax ($000s),2021,
+754396385,Profit/(loss) from restructuring activites after tax ($000s),2020,-
+754396385,Profit/(loss) from restructuring activites after tax ($000s),2019,-
+754396385,Profit/(loss) from restructuring activites after tax ($000s),2018,-
+754396385,Profit/(loss) from restructuring activites after tax ($000s),2017,-
+754396385,Profit/(loss) from restructuring activites after tax ($000s),2016,-
+754396385,Profit/(loss) from restructuring activites after tax ($000s),2015,-
+754396385,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2024,
+754396385,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2023,
+754396385,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2022,
+754396385,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2021,
+754396385,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2020,-
+754396385,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2019,-
+754396385,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2018,-
+754396385,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2017,-
+754396385,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2016,-
+754396385,"Profit/(loss) from disposals of property, plant and equipment after tax ($000s)",2015,-
+754396385,Profit/(loss) from disposals of investments after tax ($000s),2024,
+754396385,Profit/(loss) from disposals of investments after tax ($000s),2023,
+754396385,Profit/(loss) from disposals of investments after tax ($000s),2022,
+754396385,Profit/(loss) from disposals of investments after tax ($000s),2021,
+754396385,Profit/(loss) from disposals of investments after tax ($000s),2020,-
+754396385,Profit/(loss) from disposals of investments after tax ($000s),2019,-
+754396385,Profit/(loss) from disposals of investments after tax ($000s),2018,-
+754396385,Profit/(loss) from disposals of investments after tax ($000s),2017,-
+754396385,Profit/(loss) from disposals of investments after tax ($000s),2016,-
+754396385,Profit/(loss) from disposals of investments after tax ($000s),2015,-
+754396385,Net profit for the period ($000s),2024,"$55,350"
+754396385,Net profit for the period ($000s),2023,"($70,166)"
+754396385,Net profit for the period ($000s),2022,"$46,275"
+754396385,Net profit for the period ($000s),2021,"$7,815"
+754396385,Net profit for the period ($000s),2020,($975)
+754396385,Net profit for the period ($000s),2019,"$26,647"
+754396385,Net profit for the period ($000s),2018,"$38,970"
+754396385,Net profit for the period ($000s),2017,"$10,138"
+754396385,Net profit for the period ($000s),2016,"$19,402"
+754396385,Net profit for the period ($000s),2015,($195)
+754396385,Attributable To:,2024,
+754396385,Attributable To:,2023,
+754396385,Attributable To:,2022,
+754396385,Attributable To:,2021,
+754396385,Attributable To:,2020,-
+754396385,Attributable To:,2019,-
+754396385,Attributable To:,2018,-
+754396385,Attributable To:,2017,-
+754396385,Attributable To:,2016,-
+754396385,Attributable To:,2015,-
+754396385,Minority interest ($000s),2024,
+754396385,Minority interest ($000s),2023,
+754396385,Minority interest ($000s),2022,
+754396385,Minority interest ($000s),2021,
+754396385,Minority interest ($000s),2020,-
+754396385,Minority interest ($000s),2019,-
+754396385,Minority interest ($000s),2018,-
+754396385,Minority interest ($000s),2017,-
+754396385,Minority interest ($000s),2016,-
+754396385,Minority interest ($000s),2015,-
+754396385,Members of the parent ($000s),2024,-
+754396385,Members of the parent ($000s),2023,-
+754396385,Members of the parent ($000s),2022,"$46,275"
+754396385,Members of the parent ($000s),2021,-
+754396385,Members of the parent ($000s),2020,-
+754396385,Members of the parent ($000s),2019,-
+754396385,Members of the parent ($000s),2018,-
+754396385,Members of the parent ($000s),2017,-
+754396385,Members of the parent ($000s),2016,-
+754396385,Members of the parent ($000s),2015,-
+754396385,Weighted average number of ordinary shares for basic earnings per share (000s),2024,
+754396385,Weighted average number of ordinary shares for basic earnings per share (000s),2023,
+754396385,Weighted average number of ordinary shares for basic earnings per share (000s),2022,
+754396385,Weighted average number of ordinary shares for basic earnings per share (000s),2021,
+754396385,Weighted average number of ordinary shares for basic earnings per share (000s),2020,-
+754396385,Weighted average number of ordinary shares for basic earnings per share (000s),2019,-
+754396385,Weighted average number of ordinary shares for basic earnings per share (000s),2018,-
+754396385,Weighted average number of ordinary shares for basic earnings per share (000s),2017,-
+754396385,Weighted average number of ordinary shares for basic earnings per share (000s),2016,-
+754396385,Weighted average number of ordinary shares for basic earnings per share (000s),2015,-
+754396385,Weighted average number of ordinary shares for diluted earnings per share (000s),2024,
+754396385,Weighted average number of ordinary shares for diluted earnings per share (000s),2023,
+754396385,Weighted average number of ordinary shares for diluted earnings per share (000s),2022,
+754396385,Weighted average number of ordinary shares for diluted earnings per share (000s),2021,
+754396385,Weighted average number of ordinary shares for diluted earnings per share (000s),2020,-
+754396385,Weighted average number of ordinary shares for diluted earnings per share (000s),2019,-
+754396385,Weighted average number of ordinary shares for diluted earnings per share (000s),2018,-
+754396385,Weighted average number of ordinary shares for diluted earnings per share (000s),2017,-
+754396385,Weighted average number of ordinary shares for diluted earnings per share (000s),2016,-
+754396385,Weighted average number of ordinary shares for diluted earnings per share (000s),2015,-
+754396385,Basic earnings per share from continuing operations (cents),2024,
+754396385,Basic earnings per share from continuing operations (cents),2023,
+754396385,Basic earnings per share from continuing operations (cents),2022,
+754396385,Basic earnings per share from continuing operations (cents),2021,
+754396385,Basic earnings per share from continuing operations (cents),2020,-
+754396385,Basic earnings per share from continuing operations (cents),2019,-
+754396385,Basic earnings per share from continuing operations (cents),2018,-
+754396385,Basic earnings per share from continuing operations (cents),2017,-
+754396385,Basic earnings per share from continuing operations (cents),2016,-
+754396385,Basic earnings per share from continuing operations (cents),2015,-
+754396385,Diluted earnings per share from continuing operations (cents),2024,
+754396385,Diluted earnings per share from continuing operations (cents),2023,
+754396385,Diluted earnings per share from continuing operations (cents),2022,
+754396385,Diluted earnings per share from continuing operations (cents),2021,
+754396385,Diluted earnings per share from continuing operations (cents),2020,-
+754396385,Diluted earnings per share from continuing operations (cents),2019,-
+754396385,Diluted earnings per share from continuing operations (cents),2018,-
+754396385,Diluted earnings per share from continuing operations (cents),2017,-
+754396385,Diluted earnings per share from continuing operations (cents),2016,-
+754396385,Diluted earnings per share from continuing operations (cents),2015,-
+754396385,Basic earnings per share (cents),2024,
+754396385,Basic earnings per share (cents),2023,
+754396385,Basic earnings per share (cents),2022,
+754396385,Basic earnings per share (cents),2021,
+754396385,Basic earnings per share (cents),2020,-
+754396385,Basic earnings per share (cents),2019,-
+754396385,Basic earnings per share (cents),2018,-
+754396385,Basic earnings per share (cents),2017,-
+754396385,Basic earnings per share (cents),2016,-
+754396385,Basic earnings per share (cents),2015,-
+754396385,Diluted earnings per share (cents),2024,
+754396385,Diluted earnings per share (cents),2023,
+754396385,Diluted earnings per share (cents),2022,
+754396385,Diluted earnings per share (cents),2021,
+754396385,Diluted earnings per share (cents),2020,-
+754396385,Diluted earnings per share (cents),2019,-
+754396385,Diluted earnings per share (cents),2018,-
+754396385,Diluted earnings per share (cents),2017,-
+754396385,Diluted earnings per share (cents),2016,-
+754396385,Diluted earnings per share (cents),2015,-
+754396385,EBITDA ($000s),2024,"$101,114"
+754396385,EBITDA ($000s),2023,"($29,865)"
+754396385,EBITDA ($000s),2022,"$72,655"
+754396385,EBITDA ($000s),2021,"$25,214"
+754396385,EBITDA ($000s),2020,"$18,486"
+754396385,EBITDA ($000s),2019,"$44,774"
+754396385,EBITDA ($000s),2018,"$55,228"
+754396385,EBITDA ($000s),2017,"$20,803"
+754396385,EBITDA ($000s),2016,"$23,272"
+754396385,EBITDA ($000s),2015,"$2,453"
+754396385,EBIT ($000s),2024,"$101,114"
+754396385,EBIT ($000s),2023,"($29,865)"
+754396385,EBIT ($000s),2022,"$72,655"
+754396385,EBIT ($000s),2021,"$25,214"
+754396385,EBIT ($000s),2020,"$18,486"
+754396385,EBIT ($000s),2019,"$44,774"
+754396385,EBIT ($000s),2018,"$55,228"
+754396385,EBIT ($000s),2017,"$20,803"
+754396385,EBIT ($000s),2016,"$23,272"
+754396385,EBIT ($000s),2015,"$2,453"
+754396385,Expenses included in income statement,2024,
+754396385,Expenses included in income statement,2023,
+754396385,Expenses included in income statement,2022,
+754396385,Expenses included in income statement,2021,
+754396385,Expenses included in income statement,2020,-
+754396385,Expenses included in income statement,2019,-
+754396385,Expenses included in income statement,2018,-
+754396385,Expenses included in income statement,2017,-
+754396385,Expenses included in income statement,2016,-
+754396385,Expenses included in income statement,2015,-
+754396385,Depreciation of property plant and equipment ($000s),2024,$0
+754396385,Depreciation of property plant and equipment ($000s),2023,$0
+754396385,Depreciation of property plant and equipment ($000s),2022,$0
+754396385,Depreciation of property plant and equipment ($000s),2021,$0
+754396385,Depreciation of property plant and equipment ($000s),2020,$0
+754396385,Depreciation of property plant and equipment ($000s),2019,$0
+754396385,Depreciation of property plant and equipment ($000s),2018,$0
+754396385,Depreciation of property plant and equipment ($000s),2017,$0
+754396385,Depreciation of property plant and equipment ($000s),2016,$0
+754396385,Depreciation of property plant and equipment ($000s),2015,$0
+754396385,Impairment of property plant and equipment ($000s),2024,$0
+754396385,Impairment of property plant and equipment ($000s),2023,$0
+754396385,Impairment of property plant and equipment ($000s),2022,$0
+754396385,Impairment of property plant and equipment ($000s),2021,$0
+754396385,Impairment of property plant and equipment ($000s),2020,$0
+754396385,Impairment of property plant and equipment ($000s),2019,$0
+754396385,Impairment of property plant and equipment ($000s),2018,$0
+754396385,Impairment of property plant and equipment ($000s),2017,$0
+754396385,Impairment of property plant and equipment ($000s),2016,$0
+754396385,Impairment of property plant and equipment ($000s),2015,$0
+754396385,Amortisation of intangible assets ($000s),2024,$0
+754396385,Amortisation of intangible assets ($000s),2023,$0
+754396385,Amortisation of intangible assets ($000s),2022,$0
+754396385,Amortisation of intangible assets ($000s),2021,$0
+754396385,Amortisation of intangible assets ($000s),2020,$0
+754396385,Amortisation of intangible assets ($000s),2019,$0
+754396385,Amortisation of intangible assets ($000s),2018,$0
+754396385,Amortisation of intangible assets ($000s),2017,$0
+754396385,Amortisation of intangible assets ($000s),2016,$0
+754396385,Amortisation of intangible assets ($000s),2015,$0
+754396385,Other Depreciation and Amortisation Expense ($000s),2024,
+754396385,Other Depreciation and Amortisation Expense ($000s),2023,
+754396385,Other Depreciation and Amortisation Expense ($000s),2022,
+754396385,Other Depreciation and Amortisation Expense ($000s),2021,
+754396385,Other Depreciation and Amortisation Expense ($000s),2020,-
+754396385,Other Depreciation and Amortisation Expense ($000s),2019,-
+754396385,Other Depreciation and Amortisation Expense ($000s),2018,-
+754396385,Other Depreciation and Amortisation Expense ($000s),2017,-
+754396385,Other Depreciation and Amortisation Expense ($000s),2016,-
+754396385,Other Depreciation and Amortisation Expense ($000s),2015,-
+754396385,Impairment of intangible assets ($000s),2024,$0
+754396385,Impairment of intangible assets ($000s),2023,$0
+754396385,Impairment of intangible assets ($000s),2022,$0
+754396385,Impairment of intangible assets ($000s),2021,$0
+754396385,Impairment of intangible assets ($000s),2020,$0
+754396385,Impairment of intangible assets ($000s),2019,$0
+754396385,Impairment of intangible assets ($000s),2018,$0
+754396385,Impairment of intangible assets ($000s),2017,$0
+754396385,Impairment of intangible assets ($000s),2016,$0
+754396385,Impairment of intangible assets ($000s),2015,$0
+754396385,"Total depreciation, amortisation and impairment ($000s)",2024,$0
+754396385,"Total depreciation, amortisation and impairment ($000s)",2023,$0
+754396385,"Total depreciation, amortisation and impairment ($000s)",2022,$0
+754396385,"Total depreciation, amortisation and impairment ($000s)",2021,$0
+754396385,"Total depreciation, amortisation and impairment ($000s)",2020,$0
+754396385,"Total depreciation, amortisation and impairment ($000s)",2019,$0
+754396385,"Total depreciation, amortisation and impairment ($000s)",2018,$0
+754396385,"Total depreciation, amortisation and impairment ($000s)",2017,$0
+754396385,"Total depreciation, amortisation and impairment ($000s)",2016,$0
+754396385,"Total depreciation, amortisation and impairment ($000s)",2015,$0
+754396385,Salaries and wages ($000s),2024,
+754396385,Salaries and wages ($000s),2023,
+754396385,Salaries and wages ($000s),2022,
+754396385,Salaries and wages ($000s),2021,
+754396385,Salaries and wages ($000s),2020,-
+754396385,Salaries and wages ($000s),2019,-
+754396385,Salaries and wages ($000s),2018,-
+754396385,Salaries and wages ($000s),2017,-
+754396385,Salaries and wages ($000s),2016,-
+754396385,Salaries and wages ($000s),2015,-
+754396385,Defined contribution superannuation expense ($000s),2024,
+754396385,Defined contribution superannuation expense ($000s),2023,
+754396385,Defined contribution superannuation expense ($000s),2022,
+754396385,Defined contribution superannuation expense ($000s),2021,
+754396385,Defined contribution superannuation expense ($000s),2020,-
+754396385,Defined contribution superannuation expense ($000s),2019,-
+754396385,Defined contribution superannuation expense ($000s),2018,-
+754396385,Defined contribution superannuation expense ($000s),2017,-
+754396385,Defined contribution superannuation expense ($000s),2016,-
+754396385,Defined contribution superannuation expense ($000s),2015,-
+754396385,Defined benefit superannuation expense ($000s),2024,
+754396385,Defined benefit superannuation expense ($000s),2023,
+754396385,Defined benefit superannuation expense ($000s),2022,
+754396385,Defined benefit superannuation expense ($000s),2021,
+754396385,Defined benefit superannuation expense ($000s),2020,-
+754396385,Defined benefit superannuation expense ($000s),2019,-
+754396385,Defined benefit superannuation expense ($000s),2018,-
+754396385,Defined benefit superannuation expense ($000s),2017,-
+754396385,Defined benefit superannuation expense ($000s),2016,-
+754396385,Defined benefit superannuation expense ($000s),2015,-
+754396385,Share-based payments expense ($000s),2024,
+754396385,Share-based payments expense ($000s),2023,
+754396385,Share-based payments expense ($000s),2022,
+754396385,Share-based payments expense ($000s),2021,
+754396385,Share-based payments expense ($000s),2020,-
+754396385,Share-based payments expense ($000s),2019,-
+754396385,Share-based payments expense ($000s),2018,-
+754396385,Share-based payments expense ($000s),2017,-
+754396385,Share-based payments expense ($000s),2016,-
+754396385,Share-based payments expense ($000s),2015,-
+754396385,Other employee benefits expense ($000s),2024,$0
+754396385,Other employee benefits expense ($000s),2023,$0
+754396385,Other employee benefits expense ($000s),2022,$0
+754396385,Other employee benefits expense ($000s),2021,$0
+754396385,Other employee benefits expense ($000s),2020,$0
+754396385,Other employee benefits expense ($000s),2019,$0
+754396385,Other employee benefits expense ($000s),2018,$0
+754396385,Other employee benefits expense ($000s),2017,$0
+754396385,Other employee benefits expense ($000s),2016,$0
+754396385,Other employee benefits expense ($000s),2015,$0
+754396385,Total employee benefits expense ($000s),2024,
+754396385,Total employee benefits expense ($000s),2023,
+754396385,Total employee benefits expense ($000s),2022,
+754396385,Total employee benefits expense ($000s),2021,
+754396385,Total employee benefits expense ($000s),2020,-
+754396385,Total employee benefits expense ($000s),2019,-
+754396385,Total employee benefits expense ($000s),2018,-
+754396385,Total employee benefits expense ($000s),2017,-
+754396385,Total employee benefits expense ($000s),2016,-
+754396385,Total employee benefits expense ($000s),2015,-
+754396385,Number of employees,2024,0
+754396385,Number of employees,2023,0
+754396385,Number of employees,2022,-
+754396385,Number of employees,2021,-
+754396385,Number of employees,2020,75
+754396385,Number of employees,2019,30
+754396385,Number of employees,2018,-
+754396385,Number of employees,2017,43
+754396385,Number of employees,2016,25
+754396385,Number of employees,2015,80
+754396385,Lease payments included in income statement ($000s),2024,
+754396385,Lease payments included in income statement ($000s),2023,
+754396385,Lease payments included in income statement ($000s),2022,
+754396385,Lease payments included in income statement ($000s),2021,
+754396385,Lease payments included in income statement ($000s),2020,-
+754396385,Lease payments included in income statement ($000s),2019,-
+754396385,Lease payments included in income statement ($000s),2018,-
+754396385,Lease payments included in income statement ($000s),2017,-
+754396385,Lease payments included in income statement ($000s),2016,-
+754396385,Lease payments included in income statement ($000s),2015,-
+754396385,Interest expense  ($000s),2024,-
+754396385,Interest expense  ($000s),2023,"($40,301)"
+754396385,Interest expense  ($000s),2022,"($26,379)"
+754396385,Interest expense  ($000s),2021,"($17,399)"
+754396385,Interest expense  ($000s),2020,"($19,460)"
+754396385,Interest expense  ($000s),2019,"($18,126)"
+754396385,Interest expense  ($000s),2018,"($16,259)"
+754396385,Interest expense  ($000s),2017,"($10,665)"
+754396385,Interest expense  ($000s),2016,"($3,870)"
+754396385,Interest expense  ($000s),2015,"($2,648)"
+754396385,Finance charges payable under finance leases and hire purchase ($000s),2024,
+754396385,Finance charges payable under finance leases and hire purchase ($000s),2023,
+754396385,Finance charges payable under finance leases and hire purchase ($000s),2022,
+754396385,Finance charges payable under finance leases and hire purchase ($000s),2021,
+754396385,Finance charges payable under finance leases and hire purchase ($000s),2020,-
+754396385,Finance charges payable under finance leases and hire purchase ($000s),2019,-
+754396385,Finance charges payable under finance leases and hire purchase ($000s),2018,-
+754396385,Finance charges payable under finance leases and hire purchase ($000s),2017,-
+754396385,Finance charges payable under finance leases and hire purchase ($000s),2016,-
+754396385,Finance charges payable under finance leases and hire purchase ($000s),2015,-
+754396385,Other finance costs ($000s),2024,"($45,764)"
+754396385,Other finance costs ($000s),2023,-
+754396385,Other finance costs ($000s),2022,-
+754396385,Other finance costs ($000s),2021,-
+754396385,Other finance costs ($000s),2020,-
+754396385,Other finance costs ($000s),2019,-
+754396385,Other finance costs ($000s),2018,-
+754396385,Other finance costs ($000s),2017,-
+754396385,Other finance costs ($000s),2016,-
+754396385,Other finance costs ($000s),2015,-
+754396385,Total finance costs ($000s),2024,"($45,764)"
+754396385,Total finance costs ($000s),2023,"($40,301)"
+754396385,Total finance costs ($000s),2022,"($26,379)"
+754396385,Total finance costs ($000s),2021,"($17,399)"
+754396385,Total finance costs ($000s),2020,"($19,460)"
+754396385,Total finance costs ($000s),2019,"($18,126)"
+754396385,Total finance costs ($000s),2018,"($16,259)"
+754396385,Total finance costs ($000s),2017,"($10,665)"
+754396385,Total finance costs ($000s),2016,"($3,870)"
+754396385,Total finance costs ($000s),2015,"($2,648)"
+754396385,Research and development costs ($000s),2024,
+754396385,Research and development costs ($000s),2023,
+754396385,Research and development costs ($000s),2022,
+754396385,Research and development costs ($000s),2021,
+754396385,Research and development costs ($000s),2020,-
+754396385,Research and development costs ($000s),2019,-
+754396385,Research and development costs ($000s),2018,-
+754396385,Research and development costs ($000s),2017,-
+754396385,Research and development costs ($000s),2016,-
+754396385,Research and development costs ($000s),2015,-

@@ -1,0 +1,601 @@
+duns,line_item,year,value
+759941685,Current Assets,2024,
+759941685,Current Assets,2023,
+759941685,Current Assets,2022,
+759941685,Current Assets,2021,
+759941685,Current Assets,2020,-
+759941685,Current Assets,2019,-
+759941685,Current Assets,2018,-
+759941685,Current Assets,2017,-
+759941685,Current Assets,2016,-
+759941685,Current Assets,2015,-
+759941685,Cash and cash equivalents ($000s),2024,$0
+759941685,Cash and cash equivalents ($000s),2023,$70
+759941685,Cash and cash equivalents ($000s),2022,$47
+759941685,Cash and cash equivalents ($000s),2021,-
+759941685,Cash and cash equivalents ($000s),2020,-
+759941685,Cash and cash equivalents ($000s),2019,-
+759941685,Cash and cash equivalents ($000s),2018,-
+759941685,Cash and cash equivalents ($000s),2017,-
+759941685,Cash and cash equivalents ($000s),2016,-
+759941685,Cash and cash equivalents ($000s),2015,-
+759941685,Growth,2024,-
+759941685,Growth,2023,48.94%
+759941685,Growth,2022,-
+759941685,Growth,2021,-
+759941685,Growth,2020,-
+759941685,Growth,2019,-
+759941685,Growth,2018,-
+759941685,Growth,2017,-
+759941685,Growth,2016,-
+759941685,Growth,2015,-
+759941685,Trade receivables ($000s),2024,"$4,959"
+759941685,Trade receivables ($000s),2023,"$4,427"
+759941685,Trade receivables ($000s),2022,"$2,966"
+759941685,Trade receivables ($000s),2021,-
+759941685,Trade receivables ($000s),2020,-
+759941685,Trade receivables ($000s),2019,-
+759941685,Trade receivables ($000s),2018,-
+759941685,Trade receivables ($000s),2017,-
+759941685,Trade receivables ($000s),2016,-
+759941685,Trade receivables ($000s),2015,-
+759941685,Other receivables ($000s),2024,"$2,732"
+759941685,Other receivables ($000s),2023,"$4,491"
+759941685,Other receivables ($000s),2022,"$6,953"
+759941685,Other receivables ($000s),2021,-
+759941685,Other receivables ($000s),2020,-
+759941685,Other receivables ($000s),2019,-
+759941685,Other receivables ($000s),2018,-
+759941685,Other receivables ($000s),2017,-
+759941685,Other receivables ($000s),2016,-
+759941685,Other receivables ($000s),2015,-
+759941685,Raw materials ($000s),2024,$0
+759941685,Raw materials ($000s),2023,$0
+759941685,Raw materials ($000s),2022,$0
+759941685,Raw materials ($000s),2021,-
+759941685,Raw materials ($000s),2020,-
+759941685,Raw materials ($000s),2019,-
+759941685,Raw materials ($000s),2018,-
+759941685,Raw materials ($000s),2017,-
+759941685,Raw materials ($000s),2016,-
+759941685,Raw materials ($000s),2015,-
+759941685,Work-in-progress ($000s),2024,
+759941685,Work-in-progress ($000s),2023,
+759941685,Work-in-progress ($000s),2022,
+759941685,Work-in-progress ($000s),2021,
+759941685,Work-in-progress ($000s),2020,-
+759941685,Work-in-progress ($000s),2019,-
+759941685,Work-in-progress ($000s),2018,-
+759941685,Work-in-progress ($000s),2017,-
+759941685,Work-in-progress ($000s),2016,-
+759941685,Work-in-progress ($000s),2015,-
+759941685,Finished goods ($000s),2024,$0
+759941685,Finished goods ($000s),2023,$0
+759941685,Finished goods ($000s),2022,$0
+759941685,Finished goods ($000s),2021,-
+759941685,Finished goods ($000s),2020,-
+759941685,Finished goods ($000s),2019,-
+759941685,Finished goods ($000s),2018,-
+759941685,Finished goods ($000s),2017,-
+759941685,Finished goods ($000s),2016,-
+759941685,Finished goods ($000s),2015,-
+759941685,Total inventories ($000s),2024,$0
+759941685,Total inventories ($000s),2023,$0
+759941685,Total inventories ($000s),2022,$0
+759941685,Total inventories ($000s),2021,-
+759941685,Total inventories ($000s),2020,-
+759941685,Total inventories ($000s),2019,-
+759941685,Total inventories ($000s),2018,-
+759941685,Total inventories ($000s),2017,-
+759941685,Total inventories ($000s),2016,-
+759941685,Total inventories ($000s),2015,-
+759941685,Prepayments ($000s),2024,$437
+759941685,Prepayments ($000s),2023,$739
+759941685,Prepayments ($000s),2022,$49
+759941685,Prepayments ($000s),2021,-
+759941685,Prepayments ($000s),2020,-
+759941685,Prepayments ($000s),2019,-
+759941685,Prepayments ($000s),2018,-
+759941685,Prepayments ($000s),2017,-
+759941685,Prepayments ($000s),2016,-
+759941685,Prepayments ($000s),2015,-
+759941685,Derivative financial instruments ($000s),2024,
+759941685,Derivative financial instruments ($000s),2023,
+759941685,Derivative financial instruments ($000s),2022,
+759941685,Derivative financial instruments ($000s),2021,
+759941685,Derivative financial instruments ($000s),2020,-
+759941685,Derivative financial instruments ($000s),2019,-
+759941685,Derivative financial instruments ($000s),2018,-
+759941685,Derivative financial instruments ($000s),2017,-
+759941685,Derivative financial instruments ($000s),2016,-
+759941685,Derivative financial instruments ($000s),2015,-
+759941685,Other current assets ($000s),2024,$187
+759941685,Other current assets ($000s),2023,$30
+759941685,Other current assets ($000s),2022,$0
+759941685,Other current assets ($000s),2021,-
+759941685,Other current assets ($000s),2020,-
+759941685,Other current assets ($000s),2019,-
+759941685,Other current assets ($000s),2018,-
+759941685,Other current assets ($000s),2017,-
+759941685,Other current assets ($000s),2016,-
+759941685,Other current assets ($000s),2015,-
+759941685,Total current assets for continuing operations ($000s),2024,"$8,314"
+759941685,Total current assets for continuing operations ($000s),2023,"$9,758"
+759941685,Total current assets for continuing operations ($000s),2022,"$10,014"
+759941685,Total current assets for continuing operations ($000s),2021,-
+759941685,Total current assets for continuing operations ($000s),2020,-
+759941685,Total current assets for continuing operations ($000s),2019,-
+759941685,Total current assets for continuing operations ($000s),2018,-
+759941685,Total current assets for continuing operations ($000s),2017,-
+759941685,Total current assets for continuing operations ($000s),2016,-
+759941685,Total current assets for continuing operations ($000s),2015,-
+759941685,Assets held for sale ($000s),2024,
+759941685,Assets held for sale ($000s),2023,
+759941685,Assets held for sale ($000s),2022,
+759941685,Assets held for sale ($000s),2021,
+759941685,Assets held for sale ($000s),2020,-
+759941685,Assets held for sale ($000s),2019,-
+759941685,Assets held for sale ($000s),2018,-
+759941685,Assets held for sale ($000s),2017,-
+759941685,Assets held for sale ($000s),2016,-
+759941685,Assets held for sale ($000s),2015,-
+759941685,Total current assets ($000s),2024,"$8,314"
+759941685,Total current assets ($000s),2023,"$9,758"
+759941685,Total current assets ($000s),2022,"$10,014"
+759941685,Total current assets ($000s),2021,-
+759941685,Total current assets ($000s),2020,-
+759941685,Total current assets ($000s),2019,-
+759941685,Total current assets ($000s),2018,-
+759941685,Total current assets ($000s),2017,-
+759941685,Total current assets ($000s),2016,-
+759941685,Total current assets ($000s),2015,-
+759941685,Non-current assets,2024,
+759941685,Non-current assets,2023,
+759941685,Non-current assets,2022,
+759941685,Non-current assets,2021,
+759941685,Non-current assets,2020,-
+759941685,Non-current assets,2019,-
+759941685,Non-current assets,2018,-
+759941685,Non-current assets,2017,-
+759941685,Non-current assets,2016,-
+759941685,Non-current assets,2015,-
+759941685,Receivables ($000s),2024,
+759941685,Receivables ($000s),2023,
+759941685,Receivables ($000s),2022,
+759941685,Receivables ($000s),2021,
+759941685,Receivables ($000s),2020,-
+759941685,Receivables ($000s),2019,-
+759941685,Receivables ($000s),2018,-
+759941685,Receivables ($000s),2017,-
+759941685,Receivables ($000s),2016,-
+759941685,Receivables ($000s),2015,-
+759941685,Investments in associates ($000s),2024,$0
+759941685,Investments in associates ($000s),2023,$0
+759941685,Investments in associates ($000s),2022,$0
+759941685,Investments in associates ($000s),2021,-
+759941685,Investments in associates ($000s),2020,-
+759941685,Investments in associates ($000s),2019,-
+759941685,Investments in associates ($000s),2018,-
+759941685,Investments in associates ($000s),2017,-
+759941685,Investments in associates ($000s),2016,-
+759941685,Investments in associates ($000s),2015,-
+759941685,Investments in subsidiaries ($000s),2024,
+759941685,Investments in subsidiaries ($000s),2023,
+759941685,Investments in subsidiaries ($000s),2022,
+759941685,Investments in subsidiaries ($000s),2021,
+759941685,Investments in subsidiaries ($000s),2020,-
+759941685,Investments in subsidiaries ($000s),2019,-
+759941685,Investments in subsidiaries ($000s),2018,-
+759941685,Investments in subsidiaries ($000s),2017,-
+759941685,Investments in subsidiaries ($000s),2016,-
+759941685,Investments in subsidiaries ($000s),2015,-
+759941685,Available for sale financial assets ($000s),2024,$0
+759941685,Available for sale financial assets ($000s),2023,$0
+759941685,Available for sale financial assets ($000s),2022,$0
+759941685,Available for sale financial assets ($000s),2021,-
+759941685,Available for sale financial assets ($000s),2020,-
+759941685,Available for sale financial assets ($000s),2019,-
+759941685,Available for sale financial assets ($000s),2018,-
+759941685,Available for sale financial assets ($000s),2017,-
+759941685,Available for sale financial assets ($000s),2016,-
+759941685,Available for sale financial assets ($000s),2015,-
+759941685,"Property, plant and equipment ($000s)",2024,$302
+759941685,"Property, plant and equipment ($000s)",2023,$269
+759941685,"Property, plant and equipment ($000s)",2022,$262
+759941685,"Property, plant and equipment ($000s)",2021,-
+759941685,"Property, plant and equipment ($000s)",2020,-
+759941685,"Property, plant and equipment ($000s)",2019,-
+759941685,"Property, plant and equipment ($000s)",2018,-
+759941685,"Property, plant and equipment ($000s)",2017,-
+759941685,"Property, plant and equipment ($000s)",2016,-
+759941685,"Property, plant and equipment ($000s)",2015,-
+759941685,Intangible assets and goodwill ($000s),2024,"$29,367"
+759941685,Intangible assets and goodwill ($000s),2023,"$30,380"
+759941685,Intangible assets and goodwill ($000s),2022,"$23,823"
+759941685,Intangible assets and goodwill ($000s),2021,-
+759941685,Intangible assets and goodwill ($000s),2020,-
+759941685,Intangible assets and goodwill ($000s),2019,-
+759941685,Intangible assets and goodwill ($000s),2018,-
+759941685,Intangible assets and goodwill ($000s),2017,-
+759941685,Intangible assets and goodwill ($000s),2016,-
+759941685,Intangible assets and goodwill ($000s),2015,-
+759941685,Deferred tax assets ($000s),2024,
+759941685,Deferred tax assets ($000s),2023,
+759941685,Deferred tax assets ($000s),2022,
+759941685,Deferred tax assets ($000s),2021,
+759941685,Deferred tax assets ($000s),2020,-
+759941685,Deferred tax assets ($000s),2019,-
+759941685,Deferred tax assets ($000s),2018,-
+759941685,Deferred tax assets ($000s),2017,-
+759941685,Deferred tax assets ($000s),2016,-
+759941685,Deferred tax assets ($000s),2015,-
+759941685,Other non-current assets ($000s),2024,"$1,051"
+759941685,Other non-current assets ($000s),2023,"$1,292"
+759941685,Other non-current assets ($000s),2022,"$1,639"
+759941685,Other non-current assets ($000s),2021,-
+759941685,Other non-current assets ($000s),2020,-
+759941685,Other non-current assets ($000s),2019,-
+759941685,Other non-current assets ($000s),2018,-
+759941685,Other non-current assets ($000s),2017,-
+759941685,Other non-current assets ($000s),2016,-
+759941685,Other non-current assets ($000s),2015,-
+759941685,Total non-current assets ($000s),2024,"$30,719"
+759941685,Total non-current assets ($000s),2023,"$31,942"
+759941685,Total non-current assets ($000s),2022,"$25,724"
+759941685,Total non-current assets ($000s),2021,-
+759941685,Total non-current assets ($000s),2020,-
+759941685,Total non-current assets ($000s),2019,-
+759941685,Total non-current assets ($000s),2018,-
+759941685,Total non-current assets ($000s),2017,-
+759941685,Total non-current assets ($000s),2016,-
+759941685,Total non-current assets ($000s),2015,-
+759941685,TOTAL ASSETS ($000s),2024,"$39,034"
+759941685,TOTAL ASSETS ($000s),2023,"$41,700"
+759941685,TOTAL ASSETS ($000s),2022,"$35,738"
+759941685,TOTAL ASSETS ($000s),2021,-
+759941685,TOTAL ASSETS ($000s),2020,-
+759941685,TOTAL ASSETS ($000s),2019,-
+759941685,TOTAL ASSETS ($000s),2018,-
+759941685,TOTAL ASSETS ($000s),2017,-
+759941685,TOTAL ASSETS ($000s),2016,-
+759941685,TOTAL ASSETS ($000s),2015,-
+759941685,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2024,"$41,700"
+759941685,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2023,"$35,738"
+759941685,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2022,-
+759941685,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2021,-
+759941685,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2020,-
+759941685,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2019,-
+759941685,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2018,-
+759941685,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2017,-
+759941685,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2016,-
+759941685,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2015,-
+759941685,Current liabilities,2024,
+759941685,Current liabilities,2023,
+759941685,Current liabilities,2022,
+759941685,Current liabilities,2021,
+759941685,Current liabilities,2020,-
+759941685,Current liabilities,2019,-
+759941685,Current liabilities,2018,-
+759941685,Current liabilities,2017,-
+759941685,Current liabilities,2016,-
+759941685,Current liabilities,2015,-
+759941685,Trade payables ($000s),2024,$867
+759941685,Trade payables ($000s),2023,$827
+759941685,Trade payables ($000s),2022,$435
+759941685,Trade payables ($000s),2021,-
+759941685,Trade payables ($000s),2020,-
+759941685,Trade payables ($000s),2019,-
+759941685,Trade payables ($000s),2018,-
+759941685,Trade payables ($000s),2017,-
+759941685,Trade payables ($000s),2016,-
+759941685,Trade payables ($000s),2015,-
+759941685,Other payables ($000s),2024,"$3,557"
+759941685,Other payables ($000s),2023,"$5,405"
+759941685,Other payables ($000s),2022,"$1,572"
+759941685,Other payables ($000s),2021,-
+759941685,Other payables ($000s),2020,-
+759941685,Other payables ($000s),2019,-
+759941685,Other payables ($000s),2018,-
+759941685,Other payables ($000s),2017,-
+759941685,Other payables ($000s),2016,-
+759941685,Other payables ($000s),2015,-
+759941685,Overdrafts ($000s),2024,
+759941685,Overdrafts ($000s),2023,
+759941685,Overdrafts ($000s),2022,
+759941685,Overdrafts ($000s),2021,
+759941685,Overdrafts ($000s),2020,-
+759941685,Overdrafts ($000s),2019,-
+759941685,Overdrafts ($000s),2018,-
+759941685,Overdrafts ($000s),2017,-
+759941685,Overdrafts ($000s),2016,-
+759941685,Overdrafts ($000s),2015,-
+759941685,Loans - secured ($000s),2024,
+759941685,Loans - secured ($000s),2023,
+759941685,Loans - secured ($000s),2022,
+759941685,Loans - secured ($000s),2021,
+759941685,Loans - secured ($000s),2020,-
+759941685,Loans - secured ($000s),2019,-
+759941685,Loans - secured ($000s),2018,-
+759941685,Loans - secured ($000s),2017,-
+759941685,Loans - secured ($000s),2016,-
+759941685,Loans - secured ($000s),2015,-
+759941685,Loans - unsecured ($000s),2024,
+759941685,Loans - unsecured ($000s),2023,
+759941685,Loans - unsecured ($000s),2022,
+759941685,Loans - unsecured ($000s),2021,
+759941685,Loans - unsecured ($000s),2020,-
+759941685,Loans - unsecured ($000s),2019,-
+759941685,Loans - unsecured ($000s),2018,-
+759941685,Loans - unsecured ($000s),2017,-
+759941685,Loans - unsecured ($000s),2016,-
+759941685,Loans - unsecured ($000s),2015,-
+759941685,Obligations under finance leases and hire purchase ($000s),2024,$696
+759941685,Obligations under finance leases and hire purchase ($000s),2023,$493
+759941685,Obligations under finance leases and hire purchase ($000s),2022,$476
+759941685,Obligations under finance leases and hire purchase ($000s),2021,-
+759941685,Obligations under finance leases and hire purchase ($000s),2020,-
+759941685,Obligations under finance leases and hire purchase ($000s),2019,-
+759941685,Obligations under finance leases and hire purchase ($000s),2018,-
+759941685,Obligations under finance leases and hire purchase ($000s),2017,-
+759941685,Obligations under finance leases and hire purchase ($000s),2016,-
+759941685,Obligations under finance leases and hire purchase ($000s),2015,-
+759941685,Loans from related parties ($000s),2024,$594
+759941685,Loans from related parties ($000s),2023,"$1,369"
+759941685,Loans from related parties ($000s),2022,-
+759941685,Loans from related parties ($000s),2021,-
+759941685,Loans from related parties ($000s),2020,-
+759941685,Loans from related parties ($000s),2019,-
+759941685,Loans from related parties ($000s),2018,-
+759941685,Loans from related parties ($000s),2017,-
+759941685,Loans from related parties ($000s),2016,-
+759941685,Loans from related parties ($000s),2015,-
+759941685,Total current interest-bearing loans and borrowings ($000s),2024,"$1,290"
+759941685,Total current interest-bearing loans and borrowings ($000s),2023,"$1,861"
+759941685,Total current interest-bearing loans and borrowings ($000s),2022,$476
+759941685,Total current interest-bearing loans and borrowings ($000s),2021,-
+759941685,Total current interest-bearing loans and borrowings ($000s),2020,-
+759941685,Total current interest-bearing loans and borrowings ($000s),2019,-
+759941685,Total current interest-bearing loans and borrowings ($000s),2018,-
+759941685,Total current interest-bearing loans and borrowings ($000s),2017,-
+759941685,Total current interest-bearing loans and borrowings ($000s),2016,-
+759941685,Total current interest-bearing loans and borrowings ($000s),2015,-
+759941685,Income tax payable/(refundable) ($000s),2024,-
+759941685,Income tax payable/(refundable) ($000s),2023,"$1,010"
+759941685,Income tax payable/(refundable) ($000s),2022,$196
+759941685,Income tax payable/(refundable) ($000s),2021,-
+759941685,Income tax payable/(refundable) ($000s),2020,-
+759941685,Income tax payable/(refundable) ($000s),2019,-
+759941685,Income tax payable/(refundable) ($000s),2018,-
+759941685,Income tax payable/(refundable) ($000s),2017,-
+759941685,Income tax payable/(refundable) ($000s),2016,-
+759941685,Income tax payable/(refundable) ($000s),2015,-
+759941685,Provisions ($000s),2024,"$2,294"
+759941685,Provisions ($000s),2023,"$2,216"
+759941685,Provisions ($000s),2022,"$1,992"
+759941685,Provisions ($000s),2021,-
+759941685,Provisions ($000s),2020,-
+759941685,Provisions ($000s),2019,-
+759941685,Provisions ($000s),2018,-
+759941685,Provisions ($000s),2017,-
+759941685,Provisions ($000s),2016,-
+759941685,Provisions ($000s),2015,-
+759941685,Other current liabilities ($000s),2024,$0
+759941685,Other current liabilities ($000s),2023,$0
+759941685,Other current liabilities ($000s),2022,$0
+759941685,Other current liabilities ($000s),2021,-
+759941685,Other current liabilities ($000s),2020,-
+759941685,Other current liabilities ($000s),2019,-
+759941685,Other current liabilities ($000s),2018,-
+759941685,Other current liabilities ($000s),2017,-
+759941685,Other current liabilities ($000s),2016,-
+759941685,Other current liabilities ($000s),2015,-
+759941685,Total current liabilities for continuing operations ($000s),2024,"$8,008"
+759941685,Total current liabilities for continuing operations ($000s),2023,"$11,319"
+759941685,Total current liabilities for continuing operations ($000s),2022,"$4,670"
+759941685,Total current liabilities for continuing operations ($000s),2021,-
+759941685,Total current liabilities for continuing operations ($000s),2020,-
+759941685,Total current liabilities for continuing operations ($000s),2019,-
+759941685,Total current liabilities for continuing operations ($000s),2018,-
+759941685,Total current liabilities for continuing operations ($000s),2017,-
+759941685,Total current liabilities for continuing operations ($000s),2016,-
+759941685,Total current liabilities for continuing operations ($000s),2015,-
+759941685,Liabilities directly associated with assets held for sale ($000s),2024,
+759941685,Liabilities directly associated with assets held for sale ($000s),2023,
+759941685,Liabilities directly associated with assets held for sale ($000s),2022,
+759941685,Liabilities directly associated with assets held for sale ($000s),2021,
+759941685,Liabilities directly associated with assets held for sale ($000s),2020,-
+759941685,Liabilities directly associated with assets held for sale ($000s),2019,-
+759941685,Liabilities directly associated with assets held for sale ($000s),2018,-
+759941685,Liabilities directly associated with assets held for sale ($000s),2017,-
+759941685,Liabilities directly associated with assets held for sale ($000s),2016,-
+759941685,Liabilities directly associated with assets held for sale ($000s),2015,-
+759941685,Total current liabilities ($000s),2024,"$8,008"
+759941685,Total current liabilities ($000s),2023,"$11,319"
+759941685,Total current liabilities ($000s),2022,"$4,670"
+759941685,Total current liabilities ($000s),2021,-
+759941685,Total current liabilities ($000s),2020,-
+759941685,Total current liabilities ($000s),2019,-
+759941685,Total current liabilities ($000s),2018,-
+759941685,Total current liabilities ($000s),2017,-
+759941685,Total current liabilities ($000s),2016,-
+759941685,Total current liabilities ($000s),2015,-
+759941685,Total current liabilities for previous year ($000s),2024,"$11,319"
+759941685,Total current liabilities for previous year ($000s),2023,"$4,670"
+759941685,Total current liabilities for previous year ($000s),2022,-
+759941685,Total current liabilities for previous year ($000s),2021,-
+759941685,Total current liabilities for previous year ($000s),2020,-
+759941685,Total current liabilities for previous year ($000s),2019,-
+759941685,Total current liabilities for previous year ($000s),2018,-
+759941685,Total current liabilities for previous year ($000s),2017,-
+759941685,Total current liabilities for previous year ($000s),2016,-
+759941685,Total current liabilities for previous year ($000s),2015,-
+759941685,Non-current liabilities,2024,
+759941685,Non-current liabilities,2023,
+759941685,Non-current liabilities,2022,
+759941685,Non-current liabilities,2021,
+759941685,Non-current liabilities,2020,-
+759941685,Non-current liabilities,2019,-
+759941685,Non-current liabilities,2018,-
+759941685,Non-current liabilities,2017,-
+759941685,Non-current liabilities,2016,-
+759941685,Non-current liabilities,2015,-
+759941685,Total non-current interest-bearing loans and borrowings ($000s),2024,$466
+759941685,Total non-current interest-bearing loans and borrowings ($000s),2023,"$1,144"
+759941685,Total non-current interest-bearing loans and borrowings ($000s),2022,"$1,477"
+759941685,Total non-current interest-bearing loans and borrowings ($000s),2021,-
+759941685,Total non-current interest-bearing loans and borrowings ($000s),2020,-
+759941685,Total non-current interest-bearing loans and borrowings ($000s),2019,-
+759941685,Total non-current interest-bearing loans and borrowings ($000s),2018,-
+759941685,Total non-current interest-bearing loans and borrowings ($000s),2017,-
+759941685,Total non-current interest-bearing loans and borrowings ($000s),2016,-
+759941685,Total non-current interest-bearing loans and borrowings ($000s),2015,-
+759941685,Deferred tax liabilities ($000s),2024,$304
+759941685,Deferred tax liabilities ($000s),2023,$595
+759941685,Deferred tax liabilities ($000s),2022,$845
+759941685,Deferred tax liabilities ($000s),2021,-
+759941685,Deferred tax liabilities ($000s),2020,-
+759941685,Deferred tax liabilities ($000s),2019,-
+759941685,Deferred tax liabilities ($000s),2018,-
+759941685,Deferred tax liabilities ($000s),2017,-
+759941685,Deferred tax liabilities ($000s),2016,-
+759941685,Deferred tax liabilities ($000s),2015,-
+759941685,Convertible redeemable preference shares ($000s),2024,
+759941685,Convertible redeemable preference shares ($000s),2023,
+759941685,Convertible redeemable preference shares ($000s),2022,
+759941685,Convertible redeemable preference shares ($000s),2021,
+759941685,Convertible redeemable preference shares ($000s),2020,-
+759941685,Convertible redeemable preference shares ($000s),2019,-
+759941685,Convertible redeemable preference shares ($000s),2018,-
+759941685,Convertible redeemable preference shares ($000s),2017,-
+759941685,Convertible redeemable preference shares ($000s),2016,-
+759941685,Convertible redeemable preference shares ($000s),2015,-
+759941685,Other non-current liabilities ($000s),2024,$0
+759941685,Other non-current liabilities ($000s),2023,$0
+759941685,Other non-current liabilities ($000s),2022,$0
+759941685,Other non-current liabilities ($000s),2021,-
+759941685,Other non-current liabilities ($000s),2020,-
+759941685,Other non-current liabilities ($000s),2019,-
+759941685,Other non-current liabilities ($000s),2018,-
+759941685,Other non-current liabilities ($000s),2017,-
+759941685,Other non-current liabilities ($000s),2016,-
+759941685,Other non-current liabilities ($000s),2015,-
+759941685,Total non-current liabilities ($000s),2024,"$1,058"
+759941685,Total non-current liabilities ($000s),2023,"$2,021"
+759941685,Total non-current liabilities ($000s),2022,"$2,536"
+759941685,Total non-current liabilities ($000s),2021,-
+759941685,Total non-current liabilities ($000s),2020,-
+759941685,Total non-current liabilities ($000s),2019,-
+759941685,Total non-current liabilities ($000s),2018,-
+759941685,Total non-current liabilities ($000s),2017,-
+759941685,Total non-current liabilities ($000s),2016,-
+759941685,Total non-current liabilities ($000s),2015,-
+759941685,TOTAL LIABILITIES ($000s),2024,"$9,067"
+759941685,TOTAL LIABILITIES ($000s),2023,"$13,340"
+759941685,TOTAL LIABILITIES ($000s),2022,"$7,206"
+759941685,TOTAL LIABILITIES ($000s),2021,-
+759941685,TOTAL LIABILITIES ($000s),2020,-
+759941685,TOTAL LIABILITIES ($000s),2019,-
+759941685,TOTAL LIABILITIES ($000s),2018,-
+759941685,TOTAL LIABILITIES ($000s),2017,-
+759941685,TOTAL LIABILITIES ($000s),2016,-
+759941685,TOTAL LIABILITIES ($000s),2015,-
+759941685,NET ASSETS ($000s),2024,"$29,967"
+759941685,NET ASSETS ($000s),2023,"$28,360"
+759941685,NET ASSETS ($000s),2022,"$28,532"
+759941685,NET ASSETS ($000s),2021,-
+759941685,NET ASSETS ($000s),2020,-
+759941685,NET ASSETS ($000s),2019,-
+759941685,NET ASSETS ($000s),2018,-
+759941685,NET ASSETS ($000s),2017,-
+759941685,NET ASSETS ($000s),2016,-
+759941685,NET ASSETS ($000s),2015,-
+759941685,Equity,2024,
+759941685,Equity,2023,
+759941685,Equity,2022,
+759941685,Equity,2021,
+759941685,Equity,2020,-
+759941685,Equity,2019,-
+759941685,Equity,2018,-
+759941685,Equity,2017,-
+759941685,Equity,2016,-
+759941685,Equity,2015,-
+759941685,Equity attributable to equity holders of the parent,2024,
+759941685,Equity attributable to equity holders of the parent,2023,
+759941685,Equity attributable to equity holders of the parent,2022,
+759941685,Equity attributable to equity holders of the parent,2021,
+759941685,Equity attributable to equity holders of the parent,2020,-
+759941685,Equity attributable to equity holders of the parent,2019,-
+759941685,Equity attributable to equity holders of the parent,2018,-
+759941685,Equity attributable to equity holders of the parent,2017,-
+759941685,Equity attributable to equity holders of the parent,2016,-
+759941685,Equity attributable to equity holders of the parent,2015,-
+759941685,Contributed equity ($000s),2024,$138
+759941685,Contributed equity ($000s),2023,$138
+759941685,Contributed equity ($000s),2022,$138
+759941685,Contributed equity ($000s),2021,-
+759941685,Contributed equity ($000s),2020,-
+759941685,Contributed equity ($000s),2019,-
+759941685,Contributed equity ($000s),2018,-
+759941685,Contributed equity ($000s),2017,-
+759941685,Contributed equity ($000s),2016,-
+759941685,Contributed equity ($000s),2015,-
+759941685,Retained earnings ($000s),2024,"$3,079"
+759941685,Retained earnings ($000s),2023,"$1,472"
+759941685,Retained earnings ($000s),2022,"$1,644"
+759941685,Retained earnings ($000s),2021,-
+759941685,Retained earnings ($000s),2020,-
+759941685,Retained earnings ($000s),2019,-
+759941685,Retained earnings ($000s),2018,-
+759941685,Retained earnings ($000s),2017,-
+759941685,Retained earnings ($000s),2016,-
+759941685,Retained earnings ($000s),2015,-
+759941685,Reserves ($000s),2024,"$26,750"
+759941685,Reserves ($000s),2023,"$26,750"
+759941685,Reserves ($000s),2022,"$26,750"
+759941685,Reserves ($000s),2021,-
+759941685,Reserves ($000s),2020,-
+759941685,Reserves ($000s),2019,-
+759941685,Reserves ($000s),2018,-
+759941685,Reserves ($000s),2017,-
+759941685,Reserves ($000s),2016,-
+759941685,Reserves ($000s),2015,-
+759941685,Total Parent interests ($000s),2024,"$29,967"
+759941685,Total Parent interests ($000s),2023,"$28,360"
+759941685,Total Parent interests ($000s),2022,"$28,532"
+759941685,Total Parent interests ($000s),2021,-
+759941685,Total Parent interests ($000s),2020,-
+759941685,Total Parent interests ($000s),2019,-
+759941685,Total Parent interests ($000s),2018,-
+759941685,Total Parent interests ($000s),2017,-
+759941685,Total Parent interests ($000s),2016,-
+759941685,Total Parent interests ($000s),2015,-
+759941685,Minority interests ($000s),2024,
+759941685,Minority interests ($000s),2023,
+759941685,Minority interests ($000s),2022,
+759941685,Minority interests ($000s),2021,
+759941685,Minority interests ($000s),2020,-
+759941685,Minority interests ($000s),2019,-
+759941685,Minority interests ($000s),2018,-
+759941685,Minority interests ($000s),2017,-
+759941685,Minority interests ($000s),2016,-
+759941685,Minority interests ($000s),2015,-
+759941685,TOTAL EQUITY ($000s),2024,"$29,967"
+759941685,TOTAL EQUITY ($000s),2023,"$28,360"
+759941685,TOTAL EQUITY ($000s),2022,"$28,532"
+759941685,TOTAL EQUITY ($000s),2021,-
+759941685,TOTAL EQUITY ($000s),2020,-
+759941685,TOTAL EQUITY ($000s),2019,-
+759941685,TOTAL EQUITY ($000s),2018,-
+759941685,TOTAL EQUITY ($000s),2017,-
+759941685,TOTAL EQUITY ($000s),2016,-
+759941685,TOTAL EQUITY ($000s),2015,-
+759941685,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2024,"$28,360"
+759941685,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2023,"$28,532"
+759941685,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2022,-
+759941685,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2021,-
+759941685,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2020,-
+759941685,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2019,-
+759941685,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2018,-
+759941685,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2017,-
+759941685,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2016,-
+759941685,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2015,-

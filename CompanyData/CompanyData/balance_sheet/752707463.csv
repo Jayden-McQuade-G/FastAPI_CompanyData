@@ -1,0 +1,601 @@
+duns,line_item,year,value
+752707463,Current Assets,2024,
+752707463,Current Assets,2023,
+752707463,Current Assets,2022,
+752707463,Current Assets,2021,
+752707463,Current Assets,2020,-
+752707463,Current Assets,2019,-
+752707463,Current Assets,2018,-
+752707463,Current Assets,2017,-
+752707463,Current Assets,2016,-
+752707463,Current Assets,2015,-
+752707463,Cash and cash equivalents ($000s),2024,"$9,123"
+752707463,Cash and cash equivalents ($000s),2023,"$11,261"
+752707463,Cash and cash equivalents ($000s),2022,-
+752707463,Cash and cash equivalents ($000s),2021,-
+752707463,Cash and cash equivalents ($000s),2020,-
+752707463,Cash and cash equivalents ($000s),2019,"$9,642"
+752707463,Cash and cash equivalents ($000s),2018,"$9,472"
+752707463,Cash and cash equivalents ($000s),2017,"$10,582"
+752707463,Cash and cash equivalents ($000s),2016,"$10,326"
+752707463,Cash and cash equivalents ($000s),2015,"$6,191"
+752707463,Growth,2024,(18.99%)
+752707463,Growth,2023,-
+752707463,Growth,2022,-
+752707463,Growth,2021,-
+752707463,Growth,2020,-
+752707463,Growth,2019,1.79%
+752707463,Growth,2018,(10.49%)
+752707463,Growth,2017,2.48%
+752707463,Growth,2016,66.79%
+752707463,Growth,2015,-
+752707463,Trade receivables ($000s),2024,"$14,855"
+752707463,Trade receivables ($000s),2023,"$2,382"
+752707463,Trade receivables ($000s),2022,-
+752707463,Trade receivables ($000s),2021,-
+752707463,Trade receivables ($000s),2020,-
+752707463,Trade receivables ($000s),2019,"$1,856"
+752707463,Trade receivables ($000s),2018,"$1,058"
+752707463,Trade receivables ($000s),2017,"$1,166"
+752707463,Trade receivables ($000s),2016,"$1,784"
+752707463,Trade receivables ($000s),2015,$121
+752707463,Other receivables ($000s),2024,$89
+752707463,Other receivables ($000s),2023,"$6,304"
+752707463,Other receivables ($000s),2022,-
+752707463,Other receivables ($000s),2021,-
+752707463,Other receivables ($000s),2020,-
+752707463,Other receivables ($000s),2019,$177
+752707463,Other receivables ($000s),2018,$83
+752707463,Other receivables ($000s),2017,$112
+752707463,Other receivables ($000s),2016,$99
+752707463,Other receivables ($000s),2015,$89
+752707463,Raw materials ($000s),2024,$0
+752707463,Raw materials ($000s),2023,$0
+752707463,Raw materials ($000s),2022,-
+752707463,Raw materials ($000s),2021,-
+752707463,Raw materials ($000s),2020,-
+752707463,Raw materials ($000s),2019,$0
+752707463,Raw materials ($000s),2018,$0
+752707463,Raw materials ($000s),2017,$0
+752707463,Raw materials ($000s),2016,$0
+752707463,Raw materials ($000s),2015,$0
+752707463,Work-in-progress ($000s),2024,
+752707463,Work-in-progress ($000s),2023,
+752707463,Work-in-progress ($000s),2022,
+752707463,Work-in-progress ($000s),2021,
+752707463,Work-in-progress ($000s),2020,-
+752707463,Work-in-progress ($000s),2019,-
+752707463,Work-in-progress ($000s),2018,-
+752707463,Work-in-progress ($000s),2017,-
+752707463,Work-in-progress ($000s),2016,-
+752707463,Work-in-progress ($000s),2015,-
+752707463,Finished goods ($000s),2024,$0
+752707463,Finished goods ($000s),2023,$0
+752707463,Finished goods ($000s),2022,-
+752707463,Finished goods ($000s),2021,-
+752707463,Finished goods ($000s),2020,-
+752707463,Finished goods ($000s),2019,$0
+752707463,Finished goods ($000s),2018,$0
+752707463,Finished goods ($000s),2017,$0
+752707463,Finished goods ($000s),2016,$0
+752707463,Finished goods ($000s),2015,$0
+752707463,Total inventories ($000s),2024,$0
+752707463,Total inventories ($000s),2023,$0
+752707463,Total inventories ($000s),2022,-
+752707463,Total inventories ($000s),2021,-
+752707463,Total inventories ($000s),2020,-
+752707463,Total inventories ($000s),2019,$0
+752707463,Total inventories ($000s),2018,$0
+752707463,Total inventories ($000s),2017,$0
+752707463,Total inventories ($000s),2016,$0
+752707463,Total inventories ($000s),2015,$0
+752707463,Prepayments ($000s),2024,
+752707463,Prepayments ($000s),2023,
+752707463,Prepayments ($000s),2022,
+752707463,Prepayments ($000s),2021,
+752707463,Prepayments ($000s),2020,-
+752707463,Prepayments ($000s),2019,-
+752707463,Prepayments ($000s),2018,-
+752707463,Prepayments ($000s),2017,-
+752707463,Prepayments ($000s),2016,-
+752707463,Prepayments ($000s),2015,-
+752707463,Derivative financial instruments ($000s),2024,
+752707463,Derivative financial instruments ($000s),2023,
+752707463,Derivative financial instruments ($000s),2022,
+752707463,Derivative financial instruments ($000s),2021,
+752707463,Derivative financial instruments ($000s),2020,-
+752707463,Derivative financial instruments ($000s),2019,-
+752707463,Derivative financial instruments ($000s),2018,-
+752707463,Derivative financial instruments ($000s),2017,-
+752707463,Derivative financial instruments ($000s),2016,-
+752707463,Derivative financial instruments ($000s),2015,-
+752707463,Other current assets ($000s),2024,"$4,817"
+752707463,Other current assets ($000s),2023,$172
+752707463,Other current assets ($000s),2022,-
+752707463,Other current assets ($000s),2021,-
+752707463,Other current assets ($000s),2020,-
+752707463,Other current assets ($000s),2019,"$6,607"
+752707463,Other current assets ($000s),2018,"$5,347"
+752707463,Other current assets ($000s),2017,"$5,571"
+752707463,Other current assets ($000s),2016,"$4,313"
+752707463,Other current assets ($000s),2015,"$5,135"
+752707463,Total current assets for continuing operations ($000s),2024,"$28,884"
+752707463,Total current assets for continuing operations ($000s),2023,"$20,119"
+752707463,Total current assets for continuing operations ($000s),2022,-
+752707463,Total current assets for continuing operations ($000s),2021,-
+752707463,Total current assets for continuing operations ($000s),2020,-
+752707463,Total current assets for continuing operations ($000s),2019,"$18,283"
+752707463,Total current assets for continuing operations ($000s),2018,"$15,961"
+752707463,Total current assets for continuing operations ($000s),2017,"$17,431"
+752707463,Total current assets for continuing operations ($000s),2016,"$16,522"
+752707463,Total current assets for continuing operations ($000s),2015,"$11,535"
+752707463,Assets held for sale ($000s),2024,
+752707463,Assets held for sale ($000s),2023,
+752707463,Assets held for sale ($000s),2022,
+752707463,Assets held for sale ($000s),2021,
+752707463,Assets held for sale ($000s),2020,-
+752707463,Assets held for sale ($000s),2019,-
+752707463,Assets held for sale ($000s),2018,-
+752707463,Assets held for sale ($000s),2017,-
+752707463,Assets held for sale ($000s),2016,-
+752707463,Assets held for sale ($000s),2015,-
+752707463,Total current assets ($000s),2024,"$28,884"
+752707463,Total current assets ($000s),2023,"$20,119"
+752707463,Total current assets ($000s),2022,-
+752707463,Total current assets ($000s),2021,-
+752707463,Total current assets ($000s),2020,-
+752707463,Total current assets ($000s),2019,"$18,283"
+752707463,Total current assets ($000s),2018,"$15,961"
+752707463,Total current assets ($000s),2017,"$17,431"
+752707463,Total current assets ($000s),2016,"$16,522"
+752707463,Total current assets ($000s),2015,"$11,535"
+752707463,Non-current assets,2024,
+752707463,Non-current assets,2023,
+752707463,Non-current assets,2022,
+752707463,Non-current assets,2021,
+752707463,Non-current assets,2020,-
+752707463,Non-current assets,2019,-
+752707463,Non-current assets,2018,-
+752707463,Non-current assets,2017,-
+752707463,Non-current assets,2016,-
+752707463,Non-current assets,2015,-
+752707463,Receivables ($000s),2024,$216
+752707463,Receivables ($000s),2023,-
+752707463,Receivables ($000s),2022,-
+752707463,Receivables ($000s),2021,-
+752707463,Receivables ($000s),2020,-
+752707463,Receivables ($000s),2019,$193
+752707463,Receivables ($000s),2018,-
+752707463,Receivables ($000s),2017,-
+752707463,Receivables ($000s),2016,-
+752707463,Receivables ($000s),2015,-
+752707463,Investments in associates ($000s),2024,"$2,109"
+752707463,Investments in associates ($000s),2023,"$1,634"
+752707463,Investments in associates ($000s),2022,-
+752707463,Investments in associates ($000s),2021,-
+752707463,Investments in associates ($000s),2020,-
+752707463,Investments in associates ($000s),2019,$570
+752707463,Investments in associates ($000s),2018,$564
+752707463,Investments in associates ($000s),2017,$559
+752707463,Investments in associates ($000s),2016,$436
+752707463,Investments in associates ($000s),2015,$433
+752707463,Investments in subsidiaries ($000s),2024,
+752707463,Investments in subsidiaries ($000s),2023,
+752707463,Investments in subsidiaries ($000s),2022,
+752707463,Investments in subsidiaries ($000s),2021,
+752707463,Investments in subsidiaries ($000s),2020,-
+752707463,Investments in subsidiaries ($000s),2019,-
+752707463,Investments in subsidiaries ($000s),2018,-
+752707463,Investments in subsidiaries ($000s),2017,-
+752707463,Investments in subsidiaries ($000s),2016,-
+752707463,Investments in subsidiaries ($000s),2015,-
+752707463,Available for sale financial assets ($000s),2024,$0
+752707463,Available for sale financial assets ($000s),2023,$0
+752707463,Available for sale financial assets ($000s),2022,-
+752707463,Available for sale financial assets ($000s),2021,-
+752707463,Available for sale financial assets ($000s),2020,-
+752707463,Available for sale financial assets ($000s),2019,$0
+752707463,Available for sale financial assets ($000s),2018,$0
+752707463,Available for sale financial assets ($000s),2017,$0
+752707463,Available for sale financial assets ($000s),2016,$0
+752707463,Available for sale financial assets ($000s),2015,$0
+752707463,"Property, plant and equipment ($000s)",2024,$84
+752707463,"Property, plant and equipment ($000s)",2023,$175
+752707463,"Property, plant and equipment ($000s)",2022,-
+752707463,"Property, plant and equipment ($000s)",2021,-
+752707463,"Property, plant and equipment ($000s)",2020,-
+752707463,"Property, plant and equipment ($000s)",2019,$800
+752707463,"Property, plant and equipment ($000s)",2018,$654
+752707463,"Property, plant and equipment ($000s)",2017,$289
+752707463,"Property, plant and equipment ($000s)",2016,$353
+752707463,"Property, plant and equipment ($000s)",2015,$397
+752707463,Intangible assets and goodwill ($000s),2024,"$1,684"
+752707463,Intangible assets and goodwill ($000s),2023,"$1,684"
+752707463,Intangible assets and goodwill ($000s),2022,-
+752707463,Intangible assets and goodwill ($000s),2021,-
+752707463,Intangible assets and goodwill ($000s),2020,-
+752707463,Intangible assets and goodwill ($000s),2019,"$1,684"
+752707463,Intangible assets and goodwill ($000s),2018,"$1,840"
+752707463,Intangible assets and goodwill ($000s),2017,"$1,996"
+752707463,Intangible assets and goodwill ($000s),2016,"$2,244"
+752707463,Intangible assets and goodwill ($000s),2015,"$2,562"
+752707463,Deferred tax assets ($000s),2024,$507
+752707463,Deferred tax assets ($000s),2023,$832
+752707463,Deferred tax assets ($000s),2022,-
+752707463,Deferred tax assets ($000s),2021,-
+752707463,Deferred tax assets ($000s),2020,-
+752707463,Deferred tax assets ($000s),2019,-
+752707463,Deferred tax assets ($000s),2018,$237
+752707463,Deferred tax assets ($000s),2017,$80
+752707463,Deferred tax assets ($000s),2016,$138
+752707463,Deferred tax assets ($000s),2015,-
+752707463,Other non-current assets ($000s),2024,"$17,687"
+752707463,Other non-current assets ($000s),2023,"$16,242"
+752707463,Other non-current assets ($000s),2022,-
+752707463,Other non-current assets ($000s),2021,-
+752707463,Other non-current assets ($000s),2020,-
+752707463,Other non-current assets ($000s),2019,"$1,042"
+752707463,Other non-current assets ($000s),2018,$474
+752707463,Other non-current assets ($000s),2017,$197
+752707463,Other non-current assets ($000s),2016,$198
+752707463,Other non-current assets ($000s),2015,$194
+752707463,Total non-current assets ($000s),2024,"$22,287"
+752707463,Total non-current assets ($000s),2023,"$20,568"
+752707463,Total non-current assets ($000s),2022,-
+752707463,Total non-current assets ($000s),2021,-
+752707463,Total non-current assets ($000s),2020,-
+752707463,Total non-current assets ($000s),2019,"$4,290"
+752707463,Total non-current assets ($000s),2018,"$3,770"
+752707463,Total non-current assets ($000s),2017,"$3,121"
+752707463,Total non-current assets ($000s),2016,"$3,369"
+752707463,Total non-current assets ($000s),2015,"$3,585"
+752707463,TOTAL ASSETS ($000s),2024,"$51,171"
+752707463,TOTAL ASSETS ($000s),2023,"$40,688"
+752707463,TOTAL ASSETS ($000s),2022,-
+752707463,TOTAL ASSETS ($000s),2021,-
+752707463,TOTAL ASSETS ($000s),2020,-
+752707463,TOTAL ASSETS ($000s),2019,"$22,573"
+752707463,TOTAL ASSETS ($000s),2018,"$19,731"
+752707463,TOTAL ASSETS ($000s),2017,"$20,552"
+752707463,TOTAL ASSETS ($000s),2016,"$19,890"
+752707463,TOTAL ASSETS ($000s),2015,"$15,121"
+752707463,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2024,"$40,688"
+752707463,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2023,-
+752707463,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2022,-
+752707463,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2021,-
+752707463,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2020,-
+752707463,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2019,"$19,731"
+752707463,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2018,"$20,552"
+752707463,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2017,"$19,890"
+752707463,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2016,"$15,121"
+752707463,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2015,-
+752707463,Current liabilities,2024,
+752707463,Current liabilities,2023,
+752707463,Current liabilities,2022,
+752707463,Current liabilities,2021,
+752707463,Current liabilities,2020,-
+752707463,Current liabilities,2019,-
+752707463,Current liabilities,2018,-
+752707463,Current liabilities,2017,-
+752707463,Current liabilities,2016,-
+752707463,Current liabilities,2015,-
+752707463,Trade payables ($000s),2024,"$13,278"
+752707463,Trade payables ($000s),2023,"$5,716"
+752707463,Trade payables ($000s),2022,-
+752707463,Trade payables ($000s),2021,-
+752707463,Trade payables ($000s),2020,-
+752707463,Trade payables ($000s),2019,$995
+752707463,Trade payables ($000s),2018,$260
+752707463,Trade payables ($000s),2017,$401
+752707463,Trade payables ($000s),2016,$372
+752707463,Trade payables ($000s),2015,$812
+752707463,Other payables ($000s),2024,"$7,377"
+752707463,Other payables ($000s),2023,"$10,818"
+752707463,Other payables ($000s),2022,-
+752707463,Other payables ($000s),2021,-
+752707463,Other payables ($000s),2020,-
+752707463,Other payables ($000s),2019,$998
+752707463,Other payables ($000s),2018,"$5,465"
+752707463,Other payables ($000s),2017,$244
+752707463,Other payables ($000s),2016,-
+752707463,Other payables ($000s),2015,-
+752707463,Overdrafts ($000s),2024,
+752707463,Overdrafts ($000s),2023,
+752707463,Overdrafts ($000s),2022,
+752707463,Overdrafts ($000s),2021,
+752707463,Overdrafts ($000s),2020,-
+752707463,Overdrafts ($000s),2019,-
+752707463,Overdrafts ($000s),2018,-
+752707463,Overdrafts ($000s),2017,-
+752707463,Overdrafts ($000s),2016,-
+752707463,Overdrafts ($000s),2015,-
+752707463,Loans - secured ($000s),2024,
+752707463,Loans - secured ($000s),2023,
+752707463,Loans - secured ($000s),2022,
+752707463,Loans - secured ($000s),2021,
+752707463,Loans - secured ($000s),2020,-
+752707463,Loans - secured ($000s),2019,-
+752707463,Loans - secured ($000s),2018,-
+752707463,Loans - secured ($000s),2017,-
+752707463,Loans - secured ($000s),2016,-
+752707463,Loans - secured ($000s),2015,-
+752707463,Loans - unsecured ($000s),2024,
+752707463,Loans - unsecured ($000s),2023,
+752707463,Loans - unsecured ($000s),2022,
+752707463,Loans - unsecured ($000s),2021,
+752707463,Loans - unsecured ($000s),2020,-
+752707463,Loans - unsecured ($000s),2019,-
+752707463,Loans - unsecured ($000s),2018,-
+752707463,Loans - unsecured ($000s),2017,-
+752707463,Loans - unsecured ($000s),2016,-
+752707463,Loans - unsecured ($000s),2015,-
+752707463,Obligations under finance leases and hire purchase ($000s),2024,$306
+752707463,Obligations under finance leases and hire purchase ($000s),2023,$343
+752707463,Obligations under finance leases and hire purchase ($000s),2022,-
+752707463,Obligations under finance leases and hire purchase ($000s),2021,-
+752707463,Obligations under finance leases and hire purchase ($000s),2020,-
+752707463,Obligations under finance leases and hire purchase ($000s),2019,$131
+752707463,Obligations under finance leases and hire purchase ($000s),2018,$30
+752707463,Obligations under finance leases and hire purchase ($000s),2017,$52
+752707463,Obligations under finance leases and hire purchase ($000s),2016,$61
+752707463,Obligations under finance leases and hire purchase ($000s),2015,$60
+752707463,Loans from related parties ($000s),2024,
+752707463,Loans from related parties ($000s),2023,
+752707463,Loans from related parties ($000s),2022,
+752707463,Loans from related parties ($000s),2021,
+752707463,Loans from related parties ($000s),2020,-
+752707463,Loans from related parties ($000s),2019,-
+752707463,Loans from related parties ($000s),2018,-
+752707463,Loans from related parties ($000s),2017,-
+752707463,Loans from related parties ($000s),2016,-
+752707463,Loans from related parties ($000s),2015,-
+752707463,Total current interest-bearing loans and borrowings ($000s),2024,$306
+752707463,Total current interest-bearing loans and borrowings ($000s),2023,$343
+752707463,Total current interest-bearing loans and borrowings ($000s),2022,-
+752707463,Total current interest-bearing loans and borrowings ($000s),2021,-
+752707463,Total current interest-bearing loans and borrowings ($000s),2020,-
+752707463,Total current interest-bearing loans and borrowings ($000s),2019,$131
+752707463,Total current interest-bearing loans and borrowings ($000s),2018,$30
+752707463,Total current interest-bearing loans and borrowings ($000s),2017,$52
+752707463,Total current interest-bearing loans and borrowings ($000s),2016,$61
+752707463,Total current interest-bearing loans and borrowings ($000s),2015,$60
+752707463,Income tax payable/(refundable) ($000s),2024,"$1,041"
+752707463,Income tax payable/(refundable) ($000s),2023,"$1,230"
+752707463,Income tax payable/(refundable) ($000s),2022,-
+752707463,Income tax payable/(refundable) ($000s),2021,-
+752707463,Income tax payable/(refundable) ($000s),2020,-
+752707463,Income tax payable/(refundable) ($000s),2019,"$1,611"
+752707463,Income tax payable/(refundable) ($000s),2018,$915
+752707463,Income tax payable/(refundable) ($000s),2017,"$1,259"
+752707463,Income tax payable/(refundable) ($000s),2016,"$2,736"
+752707463,Income tax payable/(refundable) ($000s),2015,"$2,172"
+752707463,Provisions ($000s),2024,"$1,680"
+752707463,Provisions ($000s),2023,"$1,513"
+752707463,Provisions ($000s),2022,-
+752707463,Provisions ($000s),2021,-
+752707463,Provisions ($000s),2020,-
+752707463,Provisions ($000s),2019,"$7,679"
+752707463,Provisions ($000s),2018,"$1,252"
+752707463,Provisions ($000s),2017,"$6,370"
+752707463,Provisions ($000s),2016,"$1,023"
+752707463,Provisions ($000s),2015,"$1,816"
+752707463,Other current liabilities ($000s),2024,$0
+752707463,Other current liabilities ($000s),2023,$0
+752707463,Other current liabilities ($000s),2022,-
+752707463,Other current liabilities ($000s),2021,-
+752707463,Other current liabilities ($000s),2020,-
+752707463,Other current liabilities ($000s),2019,$0
+752707463,Other current liabilities ($000s),2018,$0
+752707463,Other current liabilities ($000s),2017,$0
+752707463,Other current liabilities ($000s),2016,"$4,041"
+752707463,Other current liabilities ($000s),2015,"$1,691"
+752707463,Total current liabilities for continuing operations ($000s),2024,"$23,681"
+752707463,Total current liabilities for continuing operations ($000s),2023,"$19,619"
+752707463,Total current liabilities for continuing operations ($000s),2022,-
+752707463,Total current liabilities for continuing operations ($000s),2021,-
+752707463,Total current liabilities for continuing operations ($000s),2020,-
+752707463,Total current liabilities for continuing operations ($000s),2019,"$11,414"
+752707463,Total current liabilities for continuing operations ($000s),2018,"$7,922"
+752707463,Total current liabilities for continuing operations ($000s),2017,"$8,326"
+752707463,Total current liabilities for continuing operations ($000s),2016,"$8,234"
+752707463,Total current liabilities for continuing operations ($000s),2015,"$6,552"
+752707463,Liabilities directly associated with assets held for sale ($000s),2024,
+752707463,Liabilities directly associated with assets held for sale ($000s),2023,
+752707463,Liabilities directly associated with assets held for sale ($000s),2022,
+752707463,Liabilities directly associated with assets held for sale ($000s),2021,
+752707463,Liabilities directly associated with assets held for sale ($000s),2020,-
+752707463,Liabilities directly associated with assets held for sale ($000s),2019,-
+752707463,Liabilities directly associated with assets held for sale ($000s),2018,-
+752707463,Liabilities directly associated with assets held for sale ($000s),2017,-
+752707463,Liabilities directly associated with assets held for sale ($000s),2016,-
+752707463,Liabilities directly associated with assets held for sale ($000s),2015,-
+752707463,Total current liabilities ($000s),2024,"$23,681"
+752707463,Total current liabilities ($000s),2023,"$19,619"
+752707463,Total current liabilities ($000s),2022,-
+752707463,Total current liabilities ($000s),2021,-
+752707463,Total current liabilities ($000s),2020,-
+752707463,Total current liabilities ($000s),2019,"$11,414"
+752707463,Total current liabilities ($000s),2018,"$7,922"
+752707463,Total current liabilities ($000s),2017,"$8,326"
+752707463,Total current liabilities ($000s),2016,"$8,234"
+752707463,Total current liabilities ($000s),2015,"$6,552"
+752707463,Total current liabilities for previous year ($000s),2024,"$19,619"
+752707463,Total current liabilities for previous year ($000s),2023,-
+752707463,Total current liabilities for previous year ($000s),2022,-
+752707463,Total current liabilities for previous year ($000s),2021,-
+752707463,Total current liabilities for previous year ($000s),2020,-
+752707463,Total current liabilities for previous year ($000s),2019,"$7,922"
+752707463,Total current liabilities for previous year ($000s),2018,"$8,326"
+752707463,Total current liabilities for previous year ($000s),2017,"$8,234"
+752707463,Total current liabilities for previous year ($000s),2016,"$6,552"
+752707463,Total current liabilities for previous year ($000s),2015,-
+752707463,Non-current liabilities,2024,
+752707463,Non-current liabilities,2023,
+752707463,Non-current liabilities,2022,
+752707463,Non-current liabilities,2021,
+752707463,Non-current liabilities,2020,-
+752707463,Non-current liabilities,2019,-
+752707463,Non-current liabilities,2018,-
+752707463,Non-current liabilities,2017,-
+752707463,Non-current liabilities,2016,-
+752707463,Non-current liabilities,2015,-
+752707463,Total non-current interest-bearing loans and borrowings ($000s),2024,"$1,255"
+752707463,Total non-current interest-bearing loans and borrowings ($000s),2023,$640
+752707463,Total non-current interest-bearing loans and borrowings ($000s),2022,-
+752707463,Total non-current interest-bearing loans and borrowings ($000s),2021,-
+752707463,Total non-current interest-bearing loans and borrowings ($000s),2020,-
+752707463,Total non-current interest-bearing loans and borrowings ($000s),2019,$204
+752707463,Total non-current interest-bearing loans and borrowings ($000s),2018,$87
+752707463,Total non-current interest-bearing loans and borrowings ($000s),2017,-
+752707463,Total non-current interest-bearing loans and borrowings ($000s),2016,$89
+752707463,Total non-current interest-bearing loans and borrowings ($000s),2015,$167
+752707463,Deferred tax liabilities ($000s),2024,-
+752707463,Deferred tax liabilities ($000s),2023,-
+752707463,Deferred tax liabilities ($000s),2022,-
+752707463,Deferred tax liabilities ($000s),2021,-
+752707463,Deferred tax liabilities ($000s),2020,-
+752707463,Deferred tax liabilities ($000s),2019,$202
+752707463,Deferred tax liabilities ($000s),2018,$128
+752707463,Deferred tax liabilities ($000s),2017,$252
+752707463,Deferred tax liabilities ($000s),2016,$207
+752707463,Deferred tax liabilities ($000s),2015,$426
+752707463,Convertible redeemable preference shares ($000s),2024,
+752707463,Convertible redeemable preference shares ($000s),2023,
+752707463,Convertible redeemable preference shares ($000s),2022,
+752707463,Convertible redeemable preference shares ($000s),2021,
+752707463,Convertible redeemable preference shares ($000s),2020,-
+752707463,Convertible redeemable preference shares ($000s),2019,-
+752707463,Convertible redeemable preference shares ($000s),2018,-
+752707463,Convertible redeemable preference shares ($000s),2017,-
+752707463,Convertible redeemable preference shares ($000s),2016,-
+752707463,Convertible redeemable preference shares ($000s),2015,-
+752707463,Other non-current liabilities ($000s),2024,"$18,240"
+752707463,Other non-current liabilities ($000s),2023,"$7,559"
+752707463,Other non-current liabilities ($000s),2022,-
+752707463,Other non-current liabilities ($000s),2021,-
+752707463,Other non-current liabilities ($000s),2020,-
+752707463,Other non-current liabilities ($000s),2019,$941
+752707463,Other non-current liabilities ($000s),2018,$196
+752707463,Other non-current liabilities ($000s),2017,$33
+752707463,Other non-current liabilities ($000s),2016,$0
+752707463,Other non-current liabilities ($000s),2015,$0
+752707463,Total non-current liabilities ($000s),2024,"$19,495"
+752707463,Total non-current liabilities ($000s),2023,"$8,226"
+752707463,Total non-current liabilities ($000s),2022,-
+752707463,Total non-current liabilities ($000s),2021,-
+752707463,Total non-current liabilities ($000s),2020,-
+752707463,Total non-current liabilities ($000s),2019,"$3,541"
+752707463,Total non-current liabilities ($000s),2018,"$2,339"
+752707463,Total non-current liabilities ($000s),2017,"$1,506"
+752707463,Total non-current liabilities ($000s),2016,"$1,831"
+752707463,Total non-current liabilities ($000s),2015,$941
+752707463,TOTAL LIABILITIES ($000s),2024,"$43,176"
+752707463,TOTAL LIABILITIES ($000s),2023,"$27,845"
+752707463,TOTAL LIABILITIES ($000s),2022,-
+752707463,TOTAL LIABILITIES ($000s),2021,-
+752707463,TOTAL LIABILITIES ($000s),2020,-
+752707463,TOTAL LIABILITIES ($000s),2019,"$14,954"
+752707463,TOTAL LIABILITIES ($000s),2018,"$10,260"
+752707463,TOTAL LIABILITIES ($000s),2017,"$9,832"
+752707463,TOTAL LIABILITIES ($000s),2016,"$10,065"
+752707463,TOTAL LIABILITIES ($000s),2015,"$7,493"
+752707463,NET ASSETS ($000s),2024,"$7,994"
+752707463,NET ASSETS ($000s),2023,"$12,843"
+752707463,NET ASSETS ($000s),2022,-
+752707463,NET ASSETS ($000s),2021,-
+752707463,NET ASSETS ($000s),2020,-
+752707463,NET ASSETS ($000s),2019,"$7,618"
+752707463,NET ASSETS ($000s),2018,"$9,471"
+752707463,NET ASSETS ($000s),2017,"$10,720"
+752707463,NET ASSETS ($000s),2016,"$9,826"
+752707463,NET ASSETS ($000s),2015,"$7,628"
+752707463,Equity,2024,
+752707463,Equity,2023,
+752707463,Equity,2022,
+752707463,Equity,2021,
+752707463,Equity,2020,-
+752707463,Equity,2019,-
+752707463,Equity,2018,-
+752707463,Equity,2017,-
+752707463,Equity,2016,-
+752707463,Equity,2015,-
+752707463,Equity attributable to equity holders of the parent,2024,
+752707463,Equity attributable to equity holders of the parent,2023,
+752707463,Equity attributable to equity holders of the parent,2022,
+752707463,Equity attributable to equity holders of the parent,2021,
+752707463,Equity attributable to equity holders of the parent,2020,-
+752707463,Equity attributable to equity holders of the parent,2019,-
+752707463,Equity attributable to equity holders of the parent,2018,-
+752707463,Equity attributable to equity holders of the parent,2017,-
+752707463,Equity attributable to equity holders of the parent,2016,-
+752707463,Equity attributable to equity holders of the parent,2015,-
+752707463,Contributed equity ($000s),2024,"$5,757"
+752707463,Contributed equity ($000s),2023,"$5,757"
+752707463,Contributed equity ($000s),2022,-
+752707463,Contributed equity ($000s),2021,-
+752707463,Contributed equity ($000s),2020,-
+752707463,Contributed equity ($000s),2019,"$7,661"
+752707463,Contributed equity ($000s),2018,"$7,661"
+752707463,Contributed equity ($000s),2017,"$7,661"
+752707463,Contributed equity ($000s),2016,"$7,016"
+752707463,Contributed equity ($000s),2015,"$6,906"
+752707463,Retained earnings ($000s),2024,$193
+752707463,Retained earnings ($000s),2023,"$6,695"
+752707463,Retained earnings ($000s),2022,-
+752707463,Retained earnings ($000s),2021,-
+752707463,Retained earnings ($000s),2020,-
+752707463,Retained earnings ($000s),2019,"$4,184"
+752707463,Retained earnings ($000s),2018,"$6,435"
+752707463,Retained earnings ($000s),2017,"$7,853"
+752707463,Retained earnings ($000s),2016,"$7,002"
+752707463,Retained earnings ($000s),2015,"$4,967"
+752707463,Reserves ($000s),2024,"$2,044"
+752707463,Reserves ($000s),2023,$391
+752707463,Reserves ($000s),2022,-
+752707463,Reserves ($000s),2021,-
+752707463,Reserves ($000s),2020,-
+752707463,Reserves ($000s),2019,"($4,227)"
+752707463,Reserves ($000s),2018,"($4,625)"
+752707463,Reserves ($000s),2017,"($4,793)"
+752707463,Reserves ($000s),2016,"($4,192)"
+752707463,Reserves ($000s),2015,"($4,246)"
+752707463,Total Parent interests ($000s),2024,"$7,994"
+752707463,Total Parent interests ($000s),2023,"$12,843"
+752707463,Total Parent interests ($000s),2022,-
+752707463,Total Parent interests ($000s),2021,-
+752707463,Total Parent interests ($000s),2020,-
+752707463,Total Parent interests ($000s),2019,"$7,618"
+752707463,Total Parent interests ($000s),2018,"$9,471"
+752707463,Total Parent interests ($000s),2017,"$10,720"
+752707463,Total Parent interests ($000s),2016,"$9,826"
+752707463,Total Parent interests ($000s),2015,"$7,628"
+752707463,Minority interests ($000s),2024,
+752707463,Minority interests ($000s),2023,
+752707463,Minority interests ($000s),2022,
+752707463,Minority interests ($000s),2021,
+752707463,Minority interests ($000s),2020,-
+752707463,Minority interests ($000s),2019,-
+752707463,Minority interests ($000s),2018,-
+752707463,Minority interests ($000s),2017,-
+752707463,Minority interests ($000s),2016,-
+752707463,Minority interests ($000s),2015,-
+752707463,TOTAL EQUITY ($000s),2024,"$7,994"
+752707463,TOTAL EQUITY ($000s),2023,"$12,843"
+752707463,TOTAL EQUITY ($000s),2022,-
+752707463,TOTAL EQUITY ($000s),2021,-
+752707463,TOTAL EQUITY ($000s),2020,-
+752707463,TOTAL EQUITY ($000s),2019,"$7,618"
+752707463,TOTAL EQUITY ($000s),2018,"$9,471"
+752707463,TOTAL EQUITY ($000s),2017,"$10,720"
+752707463,TOTAL EQUITY ($000s),2016,"$9,826"
+752707463,TOTAL EQUITY ($000s),2015,"$7,628"
+752707463,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2024,"$12,843"
+752707463,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2023,-
+752707463,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2022,-
+752707463,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2021,-
+752707463,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2020,-
+752707463,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2019,"$9,471"
+752707463,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2018,"$10,720"
+752707463,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2017,"$9,826"
+752707463,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2016,"$7,628"
+752707463,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2015,-

@@ -1,0 +1,601 @@
+duns,line_item,year,value
+752194444,Current Assets,2024,
+752194444,Current Assets,2023,
+752194444,Current Assets,2022,
+752194444,Current Assets,2021,
+752194444,Current Assets,2020,-
+752194444,Current Assets,2019,-
+752194444,Current Assets,2018,-
+752194444,Current Assets,2017,-
+752194444,Current Assets,2016,-
+752194444,Current Assets,2015,-
+752194444,Cash and cash equivalents ($000s),2024,"$3,107"
+752194444,Cash and cash equivalents ($000s),2023,"$2,210"
+752194444,Cash and cash equivalents ($000s),2022,"$3,019"
+752194444,Cash and cash equivalents ($000s),2021,"$2,731"
+752194444,Cash and cash equivalents ($000s),2020,"$1,705"
+752194444,Cash and cash equivalents ($000s),2019,"$1,700"
+752194444,Cash and cash equivalents ($000s),2018,$863
+752194444,Cash and cash equivalents ($000s),2017,$141
+752194444,Cash and cash equivalents ($000s),2016,$166
+752194444,Cash and cash equivalents ($000s),2015,$47
+752194444,Growth,2024,40.59%
+752194444,Growth,2023,(26.80%)
+752194444,Growth,2022,10.55%
+752194444,Growth,2021,60.18%
+752194444,Growth,2020,0.29%
+752194444,Growth,2019,96.99%
+752194444,Growth,2018,512.06%
+752194444,Growth,2017,(15.06%)
+752194444,Growth,2016,253.19%
+752194444,Growth,2015,-
+752194444,Trade receivables ($000s),2024,$7
+752194444,Trade receivables ($000s),2023,$0
+752194444,Trade receivables ($000s),2022,-
+752194444,Trade receivables ($000s),2021,$0
+752194444,Trade receivables ($000s),2020,$0
+752194444,Trade receivables ($000s),2019,$12
+752194444,Trade receivables ($000s),2018,$9
+752194444,Trade receivables ($000s),2017,$7
+752194444,Trade receivables ($000s),2016,$7
+752194444,Trade receivables ($000s),2015,$6
+752194444,Other receivables ($000s),2024,$17
+752194444,Other receivables ($000s),2023,$15
+752194444,Other receivables ($000s),2022,$10
+752194444,Other receivables ($000s),2021,$56
+752194444,Other receivables ($000s),2020,$280
+752194444,Other receivables ($000s),2019,$257
+752194444,Other receivables ($000s),2018,$111
+752194444,Other receivables ($000s),2017,-
+752194444,Other receivables ($000s),2016,-
+752194444,Other receivables ($000s),2015,-
+752194444,Raw materials ($000s),2024,$0
+752194444,Raw materials ($000s),2023,$0
+752194444,Raw materials ($000s),2022,$0
+752194444,Raw materials ($000s),2021,$0
+752194444,Raw materials ($000s),2020,$0
+752194444,Raw materials ($000s),2019,$0
+752194444,Raw materials ($000s),2018,$0
+752194444,Raw materials ($000s),2017,$0
+752194444,Raw materials ($000s),2016,$0
+752194444,Raw materials ($000s),2015,$0
+752194444,Work-in-progress ($000s),2024,
+752194444,Work-in-progress ($000s),2023,
+752194444,Work-in-progress ($000s),2022,
+752194444,Work-in-progress ($000s),2021,
+752194444,Work-in-progress ($000s),2020,-
+752194444,Work-in-progress ($000s),2019,-
+752194444,Work-in-progress ($000s),2018,-
+752194444,Work-in-progress ($000s),2017,-
+752194444,Work-in-progress ($000s),2016,-
+752194444,Work-in-progress ($000s),2015,-
+752194444,Finished goods ($000s),2024,$818
+752194444,Finished goods ($000s),2023,$928
+752194444,Finished goods ($000s),2022,"$1,024"
+752194444,Finished goods ($000s),2021,$925
+752194444,Finished goods ($000s),2020,"$1,045"
+752194444,Finished goods ($000s),2019,"$1,256"
+752194444,Finished goods ($000s),2018,"$1,415"
+752194444,Finished goods ($000s),2017,"$1,188"
+752194444,Finished goods ($000s),2016,$970
+752194444,Finished goods ($000s),2015,$821
+752194444,Total inventories ($000s),2024,$818
+752194444,Total inventories ($000s),2023,$928
+752194444,Total inventories ($000s),2022,"$1,024"
+752194444,Total inventories ($000s),2021,$925
+752194444,Total inventories ($000s),2020,"$1,045"
+752194444,Total inventories ($000s),2019,"$1,256"
+752194444,Total inventories ($000s),2018,"$1,415"
+752194444,Total inventories ($000s),2017,"$1,188"
+752194444,Total inventories ($000s),2016,$970
+752194444,Total inventories ($000s),2015,$821
+752194444,Prepayments ($000s),2024,
+752194444,Prepayments ($000s),2023,
+752194444,Prepayments ($000s),2022,
+752194444,Prepayments ($000s),2021,
+752194444,Prepayments ($000s),2020,-
+752194444,Prepayments ($000s),2019,-
+752194444,Prepayments ($000s),2018,-
+752194444,Prepayments ($000s),2017,-
+752194444,Prepayments ($000s),2016,-
+752194444,Prepayments ($000s),2015,-
+752194444,Derivative financial instruments ($000s),2024,
+752194444,Derivative financial instruments ($000s),2023,
+752194444,Derivative financial instruments ($000s),2022,
+752194444,Derivative financial instruments ($000s),2021,
+752194444,Derivative financial instruments ($000s),2020,-
+752194444,Derivative financial instruments ($000s),2019,-
+752194444,Derivative financial instruments ($000s),2018,-
+752194444,Derivative financial instruments ($000s),2017,-
+752194444,Derivative financial instruments ($000s),2016,-
+752194444,Derivative financial instruments ($000s),2015,-
+752194444,Other current assets ($000s),2024,$155
+752194444,Other current assets ($000s),2023,$182
+752194444,Other current assets ($000s),2022,$17
+752194444,Other current assets ($000s),2021,$11
+752194444,Other current assets ($000s),2020,$22
+752194444,Other current assets ($000s),2019,$0
+752194444,Other current assets ($000s),2018,$0
+752194444,Other current assets ($000s),2017,$0
+752194444,Other current assets ($000s),2016,$0
+752194444,Other current assets ($000s),2015,$0
+752194444,Total current assets for continuing operations ($000s),2024,"$4,103"
+752194444,Total current assets for continuing operations ($000s),2023,"$3,335"
+752194444,Total current assets for continuing operations ($000s),2022,"$4,070"
+752194444,Total current assets for continuing operations ($000s),2021,"$3,723"
+752194444,Total current assets for continuing operations ($000s),2020,"$3,053"
+752194444,Total current assets for continuing operations ($000s),2019,"$3,225"
+752194444,Total current assets for continuing operations ($000s),2018,"$2,398"
+752194444,Total current assets for continuing operations ($000s),2017,"$1,336"
+752194444,Total current assets for continuing operations ($000s),2016,"$1,143"
+752194444,Total current assets for continuing operations ($000s),2015,$874
+752194444,Assets held for sale ($000s),2024,
+752194444,Assets held for sale ($000s),2023,
+752194444,Assets held for sale ($000s),2022,
+752194444,Assets held for sale ($000s),2021,
+752194444,Assets held for sale ($000s),2020,-
+752194444,Assets held for sale ($000s),2019,-
+752194444,Assets held for sale ($000s),2018,-
+752194444,Assets held for sale ($000s),2017,-
+752194444,Assets held for sale ($000s),2016,-
+752194444,Assets held for sale ($000s),2015,-
+752194444,Total current assets ($000s),2024,"$4,103"
+752194444,Total current assets ($000s),2023,"$3,335"
+752194444,Total current assets ($000s),2022,"$4,070"
+752194444,Total current assets ($000s),2021,"$3,723"
+752194444,Total current assets ($000s),2020,"$3,053"
+752194444,Total current assets ($000s),2019,"$3,225"
+752194444,Total current assets ($000s),2018,"$2,398"
+752194444,Total current assets ($000s),2017,"$1,336"
+752194444,Total current assets ($000s),2016,"$1,143"
+752194444,Total current assets ($000s),2015,$874
+752194444,Non-current assets,2024,
+752194444,Non-current assets,2023,
+752194444,Non-current assets,2022,
+752194444,Non-current assets,2021,
+752194444,Non-current assets,2020,-
+752194444,Non-current assets,2019,-
+752194444,Non-current assets,2018,-
+752194444,Non-current assets,2017,-
+752194444,Non-current assets,2016,-
+752194444,Non-current assets,2015,-
+752194444,Receivables ($000s),2024,
+752194444,Receivables ($000s),2023,
+752194444,Receivables ($000s),2022,
+752194444,Receivables ($000s),2021,
+752194444,Receivables ($000s),2020,-
+752194444,Receivables ($000s),2019,-
+752194444,Receivables ($000s),2018,-
+752194444,Receivables ($000s),2017,-
+752194444,Receivables ($000s),2016,-
+752194444,Receivables ($000s),2015,-
+752194444,Investments in associates ($000s),2024,$0
+752194444,Investments in associates ($000s),2023,$0
+752194444,Investments in associates ($000s),2022,$0
+752194444,Investments in associates ($000s),2021,$0
+752194444,Investments in associates ($000s),2020,$0
+752194444,Investments in associates ($000s),2019,$0
+752194444,Investments in associates ($000s),2018,$0
+752194444,Investments in associates ($000s),2017,$0
+752194444,Investments in associates ($000s),2016,$0
+752194444,Investments in associates ($000s),2015,$0
+752194444,Investments in subsidiaries ($000s),2024,
+752194444,Investments in subsidiaries ($000s),2023,
+752194444,Investments in subsidiaries ($000s),2022,
+752194444,Investments in subsidiaries ($000s),2021,
+752194444,Investments in subsidiaries ($000s),2020,-
+752194444,Investments in subsidiaries ($000s),2019,-
+752194444,Investments in subsidiaries ($000s),2018,-
+752194444,Investments in subsidiaries ($000s),2017,-
+752194444,Investments in subsidiaries ($000s),2016,-
+752194444,Investments in subsidiaries ($000s),2015,-
+752194444,Available for sale financial assets ($000s),2024,$0
+752194444,Available for sale financial assets ($000s),2023,$0
+752194444,Available for sale financial assets ($000s),2022,$0
+752194444,Available for sale financial assets ($000s),2021,$0
+752194444,Available for sale financial assets ($000s),2020,$0
+752194444,Available for sale financial assets ($000s),2019,$0
+752194444,Available for sale financial assets ($000s),2018,$0
+752194444,Available for sale financial assets ($000s),2017,$0
+752194444,Available for sale financial assets ($000s),2016,$0
+752194444,Available for sale financial assets ($000s),2015,$0
+752194444,"Property, plant and equipment ($000s)",2024,"$8,566"
+752194444,"Property, plant and equipment ($000s)",2023,"$11,132"
+752194444,"Property, plant and equipment ($000s)",2022,"$12,519"
+752194444,"Property, plant and equipment ($000s)",2021,"$12,932"
+752194444,"Property, plant and equipment ($000s)",2020,"$15,613"
+752194444,"Property, plant and equipment ($000s)",2019,"$3,775"
+752194444,"Property, plant and equipment ($000s)",2018,"$4,427"
+752194444,"Property, plant and equipment ($000s)",2017,"$2,553"
+752194444,"Property, plant and equipment ($000s)",2016,"$2,628"
+752194444,"Property, plant and equipment ($000s)",2015,"$2,812"
+752194444,Intangible assets and goodwill ($000s),2024,$662
+752194444,Intangible assets and goodwill ($000s),2023,$662
+752194444,Intangible assets and goodwill ($000s),2022,$662
+752194444,Intangible assets and goodwill ($000s),2021,$662
+752194444,Intangible assets and goodwill ($000s),2020,$662
+752194444,Intangible assets and goodwill ($000s),2019,$662
+752194444,Intangible assets and goodwill ($000s),2018,$662
+752194444,Intangible assets and goodwill ($000s),2017,$662
+752194444,Intangible assets and goodwill ($000s),2016,$662
+752194444,Intangible assets and goodwill ($000s),2015,$662
+752194444,Deferred tax assets ($000s),2024,$600
+752194444,Deferred tax assets ($000s),2023,$551
+752194444,Deferred tax assets ($000s),2022,$498
+752194444,Deferred tax assets ($000s),2021,$449
+752194444,Deferred tax assets ($000s),2020,$366
+752194444,Deferred tax assets ($000s),2019,$270
+752194444,Deferred tax assets ($000s),2018,$212
+752194444,Deferred tax assets ($000s),2017,$181
+752194444,Deferred tax assets ($000s),2016,$174
+752194444,Deferred tax assets ($000s),2015,$453
+752194444,Other non-current assets ($000s),2024,$0
+752194444,Other non-current assets ($000s),2023,$0
+752194444,Other non-current assets ($000s),2022,$0
+752194444,Other non-current assets ($000s),2021,$0
+752194444,Other non-current assets ($000s),2020,$0
+752194444,Other non-current assets ($000s),2019,$0
+752194444,Other non-current assets ($000s),2018,$1
+752194444,Other non-current assets ($000s),2017,$1
+752194444,Other non-current assets ($000s),2016,$2
+752194444,Other non-current assets ($000s),2015,$1
+752194444,Total non-current assets ($000s),2024,"$9,828"
+752194444,Total non-current assets ($000s),2023,"$12,345"
+752194444,Total non-current assets ($000s),2022,"$13,679"
+752194444,Total non-current assets ($000s),2021,"$14,043"
+752194444,Total non-current assets ($000s),2020,"$16,641"
+752194444,Total non-current assets ($000s),2019,"$4,708"
+752194444,Total non-current assets ($000s),2018,"$5,302"
+752194444,Total non-current assets ($000s),2017,"$3,397"
+752194444,Total non-current assets ($000s),2016,"$3,466"
+752194444,Total non-current assets ($000s),2015,"$3,929"
+752194444,TOTAL ASSETS ($000s),2024,"$13,931"
+752194444,TOTAL ASSETS ($000s),2023,"$15,680"
+752194444,TOTAL ASSETS ($000s),2022,"$17,749"
+752194444,TOTAL ASSETS ($000s),2021,"$17,766"
+752194444,TOTAL ASSETS ($000s),2020,"$19,694"
+752194444,TOTAL ASSETS ($000s),2019,"$7,932"
+752194444,TOTAL ASSETS ($000s),2018,"$7,700"
+752194444,TOTAL ASSETS ($000s),2017,"$4,733"
+752194444,TOTAL ASSETS ($000s),2016,"$4,609"
+752194444,TOTAL ASSETS ($000s),2015,"$4,804"
+752194444,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2024,"$15,680"
+752194444,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2023,"$17,749"
+752194444,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2022,"$17,766"
+752194444,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2021,"$19,694"
+752194444,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2020,"$7,932"
+752194444,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2019,"$7,700"
+752194444,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2018,"$4,733"
+752194444,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2017,"$4,609"
+752194444,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2016,"$4,804"
+752194444,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2015,"$5,287"
+752194444,Current liabilities,2024,
+752194444,Current liabilities,2023,
+752194444,Current liabilities,2022,
+752194444,Current liabilities,2021,
+752194444,Current liabilities,2020,-
+752194444,Current liabilities,2019,-
+752194444,Current liabilities,2018,-
+752194444,Current liabilities,2017,-
+752194444,Current liabilities,2016,-
+752194444,Current liabilities,2015,-
+752194444,Trade payables ($000s),2024,"$2,072"
+752194444,Trade payables ($000s),2023,"$1,613"
+752194444,Trade payables ($000s),2022,"$1,962"
+752194444,Trade payables ($000s),2021,"$2,842"
+752194444,Trade payables ($000s),2020,"$2,928"
+752194444,Trade payables ($000s),2019,"$2,767"
+752194444,Trade payables ($000s),2018,"$2,839"
+752194444,Trade payables ($000s),2017,"$2,078"
+752194444,Trade payables ($000s),2016,"$1,838"
+752194444,Trade payables ($000s),2015,"$1,977"
+752194444,Other payables ($000s),2024,-
+752194444,Other payables ($000s),2023,$8
+752194444,Other payables ($000s),2022,-
+752194444,Other payables ($000s),2021,-
+752194444,Other payables ($000s),2020,-
+752194444,Other payables ($000s),2019,$115
+752194444,Other payables ($000s),2018,$120
+752194444,Other payables ($000s),2017,$92
+752194444,Other payables ($000s),2016,$40
+752194444,Other payables ($000s),2015,$22
+752194444,Overdrafts ($000s),2024,-
+752194444,Overdrafts ($000s),2023,$136
+752194444,Overdrafts ($000s),2022,-
+752194444,Overdrafts ($000s),2021,-
+752194444,Overdrafts ($000s),2020,-
+752194444,Overdrafts ($000s),2019,-
+752194444,Overdrafts ($000s),2018,-
+752194444,Overdrafts ($000s),2017,-
+752194444,Overdrafts ($000s),2016,$129
+752194444,Overdrafts ($000s),2015,$350
+752194444,Loans - secured ($000s),2024,
+752194444,Loans - secured ($000s),2023,
+752194444,Loans - secured ($000s),2022,
+752194444,Loans - secured ($000s),2021,
+752194444,Loans - secured ($000s),2020,-
+752194444,Loans - secured ($000s),2019,-
+752194444,Loans - secured ($000s),2018,-
+752194444,Loans - secured ($000s),2017,-
+752194444,Loans - secured ($000s),2016,-
+752194444,Loans - secured ($000s),2015,-
+752194444,Loans - unsecured ($000s),2024,
+752194444,Loans - unsecured ($000s),2023,
+752194444,Loans - unsecured ($000s),2022,
+752194444,Loans - unsecured ($000s),2021,
+752194444,Loans - unsecured ($000s),2020,-
+752194444,Loans - unsecured ($000s),2019,-
+752194444,Loans - unsecured ($000s),2018,-
+752194444,Loans - unsecured ($000s),2017,-
+752194444,Loans - unsecured ($000s),2016,-
+752194444,Loans - unsecured ($000s),2015,-
+752194444,Obligations under finance leases and hire purchase ($000s),2024,"$2,333"
+752194444,Obligations under finance leases and hire purchase ($000s),2023,"$2,154"
+752194444,Obligations under finance leases and hire purchase ($000s),2022,"$2,089"
+752194444,Obligations under finance leases and hire purchase ($000s),2021,"$1,926"
+752194444,Obligations under finance leases and hire purchase ($000s),2020,"$1,975"
+752194444,Obligations under finance leases and hire purchase ($000s),2019,-
+752194444,Obligations under finance leases and hire purchase ($000s),2018,-
+752194444,Obligations under finance leases and hire purchase ($000s),2017,-
+752194444,Obligations under finance leases and hire purchase ($000s),2016,-
+752194444,Obligations under finance leases and hire purchase ($000s),2015,$6
+752194444,Loans from related parties ($000s),2024,
+752194444,Loans from related parties ($000s),2023,
+752194444,Loans from related parties ($000s),2022,
+752194444,Loans from related parties ($000s),2021,
+752194444,Loans from related parties ($000s),2020,-
+752194444,Loans from related parties ($000s),2019,-
+752194444,Loans from related parties ($000s),2018,-
+752194444,Loans from related parties ($000s),2017,-
+752194444,Loans from related parties ($000s),2016,-
+752194444,Loans from related parties ($000s),2015,-
+752194444,Total current interest-bearing loans and borrowings ($000s),2024,"$2,333"
+752194444,Total current interest-bearing loans and borrowings ($000s),2023,"$2,290"
+752194444,Total current interest-bearing loans and borrowings ($000s),2022,"$2,089"
+752194444,Total current interest-bearing loans and borrowings ($000s),2021,"$1,926"
+752194444,Total current interest-bearing loans and borrowings ($000s),2020,"$1,975"
+752194444,Total current interest-bearing loans and borrowings ($000s),2019,-
+752194444,Total current interest-bearing loans and borrowings ($000s),2018,-
+752194444,Total current interest-bearing loans and borrowings ($000s),2017,-
+752194444,Total current interest-bearing loans and borrowings ($000s),2016,$129
+752194444,Total current interest-bearing loans and borrowings ($000s),2015,$356
+752194444,Income tax payable/(refundable) ($000s),2024,-
+752194444,Income tax payable/(refundable) ($000s),2023,-
+752194444,Income tax payable/(refundable) ($000s),2022,$248
+752194444,Income tax payable/(refundable) ($000s),2021,-
+752194444,Income tax payable/(refundable) ($000s),2020,-
+752194444,Income tax payable/(refundable) ($000s),2019,-
+752194444,Income tax payable/(refundable) ($000s),2018,-
+752194444,Income tax payable/(refundable) ($000s),2017,$300
+752194444,Income tax payable/(refundable) ($000s),2016,$201
+752194444,Income tax payable/(refundable) ($000s),2015,-
+752194444,Provisions ($000s),2024,"$1,000"
+752194444,Provisions ($000s),2023,$954
+752194444,Provisions ($000s),2022,$861
+752194444,Provisions ($000s),2021,$771
+752194444,Provisions ($000s),2020,$651
+752194444,Provisions ($000s),2019,$649
+752194444,Provisions ($000s),2018,$607
+752194444,Provisions ($000s),2017,$530
+752194444,Provisions ($000s),2016,$419
+752194444,Provisions ($000s),2015,$450
+752194444,Other current liabilities ($000s),2024,$0
+752194444,Other current liabilities ($000s),2023,$0
+752194444,Other current liabilities ($000s),2022,$0
+752194444,Other current liabilities ($000s),2021,$0
+752194444,Other current liabilities ($000s),2020,$0
+752194444,Other current liabilities ($000s),2019,$0
+752194444,Other current liabilities ($000s),2018,$0
+752194444,Other current liabilities ($000s),2017,$0
+752194444,Other current liabilities ($000s),2016,$0
+752194444,Other current liabilities ($000s),2015,$0
+752194444,Total current liabilities for continuing operations ($000s),2024,"$5,404"
+752194444,Total current liabilities for continuing operations ($000s),2023,"$4,865"
+752194444,Total current liabilities for continuing operations ($000s),2022,"$5,159"
+752194444,Total current liabilities for continuing operations ($000s),2021,"$5,540"
+752194444,Total current liabilities for continuing operations ($000s),2020,"$5,555"
+752194444,Total current liabilities for continuing operations ($000s),2019,"$3,532"
+752194444,Total current liabilities for continuing operations ($000s),2018,"$3,566"
+752194444,Total current liabilities for continuing operations ($000s),2017,"$3,000"
+752194444,Total current liabilities for continuing operations ($000s),2016,"$2,627"
+752194444,Total current liabilities for continuing operations ($000s),2015,"$2,804"
+752194444,Liabilities directly associated with assets held for sale ($000s),2024,
+752194444,Liabilities directly associated with assets held for sale ($000s),2023,
+752194444,Liabilities directly associated with assets held for sale ($000s),2022,
+752194444,Liabilities directly associated with assets held for sale ($000s),2021,
+752194444,Liabilities directly associated with assets held for sale ($000s),2020,-
+752194444,Liabilities directly associated with assets held for sale ($000s),2019,-
+752194444,Liabilities directly associated with assets held for sale ($000s),2018,-
+752194444,Liabilities directly associated with assets held for sale ($000s),2017,-
+752194444,Liabilities directly associated with assets held for sale ($000s),2016,-
+752194444,Liabilities directly associated with assets held for sale ($000s),2015,-
+752194444,Total current liabilities ($000s),2024,"$5,404"
+752194444,Total current liabilities ($000s),2023,"$4,865"
+752194444,Total current liabilities ($000s),2022,"$5,159"
+752194444,Total current liabilities ($000s),2021,"$5,540"
+752194444,Total current liabilities ($000s),2020,"$5,555"
+752194444,Total current liabilities ($000s),2019,"$3,532"
+752194444,Total current liabilities ($000s),2018,"$3,566"
+752194444,Total current liabilities ($000s),2017,"$3,000"
+752194444,Total current liabilities ($000s),2016,"$2,627"
+752194444,Total current liabilities ($000s),2015,"$2,804"
+752194444,Total current liabilities for previous year ($000s),2024,"$4,865"
+752194444,Total current liabilities for previous year ($000s),2023,"$5,159"
+752194444,Total current liabilities for previous year ($000s),2022,"$5,540"
+752194444,Total current liabilities for previous year ($000s),2021,"$5,555"
+752194444,Total current liabilities for previous year ($000s),2020,"$3,532"
+752194444,Total current liabilities for previous year ($000s),2019,"$3,566"
+752194444,Total current liabilities for previous year ($000s),2018,"$3,000"
+752194444,Total current liabilities for previous year ($000s),2017,"$2,627"
+752194444,Total current liabilities for previous year ($000s),2016,"$2,804"
+752194444,Total current liabilities for previous year ($000s),2015,"$2,710"
+752194444,Non-current liabilities,2024,
+752194444,Non-current liabilities,2023,
+752194444,Non-current liabilities,2022,
+752194444,Non-current liabilities,2021,
+752194444,Non-current liabilities,2020,-
+752194444,Non-current liabilities,2019,-
+752194444,Non-current liabilities,2018,-
+752194444,Non-current liabilities,2017,-
+752194444,Non-current liabilities,2016,-
+752194444,Non-current liabilities,2015,-
+752194444,Total non-current interest-bearing loans and borrowings ($000s),2024,"$5,487"
+752194444,Total non-current interest-bearing loans and borrowings ($000s),2023,"$7,820"
+752194444,Total non-current interest-bearing loans and borrowings ($000s),2022,"$8,860"
+752194444,Total non-current interest-bearing loans and borrowings ($000s),2021,"$8,926"
+752194444,Total non-current interest-bearing loans and borrowings ($000s),2020,"$10,852"
+752194444,Total non-current interest-bearing loans and borrowings ($000s),2019,-
+752194444,Total non-current interest-bearing loans and borrowings ($000s),2018,-
+752194444,Total non-current interest-bearing loans and borrowings ($000s),2017,-
+752194444,Total non-current interest-bearing loans and borrowings ($000s),2016,"$1,729"
+752194444,Total non-current interest-bearing loans and borrowings ($000s),2015,"$2,579"
+752194444,Deferred tax liabilities ($000s),2024,
+752194444,Deferred tax liabilities ($000s),2023,
+752194444,Deferred tax liabilities ($000s),2022,
+752194444,Deferred tax liabilities ($000s),2021,
+752194444,Deferred tax liabilities ($000s),2020,-
+752194444,Deferred tax liabilities ($000s),2019,-
+752194444,Deferred tax liabilities ($000s),2018,-
+752194444,Deferred tax liabilities ($000s),2017,-
+752194444,Deferred tax liabilities ($000s),2016,-
+752194444,Deferred tax liabilities ($000s),2015,-
+752194444,Convertible redeemable preference shares ($000s),2024,
+752194444,Convertible redeemable preference shares ($000s),2023,
+752194444,Convertible redeemable preference shares ($000s),2022,
+752194444,Convertible redeemable preference shares ($000s),2021,
+752194444,Convertible redeemable preference shares ($000s),2020,-
+752194444,Convertible redeemable preference shares ($000s),2019,-
+752194444,Convertible redeemable preference shares ($000s),2018,-
+752194444,Convertible redeemable preference shares ($000s),2017,-
+752194444,Convertible redeemable preference shares ($000s),2016,-
+752194444,Convertible redeemable preference shares ($000s),2015,-
+752194444,Other non-current liabilities ($000s),2024,$0
+752194444,Other non-current liabilities ($000s),2023,$0
+752194444,Other non-current liabilities ($000s),2022,$0
+752194444,Other non-current liabilities ($000s),2021,$518
+752194444,Other non-current liabilities ($000s),2020,$668
+752194444,Other non-current liabilities ($000s),2019,"$1,143"
+752194444,Other non-current liabilities ($000s),2018,"$1,443"
+752194444,Other non-current liabilities ($000s),2017,$348
+752194444,Other non-current liabilities ($000s),2016,$0
+752194444,Other non-current liabilities ($000s),2015,$288
+752194444,Total non-current liabilities ($000s),2024,"$6,026"
+752194444,Total non-current liabilities ($000s),2023,"$8,310"
+752194444,Total non-current liabilities ($000s),2022,"$9,313"
+752194444,Total non-current liabilities ($000s),2021,"$9,833"
+752194444,Total non-current liabilities ($000s),2020,"$11,824"
+752194444,Total non-current liabilities ($000s),2019,"$1,482"
+752194444,Total non-current liabilities ($000s),2018,"$1,548"
+752194444,Total non-current liabilities ($000s),2017,$427
+752194444,Total non-current liabilities ($000s),2016,"$1,908"
+752194444,Total non-current liabilities ($000s),2015,"$3,045"
+752194444,TOTAL LIABILITIES ($000s),2024,"$11,430"
+752194444,TOTAL LIABILITIES ($000s),2023,"$13,175"
+752194444,TOTAL LIABILITIES ($000s),2022,"$14,472"
+752194444,TOTAL LIABILITIES ($000s),2021,"$15,372"
+752194444,TOTAL LIABILITIES ($000s),2020,"$17,379"
+752194444,TOTAL LIABILITIES ($000s),2019,"$5,014"
+752194444,TOTAL LIABILITIES ($000s),2018,"$5,114"
+752194444,TOTAL LIABILITIES ($000s),2017,"$3,427"
+752194444,TOTAL LIABILITIES ($000s),2016,"$4,535"
+752194444,TOTAL LIABILITIES ($000s),2015,"$5,849"
+752194444,NET ASSETS ($000s),2024,"$2,501"
+752194444,NET ASSETS ($000s),2023,"$2,505"
+752194444,NET ASSETS ($000s),2022,"$3,277"
+752194444,NET ASSETS ($000s),2021,"$2,393"
+752194444,NET ASSETS ($000s),2020,"$2,315"
+752194444,NET ASSETS ($000s),2019,"$2,919"
+752194444,NET ASSETS ($000s),2018,"$2,586"
+752194444,NET ASSETS ($000s),2017,"$1,307"
+752194444,NET ASSETS ($000s),2016,$74
+752194444,NET ASSETS ($000s),2015,"($1,046)"
+752194444,Equity,2024,
+752194444,Equity,2023,
+752194444,Equity,2022,
+752194444,Equity,2021,
+752194444,Equity,2020,-
+752194444,Equity,2019,-
+752194444,Equity,2018,-
+752194444,Equity,2017,-
+752194444,Equity,2016,-
+752194444,Equity,2015,-
+752194444,Equity attributable to equity holders of the parent,2024,
+752194444,Equity attributable to equity holders of the parent,2023,
+752194444,Equity attributable to equity holders of the parent,2022,
+752194444,Equity attributable to equity holders of the parent,2021,
+752194444,Equity attributable to equity holders of the parent,2020,-
+752194444,Equity attributable to equity holders of the parent,2019,-
+752194444,Equity attributable to equity holders of the parent,2018,-
+752194444,Equity attributable to equity holders of the parent,2017,-
+752194444,Equity attributable to equity holders of the parent,2016,-
+752194444,Equity attributable to equity holders of the parent,2015,-
+752194444,Contributed equity ($000s),2024,$600
+752194444,Contributed equity ($000s),2023,$600
+752194444,Contributed equity ($000s),2022,$600
+752194444,Contributed equity ($000s),2021,$600
+752194444,Contributed equity ($000s),2020,$600
+752194444,Contributed equity ($000s),2019,$600
+752194444,Contributed equity ($000s),2018,$600
+752194444,Contributed equity ($000s),2017,$600
+752194444,Contributed equity ($000s),2016,$600
+752194444,Contributed equity ($000s),2015,$600
+752194444,Retained earnings ($000s),2024,"$1,901"
+752194444,Retained earnings ($000s),2023,"$1,905"
+752194444,Retained earnings ($000s),2022,"$2,677"
+752194444,Retained earnings ($000s),2021,"$1,793"
+752194444,Retained earnings ($000s),2020,"$1,715"
+752194444,Retained earnings ($000s),2019,"$2,319"
+752194444,Retained earnings ($000s),2018,"$1,986"
+752194444,Retained earnings ($000s),2017,$707
+752194444,Retained earnings ($000s),2016,($526)
+752194444,Retained earnings ($000s),2015,"($1,646)"
+752194444,Reserves ($000s),2024,$0
+752194444,Reserves ($000s),2023,$0
+752194444,Reserves ($000s),2022,$0
+752194444,Reserves ($000s),2021,$0
+752194444,Reserves ($000s),2020,$0
+752194444,Reserves ($000s),2019,$0
+752194444,Reserves ($000s),2018,$0
+752194444,Reserves ($000s),2017,$0
+752194444,Reserves ($000s),2016,$0
+752194444,Reserves ($000s),2015,$0
+752194444,Total Parent interests ($000s),2024,"$2,501"
+752194444,Total Parent interests ($000s),2023,"$2,505"
+752194444,Total Parent interests ($000s),2022,"$3,277"
+752194444,Total Parent interests ($000s),2021,"$2,393"
+752194444,Total Parent interests ($000s),2020,"$2,315"
+752194444,Total Parent interests ($000s),2019,"$2,919"
+752194444,Total Parent interests ($000s),2018,"$2,586"
+752194444,Total Parent interests ($000s),2017,"$1,307"
+752194444,Total Parent interests ($000s),2016,$74
+752194444,Total Parent interests ($000s),2015,"($1,046)"
+752194444,Minority interests ($000s),2024,
+752194444,Minority interests ($000s),2023,
+752194444,Minority interests ($000s),2022,
+752194444,Minority interests ($000s),2021,
+752194444,Minority interests ($000s),2020,-
+752194444,Minority interests ($000s),2019,-
+752194444,Minority interests ($000s),2018,-
+752194444,Minority interests ($000s),2017,-
+752194444,Minority interests ($000s),2016,-
+752194444,Minority interests ($000s),2015,-
+752194444,TOTAL EQUITY ($000s),2024,"$2,501"
+752194444,TOTAL EQUITY ($000s),2023,"$2,505"
+752194444,TOTAL EQUITY ($000s),2022,"$3,277"
+752194444,TOTAL EQUITY ($000s),2021,"$2,393"
+752194444,TOTAL EQUITY ($000s),2020,"$2,315"
+752194444,TOTAL EQUITY ($000s),2019,"$2,919"
+752194444,TOTAL EQUITY ($000s),2018,"$2,586"
+752194444,TOTAL EQUITY ($000s),2017,"$1,307"
+752194444,TOTAL EQUITY ($000s),2016,$74
+752194444,TOTAL EQUITY ($000s),2015,"($1,046)"
+752194444,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2024,"$2,505"
+752194444,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2023,"$3,277"
+752194444,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2022,"$2,393"
+752194444,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2021,"$2,315"
+752194444,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2020,"$2,919"
+752194444,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2019,"$2,586"
+752194444,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2018,"$1,307"
+752194444,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2017,$74
+752194444,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2016,"($1,046)"
+752194444,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2015,"($1,884)"

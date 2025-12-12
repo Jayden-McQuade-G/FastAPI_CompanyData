@@ -1,0 +1,601 @@
+duns,line_item,year,value
+752432617,Current Assets,2023,
+752432617,Current Assets,2022,
+752432617,Current Assets,2021,
+752432617,Current Assets,2020,
+752432617,Current Assets,2019,-
+752432617,Current Assets,2018,-
+752432617,Current Assets,2017,-
+752432617,Current Assets,2016,-
+752432617,Current Assets,2015,-
+752432617,Current Assets,2014,-
+752432617,Cash and cash equivalents ($000s),2023,"$12,894"
+752432617,Cash and cash equivalents ($000s),2022,"$6,236"
+752432617,Cash and cash equivalents ($000s),2021,"$1,051"
+752432617,Cash and cash equivalents ($000s),2020,"$17,322"
+752432617,Cash and cash equivalents ($000s),2019,"$1,924"
+752432617,Cash and cash equivalents ($000s),2018,-
+752432617,Cash and cash equivalents ($000s),2017,-
+752432617,Cash and cash equivalents ($000s),2016,-
+752432617,Cash and cash equivalents ($000s),2015,-
+752432617,Cash and cash equivalents ($000s),2014,-
+752432617,Growth,2023,106.77%
+752432617,Growth,2022,493.34%
+752432617,Growth,2021,(93.93%)
+752432617,Growth,2020,800.31%
+752432617,Growth,2019,-
+752432617,Growth,2018,-
+752432617,Growth,2017,-
+752432617,Growth,2016,-
+752432617,Growth,2015,-
+752432617,Growth,2014,-
+752432617,Trade receivables ($000s),2023,"$10,786"
+752432617,Trade receivables ($000s),2022,"$8,885"
+752432617,Trade receivables ($000s),2021,"$83,458"
+752432617,Trade receivables ($000s),2020,"$17,919"
+752432617,Trade receivables ($000s),2019,"$3,670"
+752432617,Trade receivables ($000s),2018,-
+752432617,Trade receivables ($000s),2017,-
+752432617,Trade receivables ($000s),2016,-
+752432617,Trade receivables ($000s),2015,-
+752432617,Trade receivables ($000s),2014,-
+752432617,Other receivables ($000s),2023,-
+752432617,Other receivables ($000s),2022,"$5,436"
+752432617,Other receivables ($000s),2021,-
+752432617,Other receivables ($000s),2020,-
+752432617,Other receivables ($000s),2019,-
+752432617,Other receivables ($000s),2018,-
+752432617,Other receivables ($000s),2017,-
+752432617,Other receivables ($000s),2016,-
+752432617,Other receivables ($000s),2015,-
+752432617,Other receivables ($000s),2014,-
+752432617,Raw materials ($000s),2023,$0
+752432617,Raw materials ($000s),2022,$0
+752432617,Raw materials ($000s),2021,$0
+752432617,Raw materials ($000s),2020,$0
+752432617,Raw materials ($000s),2019,$0
+752432617,Raw materials ($000s),2018,-
+752432617,Raw materials ($000s),2017,-
+752432617,Raw materials ($000s),2016,-
+752432617,Raw materials ($000s),2015,-
+752432617,Raw materials ($000s),2014,-
+752432617,Work-in-progress ($000s),2023,
+752432617,Work-in-progress ($000s),2022,
+752432617,Work-in-progress ($000s),2021,
+752432617,Work-in-progress ($000s),2020,
+752432617,Work-in-progress ($000s),2019,-
+752432617,Work-in-progress ($000s),2018,-
+752432617,Work-in-progress ($000s),2017,-
+752432617,Work-in-progress ($000s),2016,-
+752432617,Work-in-progress ($000s),2015,-
+752432617,Work-in-progress ($000s),2014,-
+752432617,Finished goods ($000s),2023,"$1,277"
+752432617,Finished goods ($000s),2022,"$1,214"
+752432617,Finished goods ($000s),2021,"$1,536"
+752432617,Finished goods ($000s),2020,"$5,158"
+752432617,Finished goods ($000s),2019,"$6,574"
+752432617,Finished goods ($000s),2018,-
+752432617,Finished goods ($000s),2017,-
+752432617,Finished goods ($000s),2016,-
+752432617,Finished goods ($000s),2015,-
+752432617,Finished goods ($000s),2014,-
+752432617,Total inventories ($000s),2023,"$1,277"
+752432617,Total inventories ($000s),2022,"$1,214"
+752432617,Total inventories ($000s),2021,"$1,536"
+752432617,Total inventories ($000s),2020,"$5,158"
+752432617,Total inventories ($000s),2019,"$6,574"
+752432617,Total inventories ($000s),2018,-
+752432617,Total inventories ($000s),2017,-
+752432617,Total inventories ($000s),2016,-
+752432617,Total inventories ($000s),2015,-
+752432617,Total inventories ($000s),2014,-
+752432617,Prepayments ($000s),2023,$236
+752432617,Prepayments ($000s),2022,$219
+752432617,Prepayments ($000s),2021,$314
+752432617,Prepayments ($000s),2020,$597
+752432617,Prepayments ($000s),2019,$879
+752432617,Prepayments ($000s),2018,-
+752432617,Prepayments ($000s),2017,-
+752432617,Prepayments ($000s),2016,-
+752432617,Prepayments ($000s),2015,-
+752432617,Prepayments ($000s),2014,-
+752432617,Derivative financial instruments ($000s),2023,
+752432617,Derivative financial instruments ($000s),2022,
+752432617,Derivative financial instruments ($000s),2021,
+752432617,Derivative financial instruments ($000s),2020,
+752432617,Derivative financial instruments ($000s),2019,-
+752432617,Derivative financial instruments ($000s),2018,-
+752432617,Derivative financial instruments ($000s),2017,-
+752432617,Derivative financial instruments ($000s),2016,-
+752432617,Derivative financial instruments ($000s),2015,-
+752432617,Derivative financial instruments ($000s),2014,-
+752432617,Other current assets ($000s),2023,$0
+752432617,Other current assets ($000s),2022,$0
+752432617,Other current assets ($000s),2021,$0
+752432617,Other current assets ($000s),2020,"$3,347"
+752432617,Other current assets ($000s),2019,$0
+752432617,Other current assets ($000s),2018,-
+752432617,Other current assets ($000s),2017,-
+752432617,Other current assets ($000s),2016,-
+752432617,Other current assets ($000s),2015,-
+752432617,Other current assets ($000s),2014,-
+752432617,Total current assets for continuing operations ($000s),2023,"$25,193"
+752432617,Total current assets for continuing operations ($000s),2022,"$21,990"
+752432617,Total current assets for continuing operations ($000s),2021,"$86,359"
+752432617,Total current assets for continuing operations ($000s),2020,"$44,343"
+752432617,Total current assets for continuing operations ($000s),2019,"$13,047"
+752432617,Total current assets for continuing operations ($000s),2018,-
+752432617,Total current assets for continuing operations ($000s),2017,-
+752432617,Total current assets for continuing operations ($000s),2016,-
+752432617,Total current assets for continuing operations ($000s),2015,-
+752432617,Total current assets for continuing operations ($000s),2014,-
+752432617,Assets held for sale ($000s),2023,
+752432617,Assets held for sale ($000s),2022,
+752432617,Assets held for sale ($000s),2021,
+752432617,Assets held for sale ($000s),2020,
+752432617,Assets held for sale ($000s),2019,-
+752432617,Assets held for sale ($000s),2018,-
+752432617,Assets held for sale ($000s),2017,-
+752432617,Assets held for sale ($000s),2016,-
+752432617,Assets held for sale ($000s),2015,-
+752432617,Assets held for sale ($000s),2014,-
+752432617,Total current assets ($000s),2023,"$25,193"
+752432617,Total current assets ($000s),2022,"$21,990"
+752432617,Total current assets ($000s),2021,"$86,359"
+752432617,Total current assets ($000s),2020,"$44,343"
+752432617,Total current assets ($000s),2019,"$13,047"
+752432617,Total current assets ($000s),2018,-
+752432617,Total current assets ($000s),2017,-
+752432617,Total current assets ($000s),2016,-
+752432617,Total current assets ($000s),2015,-
+752432617,Total current assets ($000s),2014,-
+752432617,Non-current assets,2023,
+752432617,Non-current assets,2022,
+752432617,Non-current assets,2021,
+752432617,Non-current assets,2020,
+752432617,Non-current assets,2019,-
+752432617,Non-current assets,2018,-
+752432617,Non-current assets,2017,-
+752432617,Non-current assets,2016,-
+752432617,Non-current assets,2015,-
+752432617,Non-current assets,2014,-
+752432617,Receivables ($000s),2023,$4
+752432617,Receivables ($000s),2022,$4
+752432617,Receivables ($000s),2021,$4
+752432617,Receivables ($000s),2020,$10
+752432617,Receivables ($000s),2019,$10
+752432617,Receivables ($000s),2018,-
+752432617,Receivables ($000s),2017,-
+752432617,Receivables ($000s),2016,-
+752432617,Receivables ($000s),2015,-
+752432617,Receivables ($000s),2014,-
+752432617,Investments in associates ($000s),2023,$0
+752432617,Investments in associates ($000s),2022,$0
+752432617,Investments in associates ($000s),2021,$0
+752432617,Investments in associates ($000s),2020,$0
+752432617,Investments in associates ($000s),2019,$0
+752432617,Investments in associates ($000s),2018,-
+752432617,Investments in associates ($000s),2017,-
+752432617,Investments in associates ($000s),2016,-
+752432617,Investments in associates ($000s),2015,-
+752432617,Investments in associates ($000s),2014,-
+752432617,Investments in subsidiaries ($000s),2023,
+752432617,Investments in subsidiaries ($000s),2022,
+752432617,Investments in subsidiaries ($000s),2021,
+752432617,Investments in subsidiaries ($000s),2020,
+752432617,Investments in subsidiaries ($000s),2019,-
+752432617,Investments in subsidiaries ($000s),2018,-
+752432617,Investments in subsidiaries ($000s),2017,-
+752432617,Investments in subsidiaries ($000s),2016,-
+752432617,Investments in subsidiaries ($000s),2015,-
+752432617,Investments in subsidiaries ($000s),2014,-
+752432617,Available for sale financial assets ($000s),2023,$0
+752432617,Available for sale financial assets ($000s),2022,$0
+752432617,Available for sale financial assets ($000s),2021,$0
+752432617,Available for sale financial assets ($000s),2020,$0
+752432617,Available for sale financial assets ($000s),2019,$0
+752432617,Available for sale financial assets ($000s),2018,-
+752432617,Available for sale financial assets ($000s),2017,-
+752432617,Available for sale financial assets ($000s),2016,-
+752432617,Available for sale financial assets ($000s),2015,-
+752432617,Available for sale financial assets ($000s),2014,-
+752432617,"Property, plant and equipment ($000s)",2023,
+752432617,"Property, plant and equipment ($000s)",2022,
+752432617,"Property, plant and equipment ($000s)",2021,
+752432617,"Property, plant and equipment ($000s)",2020,
+752432617,"Property, plant and equipment ($000s)",2019,-
+752432617,"Property, plant and equipment ($000s)",2018,-
+752432617,"Property, plant and equipment ($000s)",2017,-
+752432617,"Property, plant and equipment ($000s)",2016,-
+752432617,"Property, plant and equipment ($000s)",2015,-
+752432617,"Property, plant and equipment ($000s)",2014,-
+752432617,Intangible assets and goodwill ($000s),2023,$0
+752432617,Intangible assets and goodwill ($000s),2022,$0
+752432617,Intangible assets and goodwill ($000s),2021,$0
+752432617,Intangible assets and goodwill ($000s),2020,$0
+752432617,Intangible assets and goodwill ($000s),2019,$0
+752432617,Intangible assets and goodwill ($000s),2018,-
+752432617,Intangible assets and goodwill ($000s),2017,-
+752432617,Intangible assets and goodwill ($000s),2016,-
+752432617,Intangible assets and goodwill ($000s),2015,-
+752432617,Intangible assets and goodwill ($000s),2014,-
+752432617,Deferred tax assets ($000s),2023,
+752432617,Deferred tax assets ($000s),2022,
+752432617,Deferred tax assets ($000s),2021,
+752432617,Deferred tax assets ($000s),2020,
+752432617,Deferred tax assets ($000s),2019,-
+752432617,Deferred tax assets ($000s),2018,-
+752432617,Deferred tax assets ($000s),2017,-
+752432617,Deferred tax assets ($000s),2016,-
+752432617,Deferred tax assets ($000s),2015,-
+752432617,Deferred tax assets ($000s),2014,-
+752432617,Other non-current assets ($000s),2023,"$456,142"
+752432617,Other non-current assets ($000s),2022,"$418,225"
+752432617,Other non-current assets ($000s),2021,"$359,179"
+752432617,Other non-current assets ($000s),2020,"$341,204"
+752432617,Other non-current assets ($000s),2019,"$447,709"
+752432617,Other non-current assets ($000s),2018,-
+752432617,Other non-current assets ($000s),2017,-
+752432617,Other non-current assets ($000s),2016,-
+752432617,Other non-current assets ($000s),2015,-
+752432617,Other non-current assets ($000s),2014,-
+752432617,Total non-current assets ($000s),2023,"$456,146"
+752432617,Total non-current assets ($000s),2022,"$418,229"
+752432617,Total non-current assets ($000s),2021,"$359,183"
+752432617,Total non-current assets ($000s),2020,"$341,214"
+752432617,Total non-current assets ($000s),2019,"$447,719"
+752432617,Total non-current assets ($000s),2018,-
+752432617,Total non-current assets ($000s),2017,-
+752432617,Total non-current assets ($000s),2016,-
+752432617,Total non-current assets ($000s),2015,-
+752432617,Total non-current assets ($000s),2014,-
+752432617,TOTAL ASSETS ($000s),2023,"$481,339"
+752432617,TOTAL ASSETS ($000s),2022,"$440,219"
+752432617,TOTAL ASSETS ($000s),2021,"$445,542"
+752432617,TOTAL ASSETS ($000s),2020,"$385,557"
+752432617,TOTAL ASSETS ($000s),2019,"$460,766"
+752432617,TOTAL ASSETS ($000s),2018,-
+752432617,TOTAL ASSETS ($000s),2017,-
+752432617,TOTAL ASSETS ($000s),2016,-
+752432617,TOTAL ASSETS ($000s),2015,-
+752432617,TOTAL ASSETS ($000s),2014,-
+752432617,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2023,"$440,219"
+752432617,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2022,"$445,542"
+752432617,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2021,"$385,557"
+752432617,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2020,"$460,766"
+752432617,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2019,-
+752432617,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2018,-
+752432617,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2017,-
+752432617,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2016,-
+752432617,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2015,-
+752432617,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2014,-
+752432617,Current liabilities,2023,
+752432617,Current liabilities,2022,
+752432617,Current liabilities,2021,
+752432617,Current liabilities,2020,
+752432617,Current liabilities,2019,-
+752432617,Current liabilities,2018,-
+752432617,Current liabilities,2017,-
+752432617,Current liabilities,2016,-
+752432617,Current liabilities,2015,-
+752432617,Current liabilities,2014,-
+752432617,Trade payables ($000s),2023,-
+752432617,Trade payables ($000s),2022,"$2,548"
+752432617,Trade payables ($000s),2021,"$45,176"
+752432617,Trade payables ($000s),2020,"$11,466"
+752432617,Trade payables ($000s),2019,"$3,679"
+752432617,Trade payables ($000s),2018,-
+752432617,Trade payables ($000s),2017,-
+752432617,Trade payables ($000s),2016,-
+752432617,Trade payables ($000s),2015,-
+752432617,Trade payables ($000s),2014,-
+752432617,Other payables ($000s),2023,"$11,270"
+752432617,Other payables ($000s),2022,-
+752432617,Other payables ($000s),2021,-
+752432617,Other payables ($000s),2020,-
+752432617,Other payables ($000s),2019,-
+752432617,Other payables ($000s),2018,-
+752432617,Other payables ($000s),2017,-
+752432617,Other payables ($000s),2016,-
+752432617,Other payables ($000s),2015,-
+752432617,Other payables ($000s),2014,-
+752432617,Overdrafts ($000s),2023,
+752432617,Overdrafts ($000s),2022,
+752432617,Overdrafts ($000s),2021,
+752432617,Overdrafts ($000s),2020,
+752432617,Overdrafts ($000s),2019,-
+752432617,Overdrafts ($000s),2018,-
+752432617,Overdrafts ($000s),2017,-
+752432617,Overdrafts ($000s),2016,-
+752432617,Overdrafts ($000s),2015,-
+752432617,Overdrafts ($000s),2014,-
+752432617,Loans - secured ($000s),2023,
+752432617,Loans - secured ($000s),2022,
+752432617,Loans - secured ($000s),2021,
+752432617,Loans - secured ($000s),2020,
+752432617,Loans - secured ($000s),2019,-
+752432617,Loans - secured ($000s),2018,-
+752432617,Loans - secured ($000s),2017,-
+752432617,Loans - secured ($000s),2016,-
+752432617,Loans - secured ($000s),2015,-
+752432617,Loans - secured ($000s),2014,-
+752432617,Loans - unsecured ($000s),2023,
+752432617,Loans - unsecured ($000s),2022,
+752432617,Loans - unsecured ($000s),2021,
+752432617,Loans - unsecured ($000s),2020,
+752432617,Loans - unsecured ($000s),2019,-
+752432617,Loans - unsecured ($000s),2018,-
+752432617,Loans - unsecured ($000s),2017,-
+752432617,Loans - unsecured ($000s),2016,-
+752432617,Loans - unsecured ($000s),2015,-
+752432617,Loans - unsecured ($000s),2014,-
+752432617,Obligations under finance leases and hire purchase ($000s),2023,"$7,661"
+752432617,Obligations under finance leases and hire purchase ($000s),2022,"$1,037"
+752432617,Obligations under finance leases and hire purchase ($000s),2021,"$17,147"
+752432617,Obligations under finance leases and hire purchase ($000s),2020,"$11,927"
+752432617,Obligations under finance leases and hire purchase ($000s),2019,"$11,130"
+752432617,Obligations under finance leases and hire purchase ($000s),2018,-
+752432617,Obligations under finance leases and hire purchase ($000s),2017,-
+752432617,Obligations under finance leases and hire purchase ($000s),2016,-
+752432617,Obligations under finance leases and hire purchase ($000s),2015,-
+752432617,Obligations under finance leases and hire purchase ($000s),2014,-
+752432617,Loans from related parties ($000s),2023,-
+752432617,Loans from related parties ($000s),2022,-
+752432617,Loans from related parties ($000s),2021,-
+752432617,Loans from related parties ($000s),2020,"$1,425"
+752432617,Loans from related parties ($000s),2019,$462
+752432617,Loans from related parties ($000s),2018,-
+752432617,Loans from related parties ($000s),2017,-
+752432617,Loans from related parties ($000s),2016,-
+752432617,Loans from related parties ($000s),2015,-
+752432617,Loans from related parties ($000s),2014,-
+752432617,Total current interest-bearing loans and borrowings ($000s),2023,"$7,661"
+752432617,Total current interest-bearing loans and borrowings ($000s),2022,"$1,037"
+752432617,Total current interest-bearing loans and borrowings ($000s),2021,"$17,147"
+752432617,Total current interest-bearing loans and borrowings ($000s),2020,"$13,352"
+752432617,Total current interest-bearing loans and borrowings ($000s),2019,"$11,592"
+752432617,Total current interest-bearing loans and borrowings ($000s),2018,-
+752432617,Total current interest-bearing loans and borrowings ($000s),2017,-
+752432617,Total current interest-bearing loans and borrowings ($000s),2016,-
+752432617,Total current interest-bearing loans and borrowings ($000s),2015,-
+752432617,Total current interest-bearing loans and borrowings ($000s),2014,-
+752432617,Income tax payable/(refundable) ($000s),2023,"$2,938"
+752432617,Income tax payable/(refundable) ($000s),2022,$497
+752432617,Income tax payable/(refundable) ($000s),2021,"$8,031"
+752432617,Income tax payable/(refundable) ($000s),2020,-
+752432617,Income tax payable/(refundable) ($000s),2019,$790
+752432617,Income tax payable/(refundable) ($000s),2018,-
+752432617,Income tax payable/(refundable) ($000s),2017,-
+752432617,Income tax payable/(refundable) ($000s),2016,-
+752432617,Income tax payable/(refundable) ($000s),2015,-
+752432617,Income tax payable/(refundable) ($000s),2014,-
+752432617,Provisions ($000s),2023,"$13,690"
+752432617,Provisions ($000s),2022,"$39,696"
+752432617,Provisions ($000s),2021,"$3,836"
+752432617,Provisions ($000s),2020,"$15,382"
+752432617,Provisions ($000s),2019,"$10,480"
+752432617,Provisions ($000s),2018,-
+752432617,Provisions ($000s),2017,-
+752432617,Provisions ($000s),2016,-
+752432617,Provisions ($000s),2015,-
+752432617,Provisions ($000s),2014,-
+752432617,Other current liabilities ($000s),2023,$0
+752432617,Other current liabilities ($000s),2022,$0
+752432617,Other current liabilities ($000s),2021,$0
+752432617,Other current liabilities ($000s),2020,$0
+752432617,Other current liabilities ($000s),2019,$0
+752432617,Other current liabilities ($000s),2018,-
+752432617,Other current liabilities ($000s),2017,-
+752432617,Other current liabilities ($000s),2016,-
+752432617,Other current liabilities ($000s),2015,-
+752432617,Other current liabilities ($000s),2014,-
+752432617,Total current liabilities for continuing operations ($000s),2023,"$35,559"
+752432617,Total current liabilities for continuing operations ($000s),2022,"$43,778"
+752432617,Total current liabilities for continuing operations ($000s),2021,"$74,190"
+752432617,Total current liabilities for continuing operations ($000s),2020,"$40,200"
+752432617,Total current liabilities for continuing operations ($000s),2019,"$26,541"
+752432617,Total current liabilities for continuing operations ($000s),2018,-
+752432617,Total current liabilities for continuing operations ($000s),2017,-
+752432617,Total current liabilities for continuing operations ($000s),2016,-
+752432617,Total current liabilities for continuing operations ($000s),2015,-
+752432617,Total current liabilities for continuing operations ($000s),2014,-
+752432617,Liabilities directly associated with assets held for sale ($000s),2023,
+752432617,Liabilities directly associated with assets held for sale ($000s),2022,
+752432617,Liabilities directly associated with assets held for sale ($000s),2021,
+752432617,Liabilities directly associated with assets held for sale ($000s),2020,
+752432617,Liabilities directly associated with assets held for sale ($000s),2019,-
+752432617,Liabilities directly associated with assets held for sale ($000s),2018,-
+752432617,Liabilities directly associated with assets held for sale ($000s),2017,-
+752432617,Liabilities directly associated with assets held for sale ($000s),2016,-
+752432617,Liabilities directly associated with assets held for sale ($000s),2015,-
+752432617,Liabilities directly associated with assets held for sale ($000s),2014,-
+752432617,Total current liabilities ($000s),2023,"$35,559"
+752432617,Total current liabilities ($000s),2022,"$43,778"
+752432617,Total current liabilities ($000s),2021,"$74,190"
+752432617,Total current liabilities ($000s),2020,"$40,200"
+752432617,Total current liabilities ($000s),2019,"$26,541"
+752432617,Total current liabilities ($000s),2018,-
+752432617,Total current liabilities ($000s),2017,-
+752432617,Total current liabilities ($000s),2016,-
+752432617,Total current liabilities ($000s),2015,-
+752432617,Total current liabilities ($000s),2014,-
+752432617,Total current liabilities for previous year ($000s),2023,"$43,778"
+752432617,Total current liabilities for previous year ($000s),2022,"$74,190"
+752432617,Total current liabilities for previous year ($000s),2021,"$40,200"
+752432617,Total current liabilities for previous year ($000s),2020,"$26,541"
+752432617,Total current liabilities for previous year ($000s),2019,-
+752432617,Total current liabilities for previous year ($000s),2018,-
+752432617,Total current liabilities for previous year ($000s),2017,-
+752432617,Total current liabilities for previous year ($000s),2016,-
+752432617,Total current liabilities for previous year ($000s),2015,-
+752432617,Total current liabilities for previous year ($000s),2014,-
+752432617,Non-current liabilities,2023,
+752432617,Non-current liabilities,2022,
+752432617,Non-current liabilities,2021,
+752432617,Non-current liabilities,2020,
+752432617,Non-current liabilities,2019,-
+752432617,Non-current liabilities,2018,-
+752432617,Non-current liabilities,2017,-
+752432617,Non-current liabilities,2016,-
+752432617,Non-current liabilities,2015,-
+752432617,Non-current liabilities,2014,-
+752432617,Total non-current interest-bearing loans and borrowings ($000s),2023,-
+752432617,Total non-current interest-bearing loans and borrowings ($000s),2022,-
+752432617,Total non-current interest-bearing loans and borrowings ($000s),2021,"$1,048"
+752432617,Total non-current interest-bearing loans and borrowings ($000s),2020,"$5,822"
+752432617,Total non-current interest-bearing loans and borrowings ($000s),2019,"$13,030"
+752432617,Total non-current interest-bearing loans and borrowings ($000s),2018,-
+752432617,Total non-current interest-bearing loans and borrowings ($000s),2017,-
+752432617,Total non-current interest-bearing loans and borrowings ($000s),2016,-
+752432617,Total non-current interest-bearing loans and borrowings ($000s),2015,-
+752432617,Total non-current interest-bearing loans and borrowings ($000s),2014,-
+752432617,Deferred tax liabilities ($000s),2023,"$1,728"
+752432617,Deferred tax liabilities ($000s),2022,"$2,308"
+752432617,Deferred tax liabilities ($000s),2021,"$6,447"
+752432617,Deferred tax liabilities ($000s),2020,"$15,120"
+752432617,Deferred tax liabilities ($000s),2019,"$56,549"
+752432617,Deferred tax liabilities ($000s),2018,-
+752432617,Deferred tax liabilities ($000s),2017,-
+752432617,Deferred tax liabilities ($000s),2016,-
+752432617,Deferred tax liabilities ($000s),2015,-
+752432617,Deferred tax liabilities ($000s),2014,-
+752432617,Convertible redeemable preference shares ($000s),2023,
+752432617,Convertible redeemable preference shares ($000s),2022,
+752432617,Convertible redeemable preference shares ($000s),2021,
+752432617,Convertible redeemable preference shares ($000s),2020,
+752432617,Convertible redeemable preference shares ($000s),2019,-
+752432617,Convertible redeemable preference shares ($000s),2018,-
+752432617,Convertible redeemable preference shares ($000s),2017,-
+752432617,Convertible redeemable preference shares ($000s),2016,-
+752432617,Convertible redeemable preference shares ($000s),2015,-
+752432617,Convertible redeemable preference shares ($000s),2014,-
+752432617,Other non-current liabilities ($000s),2023,$0
+752432617,Other non-current liabilities ($000s),2022,$0
+752432617,Other non-current liabilities ($000s),2021,$0
+752432617,Other non-current liabilities ($000s),2020,$0
+752432617,Other non-current liabilities ($000s),2019,$0
+752432617,Other non-current liabilities ($000s),2018,-
+752432617,Other non-current liabilities ($000s),2017,-
+752432617,Other non-current liabilities ($000s),2016,-
+752432617,Other non-current liabilities ($000s),2015,-
+752432617,Other non-current liabilities ($000s),2014,-
+752432617,Total non-current liabilities ($000s),2023,"$166,142"
+752432617,Total non-current liabilities ($000s),2022,"$134,243"
+752432617,Total non-current liabilities ($000s),2021,"$153,531"
+752432617,Total non-current liabilities ($000s),2020,"$315,208"
+752432617,Total non-current liabilities ($000s),2019,"$359,203"
+752432617,Total non-current liabilities ($000s),2018,-
+752432617,Total non-current liabilities ($000s),2017,-
+752432617,Total non-current liabilities ($000s),2016,-
+752432617,Total non-current liabilities ($000s),2015,-
+752432617,Total non-current liabilities ($000s),2014,-
+752432617,TOTAL LIABILITIES ($000s),2023,"$201,701"
+752432617,TOTAL LIABILITIES ($000s),2022,"$178,021"
+752432617,TOTAL LIABILITIES ($000s),2021,"$227,721"
+752432617,TOTAL LIABILITIES ($000s),2020,"$355,408"
+752432617,TOTAL LIABILITIES ($000s),2019,"$385,744"
+752432617,TOTAL LIABILITIES ($000s),2018,-
+752432617,TOTAL LIABILITIES ($000s),2017,-
+752432617,TOTAL LIABILITIES ($000s),2016,-
+752432617,TOTAL LIABILITIES ($000s),2015,-
+752432617,TOTAL LIABILITIES ($000s),2014,-
+752432617,NET ASSETS ($000s),2023,"$279,638"
+752432617,NET ASSETS ($000s),2022,"$262,198"
+752432617,NET ASSETS ($000s),2021,"$217,821"
+752432617,NET ASSETS ($000s),2020,"$30,149"
+752432617,NET ASSETS ($000s),2019,"$75,022"
+752432617,NET ASSETS ($000s),2018,-
+752432617,NET ASSETS ($000s),2017,-
+752432617,NET ASSETS ($000s),2016,-
+752432617,NET ASSETS ($000s),2015,-
+752432617,NET ASSETS ($000s),2014,-
+752432617,Equity,2023,
+752432617,Equity,2022,
+752432617,Equity,2021,
+752432617,Equity,2020,
+752432617,Equity,2019,-
+752432617,Equity,2018,-
+752432617,Equity,2017,-
+752432617,Equity,2016,-
+752432617,Equity,2015,-
+752432617,Equity,2014,-
+752432617,Equity attributable to equity holders of the parent,2023,
+752432617,Equity attributable to equity holders of the parent,2022,
+752432617,Equity attributable to equity holders of the parent,2021,
+752432617,Equity attributable to equity holders of the parent,2020,
+752432617,Equity attributable to equity holders of the parent,2019,-
+752432617,Equity attributable to equity holders of the parent,2018,-
+752432617,Equity attributable to equity holders of the parent,2017,-
+752432617,Equity attributable to equity holders of the parent,2016,-
+752432617,Equity attributable to equity holders of the parent,2015,-
+752432617,Equity attributable to equity holders of the parent,2014,-
+752432617,Contributed equity ($000s),2023,"$184,056"
+752432617,Contributed equity ($000s),2022,"$245,602"
+752432617,Contributed equity ($000s),2021,"$245,602"
+752432617,Contributed equity ($000s),2020,"$245,602"
+752432617,Contributed equity ($000s),2019,"$247,001"
+752432617,Contributed equity ($000s),2018,-
+752432617,Contributed equity ($000s),2017,-
+752432617,Contributed equity ($000s),2016,-
+752432617,Contributed equity ($000s),2015,-
+752432617,Contributed equity ($000s),2014,-
+752432617,Retained earnings ($000s),2023,"$34,036"
+752432617,Retained earnings ($000s),2022,"$16,596"
+752432617,Retained earnings ($000s),2021,"($27,781)"
+752432617,Retained earnings ($000s),2020,"($215,453)"
+752432617,Retained earnings ($000s),2019,"($171,979)"
+752432617,Retained earnings ($000s),2018,-
+752432617,Retained earnings ($000s),2017,-
+752432617,Retained earnings ($000s),2016,-
+752432617,Retained earnings ($000s),2015,-
+752432617,Retained earnings ($000s),2014,-
+752432617,Reserves ($000s),2023,"$61,546"
+752432617,Reserves ($000s),2022,$0
+752432617,Reserves ($000s),2021,$0
+752432617,Reserves ($000s),2020,$0
+752432617,Reserves ($000s),2019,$0
+752432617,Reserves ($000s),2018,-
+752432617,Reserves ($000s),2017,-
+752432617,Reserves ($000s),2016,-
+752432617,Reserves ($000s),2015,-
+752432617,Reserves ($000s),2014,-
+752432617,Total Parent interests ($000s),2023,"$279,638"
+752432617,Total Parent interests ($000s),2022,"$262,198"
+752432617,Total Parent interests ($000s),2021,"$217,821"
+752432617,Total Parent interests ($000s),2020,"$30,149"
+752432617,Total Parent interests ($000s),2019,"$75,022"
+752432617,Total Parent interests ($000s),2018,-
+752432617,Total Parent interests ($000s),2017,-
+752432617,Total Parent interests ($000s),2016,-
+752432617,Total Parent interests ($000s),2015,-
+752432617,Total Parent interests ($000s),2014,-
+752432617,Minority interests ($000s),2023,
+752432617,Minority interests ($000s),2022,
+752432617,Minority interests ($000s),2021,
+752432617,Minority interests ($000s),2020,
+752432617,Minority interests ($000s),2019,-
+752432617,Minority interests ($000s),2018,-
+752432617,Minority interests ($000s),2017,-
+752432617,Minority interests ($000s),2016,-
+752432617,Minority interests ($000s),2015,-
+752432617,Minority interests ($000s),2014,-
+752432617,TOTAL EQUITY ($000s),2023,"$279,638"
+752432617,TOTAL EQUITY ($000s),2022,"$262,198"
+752432617,TOTAL EQUITY ($000s),2021,"$217,821"
+752432617,TOTAL EQUITY ($000s),2020,"$30,149"
+752432617,TOTAL EQUITY ($000s),2019,"$75,022"
+752432617,TOTAL EQUITY ($000s),2018,-
+752432617,TOTAL EQUITY ($000s),2017,-
+752432617,TOTAL EQUITY ($000s),2016,-
+752432617,TOTAL EQUITY ($000s),2015,-
+752432617,TOTAL EQUITY ($000s),2014,-
+752432617,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2023,"$262,198"
+752432617,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2022,"$217,821"
+752432617,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2021,"$30,149"
+752432617,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2020,"$75,022"
+752432617,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2019,-
+752432617,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2018,-
+752432617,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2017,-
+752432617,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2016,-
+752432617,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2015,-
+752432617,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2014,-

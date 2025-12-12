@@ -1,0 +1,601 @@
+duns,line_item,year,value
+758061055,Current Assets,2024,
+758061055,Current Assets,2023,
+758061055,Current Assets,2022,
+758061055,Current Assets,2021,
+758061055,Current Assets,2020,-
+758061055,Current Assets,2019,-
+758061055,Current Assets,2018,-
+758061055,Current Assets,2017,-
+758061055,Current Assets,2016,-
+758061055,Current Assets,2015,-
+758061055,Cash and cash equivalents ($000s),2024,"$15,560"
+758061055,Cash and cash equivalents ($000s),2023,"$12,349"
+758061055,Cash and cash equivalents ($000s),2022,"$10,495"
+758061055,Cash and cash equivalents ($000s),2021,"$32,528"
+758061055,Cash and cash equivalents ($000s),2020,-
+758061055,Cash and cash equivalents ($000s),2019,"$14,771"
+758061055,Cash and cash equivalents ($000s),2018,"$10,870"
+758061055,Cash and cash equivalents ($000s),2017,-
+758061055,Cash and cash equivalents ($000s),2016,"$28,032"
+758061055,Cash and cash equivalents ($000s),2015,"$25,013"
+758061055,Growth,2024,26.00%
+758061055,Growth,2023,17.67%
+758061055,Growth,2022,(67.74%)
+758061055,Growth,2021,-
+758061055,Growth,2020,-
+758061055,Growth,2019,35.89%
+758061055,Growth,2018,-
+758061055,Growth,2017,-
+758061055,Growth,2016,12.07%
+758061055,Growth,2015,-
+758061055,Trade receivables ($000s),2024,"$4,181"
+758061055,Trade receivables ($000s),2023,"$9,946"
+758061055,Trade receivables ($000s),2022,"$9,908"
+758061055,Trade receivables ($000s),2021,"$6,999"
+758061055,Trade receivables ($000s),2020,-
+758061055,Trade receivables ($000s),2019,"$9,008"
+758061055,Trade receivables ($000s),2018,"$9,499"
+758061055,Trade receivables ($000s),2017,-
+758061055,Trade receivables ($000s),2016,"$3,130"
+758061055,Trade receivables ($000s),2015,"$12,674"
+758061055,Other receivables ($000s),2024,$79
+758061055,Other receivables ($000s),2023,$46
+758061055,Other receivables ($000s),2022,$87
+758061055,Other receivables ($000s),2021,$40
+758061055,Other receivables ($000s),2020,-
+758061055,Other receivables ($000s),2019,$59
+758061055,Other receivables ($000s),2018,-
+758061055,Other receivables ($000s),2017,-
+758061055,Other receivables ($000s),2016,"$49,988"
+758061055,Other receivables ($000s),2015,"$46,855"
+758061055,Raw materials ($000s),2024,$0
+758061055,Raw materials ($000s),2023,$0
+758061055,Raw materials ($000s),2022,$0
+758061055,Raw materials ($000s),2021,$0
+758061055,Raw materials ($000s),2020,-
+758061055,Raw materials ($000s),2019,$0
+758061055,Raw materials ($000s),2018,$0
+758061055,Raw materials ($000s),2017,-
+758061055,Raw materials ($000s),2016,$0
+758061055,Raw materials ($000s),2015,$0
+758061055,Work-in-progress ($000s),2024,-
+758061055,Work-in-progress ($000s),2023,-
+758061055,Work-in-progress ($000s),2022,-
+758061055,Work-in-progress ($000s),2021,-
+758061055,Work-in-progress ($000s),2020,-
+758061055,Work-in-progress ($000s),2019,-
+758061055,Work-in-progress ($000s),2018,-
+758061055,Work-in-progress ($000s),2017,-
+758061055,Work-in-progress ($000s),2016,"$2,051"
+758061055,Work-in-progress ($000s),2015,"$4,371"
+758061055,Finished goods ($000s),2024,$0
+758061055,Finished goods ($000s),2023,$0
+758061055,Finished goods ($000s),2022,$0
+758061055,Finished goods ($000s),2021,$0
+758061055,Finished goods ($000s),2020,-
+758061055,Finished goods ($000s),2019,$0
+758061055,Finished goods ($000s),2018,$0
+758061055,Finished goods ($000s),2017,-
+758061055,Finished goods ($000s),2016,$0
+758061055,Finished goods ($000s),2015,$0
+758061055,Total inventories ($000s),2024,$0
+758061055,Total inventories ($000s),2023,$0
+758061055,Total inventories ($000s),2022,$0
+758061055,Total inventories ($000s),2021,$0
+758061055,Total inventories ($000s),2020,-
+758061055,Total inventories ($000s),2019,$0
+758061055,Total inventories ($000s),2018,$0
+758061055,Total inventories ($000s),2017,-
+758061055,Total inventories ($000s),2016,"$2,051"
+758061055,Total inventories ($000s),2015,"$4,371"
+758061055,Prepayments ($000s),2024,$118
+758061055,Prepayments ($000s),2023,$131
+758061055,Prepayments ($000s),2022,$95
+758061055,Prepayments ($000s),2021,$109
+758061055,Prepayments ($000s),2020,-
+758061055,Prepayments ($000s),2019,$167
+758061055,Prepayments ($000s),2018,$151
+758061055,Prepayments ($000s),2017,-
+758061055,Prepayments ($000s),2016,-
+758061055,Prepayments ($000s),2015,-
+758061055,Derivative financial instruments ($000s),2024,
+758061055,Derivative financial instruments ($000s),2023,
+758061055,Derivative financial instruments ($000s),2022,
+758061055,Derivative financial instruments ($000s),2021,
+758061055,Derivative financial instruments ($000s),2020,-
+758061055,Derivative financial instruments ($000s),2019,-
+758061055,Derivative financial instruments ($000s),2018,-
+758061055,Derivative financial instruments ($000s),2017,-
+758061055,Derivative financial instruments ($000s),2016,-
+758061055,Derivative financial instruments ($000s),2015,-
+758061055,Other current assets ($000s),2024,$32
+758061055,Other current assets ($000s),2023,"$1,526"
+758061055,Other current assets ($000s),2022,"$40,656"
+758061055,Other current assets ($000s),2021,"$13,414"
+758061055,Other current assets ($000s),2020,-
+758061055,Other current assets ($000s),2019,$177
+758061055,Other current assets ($000s),2018,"$1,093"
+758061055,Other current assets ($000s),2017,-
+758061055,Other current assets ($000s),2016,$448
+758061055,Other current assets ($000s),2015,$628
+758061055,Total current assets for continuing operations ($000s),2024,"$19,970"
+758061055,Total current assets for continuing operations ($000s),2023,"$23,998"
+758061055,Total current assets for continuing operations ($000s),2022,"$61,241"
+758061055,Total current assets for continuing operations ($000s),2021,"$53,090"
+758061055,Total current assets for continuing operations ($000s),2020,-
+758061055,Total current assets for continuing operations ($000s),2019,"$24,182"
+758061055,Total current assets for continuing operations ($000s),2018,"$21,614"
+758061055,Total current assets for continuing operations ($000s),2017,-
+758061055,Total current assets for continuing operations ($000s),2016,"$83,649"
+758061055,Total current assets for continuing operations ($000s),2015,"$89,541"
+758061055,Assets held for sale ($000s),2024,$56
+758061055,Assets held for sale ($000s),2023,$555
+758061055,Assets held for sale ($000s),2022,"$1,169"
+758061055,Assets held for sale ($000s),2021,"$2,503"
+758061055,Assets held for sale ($000s),2020,-
+758061055,Assets held for sale ($000s),2019,-
+758061055,Assets held for sale ($000s),2018,-
+758061055,Assets held for sale ($000s),2017,-
+758061055,Assets held for sale ($000s),2016,-
+758061055,Assets held for sale ($000s),2015,-
+758061055,Total current assets ($000s),2024,"$20,026"
+758061055,Total current assets ($000s),2023,"$24,553"
+758061055,Total current assets ($000s),2022,"$62,411"
+758061055,Total current assets ($000s),2021,"$55,593"
+758061055,Total current assets ($000s),2020,-
+758061055,Total current assets ($000s),2019,"$24,182"
+758061055,Total current assets ($000s),2018,"$21,614"
+758061055,Total current assets ($000s),2017,-
+758061055,Total current assets ($000s),2016,"$83,649"
+758061055,Total current assets ($000s),2015,"$89,541"
+758061055,Non-current assets,2024,
+758061055,Non-current assets,2023,
+758061055,Non-current assets,2022,
+758061055,Non-current assets,2021,
+758061055,Non-current assets,2020,-
+758061055,Non-current assets,2019,-
+758061055,Non-current assets,2018,-
+758061055,Non-current assets,2017,-
+758061055,Non-current assets,2016,-
+758061055,Non-current assets,2015,-
+758061055,Receivables ($000s),2024,"$38,846"
+758061055,Receivables ($000s),2023,"$35,480"
+758061055,Receivables ($000s),2022,"$34,039"
+758061055,Receivables ($000s),2021,"$41,809"
+758061055,Receivables ($000s),2020,-
+758061055,Receivables ($000s),2019,"$50,331"
+758061055,Receivables ($000s),2018,"$55,292"
+758061055,Receivables ($000s),2017,-
+758061055,Receivables ($000s),2016,-
+758061055,Receivables ($000s),2015,-
+758061055,Investments in associates ($000s),2024,$0
+758061055,Investments in associates ($000s),2023,$0
+758061055,Investments in associates ($000s),2022,$0
+758061055,Investments in associates ($000s),2021,$0
+758061055,Investments in associates ($000s),2020,-
+758061055,Investments in associates ($000s),2019,$0
+758061055,Investments in associates ($000s),2018,$0
+758061055,Investments in associates ($000s),2017,-
+758061055,Investments in associates ($000s),2016,$0
+758061055,Investments in associates ($000s),2015,$0
+758061055,Investments in subsidiaries ($000s),2024,
+758061055,Investments in subsidiaries ($000s),2023,
+758061055,Investments in subsidiaries ($000s),2022,
+758061055,Investments in subsidiaries ($000s),2021,
+758061055,Investments in subsidiaries ($000s),2020,-
+758061055,Investments in subsidiaries ($000s),2019,-
+758061055,Investments in subsidiaries ($000s),2018,-
+758061055,Investments in subsidiaries ($000s),2017,-
+758061055,Investments in subsidiaries ($000s),2016,-
+758061055,Investments in subsidiaries ($000s),2015,-
+758061055,Available for sale financial assets ($000s),2024,$0
+758061055,Available for sale financial assets ($000s),2023,$0
+758061055,Available for sale financial assets ($000s),2022,$0
+758061055,Available for sale financial assets ($000s),2021,$0
+758061055,Available for sale financial assets ($000s),2020,-
+758061055,Available for sale financial assets ($000s),2019,$0
+758061055,Available for sale financial assets ($000s),2018,$0
+758061055,Available for sale financial assets ($000s),2017,-
+758061055,Available for sale financial assets ($000s),2016,$0
+758061055,Available for sale financial assets ($000s),2015,$0
+758061055,"Property, plant and equipment ($000s)",2024,"$19,231"
+758061055,"Property, plant and equipment ($000s)",2023,"$22,788"
+758061055,"Property, plant and equipment ($000s)",2022,"$23,626"
+758061055,"Property, plant and equipment ($000s)",2021,"$26,220"
+758061055,"Property, plant and equipment ($000s)",2020,-
+758061055,"Property, plant and equipment ($000s)",2019,"$37,706"
+758061055,"Property, plant and equipment ($000s)",2018,"$35,858"
+758061055,"Property, plant and equipment ($000s)",2017,-
+758061055,"Property, plant and equipment ($000s)",2016,"$32,937"
+758061055,"Property, plant and equipment ($000s)",2015,"$36,346"
+758061055,Intangible assets and goodwill ($000s),2024,$0
+758061055,Intangible assets and goodwill ($000s),2023,$0
+758061055,Intangible assets and goodwill ($000s),2022,$0
+758061055,Intangible assets and goodwill ($000s),2021,$0
+758061055,Intangible assets and goodwill ($000s),2020,-
+758061055,Intangible assets and goodwill ($000s),2019,$0
+758061055,Intangible assets and goodwill ($000s),2018,$0
+758061055,Intangible assets and goodwill ($000s),2017,-
+758061055,Intangible assets and goodwill ($000s),2016,$1
+758061055,Intangible assets and goodwill ($000s),2015,$1
+758061055,Deferred tax assets ($000s),2024,"$1,718"
+758061055,Deferred tax assets ($000s),2023,"$1,840"
+758061055,Deferred tax assets ($000s),2022,"$1,995"
+758061055,Deferred tax assets ($000s),2021,"$2,311"
+758061055,Deferred tax assets ($000s),2020,-
+758061055,Deferred tax assets ($000s),2019,$144
+758061055,Deferred tax assets ($000s),2018,-
+758061055,Deferred tax assets ($000s),2017,-
+758061055,Deferred tax assets ($000s),2016,-
+758061055,Deferred tax assets ($000s),2015,-
+758061055,Other non-current assets ($000s),2024,"$68,709"
+758061055,Other non-current assets ($000s),2023,"$62,983"
+758061055,Other non-current assets ($000s),2022,"$18,328"
+758061055,Other non-current assets ($000s),2021,"$12,145"
+758061055,Other non-current assets ($000s),2020,-
+758061055,Other non-current assets ($000s),2019,"$2,297"
+758061055,Other non-current assets ($000s),2018,"$2,297"
+758061055,Other non-current assets ($000s),2017,-
+758061055,Other non-current assets ($000s),2016,"$2,297"
+758061055,Other non-current assets ($000s),2015,"$2,297"
+758061055,Total non-current assets ($000s),2024,"$128,504"
+758061055,Total non-current assets ($000s),2023,"$123,090"
+758061055,Total non-current assets ($000s),2022,"$77,989"
+758061055,Total non-current assets ($000s),2021,"$82,485"
+758061055,Total non-current assets ($000s),2020,-
+758061055,Total non-current assets ($000s),2019,"$90,479"
+758061055,Total non-current assets ($000s),2018,"$93,448"
+758061055,Total non-current assets ($000s),2017,-
+758061055,Total non-current assets ($000s),2016,"$35,235"
+758061055,Total non-current assets ($000s),2015,"$38,644"
+758061055,TOTAL ASSETS ($000s),2024,"$148,530"
+758061055,TOTAL ASSETS ($000s),2023,"$147,643"
+758061055,TOTAL ASSETS ($000s),2022,"$140,399"
+758061055,TOTAL ASSETS ($000s),2021,"$138,078"
+758061055,TOTAL ASSETS ($000s),2020,-
+758061055,TOTAL ASSETS ($000s),2019,"$114,661"
+758061055,TOTAL ASSETS ($000s),2018,"$115,062"
+758061055,TOTAL ASSETS ($000s),2017,-
+758061055,TOTAL ASSETS ($000s),2016,"$118,884"
+758061055,TOTAL ASSETS ($000s),2015,"$128,184"
+758061055,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2024,"$147,643"
+758061055,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2023,"$140,399"
+758061055,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2022,"$138,078"
+758061055,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2021,-
+758061055,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2020,-
+758061055,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2019,"$115,062"
+758061055,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2018,-
+758061055,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2017,-
+758061055,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2016,"$128,184"
+758061055,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2015,-
+758061055,Current liabilities,2024,
+758061055,Current liabilities,2023,
+758061055,Current liabilities,2022,
+758061055,Current liabilities,2021,
+758061055,Current liabilities,2020,-
+758061055,Current liabilities,2019,-
+758061055,Current liabilities,2018,-
+758061055,Current liabilities,2017,-
+758061055,Current liabilities,2016,-
+758061055,Current liabilities,2015,-
+758061055,Trade payables ($000s),2024,$931
+758061055,Trade payables ($000s),2023,"$1,466"
+758061055,Trade payables ($000s),2022,"$1,575"
+758061055,Trade payables ($000s),2021,"$1,653"
+758061055,Trade payables ($000s),2020,-
+758061055,Trade payables ($000s),2019,"$5,975"
+758061055,Trade payables ($000s),2018,"$2,486"
+758061055,Trade payables ($000s),2017,-
+758061055,Trade payables ($000s),2016,"$2,701"
+758061055,Trade payables ($000s),2015,"$1,354"
+758061055,Other payables ($000s),2024,$50
+758061055,Other payables ($000s),2023,$45
+758061055,Other payables ($000s),2022,$36
+758061055,Other payables ($000s),2021,$0
+758061055,Other payables ($000s),2020,-
+758061055,Other payables ($000s),2019,-
+758061055,Other payables ($000s),2018,-
+758061055,Other payables ($000s),2017,-
+758061055,Other payables ($000s),2016,-
+758061055,Other payables ($000s),2015,($15)
+758061055,Overdrafts ($000s),2024,
+758061055,Overdrafts ($000s),2023,
+758061055,Overdrafts ($000s),2022,
+758061055,Overdrafts ($000s),2021,
+758061055,Overdrafts ($000s),2020,-
+758061055,Overdrafts ($000s),2019,-
+758061055,Overdrafts ($000s),2018,-
+758061055,Overdrafts ($000s),2017,-
+758061055,Overdrafts ($000s),2016,-
+758061055,Overdrafts ($000s),2015,-
+758061055,Loans - secured ($000s),2024,
+758061055,Loans - secured ($000s),2023,
+758061055,Loans - secured ($000s),2022,
+758061055,Loans - secured ($000s),2021,
+758061055,Loans - secured ($000s),2020,-
+758061055,Loans - secured ($000s),2019,-
+758061055,Loans - secured ($000s),2018,-
+758061055,Loans - secured ($000s),2017,-
+758061055,Loans - secured ($000s),2016,-
+758061055,Loans - secured ($000s),2015,-
+758061055,Loans - unsecured ($000s),2024,
+758061055,Loans - unsecured ($000s),2023,
+758061055,Loans - unsecured ($000s),2022,
+758061055,Loans - unsecured ($000s),2021,
+758061055,Loans - unsecured ($000s),2020,-
+758061055,Loans - unsecured ($000s),2019,-
+758061055,Loans - unsecured ($000s),2018,-
+758061055,Loans - unsecured ($000s),2017,-
+758061055,Loans - unsecured ($000s),2016,-
+758061055,Loans - unsecured ($000s),2015,-
+758061055,Obligations under finance leases and hire purchase ($000s),2024,"$2,119"
+758061055,Obligations under finance leases and hire purchase ($000s),2023,"$2,984"
+758061055,Obligations under finance leases and hire purchase ($000s),2022,"$3,781"
+758061055,Obligations under finance leases and hire purchase ($000s),2021,"$3,719"
+758061055,Obligations under finance leases and hire purchase ($000s),2020,-
+758061055,Obligations under finance leases and hire purchase ($000s),2019,-
+758061055,Obligations under finance leases and hire purchase ($000s),2018,-
+758061055,Obligations under finance leases and hire purchase ($000s),2017,-
+758061055,Obligations under finance leases and hire purchase ($000s),2016,"$3,498"
+758061055,Obligations under finance leases and hire purchase ($000s),2015,"$6,168"
+758061055,Loans from related parties ($000s),2024,-
+758061055,Loans from related parties ($000s),2023,$109
+758061055,Loans from related parties ($000s),2022,-
+758061055,Loans from related parties ($000s),2021,-
+758061055,Loans from related parties ($000s),2020,-
+758061055,Loans from related parties ($000s),2019,-
+758061055,Loans from related parties ($000s),2018,-
+758061055,Loans from related parties ($000s),2017,-
+758061055,Loans from related parties ($000s),2016,"$4,844"
+758061055,Loans from related parties ($000s),2015,"$1,680"
+758061055,Total current interest-bearing loans and borrowings ($000s),2024,"$2,119"
+758061055,Total current interest-bearing loans and borrowings ($000s),2023,"$3,093"
+758061055,Total current interest-bearing loans and borrowings ($000s),2022,"$3,781"
+758061055,Total current interest-bearing loans and borrowings ($000s),2021,"$3,719"
+758061055,Total current interest-bearing loans and borrowings ($000s),2020,-
+758061055,Total current interest-bearing loans and borrowings ($000s),2019,-
+758061055,Total current interest-bearing loans and borrowings ($000s),2018,-
+758061055,Total current interest-bearing loans and borrowings ($000s),2017,-
+758061055,Total current interest-bearing loans and borrowings ($000s),2016,"$8,341"
+758061055,Total current interest-bearing loans and borrowings ($000s),2015,"$7,847"
+758061055,Income tax payable/(refundable) ($000s),2024,"$2,416"
+758061055,Income tax payable/(refundable) ($000s),2023,"$5,089"
+758061055,Income tax payable/(refundable) ($000s),2022,"$3,888"
+758061055,Income tax payable/(refundable) ($000s),2021,"$3,486"
+758061055,Income tax payable/(refundable) ($000s),2020,-
+758061055,Income tax payable/(refundable) ($000s),2019,"$1,157"
+758061055,Income tax payable/(refundable) ($000s),2018,$200
+758061055,Income tax payable/(refundable) ($000s),2017,-
+758061055,Income tax payable/(refundable) ($000s),2016,"$1,631"
+758061055,Income tax payable/(refundable) ($000s),2015,-
+758061055,Provisions ($000s),2024,$0
+758061055,Provisions ($000s),2023,$0
+758061055,Provisions ($000s),2022,$0
+758061055,Provisions ($000s),2021,$0
+758061055,Provisions ($000s),2020,-
+758061055,Provisions ($000s),2019,$480
+758061055,Provisions ($000s),2018,$0
+758061055,Provisions ($000s),2017,-
+758061055,Provisions ($000s),2016,$0
+758061055,Provisions ($000s),2015,$0
+758061055,Other current liabilities ($000s),2024,$451
+758061055,Other current liabilities ($000s),2023,$0
+758061055,Other current liabilities ($000s),2022,$0
+758061055,Other current liabilities ($000s),2021,$0
+758061055,Other current liabilities ($000s),2020,-
+758061055,Other current liabilities ($000s),2019,$0
+758061055,Other current liabilities ($000s),2018,$0
+758061055,Other current liabilities ($000s),2017,-
+758061055,Other current liabilities ($000s),2016,$0
+758061055,Other current liabilities ($000s),2015,$0
+758061055,Total current liabilities for continuing operations ($000s),2024,"$5,968"
+758061055,Total current liabilities for continuing operations ($000s),2023,"$9,693"
+758061055,Total current liabilities for continuing operations ($000s),2022,"$9,280"
+758061055,Total current liabilities for continuing operations ($000s),2021,"$8,858"
+758061055,Total current liabilities for continuing operations ($000s),2020,-
+758061055,Total current liabilities for continuing operations ($000s),2019,"$7,612"
+758061055,Total current liabilities for continuing operations ($000s),2018,"$2,686"
+758061055,Total current liabilities for continuing operations ($000s),2017,-
+758061055,Total current liabilities for continuing operations ($000s),2016,"$12,674"
+758061055,Total current liabilities for continuing operations ($000s),2015,"$9,186"
+758061055,Liabilities directly associated with assets held for sale ($000s),2024,
+758061055,Liabilities directly associated with assets held for sale ($000s),2023,
+758061055,Liabilities directly associated with assets held for sale ($000s),2022,
+758061055,Liabilities directly associated with assets held for sale ($000s),2021,
+758061055,Liabilities directly associated with assets held for sale ($000s),2020,-
+758061055,Liabilities directly associated with assets held for sale ($000s),2019,-
+758061055,Liabilities directly associated with assets held for sale ($000s),2018,-
+758061055,Liabilities directly associated with assets held for sale ($000s),2017,-
+758061055,Liabilities directly associated with assets held for sale ($000s),2016,-
+758061055,Liabilities directly associated with assets held for sale ($000s),2015,-
+758061055,Total current liabilities ($000s),2024,"$5,968"
+758061055,Total current liabilities ($000s),2023,"$9,693"
+758061055,Total current liabilities ($000s),2022,"$9,280"
+758061055,Total current liabilities ($000s),2021,"$8,858"
+758061055,Total current liabilities ($000s),2020,-
+758061055,Total current liabilities ($000s),2019,"$7,612"
+758061055,Total current liabilities ($000s),2018,"$2,686"
+758061055,Total current liabilities ($000s),2017,-
+758061055,Total current liabilities ($000s),2016,"$12,674"
+758061055,Total current liabilities ($000s),2015,"$9,186"
+758061055,Total current liabilities for previous year ($000s),2024,"$9,693"
+758061055,Total current liabilities for previous year ($000s),2023,"$9,280"
+758061055,Total current liabilities for previous year ($000s),2022,"$8,858"
+758061055,Total current liabilities for previous year ($000s),2021,-
+758061055,Total current liabilities for previous year ($000s),2020,-
+758061055,Total current liabilities for previous year ($000s),2019,"$2,686"
+758061055,Total current liabilities for previous year ($000s),2018,-
+758061055,Total current liabilities for previous year ($000s),2017,-
+758061055,Total current liabilities for previous year ($000s),2016,"$9,186"
+758061055,Total current liabilities for previous year ($000s),2015,-
+758061055,Non-current liabilities,2024,
+758061055,Non-current liabilities,2023,
+758061055,Non-current liabilities,2022,
+758061055,Non-current liabilities,2021,
+758061055,Non-current liabilities,2020,-
+758061055,Non-current liabilities,2019,-
+758061055,Non-current liabilities,2018,-
+758061055,Non-current liabilities,2017,-
+758061055,Non-current liabilities,2016,-
+758061055,Non-current liabilities,2015,-
+758061055,Total non-current interest-bearing loans and borrowings ($000s),2024,"$3,201"
+758061055,Total non-current interest-bearing loans and borrowings ($000s),2023,"$17,769"
+758061055,Total non-current interest-bearing loans and borrowings ($000s),2022,"$21,037"
+758061055,Total non-current interest-bearing loans and borrowings ($000s),2021,"$25,905"
+758061055,Total non-current interest-bearing loans and borrowings ($000s),2020,-
+758061055,Total non-current interest-bearing loans and borrowings ($000s),2019,"$15,936"
+758061055,Total non-current interest-bearing loans and borrowings ($000s),2018,"$16,065"
+758061055,Total non-current interest-bearing loans and borrowings ($000s),2017,-
+758061055,Total non-current interest-bearing loans and borrowings ($000s),2016,-
+758061055,Total non-current interest-bearing loans and borrowings ($000s),2015,-
+758061055,Deferred tax liabilities ($000s),2024,"$3,563"
+758061055,Deferred tax liabilities ($000s),2023,"$4,916"
+758061055,Deferred tax liabilities ($000s),2022,"$4,917"
+758061055,Deferred tax liabilities ($000s),2021,"$3,666"
+758061055,Deferred tax liabilities ($000s),2020,-
+758061055,Deferred tax liabilities ($000s),2019,-
+758061055,Deferred tax liabilities ($000s),2018,-
+758061055,Deferred tax liabilities ($000s),2017,-
+758061055,Deferred tax liabilities ($000s),2016,-
+758061055,Deferred tax liabilities ($000s),2015,-
+758061055,Convertible redeemable preference shares ($000s),2024,
+758061055,Convertible redeemable preference shares ($000s),2023,
+758061055,Convertible redeemable preference shares ($000s),2022,
+758061055,Convertible redeemable preference shares ($000s),2021,
+758061055,Convertible redeemable preference shares ($000s),2020,-
+758061055,Convertible redeemable preference shares ($000s),2019,-
+758061055,Convertible redeemable preference shares ($000s),2018,-
+758061055,Convertible redeemable preference shares ($000s),2017,-
+758061055,Convertible redeemable preference shares ($000s),2016,-
+758061055,Convertible redeemable preference shares ($000s),2015,-
+758061055,Other non-current liabilities ($000s),2024,"$16,547"
+758061055,Other non-current liabilities ($000s),2023,$0
+758061055,Other non-current liabilities ($000s),2022,$633
+758061055,Other non-current liabilities ($000s),2021,"$5,060"
+758061055,Other non-current liabilities ($000s),2020,-
+758061055,Other non-current liabilities ($000s),2019,$0
+758061055,Other non-current liabilities ($000s),2018,$0
+758061055,Other non-current liabilities ($000s),2017,-
+758061055,Other non-current liabilities ($000s),2016,$0
+758061055,Other non-current liabilities ($000s),2015,$0
+758061055,Total non-current liabilities ($000s),2024,"$24,326"
+758061055,Total non-current liabilities ($000s),2023,"$23,439"
+758061055,Total non-current liabilities ($000s),2022,"$27,067"
+758061055,Total non-current liabilities ($000s),2021,"$35,111"
+758061055,Total non-current liabilities ($000s),2020,-
+758061055,Total non-current liabilities ($000s),2019,"$15,936"
+758061055,Total non-current liabilities ($000s),2018,"$16,065"
+758061055,Total non-current liabilities ($000s),2017,-
+758061055,Total non-current liabilities ($000s),2016,-
+758061055,Total non-current liabilities ($000s),2015,-
+758061055,TOTAL LIABILITIES ($000s),2024,"$30,294"
+758061055,TOTAL LIABILITIES ($000s),2023,"$33,132"
+758061055,TOTAL LIABILITIES ($000s),2022,"$36,347"
+758061055,TOTAL LIABILITIES ($000s),2021,"$43,969"
+758061055,TOTAL LIABILITIES ($000s),2020,-
+758061055,TOTAL LIABILITIES ($000s),2019,"$23,548"
+758061055,TOTAL LIABILITIES ($000s),2018,"$18,751"
+758061055,TOTAL LIABILITIES ($000s),2017,-
+758061055,TOTAL LIABILITIES ($000s),2016,"$12,674"
+758061055,TOTAL LIABILITIES ($000s),2015,"$9,186"
+758061055,NET ASSETS ($000s),2024,"$118,236"
+758061055,NET ASSETS ($000s),2023,"$114,511"
+758061055,NET ASSETS ($000s),2022,"$104,052"
+758061055,NET ASSETS ($000s),2021,"$94,109"
+758061055,NET ASSETS ($000s),2020,-
+758061055,NET ASSETS ($000s),2019,"$91,113"
+758061055,NET ASSETS ($000s),2018,"$96,311"
+758061055,NET ASSETS ($000s),2017,-
+758061055,NET ASSETS ($000s),2016,"$106,211"
+758061055,NET ASSETS ($000s),2015,"$118,999"
+758061055,Equity,2024,
+758061055,Equity,2023,
+758061055,Equity,2022,
+758061055,Equity,2021,
+758061055,Equity,2020,-
+758061055,Equity,2019,-
+758061055,Equity,2018,-
+758061055,Equity,2017,-
+758061055,Equity,2016,-
+758061055,Equity,2015,-
+758061055,Equity attributable to equity holders of the parent,2024,
+758061055,Equity attributable to equity holders of the parent,2023,
+758061055,Equity attributable to equity holders of the parent,2022,
+758061055,Equity attributable to equity holders of the parent,2021,
+758061055,Equity attributable to equity holders of the parent,2020,-
+758061055,Equity attributable to equity holders of the parent,2019,-
+758061055,Equity attributable to equity holders of the parent,2018,-
+758061055,Equity attributable to equity holders of the parent,2017,-
+758061055,Equity attributable to equity holders of the parent,2016,-
+758061055,Equity attributable to equity holders of the parent,2015,-
+758061055,Contributed equity ($000s),2024,$0
+758061055,Contributed equity ($000s),2023,$0
+758061055,Contributed equity ($000s),2022,$0
+758061055,Contributed equity ($000s),2021,$0
+758061055,Contributed equity ($000s),2020,-
+758061055,Contributed equity ($000s),2019,$0
+758061055,Contributed equity ($000s),2018,$0
+758061055,Contributed equity ($000s),2017,-
+758061055,Contributed equity ($000s),2016,$0
+758061055,Contributed equity ($000s),2015,$0
+758061055,Retained earnings ($000s),2024,"$118,236"
+758061055,Retained earnings ($000s),2023,"$114,511"
+758061055,Retained earnings ($000s),2022,"$104,052"
+758061055,Retained earnings ($000s),2021,"$94,109"
+758061055,Retained earnings ($000s),2020,-
+758061055,Retained earnings ($000s),2019,"$91,113"
+758061055,Retained earnings ($000s),2018,"$96,311"
+758061055,Retained earnings ($000s),2017,-
+758061055,Retained earnings ($000s),2016,"$106,211"
+758061055,Retained earnings ($000s),2015,"$118,999"
+758061055,Reserves ($000s),2024,$0
+758061055,Reserves ($000s),2023,$0
+758061055,Reserves ($000s),2022,$0
+758061055,Reserves ($000s),2021,$0
+758061055,Reserves ($000s),2020,-
+758061055,Reserves ($000s),2019,$0
+758061055,Reserves ($000s),2018,$0
+758061055,Reserves ($000s),2017,-
+758061055,Reserves ($000s),2016,$0
+758061055,Reserves ($000s),2015,$0
+758061055,Total Parent interests ($000s),2024,"$118,236"
+758061055,Total Parent interests ($000s),2023,"$114,511"
+758061055,Total Parent interests ($000s),2022,"$104,052"
+758061055,Total Parent interests ($000s),2021,"$94,109"
+758061055,Total Parent interests ($000s),2020,-
+758061055,Total Parent interests ($000s),2019,"$91,113"
+758061055,Total Parent interests ($000s),2018,"$96,311"
+758061055,Total Parent interests ($000s),2017,-
+758061055,Total Parent interests ($000s),2016,"$106,211"
+758061055,Total Parent interests ($000s),2015,"$118,999"
+758061055,Minority interests ($000s),2024,
+758061055,Minority interests ($000s),2023,
+758061055,Minority interests ($000s),2022,
+758061055,Minority interests ($000s),2021,
+758061055,Minority interests ($000s),2020,-
+758061055,Minority interests ($000s),2019,-
+758061055,Minority interests ($000s),2018,-
+758061055,Minority interests ($000s),2017,-
+758061055,Minority interests ($000s),2016,-
+758061055,Minority interests ($000s),2015,-
+758061055,TOTAL EQUITY ($000s),2024,"$118,236"
+758061055,TOTAL EQUITY ($000s),2023,"$114,511"
+758061055,TOTAL EQUITY ($000s),2022,"$104,052"
+758061055,TOTAL EQUITY ($000s),2021,"$94,109"
+758061055,TOTAL EQUITY ($000s),2020,-
+758061055,TOTAL EQUITY ($000s),2019,"$91,113"
+758061055,TOTAL EQUITY ($000s),2018,"$96,311"
+758061055,TOTAL EQUITY ($000s),2017,-
+758061055,TOTAL EQUITY ($000s),2016,"$106,211"
+758061055,TOTAL EQUITY ($000s),2015,"$118,999"
+758061055,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2024,"$114,511"
+758061055,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2023,"$104,052"
+758061055,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2022,"$94,109"
+758061055,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2021,-
+758061055,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2020,-
+758061055,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2019,"$96,311"
+758061055,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2018,-
+758061055,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2017,-
+758061055,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2016,"$118,999"
+758061055,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2015,-

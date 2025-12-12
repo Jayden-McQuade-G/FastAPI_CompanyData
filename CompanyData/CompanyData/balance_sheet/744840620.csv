@@ -1,0 +1,601 @@
+duns,line_item,year,value
+744840620,Current Assets,2023,
+744840620,Current Assets,2022,
+744840620,Current Assets,2021,
+744840620,Current Assets,2020,
+744840620,Current Assets,2019,-
+744840620,Current Assets,2018,-
+744840620,Current Assets,2017,-
+744840620,Current Assets,2016,-
+744840620,Current Assets,2015,-
+744840620,Current Assets,2014,-
+744840620,Cash and cash equivalents ($000s),2023,$913
+744840620,Cash and cash equivalents ($000s),2022,"$1,124"
+744840620,Cash and cash equivalents ($000s),2021,$814
+744840620,Cash and cash equivalents ($000s),2020,"$1,506"
+744840620,Cash and cash equivalents ($000s),2019,$504
+744840620,Cash and cash equivalents ($000s),2018,$625
+744840620,Cash and cash equivalents ($000s),2017,$372
+744840620,Cash and cash equivalents ($000s),2016,$3
+744840620,Cash and cash equivalents ($000s),2015,$941
+744840620,Cash and cash equivalents ($000s),2014,"$2,831"
+744840620,Growth,2023,(18.77%)
+744840620,Growth,2022,38.08%
+744840620,Growth,2021,(45.95%)
+744840620,Growth,2020,198.81%
+744840620,Growth,2019,(19.36%)
+744840620,Growth,2018,68.01%
+744840620,Growth,2017,"12,300.00%"
+744840620,Growth,2016,(99.68%)
+744840620,Growth,2015,(66.76%)
+744840620,Growth,2014,-
+744840620,Trade receivables ($000s),2023,$276
+744840620,Trade receivables ($000s),2022,$207
+744840620,Trade receivables ($000s),2021,$225
+744840620,Trade receivables ($000s),2020,$189
+744840620,Trade receivables ($000s),2019,$139
+744840620,Trade receivables ($000s),2018,$273
+744840620,Trade receivables ($000s),2017,$213
+744840620,Trade receivables ($000s),2016,$229
+744840620,Trade receivables ($000s),2015,$279
+744840620,Trade receivables ($000s),2014,$201
+744840620,Other receivables ($000s),2023,$75
+744840620,Other receivables ($000s),2022,$251
+744840620,Other receivables ($000s),2021,$5
+744840620,Other receivables ($000s),2020,$17
+744840620,Other receivables ($000s),2019,$164
+744840620,Other receivables ($000s),2018,$50
+744840620,Other receivables ($000s),2017,$46
+744840620,Other receivables ($000s),2016,"$1,145"
+744840620,Other receivables ($000s),2015,$14
+744840620,Other receivables ($000s),2014,$22
+744840620,Raw materials ($000s),2023,$0
+744840620,Raw materials ($000s),2022,$0
+744840620,Raw materials ($000s),2021,$0
+744840620,Raw materials ($000s),2020,$0
+744840620,Raw materials ($000s),2019,$0
+744840620,Raw materials ($000s),2018,$0
+744840620,Raw materials ($000s),2017,$0
+744840620,Raw materials ($000s),2016,$0
+744840620,Raw materials ($000s),2015,$0
+744840620,Raw materials ($000s),2014,$0
+744840620,Work-in-progress ($000s),2023,
+744840620,Work-in-progress ($000s),2022,
+744840620,Work-in-progress ($000s),2021,
+744840620,Work-in-progress ($000s),2020,
+744840620,Work-in-progress ($000s),2019,-
+744840620,Work-in-progress ($000s),2018,-
+744840620,Work-in-progress ($000s),2017,-
+744840620,Work-in-progress ($000s),2016,-
+744840620,Work-in-progress ($000s),2015,-
+744840620,Work-in-progress ($000s),2014,-
+744840620,Finished goods ($000s),2023,$42
+744840620,Finished goods ($000s),2022,$42
+744840620,Finished goods ($000s),2021,$234
+744840620,Finished goods ($000s),2020,$235
+744840620,Finished goods ($000s),2019,$237
+744840620,Finished goods ($000s),2018,$301
+744840620,Finished goods ($000s),2017,$308
+744840620,Finished goods ($000s),2016,$368
+744840620,Finished goods ($000s),2015,$377
+744840620,Finished goods ($000s),2014,$395
+744840620,Total inventories ($000s),2023,$42
+744840620,Total inventories ($000s),2022,$42
+744840620,Total inventories ($000s),2021,$234
+744840620,Total inventories ($000s),2020,$235
+744840620,Total inventories ($000s),2019,$237
+744840620,Total inventories ($000s),2018,$301
+744840620,Total inventories ($000s),2017,$308
+744840620,Total inventories ($000s),2016,$368
+744840620,Total inventories ($000s),2015,$377
+744840620,Total inventories ($000s),2014,$395
+744840620,Prepayments ($000s),2023,$785
+744840620,Prepayments ($000s),2022,$687
+744840620,Prepayments ($000s),2021,$510
+744840620,Prepayments ($000s),2020,$268
+744840620,Prepayments ($000s),2019,$255
+744840620,Prepayments ($000s),2018,$284
+744840620,Prepayments ($000s),2017,$393
+744840620,Prepayments ($000s),2016,$377
+744840620,Prepayments ($000s),2015,$180
+744840620,Prepayments ($000s),2014,$96
+744840620,Derivative financial instruments ($000s),2023,
+744840620,Derivative financial instruments ($000s),2022,
+744840620,Derivative financial instruments ($000s),2021,
+744840620,Derivative financial instruments ($000s),2020,
+744840620,Derivative financial instruments ($000s),2019,-
+744840620,Derivative financial instruments ($000s),2018,-
+744840620,Derivative financial instruments ($000s),2017,-
+744840620,Derivative financial instruments ($000s),2016,-
+744840620,Derivative financial instruments ($000s),2015,-
+744840620,Derivative financial instruments ($000s),2014,-
+744840620,Other current assets ($000s),2023,$158
+744840620,Other current assets ($000s),2022,$94
+744840620,Other current assets ($000s),2021,$104
+744840620,Other current assets ($000s),2020,$112
+744840620,Other current assets ($000s),2019,$22
+744840620,Other current assets ($000s),2018,$0
+744840620,Other current assets ($000s),2017,$60
+744840620,Other current assets ($000s),2016,$116
+744840620,Other current assets ($000s),2015,$42
+744840620,Other current assets ($000s),2014,$100
+744840620,Total current assets for continuing operations ($000s),2023,"$2,247"
+744840620,Total current assets for continuing operations ($000s),2022,"$2,406"
+744840620,Total current assets for continuing operations ($000s),2021,"$1,892"
+744840620,Total current assets for continuing operations ($000s),2020,"$2,328"
+744840620,Total current assets for continuing operations ($000s),2019,"$1,321"
+744840620,Total current assets for continuing operations ($000s),2018,"$1,534"
+744840620,Total current assets for continuing operations ($000s),2017,"$1,393"
+744840620,Total current assets for continuing operations ($000s),2016,"$2,238"
+744840620,Total current assets for continuing operations ($000s),2015,"$1,833"
+744840620,Total current assets for continuing operations ($000s),2014,"$3,645"
+744840620,Assets held for sale ($000s),2023,
+744840620,Assets held for sale ($000s),2022,
+744840620,Assets held for sale ($000s),2021,
+744840620,Assets held for sale ($000s),2020,
+744840620,Assets held for sale ($000s),2019,-
+744840620,Assets held for sale ($000s),2018,-
+744840620,Assets held for sale ($000s),2017,-
+744840620,Assets held for sale ($000s),2016,-
+744840620,Assets held for sale ($000s),2015,-
+744840620,Assets held for sale ($000s),2014,-
+744840620,Total current assets ($000s),2023,"$2,247"
+744840620,Total current assets ($000s),2022,"$2,406"
+744840620,Total current assets ($000s),2021,"$1,892"
+744840620,Total current assets ($000s),2020,"$2,328"
+744840620,Total current assets ($000s),2019,"$1,321"
+744840620,Total current assets ($000s),2018,"$1,534"
+744840620,Total current assets ($000s),2017,"$1,393"
+744840620,Total current assets ($000s),2016,"$2,238"
+744840620,Total current assets ($000s),2015,"$1,833"
+744840620,Total current assets ($000s),2014,"$3,645"
+744840620,Non-current assets,2023,
+744840620,Non-current assets,2022,
+744840620,Non-current assets,2021,
+744840620,Non-current assets,2020,
+744840620,Non-current assets,2019,-
+744840620,Non-current assets,2018,-
+744840620,Non-current assets,2017,-
+744840620,Non-current assets,2016,-
+744840620,Non-current assets,2015,-
+744840620,Non-current assets,2014,-
+744840620,Receivables ($000s),2023,
+744840620,Receivables ($000s),2022,
+744840620,Receivables ($000s),2021,
+744840620,Receivables ($000s),2020,
+744840620,Receivables ($000s),2019,-
+744840620,Receivables ($000s),2018,-
+744840620,Receivables ($000s),2017,-
+744840620,Receivables ($000s),2016,-
+744840620,Receivables ($000s),2015,-
+744840620,Receivables ($000s),2014,-
+744840620,Investments in associates ($000s),2023,$0
+744840620,Investments in associates ($000s),2022,$0
+744840620,Investments in associates ($000s),2021,$0
+744840620,Investments in associates ($000s),2020,$0
+744840620,Investments in associates ($000s),2019,$0
+744840620,Investments in associates ($000s),2018,$0
+744840620,Investments in associates ($000s),2017,$0
+744840620,Investments in associates ($000s),2016,$0
+744840620,Investments in associates ($000s),2015,$0
+744840620,Investments in associates ($000s),2014,$0
+744840620,Investments in subsidiaries ($000s),2023,
+744840620,Investments in subsidiaries ($000s),2022,
+744840620,Investments in subsidiaries ($000s),2021,
+744840620,Investments in subsidiaries ($000s),2020,
+744840620,Investments in subsidiaries ($000s),2019,-
+744840620,Investments in subsidiaries ($000s),2018,-
+744840620,Investments in subsidiaries ($000s),2017,-
+744840620,Investments in subsidiaries ($000s),2016,-
+744840620,Investments in subsidiaries ($000s),2015,-
+744840620,Investments in subsidiaries ($000s),2014,-
+744840620,Available for sale financial assets ($000s),2023,$0
+744840620,Available for sale financial assets ($000s),2022,$0
+744840620,Available for sale financial assets ($000s),2021,$0
+744840620,Available for sale financial assets ($000s),2020,$0
+744840620,Available for sale financial assets ($000s),2019,$0
+744840620,Available for sale financial assets ($000s),2018,$0
+744840620,Available for sale financial assets ($000s),2017,$0
+744840620,Available for sale financial assets ($000s),2016,$0
+744840620,Available for sale financial assets ($000s),2015,$0
+744840620,Available for sale financial assets ($000s),2014,$0
+744840620,"Property, plant and equipment ($000s)",2023,"$48,883"
+744840620,"Property, plant and equipment ($000s)",2022,"$47,839"
+744840620,"Property, plant and equipment ($000s)",2021,"$47,013"
+744840620,"Property, plant and equipment ($000s)",2020,"$46,473"
+744840620,"Property, plant and equipment ($000s)",2019,"$41,816"
+744840620,"Property, plant and equipment ($000s)",2018,"$41,701"
+744840620,"Property, plant and equipment ($000s)",2017,"$40,247"
+744840620,"Property, plant and equipment ($000s)",2016,"$37,235"
+744840620,"Property, plant and equipment ($000s)",2015,"$37,179"
+744840620,"Property, plant and equipment ($000s)",2014,"$37,507"
+744840620,Intangible assets and goodwill ($000s),2023,$0
+744840620,Intangible assets and goodwill ($000s),2022,$0
+744840620,Intangible assets and goodwill ($000s),2021,$0
+744840620,Intangible assets and goodwill ($000s),2020,$0
+744840620,Intangible assets and goodwill ($000s),2019,$0
+744840620,Intangible assets and goodwill ($000s),2018,$0
+744840620,Intangible assets and goodwill ($000s),2017,$0
+744840620,Intangible assets and goodwill ($000s),2016,$0
+744840620,Intangible assets and goodwill ($000s),2015,$0
+744840620,Intangible assets and goodwill ($000s),2014,$0
+744840620,Deferred tax assets ($000s),2023,
+744840620,Deferred tax assets ($000s),2022,
+744840620,Deferred tax assets ($000s),2021,
+744840620,Deferred tax assets ($000s),2020,
+744840620,Deferred tax assets ($000s),2019,-
+744840620,Deferred tax assets ($000s),2018,-
+744840620,Deferred tax assets ($000s),2017,-
+744840620,Deferred tax assets ($000s),2016,-
+744840620,Deferred tax assets ($000s),2015,-
+744840620,Deferred tax assets ($000s),2014,-
+744840620,Other non-current assets ($000s),2023,$0
+744840620,Other non-current assets ($000s),2022,$0
+744840620,Other non-current assets ($000s),2021,$0
+744840620,Other non-current assets ($000s),2020,$0
+744840620,Other non-current assets ($000s),2019,$0
+744840620,Other non-current assets ($000s),2018,$0
+744840620,Other non-current assets ($000s),2017,$0
+744840620,Other non-current assets ($000s),2016,$0
+744840620,Other non-current assets ($000s),2015,$0
+744840620,Other non-current assets ($000s),2014,$0
+744840620,Total non-current assets ($000s),2023,"$48,883"
+744840620,Total non-current assets ($000s),2022,"$47,839"
+744840620,Total non-current assets ($000s),2021,"$47,013"
+744840620,Total non-current assets ($000s),2020,"$46,473"
+744840620,Total non-current assets ($000s),2019,"$41,816"
+744840620,Total non-current assets ($000s),2018,"$41,701"
+744840620,Total non-current assets ($000s),2017,"$40,247"
+744840620,Total non-current assets ($000s),2016,"$37,235"
+744840620,Total non-current assets ($000s),2015,"$37,179"
+744840620,Total non-current assets ($000s),2014,"$37,507"
+744840620,TOTAL ASSETS ($000s),2023,"$51,130"
+744840620,TOTAL ASSETS ($000s),2022,"$50,245"
+744840620,TOTAL ASSETS ($000s),2021,"$48,904"
+744840620,TOTAL ASSETS ($000s),2020,"$48,801"
+744840620,TOTAL ASSETS ($000s),2019,"$43,137"
+744840620,TOTAL ASSETS ($000s),2018,"$43,235"
+744840620,TOTAL ASSETS ($000s),2017,"$41,640"
+744840620,TOTAL ASSETS ($000s),2016,"$39,473"
+744840620,TOTAL ASSETS ($000s),2015,"$39,012"
+744840620,TOTAL ASSETS ($000s),2014,"$41,153"
+744840620,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2023,"$50,245"
+744840620,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2022,"$48,904"
+744840620,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2021,"$48,801"
+744840620,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2020,"$43,137"
+744840620,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2019,"$43,235"
+744840620,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2018,"$41,640"
+744840620,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2017,"$39,473"
+744840620,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2016,"$39,012"
+744840620,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2015,"$41,153"
+744840620,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2014,"$41,321"
+744840620,Current liabilities,2023,
+744840620,Current liabilities,2022,
+744840620,Current liabilities,2021,
+744840620,Current liabilities,2020,
+744840620,Current liabilities,2019,-
+744840620,Current liabilities,2018,-
+744840620,Current liabilities,2017,-
+744840620,Current liabilities,2016,-
+744840620,Current liabilities,2015,-
+744840620,Current liabilities,2014,-
+744840620,Trade payables ($000s),2023,"$1,284"
+744840620,Trade payables ($000s),2022,$487
+744840620,Trade payables ($000s),2021,$489
+744840620,Trade payables ($000s),2020,$229
+744840620,Trade payables ($000s),2019,$366
+744840620,Trade payables ($000s),2018,$434
+744840620,Trade payables ($000s),2017,$304
+744840620,Trade payables ($000s),2016,$297
+744840620,Trade payables ($000s),2015,$290
+744840620,Trade payables ($000s),2014,$210
+744840620,Other payables ($000s),2023,$761
+744840620,Other payables ($000s),2022,$573
+744840620,Other payables ($000s),2021,$813
+744840620,Other payables ($000s),2020,$608
+744840620,Other payables ($000s),2019,$825
+744840620,Other payables ($000s),2018,$359
+744840620,Other payables ($000s),2017,$166
+744840620,Other payables ($000s),2016,$574
+744840620,Other payables ($000s),2015,$441
+744840620,Other payables ($000s),2014,$424
+744840620,Overdrafts ($000s),2023,
+744840620,Overdrafts ($000s),2022,
+744840620,Overdrafts ($000s),2021,
+744840620,Overdrafts ($000s),2020,
+744840620,Overdrafts ($000s),2019,-
+744840620,Overdrafts ($000s),2018,-
+744840620,Overdrafts ($000s),2017,-
+744840620,Overdrafts ($000s),2016,-
+744840620,Overdrafts ($000s),2015,-
+744840620,Overdrafts ($000s),2014,-
+744840620,Loans - secured ($000s),2023,"$14,874"
+744840620,Loans - secured ($000s),2022,-
+744840620,Loans - secured ($000s),2021,$242
+744840620,Loans - secured ($000s),2020,"$1,628"
+744840620,Loans - secured ($000s),2019,"$1,497"
+744840620,Loans - secured ($000s),2018,$207
+744840620,Loans - secured ($000s),2017,$720
+744840620,Loans - secured ($000s),2016,"$1,758"
+744840620,Loans - secured ($000s),2015,"$1,980"
+744840620,Loans - secured ($000s),2014,"$1,568"
+744840620,Loans - unsecured ($000s),2023,$213
+744840620,Loans - unsecured ($000s),2022,$213
+744840620,Loans - unsecured ($000s),2021,-
+744840620,Loans - unsecured ($000s),2020,-
+744840620,Loans - unsecured ($000s),2019,-
+744840620,Loans - unsecured ($000s),2018,-
+744840620,Loans - unsecured ($000s),2017,-
+744840620,Loans - unsecured ($000s),2016,-
+744840620,Loans - unsecured ($000s),2015,-
+744840620,Loans - unsecured ($000s),2014,-
+744840620,Obligations under finance leases and hire purchase ($000s),2023,$133
+744840620,Obligations under finance leases and hire purchase ($000s),2022,$140
+744840620,Obligations under finance leases and hire purchase ($000s),2021,$86
+744840620,Obligations under finance leases and hire purchase ($000s),2020,$203
+744840620,Obligations under finance leases and hire purchase ($000s),2019,$71
+744840620,Obligations under finance leases and hire purchase ($000s),2018,-
+744840620,Obligations under finance leases and hire purchase ($000s),2017,-
+744840620,Obligations under finance leases and hire purchase ($000s),2016,-
+744840620,Obligations under finance leases and hire purchase ($000s),2015,-
+744840620,Obligations under finance leases and hire purchase ($000s),2014,-
+744840620,Loans from related parties ($000s),2023,
+744840620,Loans from related parties ($000s),2022,
+744840620,Loans from related parties ($000s),2021,
+744840620,Loans from related parties ($000s),2020,
+744840620,Loans from related parties ($000s),2019,-
+744840620,Loans from related parties ($000s),2018,-
+744840620,Loans from related parties ($000s),2017,-
+744840620,Loans from related parties ($000s),2016,-
+744840620,Loans from related parties ($000s),2015,-
+744840620,Loans from related parties ($000s),2014,-
+744840620,Total current interest-bearing loans and borrowings ($000s),2023,"$15,221"
+744840620,Total current interest-bearing loans and borrowings ($000s),2022,$353
+744840620,Total current interest-bearing loans and borrowings ($000s),2021,$327
+744840620,Total current interest-bearing loans and borrowings ($000s),2020,"$1,831"
+744840620,Total current interest-bearing loans and borrowings ($000s),2019,"$1,568"
+744840620,Total current interest-bearing loans and borrowings ($000s),2018,$207
+744840620,Total current interest-bearing loans and borrowings ($000s),2017,$720
+744840620,Total current interest-bearing loans and borrowings ($000s),2016,"$1,758"
+744840620,Total current interest-bearing loans and borrowings ($000s),2015,"$1,980"
+744840620,Total current interest-bearing loans and borrowings ($000s),2014,"$1,568"
+744840620,Income tax payable/(refundable) ($000s),2023,-
+744840620,Income tax payable/(refundable) ($000s),2022,-
+744840620,Income tax payable/(refundable) ($000s),2021,-
+744840620,Income tax payable/(refundable) ($000s),2020,-
+744840620,Income tax payable/(refundable) ($000s),2019,-
+744840620,Income tax payable/(refundable) ($000s),2018,$66
+744840620,Income tax payable/(refundable) ($000s),2017,-
+744840620,Income tax payable/(refundable) ($000s),2016,-
+744840620,Income tax payable/(refundable) ($000s),2015,-
+744840620,Income tax payable/(refundable) ($000s),2014,-
+744840620,Provisions ($000s),2023,"$1,745"
+744840620,Provisions ($000s),2022,"$1,789"
+744840620,Provisions ($000s),2021,"$1,473"
+744840620,Provisions ($000s),2020,"$1,302"
+744840620,Provisions ($000s),2019,"$1,072"
+744840620,Provisions ($000s),2018,"$1,441"
+744840620,Provisions ($000s),2017,"$1,323"
+744840620,Provisions ($000s),2016,$995
+744840620,Provisions ($000s),2015,$894
+744840620,Provisions ($000s),2014,$948
+744840620,Other current liabilities ($000s),2023,$745
+744840620,Other current liabilities ($000s),2022,$845
+744840620,Other current liabilities ($000s),2021,$870
+744840620,Other current liabilities ($000s),2020,$950
+744840620,Other current liabilities ($000s),2019,$917
+744840620,Other current liabilities ($000s),2018,$806
+744840620,Other current liabilities ($000s),2017,$814
+744840620,Other current liabilities ($000s),2016,"$1,077"
+744840620,Other current liabilities ($000s),2015,"$1,048"
+744840620,Other current liabilities ($000s),2014,$557
+744840620,Total current liabilities for continuing operations ($000s),2023,"$19,757"
+744840620,Total current liabilities for continuing operations ($000s),2022,"$4,046"
+744840620,Total current liabilities for continuing operations ($000s),2021,"$3,973"
+744840620,Total current liabilities for continuing operations ($000s),2020,"$4,921"
+744840620,Total current liabilities for continuing operations ($000s),2019,"$4,747"
+744840620,Total current liabilities for continuing operations ($000s),2018,"$3,313"
+744840620,Total current liabilities for continuing operations ($000s),2017,"$3,326"
+744840620,Total current liabilities for continuing operations ($000s),2016,"$4,701"
+744840620,Total current liabilities for continuing operations ($000s),2015,"$4,654"
+744840620,Total current liabilities for continuing operations ($000s),2014,"$3,708"
+744840620,Liabilities directly associated with assets held for sale ($000s),2023,
+744840620,Liabilities directly associated with assets held for sale ($000s),2022,
+744840620,Liabilities directly associated with assets held for sale ($000s),2021,
+744840620,Liabilities directly associated with assets held for sale ($000s),2020,
+744840620,Liabilities directly associated with assets held for sale ($000s),2019,-
+744840620,Liabilities directly associated with assets held for sale ($000s),2018,-
+744840620,Liabilities directly associated with assets held for sale ($000s),2017,-
+744840620,Liabilities directly associated with assets held for sale ($000s),2016,-
+744840620,Liabilities directly associated with assets held for sale ($000s),2015,-
+744840620,Liabilities directly associated with assets held for sale ($000s),2014,-
+744840620,Total current liabilities ($000s),2023,"$19,757"
+744840620,Total current liabilities ($000s),2022,"$4,046"
+744840620,Total current liabilities ($000s),2021,"$3,973"
+744840620,Total current liabilities ($000s),2020,"$4,921"
+744840620,Total current liabilities ($000s),2019,"$4,747"
+744840620,Total current liabilities ($000s),2018,"$3,313"
+744840620,Total current liabilities ($000s),2017,"$3,326"
+744840620,Total current liabilities ($000s),2016,"$4,701"
+744840620,Total current liabilities ($000s),2015,"$4,654"
+744840620,Total current liabilities ($000s),2014,"$3,708"
+744840620,Total current liabilities for previous year ($000s),2023,"$4,046"
+744840620,Total current liabilities for previous year ($000s),2022,"$3,973"
+744840620,Total current liabilities for previous year ($000s),2021,"$4,921"
+744840620,Total current liabilities for previous year ($000s),2020,"$4,747"
+744840620,Total current liabilities for previous year ($000s),2019,"$3,313"
+744840620,Total current liabilities for previous year ($000s),2018,"$3,326"
+744840620,Total current liabilities for previous year ($000s),2017,"$4,701"
+744840620,Total current liabilities for previous year ($000s),2016,"$4,654"
+744840620,Total current liabilities for previous year ($000s),2015,"$3,708"
+744840620,Total current liabilities for previous year ($000s),2014,"$3,464"
+744840620,Non-current liabilities,2023,
+744840620,Non-current liabilities,2022,
+744840620,Non-current liabilities,2021,
+744840620,Non-current liabilities,2020,
+744840620,Non-current liabilities,2019,-
+744840620,Non-current liabilities,2018,-
+744840620,Non-current liabilities,2017,-
+744840620,Non-current liabilities,2016,-
+744840620,Non-current liabilities,2015,-
+744840620,Non-current liabilities,2014,-
+744840620,Total non-current interest-bearing loans and borrowings ($000s),2023,$120
+744840620,Total non-current interest-bearing loans and borrowings ($000s),2022,"$15,229"
+744840620,Total non-current interest-bearing loans and borrowings ($000s),2021,"$14,674"
+744840620,Total non-current interest-bearing loans and borrowings ($000s),2020,"$14,145"
+744840620,Total non-current interest-bearing loans and borrowings ($000s),2019,"$9,417"
+744840620,Total non-current interest-bearing loans and borrowings ($000s),2018,"$9,826"
+744840620,Total non-current interest-bearing loans and borrowings ($000s),2017,"$7,851"
+744840620,Total non-current interest-bearing loans and borrowings ($000s),2016,"$3,204"
+744840620,Total non-current interest-bearing loans and borrowings ($000s),2015,"$3,934"
+744840620,Total non-current interest-bearing loans and borrowings ($000s),2014,"$7,379"
+744840620,Deferred tax liabilities ($000s),2023,
+744840620,Deferred tax liabilities ($000s),2022,
+744840620,Deferred tax liabilities ($000s),2021,
+744840620,Deferred tax liabilities ($000s),2020,
+744840620,Deferred tax liabilities ($000s),2019,-
+744840620,Deferred tax liabilities ($000s),2018,-
+744840620,Deferred tax liabilities ($000s),2017,-
+744840620,Deferred tax liabilities ($000s),2016,-
+744840620,Deferred tax liabilities ($000s),2015,-
+744840620,Deferred tax liabilities ($000s),2014,-
+744840620,Convertible redeemable preference shares ($000s),2023,
+744840620,Convertible redeemable preference shares ($000s),2022,
+744840620,Convertible redeemable preference shares ($000s),2021,
+744840620,Convertible redeemable preference shares ($000s),2020,
+744840620,Convertible redeemable preference shares ($000s),2019,-
+744840620,Convertible redeemable preference shares ($000s),2018,-
+744840620,Convertible redeemable preference shares ($000s),2017,-
+744840620,Convertible redeemable preference shares ($000s),2016,-
+744840620,Convertible redeemable preference shares ($000s),2015,-
+744840620,Convertible redeemable preference shares ($000s),2014,-
+744840620,Other non-current liabilities ($000s),2023,$449
+744840620,Other non-current liabilities ($000s),2022,$561
+744840620,Other non-current liabilities ($000s),2021,$671
+744840620,Other non-current liabilities ($000s),2020,$767
+744840620,Other non-current liabilities ($000s),2019,$795
+744840620,Other non-current liabilities ($000s),2018,$828
+744840620,Other non-current liabilities ($000s),2017,$888
+744840620,Other non-current liabilities ($000s),2016,$856
+744840620,Other non-current liabilities ($000s),2015,$785
+744840620,Other non-current liabilities ($000s),2014,$714
+744840620,Total non-current liabilities ($000s),2023,$906
+744840620,Total non-current liabilities ($000s),2022,"$16,062"
+744840620,Total non-current liabilities ($000s),2021,"$15,594"
+744840620,Total non-current liabilities ($000s),2020,"$15,092"
+744840620,Total non-current liabilities ($000s),2019,"$10,339"
+744840620,Total non-current liabilities ($000s),2018,"$10,844"
+744840620,Total non-current liabilities ($000s),2017,"$9,042"
+744840620,Total non-current liabilities ($000s),2016,"$4,288"
+744840620,Total non-current liabilities ($000s),2015,"$4,926"
+744840620,Total non-current liabilities ($000s),2014,"$8,378"
+744840620,TOTAL LIABILITIES ($000s),2023,"$20,663"
+744840620,TOTAL LIABILITIES ($000s),2022,"$20,108"
+744840620,TOTAL LIABILITIES ($000s),2021,"$19,566"
+744840620,TOTAL LIABILITIES ($000s),2020,"$20,012"
+744840620,TOTAL LIABILITIES ($000s),2019,"$15,086"
+744840620,TOTAL LIABILITIES ($000s),2018,"$14,157"
+744840620,TOTAL LIABILITIES ($000s),2017,"$12,368"
+744840620,TOTAL LIABILITIES ($000s),2016,"$8,989"
+744840620,TOTAL LIABILITIES ($000s),2015,"$9,580"
+744840620,TOTAL LIABILITIES ($000s),2014,"$12,085"
+744840620,NET ASSETS ($000s),2023,"$30,467"
+744840620,NET ASSETS ($000s),2022,"$30,137"
+744840620,NET ASSETS ($000s),2021,"$29,338"
+744840620,NET ASSETS ($000s),2020,"$28,788"
+744840620,NET ASSETS ($000s),2019,"$28,051"
+744840620,NET ASSETS ($000s),2018,"$29,078"
+744840620,NET ASSETS ($000s),2017,"$29,272"
+744840620,NET ASSETS ($000s),2016,"$30,484"
+744840620,NET ASSETS ($000s),2015,"$29,432"
+744840620,NET ASSETS ($000s),2014,"$29,067"
+744840620,Equity,2023,
+744840620,Equity,2022,
+744840620,Equity,2021,
+744840620,Equity,2020,
+744840620,Equity,2019,-
+744840620,Equity,2018,-
+744840620,Equity,2017,-
+744840620,Equity,2016,-
+744840620,Equity,2015,-
+744840620,Equity,2014,-
+744840620,Equity attributable to equity holders of the parent,2023,
+744840620,Equity attributable to equity holders of the parent,2022,
+744840620,Equity attributable to equity holders of the parent,2021,
+744840620,Equity attributable to equity holders of the parent,2020,
+744840620,Equity attributable to equity holders of the parent,2019,-
+744840620,Equity attributable to equity holders of the parent,2018,-
+744840620,Equity attributable to equity holders of the parent,2017,-
+744840620,Equity attributable to equity holders of the parent,2016,-
+744840620,Equity attributable to equity holders of the parent,2015,-
+744840620,Equity attributable to equity holders of the parent,2014,-
+744840620,Contributed equity ($000s),2023,$0
+744840620,Contributed equity ($000s),2022,$0
+744840620,Contributed equity ($000s),2021,$0
+744840620,Contributed equity ($000s),2020,$0
+744840620,Contributed equity ($000s),2019,$0
+744840620,Contributed equity ($000s),2018,$0
+744840620,Contributed equity ($000s),2017,$0
+744840620,Contributed equity ($000s),2016,$0
+744840620,Contributed equity ($000s),2015,$0
+744840620,Contributed equity ($000s),2014,$0
+744840620,Retained earnings ($000s),2023,"$30,467"
+744840620,Retained earnings ($000s),2022,"$30,137"
+744840620,Retained earnings ($000s),2021,"$29,338"
+744840620,Retained earnings ($000s),2020,"$28,788"
+744840620,Retained earnings ($000s),2019,"$28,051"
+744840620,Retained earnings ($000s),2018,"$29,078"
+744840620,Retained earnings ($000s),2017,"$29,272"
+744840620,Retained earnings ($000s),2016,"$30,484"
+744840620,Retained earnings ($000s),2015,"$29,432"
+744840620,Retained earnings ($000s),2014,"$29,067"
+744840620,Reserves ($000s),2023,$0
+744840620,Reserves ($000s),2022,$0
+744840620,Reserves ($000s),2021,$0
+744840620,Reserves ($000s),2020,$0
+744840620,Reserves ($000s),2019,$0
+744840620,Reserves ($000s),2018,$0
+744840620,Reserves ($000s),2017,$0
+744840620,Reserves ($000s),2016,$0
+744840620,Reserves ($000s),2015,$0
+744840620,Reserves ($000s),2014,$0
+744840620,Total Parent interests ($000s),2023,"$30,467"
+744840620,Total Parent interests ($000s),2022,"$30,137"
+744840620,Total Parent interests ($000s),2021,"$29,338"
+744840620,Total Parent interests ($000s),2020,"$28,788"
+744840620,Total Parent interests ($000s),2019,"$28,051"
+744840620,Total Parent interests ($000s),2018,"$29,078"
+744840620,Total Parent interests ($000s),2017,"$29,272"
+744840620,Total Parent interests ($000s),2016,"$30,484"
+744840620,Total Parent interests ($000s),2015,"$29,432"
+744840620,Total Parent interests ($000s),2014,"$29,067"
+744840620,Minority interests ($000s),2023,
+744840620,Minority interests ($000s),2022,
+744840620,Minority interests ($000s),2021,
+744840620,Minority interests ($000s),2020,
+744840620,Minority interests ($000s),2019,-
+744840620,Minority interests ($000s),2018,-
+744840620,Minority interests ($000s),2017,-
+744840620,Minority interests ($000s),2016,-
+744840620,Minority interests ($000s),2015,-
+744840620,Minority interests ($000s),2014,-
+744840620,TOTAL EQUITY ($000s),2023,"$30,467"
+744840620,TOTAL EQUITY ($000s),2022,"$30,137"
+744840620,TOTAL EQUITY ($000s),2021,"$29,338"
+744840620,TOTAL EQUITY ($000s),2020,"$28,788"
+744840620,TOTAL EQUITY ($000s),2019,"$28,051"
+744840620,TOTAL EQUITY ($000s),2018,"$29,078"
+744840620,TOTAL EQUITY ($000s),2017,"$29,272"
+744840620,TOTAL EQUITY ($000s),2016,"$30,484"
+744840620,TOTAL EQUITY ($000s),2015,"$29,432"
+744840620,TOTAL EQUITY ($000s),2014,"$29,067"
+744840620,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2023,"$30,137"
+744840620,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2022,"$29,338"
+744840620,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2021,"$28,788"
+744840620,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2020,"$28,051"
+744840620,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2019,"$29,078"
+744840620,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2018,"$29,272"
+744840620,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2017,"$30,484"
+744840620,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2016,"$29,432"
+744840620,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2015,"$29,067"
+744840620,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2014,"$27,850"

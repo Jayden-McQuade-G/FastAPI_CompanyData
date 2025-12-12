@@ -1,0 +1,601 @@
+duns,line_item,year,value
+745087094,Current Assets,2024,
+745087094,Current Assets,2023,
+745087094,Current Assets,2022,
+745087094,Current Assets,2021,
+745087094,Current Assets,2020,-
+745087094,Current Assets,2019,-
+745087094,Current Assets,2018,-
+745087094,Current Assets,2017,-
+745087094,Current Assets,2016,-
+745087094,Current Assets,2015,-
+745087094,Cash and cash equivalents ($000s),2024,"$1,031"
+745087094,Cash and cash equivalents ($000s),2023,"$1,476"
+745087094,Cash and cash equivalents ($000s),2022,"$1,443"
+745087094,Cash and cash equivalents ($000s),2021,"$4,106"
+745087094,Cash and cash equivalents ($000s),2020,-
+745087094,Cash and cash equivalents ($000s),2019,-
+745087094,Cash and cash equivalents ($000s),2018,-
+745087094,Cash and cash equivalents ($000s),2017,-
+745087094,Cash and cash equivalents ($000s),2016,-
+745087094,Cash and cash equivalents ($000s),2015,-
+745087094,Growth,2024,(30.15%)
+745087094,Growth,2023,2.29%
+745087094,Growth,2022,(64.86%)
+745087094,Growth,2021,-
+745087094,Growth,2020,-
+745087094,Growth,2019,-
+745087094,Growth,2018,-
+745087094,Growth,2017,-
+745087094,Growth,2016,-
+745087094,Growth,2015,-
+745087094,Trade receivables ($000s),2024,$723
+745087094,Trade receivables ($000s),2023,$783
+745087094,Trade receivables ($000s),2022,"$1,378"
+745087094,Trade receivables ($000s),2021,$697
+745087094,Trade receivables ($000s),2020,-
+745087094,Trade receivables ($000s),2019,-
+745087094,Trade receivables ($000s),2018,-
+745087094,Trade receivables ($000s),2017,-
+745087094,Trade receivables ($000s),2016,-
+745087094,Trade receivables ($000s),2015,-
+745087094,Other receivables ($000s),2024,-
+745087094,Other receivables ($000s),2023,$171
+745087094,Other receivables ($000s),2022,"$12,462"
+745087094,Other receivables ($000s),2021,$825
+745087094,Other receivables ($000s),2020,-
+745087094,Other receivables ($000s),2019,-
+745087094,Other receivables ($000s),2018,-
+745087094,Other receivables ($000s),2017,-
+745087094,Other receivables ($000s),2016,-
+745087094,Other receivables ($000s),2015,-
+745087094,Raw materials ($000s),2024,$0
+745087094,Raw materials ($000s),2023,$0
+745087094,Raw materials ($000s),2022,$0
+745087094,Raw materials ($000s),2021,$0
+745087094,Raw materials ($000s),2020,-
+745087094,Raw materials ($000s),2019,-
+745087094,Raw materials ($000s),2018,-
+745087094,Raw materials ($000s),2017,-
+745087094,Raw materials ($000s),2016,-
+745087094,Raw materials ($000s),2015,-
+745087094,Work-in-progress ($000s),2024,
+745087094,Work-in-progress ($000s),2023,
+745087094,Work-in-progress ($000s),2022,
+745087094,Work-in-progress ($000s),2021,
+745087094,Work-in-progress ($000s),2020,-
+745087094,Work-in-progress ($000s),2019,-
+745087094,Work-in-progress ($000s),2018,-
+745087094,Work-in-progress ($000s),2017,-
+745087094,Work-in-progress ($000s),2016,-
+745087094,Work-in-progress ($000s),2015,-
+745087094,Finished goods ($000s),2024,$350
+745087094,Finished goods ($000s),2023,$677
+745087094,Finished goods ($000s),2022,$655
+745087094,Finished goods ($000s),2021,$740
+745087094,Finished goods ($000s),2020,-
+745087094,Finished goods ($000s),2019,-
+745087094,Finished goods ($000s),2018,-
+745087094,Finished goods ($000s),2017,-
+745087094,Finished goods ($000s),2016,-
+745087094,Finished goods ($000s),2015,-
+745087094,Total inventories ($000s),2024,$350
+745087094,Total inventories ($000s),2023,$677
+745087094,Total inventories ($000s),2022,$655
+745087094,Total inventories ($000s),2021,$740
+745087094,Total inventories ($000s),2020,-
+745087094,Total inventories ($000s),2019,-
+745087094,Total inventories ($000s),2018,-
+745087094,Total inventories ($000s),2017,-
+745087094,Total inventories ($000s),2016,-
+745087094,Total inventories ($000s),2015,-
+745087094,Prepayments ($000s),2024,$331
+745087094,Prepayments ($000s),2023,$522
+745087094,Prepayments ($000s),2022,$441
+745087094,Prepayments ($000s),2021,$162
+745087094,Prepayments ($000s),2020,-
+745087094,Prepayments ($000s),2019,-
+745087094,Prepayments ($000s),2018,-
+745087094,Prepayments ($000s),2017,-
+745087094,Prepayments ($000s),2016,-
+745087094,Prepayments ($000s),2015,-
+745087094,Derivative financial instruments ($000s),2024,
+745087094,Derivative financial instruments ($000s),2023,
+745087094,Derivative financial instruments ($000s),2022,
+745087094,Derivative financial instruments ($000s),2021,
+745087094,Derivative financial instruments ($000s),2020,-
+745087094,Derivative financial instruments ($000s),2019,-
+745087094,Derivative financial instruments ($000s),2018,-
+745087094,Derivative financial instruments ($000s),2017,-
+745087094,Derivative financial instruments ($000s),2016,-
+745087094,Derivative financial instruments ($000s),2015,-
+745087094,Other current assets ($000s),2024,$0
+745087094,Other current assets ($000s),2023,$0
+745087094,Other current assets ($000s),2022,$0
+745087094,Other current assets ($000s),2021,$0
+745087094,Other current assets ($000s),2020,-
+745087094,Other current assets ($000s),2019,-
+745087094,Other current assets ($000s),2018,-
+745087094,Other current assets ($000s),2017,-
+745087094,Other current assets ($000s),2016,-
+745087094,Other current assets ($000s),2015,-
+745087094,Total current assets for continuing operations ($000s),2024,"$2,435"
+745087094,Total current assets for continuing operations ($000s),2023,"$3,629"
+745087094,Total current assets for continuing operations ($000s),2022,"$16,379"
+745087094,Total current assets for continuing operations ($000s),2021,"$6,530"
+745087094,Total current assets for continuing operations ($000s),2020,-
+745087094,Total current assets for continuing operations ($000s),2019,-
+745087094,Total current assets for continuing operations ($000s),2018,-
+745087094,Total current assets for continuing operations ($000s),2017,-
+745087094,Total current assets for continuing operations ($000s),2016,-
+745087094,Total current assets for continuing operations ($000s),2015,-
+745087094,Assets held for sale ($000s),2024,"$9,304"
+745087094,Assets held for sale ($000s),2023,-
+745087094,Assets held for sale ($000s),2022,-
+745087094,Assets held for sale ($000s),2021,-
+745087094,Assets held for sale ($000s),2020,-
+745087094,Assets held for sale ($000s),2019,-
+745087094,Assets held for sale ($000s),2018,-
+745087094,Assets held for sale ($000s),2017,-
+745087094,Assets held for sale ($000s),2016,-
+745087094,Assets held for sale ($000s),2015,-
+745087094,Total current assets ($000s),2024,"$11,739"
+745087094,Total current assets ($000s),2023,"$3,629"
+745087094,Total current assets ($000s),2022,"$16,379"
+745087094,Total current assets ($000s),2021,"$6,530"
+745087094,Total current assets ($000s),2020,-
+745087094,Total current assets ($000s),2019,-
+745087094,Total current assets ($000s),2018,-
+745087094,Total current assets ($000s),2017,-
+745087094,Total current assets ($000s),2016,-
+745087094,Total current assets ($000s),2015,-
+745087094,Non-current assets,2024,
+745087094,Non-current assets,2023,
+745087094,Non-current assets,2022,
+745087094,Non-current assets,2021,
+745087094,Non-current assets,2020,-
+745087094,Non-current assets,2019,-
+745087094,Non-current assets,2018,-
+745087094,Non-current assets,2017,-
+745087094,Non-current assets,2016,-
+745087094,Non-current assets,2015,-
+745087094,Receivables ($000s),2024,"$25,773"
+745087094,Receivables ($000s),2023,-
+745087094,Receivables ($000s),2022,-
+745087094,Receivables ($000s),2021,-
+745087094,Receivables ($000s),2020,-
+745087094,Receivables ($000s),2019,-
+745087094,Receivables ($000s),2018,-
+745087094,Receivables ($000s),2017,-
+745087094,Receivables ($000s),2016,-
+745087094,Receivables ($000s),2015,-
+745087094,Investments in associates ($000s),2024,$0
+745087094,Investments in associates ($000s),2023,$0
+745087094,Investments in associates ($000s),2022,$0
+745087094,Investments in associates ($000s),2021,$0
+745087094,Investments in associates ($000s),2020,-
+745087094,Investments in associates ($000s),2019,-
+745087094,Investments in associates ($000s),2018,-
+745087094,Investments in associates ($000s),2017,-
+745087094,Investments in associates ($000s),2016,-
+745087094,Investments in associates ($000s),2015,-
+745087094,Investments in subsidiaries ($000s),2024,
+745087094,Investments in subsidiaries ($000s),2023,
+745087094,Investments in subsidiaries ($000s),2022,
+745087094,Investments in subsidiaries ($000s),2021,
+745087094,Investments in subsidiaries ($000s),2020,-
+745087094,Investments in subsidiaries ($000s),2019,-
+745087094,Investments in subsidiaries ($000s),2018,-
+745087094,Investments in subsidiaries ($000s),2017,-
+745087094,Investments in subsidiaries ($000s),2016,-
+745087094,Investments in subsidiaries ($000s),2015,-
+745087094,Available for sale financial assets ($000s),2024,$0
+745087094,Available for sale financial assets ($000s),2023,$0
+745087094,Available for sale financial assets ($000s),2022,$0
+745087094,Available for sale financial assets ($000s),2021,$0
+745087094,Available for sale financial assets ($000s),2020,-
+745087094,Available for sale financial assets ($000s),2019,-
+745087094,Available for sale financial assets ($000s),2018,-
+745087094,Available for sale financial assets ($000s),2017,-
+745087094,Available for sale financial assets ($000s),2016,-
+745087094,Available for sale financial assets ($000s),2015,-
+745087094,"Property, plant and equipment ($000s)",2024,"$2,264"
+745087094,"Property, plant and equipment ($000s)",2023,"$6,643"
+745087094,"Property, plant and equipment ($000s)",2022,"$7,684"
+745087094,"Property, plant and equipment ($000s)",2021,"$172,000"
+745087094,"Property, plant and equipment ($000s)",2020,-
+745087094,"Property, plant and equipment ($000s)",2019,-
+745087094,"Property, plant and equipment ($000s)",2018,-
+745087094,"Property, plant and equipment ($000s)",2017,-
+745087094,"Property, plant and equipment ($000s)",2016,-
+745087094,"Property, plant and equipment ($000s)",2015,-
+745087094,Intangible assets and goodwill ($000s),2024,$0
+745087094,Intangible assets and goodwill ($000s),2023,$0
+745087094,Intangible assets and goodwill ($000s),2022,$0
+745087094,Intangible assets and goodwill ($000s),2021,$0
+745087094,Intangible assets and goodwill ($000s),2020,-
+745087094,Intangible assets and goodwill ($000s),2019,-
+745087094,Intangible assets and goodwill ($000s),2018,-
+745087094,Intangible assets and goodwill ($000s),2017,-
+745087094,Intangible assets and goodwill ($000s),2016,-
+745087094,Intangible assets and goodwill ($000s),2015,-
+745087094,Deferred tax assets ($000s),2024,$30
+745087094,Deferred tax assets ($000s),2023,$172
+745087094,Deferred tax assets ($000s),2022,$384
+745087094,Deferred tax assets ($000s),2021,$533
+745087094,Deferred tax assets ($000s),2020,-
+745087094,Deferred tax assets ($000s),2019,-
+745087094,Deferred tax assets ($000s),2018,-
+745087094,Deferred tax assets ($000s),2017,-
+745087094,Deferred tax assets ($000s),2016,-
+745087094,Deferred tax assets ($000s),2015,-
+745087094,Other non-current assets ($000s),2024,"$3,100"
+745087094,Other non-current assets ($000s),2023,"$25,358"
+745087094,Other non-current assets ($000s),2022,"$13,146"
+745087094,Other non-current assets ($000s),2021,$0
+745087094,Other non-current assets ($000s),2020,-
+745087094,Other non-current assets ($000s),2019,-
+745087094,Other non-current assets ($000s),2018,-
+745087094,Other non-current assets ($000s),2017,-
+745087094,Other non-current assets ($000s),2016,-
+745087094,Other non-current assets ($000s),2015,-
+745087094,Total non-current assets ($000s),2024,"$31,167"
+745087094,Total non-current assets ($000s),2023,"$32,173"
+745087094,Total non-current assets ($000s),2022,"$21,214"
+745087094,Total non-current assets ($000s),2021,"$172,533"
+745087094,Total non-current assets ($000s),2020,-
+745087094,Total non-current assets ($000s),2019,-
+745087094,Total non-current assets ($000s),2018,-
+745087094,Total non-current assets ($000s),2017,-
+745087094,Total non-current assets ($000s),2016,-
+745087094,Total non-current assets ($000s),2015,-
+745087094,TOTAL ASSETS ($000s),2024,"$42,906"
+745087094,TOTAL ASSETS ($000s),2023,"$35,802"
+745087094,TOTAL ASSETS ($000s),2022,"$37,593"
+745087094,TOTAL ASSETS ($000s),2021,"$179,063"
+745087094,TOTAL ASSETS ($000s),2020,-
+745087094,TOTAL ASSETS ($000s),2019,-
+745087094,TOTAL ASSETS ($000s),2018,-
+745087094,TOTAL ASSETS ($000s),2017,-
+745087094,TOTAL ASSETS ($000s),2016,-
+745087094,TOTAL ASSETS ($000s),2015,-
+745087094,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2024,"$35,802"
+745087094,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2023,"$37,593"
+745087094,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2022,"$179,063"
+745087094,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2021,-
+745087094,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2020,-
+745087094,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2019,-
+745087094,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2018,-
+745087094,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2017,-
+745087094,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2016,-
+745087094,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2015,-
+745087094,Current liabilities,2024,
+745087094,Current liabilities,2023,
+745087094,Current liabilities,2022,
+745087094,Current liabilities,2021,
+745087094,Current liabilities,2020,-
+745087094,Current liabilities,2019,-
+745087094,Current liabilities,2018,-
+745087094,Current liabilities,2017,-
+745087094,Current liabilities,2016,-
+745087094,Current liabilities,2015,-
+745087094,Trade payables ($000s),2024,$759
+745087094,Trade payables ($000s),2023,"$2,008"
+745087094,Trade payables ($000s),2022,"$1,181"
+745087094,Trade payables ($000s),2021,$410
+745087094,Trade payables ($000s),2020,-
+745087094,Trade payables ($000s),2019,-
+745087094,Trade payables ($000s),2018,-
+745087094,Trade payables ($000s),2017,-
+745087094,Trade payables ($000s),2016,-
+745087094,Trade payables ($000s),2015,-
+745087094,Other payables ($000s),2024,$284
+745087094,Other payables ($000s),2023,"$1,413"
+745087094,Other payables ($000s),2022,"$1,764"
+745087094,Other payables ($000s),2021,"$2,211"
+745087094,Other payables ($000s),2020,-
+745087094,Other payables ($000s),2019,-
+745087094,Other payables ($000s),2018,-
+745087094,Other payables ($000s),2017,-
+745087094,Other payables ($000s),2016,-
+745087094,Other payables ($000s),2015,-
+745087094,Overdrafts ($000s),2024,
+745087094,Overdrafts ($000s),2023,
+745087094,Overdrafts ($000s),2022,
+745087094,Overdrafts ($000s),2021,
+745087094,Overdrafts ($000s),2020,-
+745087094,Overdrafts ($000s),2019,-
+745087094,Overdrafts ($000s),2018,-
+745087094,Overdrafts ($000s),2017,-
+745087094,Overdrafts ($000s),2016,-
+745087094,Overdrafts ($000s),2015,-
+745087094,Loans - secured ($000s),2024,
+745087094,Loans - secured ($000s),2023,
+745087094,Loans - secured ($000s),2022,
+745087094,Loans - secured ($000s),2021,
+745087094,Loans - secured ($000s),2020,-
+745087094,Loans - secured ($000s),2019,-
+745087094,Loans - secured ($000s),2018,-
+745087094,Loans - secured ($000s),2017,-
+745087094,Loans - secured ($000s),2016,-
+745087094,Loans - secured ($000s),2015,-
+745087094,Loans - unsecured ($000s),2024,
+745087094,Loans - unsecured ($000s),2023,
+745087094,Loans - unsecured ($000s),2022,
+745087094,Loans - unsecured ($000s),2021,
+745087094,Loans - unsecured ($000s),2020,-
+745087094,Loans - unsecured ($000s),2019,-
+745087094,Loans - unsecured ($000s),2018,-
+745087094,Loans - unsecured ($000s),2017,-
+745087094,Loans - unsecured ($000s),2016,-
+745087094,Loans - unsecured ($000s),2015,-
+745087094,Obligations under finance leases and hire purchase ($000s),2024,"$1,032"
+745087094,Obligations under finance leases and hire purchase ($000s),2023,"$2,640"
+745087094,Obligations under finance leases and hire purchase ($000s),2022,"$2,610"
+745087094,Obligations under finance leases and hire purchase ($000s),2021,-
+745087094,Obligations under finance leases and hire purchase ($000s),2020,-
+745087094,Obligations under finance leases and hire purchase ($000s),2019,-
+745087094,Obligations under finance leases and hire purchase ($000s),2018,-
+745087094,Obligations under finance leases and hire purchase ($000s),2017,-
+745087094,Obligations under finance leases and hire purchase ($000s),2016,-
+745087094,Obligations under finance leases and hire purchase ($000s),2015,-
+745087094,Loans from related parties ($000s),2024,"$16,137"
+745087094,Loans from related parties ($000s),2023,"$7,817"
+745087094,Loans from related parties ($000s),2022,"$13,686"
+745087094,Loans from related parties ($000s),2021,$142
+745087094,Loans from related parties ($000s),2020,-
+745087094,Loans from related parties ($000s),2019,-
+745087094,Loans from related parties ($000s),2018,-
+745087094,Loans from related parties ($000s),2017,-
+745087094,Loans from related parties ($000s),2016,-
+745087094,Loans from related parties ($000s),2015,-
+745087094,Total current interest-bearing loans and borrowings ($000s),2024,"$17,169"
+745087094,Total current interest-bearing loans and borrowings ($000s),2023,"$10,457"
+745087094,Total current interest-bearing loans and borrowings ($000s),2022,"$16,296"
+745087094,Total current interest-bearing loans and borrowings ($000s),2021,$142
+745087094,Total current interest-bearing loans and borrowings ($000s),2020,-
+745087094,Total current interest-bearing loans and borrowings ($000s),2019,-
+745087094,Total current interest-bearing loans and borrowings ($000s),2018,-
+745087094,Total current interest-bearing loans and borrowings ($000s),2017,-
+745087094,Total current interest-bearing loans and borrowings ($000s),2016,-
+745087094,Total current interest-bearing loans and borrowings ($000s),2015,-
+745087094,Income tax payable/(refundable) ($000s),2024,"$1,514"
+745087094,Income tax payable/(refundable) ($000s),2023,"$1,755"
+745087094,Income tax payable/(refundable) ($000s),2022,$363
+745087094,Income tax payable/(refundable) ($000s),2021,$604
+745087094,Income tax payable/(refundable) ($000s),2020,-
+745087094,Income tax payable/(refundable) ($000s),2019,-
+745087094,Income tax payable/(refundable) ($000s),2018,-
+745087094,Income tax payable/(refundable) ($000s),2017,-
+745087094,Income tax payable/(refundable) ($000s),2016,-
+745087094,Income tax payable/(refundable) ($000s),2015,-
+745087094,Provisions ($000s),2024,$139
+745087094,Provisions ($000s),2023,$369
+745087094,Provisions ($000s),2022,$369
+745087094,Provisions ($000s),2021,$322
+745087094,Provisions ($000s),2020,-
+745087094,Provisions ($000s),2019,-
+745087094,Provisions ($000s),2018,-
+745087094,Provisions ($000s),2017,-
+745087094,Provisions ($000s),2016,-
+745087094,Provisions ($000s),2015,-
+745087094,Other current liabilities ($000s),2024,"$6,770"
+745087094,Other current liabilities ($000s),2023,$669
+745087094,Other current liabilities ($000s),2022,$681
+745087094,Other current liabilities ($000s),2021,$734
+745087094,Other current liabilities ($000s),2020,-
+745087094,Other current liabilities ($000s),2019,-
+745087094,Other current liabilities ($000s),2018,-
+745087094,Other current liabilities ($000s),2017,-
+745087094,Other current liabilities ($000s),2016,-
+745087094,Other current liabilities ($000s),2015,-
+745087094,Total current liabilities for continuing operations ($000s),2024,"$26,635"
+745087094,Total current liabilities for continuing operations ($000s),2023,"$16,671"
+745087094,Total current liabilities for continuing operations ($000s),2022,"$20,654"
+745087094,Total current liabilities for continuing operations ($000s),2021,"$4,890"
+745087094,Total current liabilities for continuing operations ($000s),2020,-
+745087094,Total current liabilities for continuing operations ($000s),2019,-
+745087094,Total current liabilities for continuing operations ($000s),2018,-
+745087094,Total current liabilities for continuing operations ($000s),2017,-
+745087094,Total current liabilities for continuing operations ($000s),2016,-
+745087094,Total current liabilities for continuing operations ($000s),2015,-
+745087094,Liabilities directly associated with assets held for sale ($000s),2024,
+745087094,Liabilities directly associated with assets held for sale ($000s),2023,
+745087094,Liabilities directly associated with assets held for sale ($000s),2022,
+745087094,Liabilities directly associated with assets held for sale ($000s),2021,
+745087094,Liabilities directly associated with assets held for sale ($000s),2020,-
+745087094,Liabilities directly associated with assets held for sale ($000s),2019,-
+745087094,Liabilities directly associated with assets held for sale ($000s),2018,-
+745087094,Liabilities directly associated with assets held for sale ($000s),2017,-
+745087094,Liabilities directly associated with assets held for sale ($000s),2016,-
+745087094,Liabilities directly associated with assets held for sale ($000s),2015,-
+745087094,Total current liabilities ($000s),2024,"$26,635"
+745087094,Total current liabilities ($000s),2023,"$16,671"
+745087094,Total current liabilities ($000s),2022,"$20,654"
+745087094,Total current liabilities ($000s),2021,"$4,890"
+745087094,Total current liabilities ($000s),2020,-
+745087094,Total current liabilities ($000s),2019,-
+745087094,Total current liabilities ($000s),2018,-
+745087094,Total current liabilities ($000s),2017,-
+745087094,Total current liabilities ($000s),2016,-
+745087094,Total current liabilities ($000s),2015,-
+745087094,Total current liabilities for previous year ($000s),2024,"$16,671"
+745087094,Total current liabilities for previous year ($000s),2023,"$20,654"
+745087094,Total current liabilities for previous year ($000s),2022,"$4,890"
+745087094,Total current liabilities for previous year ($000s),2021,-
+745087094,Total current liabilities for previous year ($000s),2020,-
+745087094,Total current liabilities for previous year ($000s),2019,-
+745087094,Total current liabilities for previous year ($000s),2018,-
+745087094,Total current liabilities for previous year ($000s),2017,-
+745087094,Total current liabilities for previous year ($000s),2016,-
+745087094,Total current liabilities for previous year ($000s),2015,-
+745087094,Non-current liabilities,2024,
+745087094,Non-current liabilities,2023,
+745087094,Non-current liabilities,2022,
+745087094,Non-current liabilities,2021,
+745087094,Non-current liabilities,2020,-
+745087094,Non-current liabilities,2019,-
+745087094,Non-current liabilities,2018,-
+745087094,Non-current liabilities,2017,-
+745087094,Non-current liabilities,2016,-
+745087094,Non-current liabilities,2015,-
+745087094,Total non-current interest-bearing loans and borrowings ($000s),2024,"$1,941"
+745087094,Total non-current interest-bearing loans and borrowings ($000s),2023,"$7,786"
+745087094,Total non-current interest-bearing loans and borrowings ($000s),2022,"$10,546"
+745087094,Total non-current interest-bearing loans and borrowings ($000s),2021,"$106,968"
+745087094,Total non-current interest-bearing loans and borrowings ($000s),2020,-
+745087094,Total non-current interest-bearing loans and borrowings ($000s),2019,-
+745087094,Total non-current interest-bearing loans and borrowings ($000s),2018,-
+745087094,Total non-current interest-bearing loans and borrowings ($000s),2017,-
+745087094,Total non-current interest-bearing loans and borrowings ($000s),2016,-
+745087094,Total non-current interest-bearing loans and borrowings ($000s),2015,-
+745087094,Deferred tax liabilities ($000s),2024,
+745087094,Deferred tax liabilities ($000s),2023,
+745087094,Deferred tax liabilities ($000s),2022,
+745087094,Deferred tax liabilities ($000s),2021,
+745087094,Deferred tax liabilities ($000s),2020,-
+745087094,Deferred tax liabilities ($000s),2019,-
+745087094,Deferred tax liabilities ($000s),2018,-
+745087094,Deferred tax liabilities ($000s),2017,-
+745087094,Deferred tax liabilities ($000s),2016,-
+745087094,Deferred tax liabilities ($000s),2015,-
+745087094,Convertible redeemable preference shares ($000s),2024,
+745087094,Convertible redeemable preference shares ($000s),2023,
+745087094,Convertible redeemable preference shares ($000s),2022,
+745087094,Convertible redeemable preference shares ($000s),2021,
+745087094,Convertible redeemable preference shares ($000s),2020,-
+745087094,Convertible redeemable preference shares ($000s),2019,-
+745087094,Convertible redeemable preference shares ($000s),2018,-
+745087094,Convertible redeemable preference shares ($000s),2017,-
+745087094,Convertible redeemable preference shares ($000s),2016,-
+745087094,Convertible redeemable preference shares ($000s),2015,-
+745087094,Other non-current liabilities ($000s),2024,$0
+745087094,Other non-current liabilities ($000s),2023,$0
+745087094,Other non-current liabilities ($000s),2022,$0
+745087094,Other non-current liabilities ($000s),2021,$0
+745087094,Other non-current liabilities ($000s),2020,-
+745087094,Other non-current liabilities ($000s),2019,-
+745087094,Other non-current liabilities ($000s),2018,-
+745087094,Other non-current liabilities ($000s),2017,-
+745087094,Other non-current liabilities ($000s),2016,-
+745087094,Other non-current liabilities ($000s),2015,-
+745087094,Total non-current liabilities ($000s),2024,"$2,056"
+745087094,Total non-current liabilities ($000s),2023,"$7,985"
+745087094,Total non-current liabilities ($000s),2022,"$10,702"
+745087094,Total non-current liabilities ($000s),2021,"$107,315"
+745087094,Total non-current liabilities ($000s),2020,-
+745087094,Total non-current liabilities ($000s),2019,-
+745087094,Total non-current liabilities ($000s),2018,-
+745087094,Total non-current liabilities ($000s),2017,-
+745087094,Total non-current liabilities ($000s),2016,-
+745087094,Total non-current liabilities ($000s),2015,-
+745087094,TOTAL LIABILITIES ($000s),2024,"$28,691"
+745087094,TOTAL LIABILITIES ($000s),2023,"$24,656"
+745087094,TOTAL LIABILITIES ($000s),2022,"$31,356"
+745087094,TOTAL LIABILITIES ($000s),2021,"$112,205"
+745087094,TOTAL LIABILITIES ($000s),2020,-
+745087094,TOTAL LIABILITIES ($000s),2019,-
+745087094,TOTAL LIABILITIES ($000s),2018,-
+745087094,TOTAL LIABILITIES ($000s),2017,-
+745087094,TOTAL LIABILITIES ($000s),2016,-
+745087094,TOTAL LIABILITIES ($000s),2015,-
+745087094,NET ASSETS ($000s),2024,"$14,215"
+745087094,NET ASSETS ($000s),2023,"$11,146"
+745087094,NET ASSETS ($000s),2022,"$6,237"
+745087094,NET ASSETS ($000s),2021,"$66,858"
+745087094,NET ASSETS ($000s),2020,-
+745087094,NET ASSETS ($000s),2019,-
+745087094,NET ASSETS ($000s),2018,-
+745087094,NET ASSETS ($000s),2017,-
+745087094,NET ASSETS ($000s),2016,-
+745087094,NET ASSETS ($000s),2015,-
+745087094,Equity,2024,
+745087094,Equity,2023,
+745087094,Equity,2022,
+745087094,Equity,2021,
+745087094,Equity,2020,-
+745087094,Equity,2019,-
+745087094,Equity,2018,-
+745087094,Equity,2017,-
+745087094,Equity,2016,-
+745087094,Equity,2015,-
+745087094,Equity attributable to equity holders of the parent,2024,
+745087094,Equity attributable to equity holders of the parent,2023,
+745087094,Equity attributable to equity holders of the parent,2022,
+745087094,Equity attributable to equity holders of the parent,2021,
+745087094,Equity attributable to equity holders of the parent,2020,-
+745087094,Equity attributable to equity holders of the parent,2019,-
+745087094,Equity attributable to equity holders of the parent,2018,-
+745087094,Equity attributable to equity holders of the parent,2017,-
+745087094,Equity attributable to equity holders of the parent,2016,-
+745087094,Equity attributable to equity holders of the parent,2015,-
+745087094,Contributed equity ($000s),2024,"$6,886"
+745087094,Contributed equity ($000s),2023,"$6,936"
+745087094,Contributed equity ($000s),2022,"$6,936"
+745087094,Contributed equity ($000s),2021,"$65,080"
+745087094,Contributed equity ($000s),2020,-
+745087094,Contributed equity ($000s),2019,-
+745087094,Contributed equity ($000s),2018,-
+745087094,Contributed equity ($000s),2017,-
+745087094,Contributed equity ($000s),2016,-
+745087094,Contributed equity ($000s),2015,-
+745087094,Retained earnings ($000s),2024,"$7,271"
+745087094,Retained earnings ($000s),2023,"$4,210"
+745087094,Retained earnings ($000s),2022,($699)
+745087094,Retained earnings ($000s),2021,"($8,712)"
+745087094,Retained earnings ($000s),2020,-
+745087094,Retained earnings ($000s),2019,-
+745087094,Retained earnings ($000s),2018,-
+745087094,Retained earnings ($000s),2017,-
+745087094,Retained earnings ($000s),2016,-
+745087094,Retained earnings ($000s),2015,-
+745087094,Reserves ($000s),2024,$58
+745087094,Reserves ($000s),2023,$0
+745087094,Reserves ($000s),2022,$0
+745087094,Reserves ($000s),2021,"$10,490"
+745087094,Reserves ($000s),2020,-
+745087094,Reserves ($000s),2019,-
+745087094,Reserves ($000s),2018,-
+745087094,Reserves ($000s),2017,-
+745087094,Reserves ($000s),2016,-
+745087094,Reserves ($000s),2015,-
+745087094,Total Parent interests ($000s),2024,"$14,215"
+745087094,Total Parent interests ($000s),2023,"$11,146"
+745087094,Total Parent interests ($000s),2022,"$6,237"
+745087094,Total Parent interests ($000s),2021,"$66,858"
+745087094,Total Parent interests ($000s),2020,-
+745087094,Total Parent interests ($000s),2019,-
+745087094,Total Parent interests ($000s),2018,-
+745087094,Total Parent interests ($000s),2017,-
+745087094,Total Parent interests ($000s),2016,-
+745087094,Total Parent interests ($000s),2015,-
+745087094,Minority interests ($000s),2024,
+745087094,Minority interests ($000s),2023,
+745087094,Minority interests ($000s),2022,
+745087094,Minority interests ($000s),2021,
+745087094,Minority interests ($000s),2020,-
+745087094,Minority interests ($000s),2019,-
+745087094,Minority interests ($000s),2018,-
+745087094,Minority interests ($000s),2017,-
+745087094,Minority interests ($000s),2016,-
+745087094,Minority interests ($000s),2015,-
+745087094,TOTAL EQUITY ($000s),2024,"$14,215"
+745087094,TOTAL EQUITY ($000s),2023,"$11,146"
+745087094,TOTAL EQUITY ($000s),2022,"$6,237"
+745087094,TOTAL EQUITY ($000s),2021,"$66,858"
+745087094,TOTAL EQUITY ($000s),2020,-
+745087094,TOTAL EQUITY ($000s),2019,-
+745087094,TOTAL EQUITY ($000s),2018,-
+745087094,TOTAL EQUITY ($000s),2017,-
+745087094,TOTAL EQUITY ($000s),2016,-
+745087094,TOTAL EQUITY ($000s),2015,-
+745087094,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2024,"$11,146"
+745087094,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2023,"$6,237"
+745087094,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2022,"$66,858"
+745087094,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2021,-
+745087094,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2020,-
+745087094,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2019,-
+745087094,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2018,-
+745087094,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2017,-
+745087094,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2016,-
+745087094,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2015,-

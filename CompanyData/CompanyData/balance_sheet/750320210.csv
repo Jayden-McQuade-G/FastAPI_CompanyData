@@ -1,0 +1,601 @@
+duns,line_item,year,value
+750320210,Current Assets,2024,
+750320210,Current Assets,2023,
+750320210,Current Assets,2022,
+750320210,Current Assets,2021,
+750320210,Current Assets,2020,-
+750320210,Current Assets,2019,-
+750320210,Current Assets,2018,-
+750320210,Current Assets,2017,-
+750320210,Current Assets,2016,-
+750320210,Current Assets,2015,-
+750320210,Cash and cash equivalents ($000s),2024,"$9,148"
+750320210,Cash and cash equivalents ($000s),2023,"$11,543"
+750320210,Cash and cash equivalents ($000s),2022,"$10,075"
+750320210,Cash and cash equivalents ($000s),2021,"$7,667"
+750320210,Cash and cash equivalents ($000s),2020,"$3,913"
+750320210,Cash and cash equivalents ($000s),2019,"$5,038"
+750320210,Cash and cash equivalents ($000s),2018,"$5,646"
+750320210,Cash and cash equivalents ($000s),2017,"$6,745"
+750320210,Cash and cash equivalents ($000s),2016,"$4,165"
+750320210,Cash and cash equivalents ($000s),2015,"$3,002"
+750320210,Growth,2024,(20.75%)
+750320210,Growth,2023,14.57%
+750320210,Growth,2022,31.41%
+750320210,Growth,2021,95.94%
+750320210,Growth,2020,(22.33%)
+750320210,Growth,2019,(10.77%)
+750320210,Growth,2018,(16.29%)
+750320210,Growth,2017,61.94%
+750320210,Growth,2016,38.74%
+750320210,Growth,2015,-
+750320210,Trade receivables ($000s),2024,"$4,882"
+750320210,Trade receivables ($000s),2023,"$5,936"
+750320210,Trade receivables ($000s),2022,"$4,679"
+750320210,Trade receivables ($000s),2021,"$3,851"
+750320210,Trade receivables ($000s),2020,"$4,437"
+750320210,Trade receivables ($000s),2019,"$5,192"
+750320210,Trade receivables ($000s),2018,"$4,152"
+750320210,Trade receivables ($000s),2017,"$4,765"
+750320210,Trade receivables ($000s),2016,"$3,924"
+750320210,Trade receivables ($000s),2015,"$2,766"
+750320210,Other receivables ($000s),2024,$330
+750320210,Other receivables ($000s),2023,$417
+750320210,Other receivables ($000s),2022,$282
+750320210,Other receivables ($000s),2021,$288
+750320210,Other receivables ($000s),2020,$273
+750320210,Other receivables ($000s),2019,$285
+750320210,Other receivables ($000s),2018,$235
+750320210,Other receivables ($000s),2017,$362
+750320210,Other receivables ($000s),2016,$231
+750320210,Other receivables ($000s),2015,$228
+750320210,Raw materials ($000s),2024,$0
+750320210,Raw materials ($000s),2023,$0
+750320210,Raw materials ($000s),2022,$0
+750320210,Raw materials ($000s),2021,$0
+750320210,Raw materials ($000s),2020,$0
+750320210,Raw materials ($000s),2019,$0
+750320210,Raw materials ($000s),2018,$0
+750320210,Raw materials ($000s),2017,$0
+750320210,Raw materials ($000s),2016,$0
+750320210,Raw materials ($000s),2015,$0
+750320210,Work-in-progress ($000s),2024,
+750320210,Work-in-progress ($000s),2023,
+750320210,Work-in-progress ($000s),2022,
+750320210,Work-in-progress ($000s),2021,
+750320210,Work-in-progress ($000s),2020,-
+750320210,Work-in-progress ($000s),2019,-
+750320210,Work-in-progress ($000s),2018,-
+750320210,Work-in-progress ($000s),2017,-
+750320210,Work-in-progress ($000s),2016,-
+750320210,Work-in-progress ($000s),2015,-
+750320210,Finished goods ($000s),2024,"$15,448"
+750320210,Finished goods ($000s),2023,"$13,646"
+750320210,Finished goods ($000s),2022,"$11,691"
+750320210,Finished goods ($000s),2021,"$9,528"
+750320210,Finished goods ($000s),2020,"$10,085"
+750320210,Finished goods ($000s),2019,"$7,942"
+750320210,Finished goods ($000s),2018,"$7,096"
+750320210,Finished goods ($000s),2017,"$6,835"
+750320210,Finished goods ($000s),2016,"$7,212"
+750320210,Finished goods ($000s),2015,"$10,403"
+750320210,Total inventories ($000s),2024,"$15,448"
+750320210,Total inventories ($000s),2023,"$13,646"
+750320210,Total inventories ($000s),2022,"$11,691"
+750320210,Total inventories ($000s),2021,"$9,528"
+750320210,Total inventories ($000s),2020,"$10,085"
+750320210,Total inventories ($000s),2019,"$7,942"
+750320210,Total inventories ($000s),2018,"$7,096"
+750320210,Total inventories ($000s),2017,"$6,835"
+750320210,Total inventories ($000s),2016,"$7,212"
+750320210,Total inventories ($000s),2015,"$10,403"
+750320210,Prepayments ($000s),2024,$205
+750320210,Prepayments ($000s),2023,-
+750320210,Prepayments ($000s),2022,-
+750320210,Prepayments ($000s),2021,-
+750320210,Prepayments ($000s),2020,-
+750320210,Prepayments ($000s),2019,-
+750320210,Prepayments ($000s),2018,-
+750320210,Prepayments ($000s),2017,-
+750320210,Prepayments ($000s),2016,-
+750320210,Prepayments ($000s),2015,-
+750320210,Derivative financial instruments ($000s),2024,
+750320210,Derivative financial instruments ($000s),2023,
+750320210,Derivative financial instruments ($000s),2022,
+750320210,Derivative financial instruments ($000s),2021,
+750320210,Derivative financial instruments ($000s),2020,-
+750320210,Derivative financial instruments ($000s),2019,-
+750320210,Derivative financial instruments ($000s),2018,-
+750320210,Derivative financial instruments ($000s),2017,-
+750320210,Derivative financial instruments ($000s),2016,-
+750320210,Derivative financial instruments ($000s),2015,-
+750320210,Other current assets ($000s),2024,$897
+750320210,Other current assets ($000s),2023,$53
+750320210,Other current assets ($000s),2022,$0
+750320210,Other current assets ($000s),2021,$0
+750320210,Other current assets ($000s),2020,$0
+750320210,Other current assets ($000s),2019,$0
+750320210,Other current assets ($000s),2018,$0
+750320210,Other current assets ($000s),2017,$0
+750320210,Other current assets ($000s),2016,$0
+750320210,Other current assets ($000s),2015,$0
+750320210,Total current assets for continuing operations ($000s),2024,"$30,909"
+750320210,Total current assets for continuing operations ($000s),2023,"$31,595"
+750320210,Total current assets for continuing operations ($000s),2022,"$26,727"
+750320210,Total current assets for continuing operations ($000s),2021,"$21,334"
+750320210,Total current assets for continuing operations ($000s),2020,"$18,709"
+750320210,Total current assets for continuing operations ($000s),2019,"$18,457"
+750320210,Total current assets for continuing operations ($000s),2018,"$17,130"
+750320210,Total current assets for continuing operations ($000s),2017,"$18,707"
+750320210,Total current assets for continuing operations ($000s),2016,"$15,532"
+750320210,Total current assets for continuing operations ($000s),2015,"$16,400"
+750320210,Assets held for sale ($000s),2024,
+750320210,Assets held for sale ($000s),2023,
+750320210,Assets held for sale ($000s),2022,
+750320210,Assets held for sale ($000s),2021,
+750320210,Assets held for sale ($000s),2020,-
+750320210,Assets held for sale ($000s),2019,-
+750320210,Assets held for sale ($000s),2018,-
+750320210,Assets held for sale ($000s),2017,-
+750320210,Assets held for sale ($000s),2016,-
+750320210,Assets held for sale ($000s),2015,-
+750320210,Total current assets ($000s),2024,"$30,909"
+750320210,Total current assets ($000s),2023,"$31,595"
+750320210,Total current assets ($000s),2022,"$26,727"
+750320210,Total current assets ($000s),2021,"$21,334"
+750320210,Total current assets ($000s),2020,"$18,709"
+750320210,Total current assets ($000s),2019,"$18,457"
+750320210,Total current assets ($000s),2018,"$17,130"
+750320210,Total current assets ($000s),2017,"$18,707"
+750320210,Total current assets ($000s),2016,"$15,532"
+750320210,Total current assets ($000s),2015,"$16,400"
+750320210,Non-current assets,2024,
+750320210,Non-current assets,2023,
+750320210,Non-current assets,2022,
+750320210,Non-current assets,2021,
+750320210,Non-current assets,2020,-
+750320210,Non-current assets,2019,-
+750320210,Non-current assets,2018,-
+750320210,Non-current assets,2017,-
+750320210,Non-current assets,2016,-
+750320210,Non-current assets,2015,-
+750320210,Receivables ($000s),2024,$49
+750320210,Receivables ($000s),2023,$49
+750320210,Receivables ($000s),2022,$8
+750320210,Receivables ($000s),2021,$8
+750320210,Receivables ($000s),2020,$8
+750320210,Receivables ($000s),2019,$8
+750320210,Receivables ($000s),2018,$8
+750320210,Receivables ($000s),2017,$8
+750320210,Receivables ($000s),2016,$8
+750320210,Receivables ($000s),2015,$14
+750320210,Investments in associates ($000s),2024,$0
+750320210,Investments in associates ($000s),2023,$0
+750320210,Investments in associates ($000s),2022,$0
+750320210,Investments in associates ($000s),2021,$0
+750320210,Investments in associates ($000s),2020,$0
+750320210,Investments in associates ($000s),2019,$0
+750320210,Investments in associates ($000s),2018,$0
+750320210,Investments in associates ($000s),2017,$0
+750320210,Investments in associates ($000s),2016,$0
+750320210,Investments in associates ($000s),2015,$0
+750320210,Investments in subsidiaries ($000s),2024,
+750320210,Investments in subsidiaries ($000s),2023,
+750320210,Investments in subsidiaries ($000s),2022,
+750320210,Investments in subsidiaries ($000s),2021,
+750320210,Investments in subsidiaries ($000s),2020,-
+750320210,Investments in subsidiaries ($000s),2019,-
+750320210,Investments in subsidiaries ($000s),2018,-
+750320210,Investments in subsidiaries ($000s),2017,-
+750320210,Investments in subsidiaries ($000s),2016,-
+750320210,Investments in subsidiaries ($000s),2015,-
+750320210,Available for sale financial assets ($000s),2024,$0
+750320210,Available for sale financial assets ($000s),2023,$0
+750320210,Available for sale financial assets ($000s),2022,$0
+750320210,Available for sale financial assets ($000s),2021,$0
+750320210,Available for sale financial assets ($000s),2020,$0
+750320210,Available for sale financial assets ($000s),2019,$0
+750320210,Available for sale financial assets ($000s),2018,$0
+750320210,Available for sale financial assets ($000s),2017,$0
+750320210,Available for sale financial assets ($000s),2016,$0
+750320210,Available for sale financial assets ($000s),2015,$0
+750320210,"Property, plant and equipment ($000s)",2024,"$1,132"
+750320210,"Property, plant and equipment ($000s)",2023,$509
+750320210,"Property, plant and equipment ($000s)",2022,$593
+750320210,"Property, plant and equipment ($000s)",2021,$618
+750320210,"Property, plant and equipment ($000s)",2020,$575
+750320210,"Property, plant and equipment ($000s)",2019,$626
+750320210,"Property, plant and equipment ($000s)",2018,$648
+750320210,"Property, plant and equipment ($000s)",2017,$663
+750320210,"Property, plant and equipment ($000s)",2016,$706
+750320210,"Property, plant and equipment ($000s)",2015,$683
+750320210,Intangible assets and goodwill ($000s),2024,$9
+750320210,Intangible assets and goodwill ($000s),2023,$16
+750320210,Intangible assets and goodwill ($000s),2022,$32
+750320210,Intangible assets and goodwill ($000s),2021,$34
+750320210,Intangible assets and goodwill ($000s),2020,$38
+750320210,Intangible assets and goodwill ($000s),2019,$64
+750320210,Intangible assets and goodwill ($000s),2018,$112
+750320210,Intangible assets and goodwill ($000s),2017,$115
+750320210,Intangible assets and goodwill ($000s),2016,$44
+750320210,Intangible assets and goodwill ($000s),2015,$9
+750320210,Deferred tax assets ($000s),2024,"$1,170"
+750320210,Deferred tax assets ($000s),2023,"$1,160"
+750320210,Deferred tax assets ($000s),2022,"$1,157"
+750320210,Deferred tax assets ($000s),2021,$885
+750320210,Deferred tax assets ($000s),2020,$759
+750320210,Deferred tax assets ($000s),2019,$751
+750320210,Deferred tax assets ($000s),2018,$811
+750320210,Deferred tax assets ($000s),2017,$756
+750320210,Deferred tax assets ($000s),2016,$713
+750320210,Deferred tax assets ($000s),2015,$748
+750320210,Other non-current assets ($000s),2024,"$3,560"
+750320210,Other non-current assets ($000s),2023,"$1,033"
+750320210,Other non-current assets ($000s),2022,$959
+750320210,Other non-current assets ($000s),2021,"$1,662"
+750320210,Other non-current assets ($000s),2020,"$2,009"
+750320210,Other non-current assets ($000s),2019,$0
+750320210,Other non-current assets ($000s),2018,$0
+750320210,Other non-current assets ($000s),2017,$0
+750320210,Other non-current assets ($000s),2016,$0
+750320210,Other non-current assets ($000s),2015,$0
+750320210,Total non-current assets ($000s),2024,"$5,921"
+750320210,Total non-current assets ($000s),2023,"$2,767"
+750320210,Total non-current assets ($000s),2022,"$2,749"
+750320210,Total non-current assets ($000s),2021,"$3,207"
+750320210,Total non-current assets ($000s),2020,"$3,388"
+750320210,Total non-current assets ($000s),2019,"$1,448"
+750320210,Total non-current assets ($000s),2018,"$1,579"
+750320210,Total non-current assets ($000s),2017,"$1,541"
+750320210,Total non-current assets ($000s),2016,"$1,472"
+750320210,Total non-current assets ($000s),2015,"$1,453"
+750320210,TOTAL ASSETS ($000s),2024,"$36,831"
+750320210,TOTAL ASSETS ($000s),2023,"$34,362"
+750320210,TOTAL ASSETS ($000s),2022,"$29,477"
+750320210,TOTAL ASSETS ($000s),2021,"$24,542"
+750320210,TOTAL ASSETS ($000s),2020,"$22,097"
+750320210,TOTAL ASSETS ($000s),2019,"$19,905"
+750320210,TOTAL ASSETS ($000s),2018,"$18,709"
+750320210,TOTAL ASSETS ($000s),2017,"$20,249"
+750320210,TOTAL ASSETS ($000s),2016,"$17,003"
+750320210,TOTAL ASSETS ($000s),2015,"$17,853"
+750320210,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2024,"$34,362"
+750320210,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2023,"$29,477"
+750320210,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2022,"$24,542"
+750320210,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2021,"$22,097"
+750320210,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2020,"$19,905"
+750320210,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2019,"$18,709"
+750320210,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2018,"$20,249"
+750320210,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2017,"$17,003"
+750320210,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2016,"$17,853"
+750320210,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2015,"$16,626"
+750320210,Current liabilities,2024,
+750320210,Current liabilities,2023,
+750320210,Current liabilities,2022,
+750320210,Current liabilities,2021,
+750320210,Current liabilities,2020,-
+750320210,Current liabilities,2019,-
+750320210,Current liabilities,2018,-
+750320210,Current liabilities,2017,-
+750320210,Current liabilities,2016,-
+750320210,Current liabilities,2015,-
+750320210,Trade payables ($000s),2024,-
+750320210,Trade payables ($000s),2023,-
+750320210,Trade payables ($000s),2022,$381
+750320210,Trade payables ($000s),2021,$254
+750320210,Trade payables ($000s),2020,$369
+750320210,Trade payables ($000s),2019,"$3,425"
+750320210,Trade payables ($000s),2018,"$2,643"
+750320210,Trade payables ($000s),2017,-
+750320210,Trade payables ($000s),2016,"$3,690"
+750320210,Trade payables ($000s),2015,"$4,826"
+750320210,Other payables ($000s),2024,"$2,320"
+750320210,Other payables ($000s),2023,"$3,171"
+750320210,Other payables ($000s),2022,"$3,638"
+750320210,Other payables ($000s),2021,"$1,677"
+750320210,Other payables ($000s),2020,$979
+750320210,Other payables ($000s),2019,"$1,746"
+750320210,Other payables ($000s),2018,"$1,605"
+750320210,Other payables ($000s),2017,"$6,042"
+750320210,Other payables ($000s),2016,-
+750320210,Other payables ($000s),2015,-
+750320210,Overdrafts ($000s),2024,
+750320210,Overdrafts ($000s),2023,
+750320210,Overdrafts ($000s),2022,
+750320210,Overdrafts ($000s),2021,
+750320210,Overdrafts ($000s),2020,-
+750320210,Overdrafts ($000s),2019,-
+750320210,Overdrafts ($000s),2018,-
+750320210,Overdrafts ($000s),2017,-
+750320210,Overdrafts ($000s),2016,-
+750320210,Overdrafts ($000s),2015,-
+750320210,Loans - secured ($000s),2024,
+750320210,Loans - secured ($000s),2023,
+750320210,Loans - secured ($000s),2022,
+750320210,Loans - secured ($000s),2021,
+750320210,Loans - secured ($000s),2020,-
+750320210,Loans - secured ($000s),2019,-
+750320210,Loans - secured ($000s),2018,-
+750320210,Loans - secured ($000s),2017,-
+750320210,Loans - secured ($000s),2016,-
+750320210,Loans - secured ($000s),2015,-
+750320210,Loans - unsecured ($000s),2024,
+750320210,Loans - unsecured ($000s),2023,
+750320210,Loans - unsecured ($000s),2022,
+750320210,Loans - unsecured ($000s),2021,
+750320210,Loans - unsecured ($000s),2020,-
+750320210,Loans - unsecured ($000s),2019,-
+750320210,Loans - unsecured ($000s),2018,-
+750320210,Loans - unsecured ($000s),2017,-
+750320210,Loans - unsecured ($000s),2016,-
+750320210,Loans - unsecured ($000s),2015,-
+750320210,Obligations under finance leases and hire purchase ($000s),2024,$919
+750320210,Obligations under finance leases and hire purchase ($000s),2023,$610
+750320210,Obligations under finance leases and hire purchase ($000s),2022,$694
+750320210,Obligations under finance leases and hire purchase ($000s),2021,$749
+750320210,Obligations under finance leases and hire purchase ($000s),2020,$579
+750320210,Obligations under finance leases and hire purchase ($000s),2019,-
+750320210,Obligations under finance leases and hire purchase ($000s),2018,-
+750320210,Obligations under finance leases and hire purchase ($000s),2017,-
+750320210,Obligations under finance leases and hire purchase ($000s),2016,-
+750320210,Obligations under finance leases and hire purchase ($000s),2015,-
+750320210,Loans from related parties ($000s),2024,"$7,874"
+750320210,Loans from related parties ($000s),2023,"$8,651"
+750320210,Loans from related parties ($000s),2022,"$4,534"
+750320210,Loans from related parties ($000s),2021,"$3,087"
+750320210,Loans from related parties ($000s),2020,"$3,807"
+750320210,Loans from related parties ($000s),2019,-
+750320210,Loans from related parties ($000s),2018,-
+750320210,Loans from related parties ($000s),2017,-
+750320210,Loans from related parties ($000s),2016,-
+750320210,Loans from related parties ($000s),2015,-
+750320210,Total current interest-bearing loans and borrowings ($000s),2024,"$8,792"
+750320210,Total current interest-bearing loans and borrowings ($000s),2023,"$9,261"
+750320210,Total current interest-bearing loans and borrowings ($000s),2022,"$5,228"
+750320210,Total current interest-bearing loans and borrowings ($000s),2021,"$3,836"
+750320210,Total current interest-bearing loans and borrowings ($000s),2020,"$4,386"
+750320210,Total current interest-bearing loans and borrowings ($000s),2019,-
+750320210,Total current interest-bearing loans and borrowings ($000s),2018,-
+750320210,Total current interest-bearing loans and borrowings ($000s),2017,-
+750320210,Total current interest-bearing loans and borrowings ($000s),2016,-
+750320210,Total current interest-bearing loans and borrowings ($000s),2015,-
+750320210,Income tax payable/(refundable) ($000s),2024,-
+750320210,Income tax payable/(refundable) ($000s),2023,-
+750320210,Income tax payable/(refundable) ($000s),2022,$890
+750320210,Income tax payable/(refundable) ($000s),2021,$640
+750320210,Income tax payable/(refundable) ($000s),2020,$182
+750320210,Income tax payable/(refundable) ($000s),2019,$29
+750320210,Income tax payable/(refundable) ($000s),2018,$140
+750320210,Income tax payable/(refundable) ($000s),2017,$230
+750320210,Income tax payable/(refundable) ($000s),2016,$115
+750320210,Income tax payable/(refundable) ($000s),2015,$332
+750320210,Provisions ($000s),2024,"$1,190"
+750320210,Provisions ($000s),2023,"$1,287"
+750320210,Provisions ($000s),2022,"$1,165"
+750320210,Provisions ($000s),2021,$890
+750320210,Provisions ($000s),2020,"$1,050"
+750320210,Provisions ($000s),2019,"$1,292"
+750320210,Provisions ($000s),2018,"$1,308"
+750320210,Provisions ($000s),2017,"$1,222"
+750320210,Provisions ($000s),2016,"$1,087"
+750320210,Provisions ($000s),2015,"$1,087"
+750320210,Other current liabilities ($000s),2024,$0
+750320210,Other current liabilities ($000s),2023,$0
+750320210,Other current liabilities ($000s),2022,$0
+750320210,Other current liabilities ($000s),2021,$0
+750320210,Other current liabilities ($000s),2020,$0
+750320210,Other current liabilities ($000s),2019,$0
+750320210,Other current liabilities ($000s),2018,$0
+750320210,Other current liabilities ($000s),2017,$0
+750320210,Other current liabilities ($000s),2016,$0
+750320210,Other current liabilities ($000s),2015,$0
+750320210,Total current liabilities for continuing operations ($000s),2024,"$12,302"
+750320210,Total current liabilities for continuing operations ($000s),2023,"$13,720"
+750320210,Total current liabilities for continuing operations ($000s),2022,"$11,300"
+750320210,Total current liabilities for continuing operations ($000s),2021,"$7,296"
+750320210,Total current liabilities for continuing operations ($000s),2020,"$6,967"
+750320210,Total current liabilities for continuing operations ($000s),2019,"$6,492"
+750320210,Total current liabilities for continuing operations ($000s),2018,"$5,696"
+750320210,Total current liabilities for continuing operations ($000s),2017,"$7,493"
+750320210,Total current liabilities for continuing operations ($000s),2016,"$4,892"
+750320210,Total current liabilities for continuing operations ($000s),2015,"$6,245"
+750320210,Liabilities directly associated with assets held for sale ($000s),2024,
+750320210,Liabilities directly associated with assets held for sale ($000s),2023,
+750320210,Liabilities directly associated with assets held for sale ($000s),2022,
+750320210,Liabilities directly associated with assets held for sale ($000s),2021,
+750320210,Liabilities directly associated with assets held for sale ($000s),2020,-
+750320210,Liabilities directly associated with assets held for sale ($000s),2019,-
+750320210,Liabilities directly associated with assets held for sale ($000s),2018,-
+750320210,Liabilities directly associated with assets held for sale ($000s),2017,-
+750320210,Liabilities directly associated with assets held for sale ($000s),2016,-
+750320210,Liabilities directly associated with assets held for sale ($000s),2015,-
+750320210,Total current liabilities ($000s),2024,"$12,302"
+750320210,Total current liabilities ($000s),2023,"$13,720"
+750320210,Total current liabilities ($000s),2022,"$11,300"
+750320210,Total current liabilities ($000s),2021,"$7,296"
+750320210,Total current liabilities ($000s),2020,"$6,967"
+750320210,Total current liabilities ($000s),2019,"$6,492"
+750320210,Total current liabilities ($000s),2018,"$5,696"
+750320210,Total current liabilities ($000s),2017,"$7,493"
+750320210,Total current liabilities ($000s),2016,"$4,892"
+750320210,Total current liabilities ($000s),2015,"$6,245"
+750320210,Total current liabilities for previous year ($000s),2024,"$13,720"
+750320210,Total current liabilities for previous year ($000s),2023,"$11,300"
+750320210,Total current liabilities for previous year ($000s),2022,"$7,296"
+750320210,Total current liabilities for previous year ($000s),2021,"$6,967"
+750320210,Total current liabilities for previous year ($000s),2020,"$6,492"
+750320210,Total current liabilities for previous year ($000s),2019,"$5,696"
+750320210,Total current liabilities for previous year ($000s),2018,"$7,493"
+750320210,Total current liabilities for previous year ($000s),2017,"$4,892"
+750320210,Total current liabilities for previous year ($000s),2016,"$6,245"
+750320210,Total current liabilities for previous year ($000s),2015,"$5,539"
+750320210,Non-current liabilities,2024,
+750320210,Non-current liabilities,2023,
+750320210,Non-current liabilities,2022,
+750320210,Non-current liabilities,2021,
+750320210,Non-current liabilities,2020,-
+750320210,Non-current liabilities,2019,-
+750320210,Non-current liabilities,2018,-
+750320210,Non-current liabilities,2017,-
+750320210,Non-current liabilities,2016,-
+750320210,Non-current liabilities,2015,-
+750320210,Total non-current interest-bearing loans and borrowings ($000s),2024,"$2,453"
+750320210,Total non-current interest-bearing loans and borrowings ($000s),2023,$440
+750320210,Total non-current interest-bearing loans and borrowings ($000s),2022,$305
+750320210,Total non-current interest-bearing loans and borrowings ($000s),2021,$968
+750320210,Total non-current interest-bearing loans and borrowings ($000s),2020,"$1,430"
+750320210,Total non-current interest-bearing loans and borrowings ($000s),2019,-
+750320210,Total non-current interest-bearing loans and borrowings ($000s),2018,-
+750320210,Total non-current interest-bearing loans and borrowings ($000s),2017,-
+750320210,Total non-current interest-bearing loans and borrowings ($000s),2016,-
+750320210,Total non-current interest-bearing loans and borrowings ($000s),2015,-
+750320210,Deferred tax liabilities ($000s),2024,
+750320210,Deferred tax liabilities ($000s),2023,
+750320210,Deferred tax liabilities ($000s),2022,
+750320210,Deferred tax liabilities ($000s),2021,
+750320210,Deferred tax liabilities ($000s),2020,-
+750320210,Deferred tax liabilities ($000s),2019,-
+750320210,Deferred tax liabilities ($000s),2018,-
+750320210,Deferred tax liabilities ($000s),2017,-
+750320210,Deferred tax liabilities ($000s),2016,-
+750320210,Deferred tax liabilities ($000s),2015,-
+750320210,Convertible redeemable preference shares ($000s),2024,
+750320210,Convertible redeemable preference shares ($000s),2023,
+750320210,Convertible redeemable preference shares ($000s),2022,
+750320210,Convertible redeemable preference shares ($000s),2021,
+750320210,Convertible redeemable preference shares ($000s),2020,-
+750320210,Convertible redeemable preference shares ($000s),2019,-
+750320210,Convertible redeemable preference shares ($000s),2018,-
+750320210,Convertible redeemable preference shares ($000s),2017,-
+750320210,Convertible redeemable preference shares ($000s),2016,-
+750320210,Convertible redeemable preference shares ($000s),2015,-
+750320210,Other non-current liabilities ($000s),2024,$0
+750320210,Other non-current liabilities ($000s),2023,$0
+750320210,Other non-current liabilities ($000s),2022,$0
+750320210,Other non-current liabilities ($000s),2021,$0
+750320210,Other non-current liabilities ($000s),2020,$0
+750320210,Other non-current liabilities ($000s),2019,$0
+750320210,Other non-current liabilities ($000s),2018,$0
+750320210,Other non-current liabilities ($000s),2017,$0
+750320210,Other non-current liabilities ($000s),2016,$0
+750320210,Other non-current liabilities ($000s),2015,$0
+750320210,Total non-current liabilities ($000s),2024,"$3,092"
+750320210,Total non-current liabilities ($000s),2023,$633
+750320210,Total non-current liabilities ($000s),2022,$528
+750320210,Total non-current liabilities ($000s),2021,"$1,202"
+750320210,Total non-current liabilities ($000s),2020,"$1,687"
+750320210,Total non-current liabilities ($000s),2019,$142
+750320210,Total non-current liabilities ($000s),2018,$247
+750320210,Total non-current liabilities ($000s),2017,$246
+750320210,Total non-current liabilities ($000s),2016,$249
+750320210,Total non-current liabilities ($000s),2015,$243
+750320210,TOTAL LIABILITIES ($000s),2024,"$15,395"
+750320210,TOTAL LIABILITIES ($000s),2023,"$14,353"
+750320210,TOTAL LIABILITIES ($000s),2022,"$11,828"
+750320210,TOTAL LIABILITIES ($000s),2021,"$8,498"
+750320210,TOTAL LIABILITIES ($000s),2020,"$8,654"
+750320210,TOTAL LIABILITIES ($000s),2019,"$6,634"
+750320210,TOTAL LIABILITIES ($000s),2018,"$5,943"
+750320210,TOTAL LIABILITIES ($000s),2017,"$7,739"
+750320210,TOTAL LIABILITIES ($000s),2016,"$5,141"
+750320210,TOTAL LIABILITIES ($000s),2015,"$6,488"
+750320210,NET ASSETS ($000s),2024,"$21,436"
+750320210,NET ASSETS ($000s),2023,"$20,008"
+750320210,NET ASSETS ($000s),2022,"$17,649"
+750320210,NET ASSETS ($000s),2021,"$16,044"
+750320210,NET ASSETS ($000s),2020,"$13,443"
+750320210,NET ASSETS ($000s),2019,"$13,271"
+750320210,NET ASSETS ($000s),2018,"$12,766"
+750320210,NET ASSETS ($000s),2017,"$12,509"
+750320210,NET ASSETS ($000s),2016,"$11,862"
+750320210,NET ASSETS ($000s),2015,"$11,365"
+750320210,Equity,2024,
+750320210,Equity,2023,
+750320210,Equity,2022,
+750320210,Equity,2021,
+750320210,Equity,2020,-
+750320210,Equity,2019,-
+750320210,Equity,2018,-
+750320210,Equity,2017,-
+750320210,Equity,2016,-
+750320210,Equity,2015,-
+750320210,Equity attributable to equity holders of the parent,2024,
+750320210,Equity attributable to equity holders of the parent,2023,
+750320210,Equity attributable to equity holders of the parent,2022,
+750320210,Equity attributable to equity holders of the parent,2021,
+750320210,Equity attributable to equity holders of the parent,2020,-
+750320210,Equity attributable to equity holders of the parent,2019,-
+750320210,Equity attributable to equity holders of the parent,2018,-
+750320210,Equity attributable to equity holders of the parent,2017,-
+750320210,Equity attributable to equity holders of the parent,2016,-
+750320210,Equity attributable to equity holders of the parent,2015,-
+750320210,Contributed equity ($000s),2024,$300
+750320210,Contributed equity ($000s),2023,$300
+750320210,Contributed equity ($000s),2022,$300
+750320210,Contributed equity ($000s),2021,$300
+750320210,Contributed equity ($000s),2020,$300
+750320210,Contributed equity ($000s),2019,$300
+750320210,Contributed equity ($000s),2018,$300
+750320210,Contributed equity ($000s),2017,$300
+750320210,Contributed equity ($000s),2016,$300
+750320210,Contributed equity ($000s),2015,$300
+750320210,Retained earnings ($000s),2024,"$21,136"
+750320210,Retained earnings ($000s),2023,"$19,708"
+750320210,Retained earnings ($000s),2022,"$17,349"
+750320210,Retained earnings ($000s),2021,"$15,744"
+750320210,Retained earnings ($000s),2020,"$13,143"
+750320210,Retained earnings ($000s),2019,"$12,971"
+750320210,Retained earnings ($000s),2018,"$12,466"
+750320210,Retained earnings ($000s),2017,"$12,209"
+750320210,Retained earnings ($000s),2016,"$11,562"
+750320210,Retained earnings ($000s),2015,"$11,065"
+750320210,Reserves ($000s),2024,$0
+750320210,Reserves ($000s),2023,$0
+750320210,Reserves ($000s),2022,$0
+750320210,Reserves ($000s),2021,$0
+750320210,Reserves ($000s),2020,$0
+750320210,Reserves ($000s),2019,$0
+750320210,Reserves ($000s),2018,$0
+750320210,Reserves ($000s),2017,$0
+750320210,Reserves ($000s),2016,$0
+750320210,Reserves ($000s),2015,$0
+750320210,Total Parent interests ($000s),2024,"$21,436"
+750320210,Total Parent interests ($000s),2023,"$20,008"
+750320210,Total Parent interests ($000s),2022,"$17,649"
+750320210,Total Parent interests ($000s),2021,"$16,044"
+750320210,Total Parent interests ($000s),2020,"$13,443"
+750320210,Total Parent interests ($000s),2019,"$13,271"
+750320210,Total Parent interests ($000s),2018,"$12,766"
+750320210,Total Parent interests ($000s),2017,"$12,509"
+750320210,Total Parent interests ($000s),2016,"$11,862"
+750320210,Total Parent interests ($000s),2015,"$11,365"
+750320210,Minority interests ($000s),2024,
+750320210,Minority interests ($000s),2023,
+750320210,Minority interests ($000s),2022,
+750320210,Minority interests ($000s),2021,
+750320210,Minority interests ($000s),2020,-
+750320210,Minority interests ($000s),2019,-
+750320210,Minority interests ($000s),2018,-
+750320210,Minority interests ($000s),2017,-
+750320210,Minority interests ($000s),2016,-
+750320210,Minority interests ($000s),2015,-
+750320210,TOTAL EQUITY ($000s),2024,"$21,436"
+750320210,TOTAL EQUITY ($000s),2023,"$20,008"
+750320210,TOTAL EQUITY ($000s),2022,"$17,649"
+750320210,TOTAL EQUITY ($000s),2021,"$16,044"
+750320210,TOTAL EQUITY ($000s),2020,"$13,443"
+750320210,TOTAL EQUITY ($000s),2019,"$13,271"
+750320210,TOTAL EQUITY ($000s),2018,"$12,766"
+750320210,TOTAL EQUITY ($000s),2017,"$12,509"
+750320210,TOTAL EQUITY ($000s),2016,"$11,862"
+750320210,TOTAL EQUITY ($000s),2015,"$11,365"
+750320210,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2024,"$20,008"
+750320210,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2023,"$17,649"
+750320210,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2022,"$16,044"
+750320210,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2021,"$13,443"
+750320210,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2020,"$13,271"
+750320210,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2019,"$12,766"
+750320210,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2018,"$12,509"
+750320210,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2017,"$11,862"
+750320210,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2016,"$11,365"
+750320210,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2015,"$10,900"

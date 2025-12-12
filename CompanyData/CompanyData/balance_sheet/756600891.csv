@@ -1,0 +1,601 @@
+duns,line_item,year,value
+756600891,Current Assets,2023,
+756600891,Current Assets,2022,
+756600891,Current Assets,2021,
+756600891,Current Assets,2020,
+756600891,Current Assets,2019,-
+756600891,Current Assets,2018,-
+756600891,Current Assets,2017,-
+756600891,Current Assets,2016,-
+756600891,Current Assets,2015,-
+756600891,Current Assets,2014,-
+756600891,Cash and cash equivalents ($000s),2023,"$1,448"
+756600891,Cash and cash equivalents ($000s),2022,"$2,560"
+756600891,Cash and cash equivalents ($000s),2021,"$1,755"
+756600891,Cash and cash equivalents ($000s),2020,"$1,111"
+756600891,Cash and cash equivalents ($000s),2019,$532
+756600891,Cash and cash equivalents ($000s),2018,"$1,728"
+756600891,Cash and cash equivalents ($000s),2017,"$2,058"
+756600891,Cash and cash equivalents ($000s),2016,"$2,491"
+756600891,Cash and cash equivalents ($000s),2015,"$1,883"
+756600891,Cash and cash equivalents ($000s),2014,-
+756600891,Growth,2023,(43.44%)
+756600891,Growth,2022,45.87%
+756600891,Growth,2021,57.97%
+756600891,Growth,2020,108.83%
+756600891,Growth,2019,(69.21%)
+756600891,Growth,2018,(16.03%)
+756600891,Growth,2017,(17.38%)
+756600891,Growth,2016,32.29%
+756600891,Growth,2015,-
+756600891,Growth,2014,-
+756600891,Trade receivables ($000s),2023,"$10,632"
+756600891,Trade receivables ($000s),2022,"$9,462"
+756600891,Trade receivables ($000s),2021,"$9,272"
+756600891,Trade receivables ($000s),2020,"$8,096"
+756600891,Trade receivables ($000s),2019,"$8,722"
+756600891,Trade receivables ($000s),2018,"$9,396"
+756600891,Trade receivables ($000s),2017,"$6,300"
+756600891,Trade receivables ($000s),2016,"$5,911"
+756600891,Trade receivables ($000s),2015,"$6,126"
+756600891,Trade receivables ($000s),2014,-
+756600891,Other receivables ($000s),2023,$121
+756600891,Other receivables ($000s),2022,$120
+756600891,Other receivables ($000s),2021,$120
+756600891,Other receivables ($000s),2020,$120
+756600891,Other receivables ($000s),2019,$60
+756600891,Other receivables ($000s),2018,-
+756600891,Other receivables ($000s),2017,-
+756600891,Other receivables ($000s),2016,-
+756600891,Other receivables ($000s),2015,-
+756600891,Other receivables ($000s),2014,-
+756600891,Raw materials ($000s),2023,$0
+756600891,Raw materials ($000s),2022,$0
+756600891,Raw materials ($000s),2021,$0
+756600891,Raw materials ($000s),2020,$0
+756600891,Raw materials ($000s),2019,$0
+756600891,Raw materials ($000s),2018,$0
+756600891,Raw materials ($000s),2017,$0
+756600891,Raw materials ($000s),2016,$0
+756600891,Raw materials ($000s),2015,$0
+756600891,Raw materials ($000s),2014,-
+756600891,Work-in-progress ($000s),2023,
+756600891,Work-in-progress ($000s),2022,
+756600891,Work-in-progress ($000s),2021,
+756600891,Work-in-progress ($000s),2020,
+756600891,Work-in-progress ($000s),2019,-
+756600891,Work-in-progress ($000s),2018,-
+756600891,Work-in-progress ($000s),2017,-
+756600891,Work-in-progress ($000s),2016,-
+756600891,Work-in-progress ($000s),2015,-
+756600891,Work-in-progress ($000s),2014,-
+756600891,Finished goods ($000s),2023,"$2,293"
+756600891,Finished goods ($000s),2022,"$1,568"
+756600891,Finished goods ($000s),2021,"$1,988"
+756600891,Finished goods ($000s),2020,"$1,880"
+756600891,Finished goods ($000s),2019,"$2,154"
+756600891,Finished goods ($000s),2018,"$1,180"
+756600891,Finished goods ($000s),2017,"$1,132"
+756600891,Finished goods ($000s),2016,$911
+756600891,Finished goods ($000s),2015,$895
+756600891,Finished goods ($000s),2014,-
+756600891,Total inventories ($000s),2023,"$2,293"
+756600891,Total inventories ($000s),2022,"$1,568"
+756600891,Total inventories ($000s),2021,"$1,988"
+756600891,Total inventories ($000s),2020,"$1,880"
+756600891,Total inventories ($000s),2019,"$2,154"
+756600891,Total inventories ($000s),2018,"$1,180"
+756600891,Total inventories ($000s),2017,"$1,132"
+756600891,Total inventories ($000s),2016,$911
+756600891,Total inventories ($000s),2015,$895
+756600891,Total inventories ($000s),2014,-
+756600891,Prepayments ($000s),2023,$440
+756600891,Prepayments ($000s),2022,$569
+756600891,Prepayments ($000s),2021,$151
+756600891,Prepayments ($000s),2020,$608
+756600891,Prepayments ($000s),2019,$96
+756600891,Prepayments ($000s),2018,$167
+756600891,Prepayments ($000s),2017,$179
+756600891,Prepayments ($000s),2016,$248
+756600891,Prepayments ($000s),2015,$24
+756600891,Prepayments ($000s),2014,-
+756600891,Derivative financial instruments ($000s),2023,
+756600891,Derivative financial instruments ($000s),2022,
+756600891,Derivative financial instruments ($000s),2021,
+756600891,Derivative financial instruments ($000s),2020,
+756600891,Derivative financial instruments ($000s),2019,-
+756600891,Derivative financial instruments ($000s),2018,-
+756600891,Derivative financial instruments ($000s),2017,-
+756600891,Derivative financial instruments ($000s),2016,-
+756600891,Derivative financial instruments ($000s),2015,-
+756600891,Derivative financial instruments ($000s),2014,-
+756600891,Other current assets ($000s),2023,$83
+756600891,Other current assets ($000s),2022,$238
+756600891,Other current assets ($000s),2021,$0
+756600891,Other current assets ($000s),2020,$0
+756600891,Other current assets ($000s),2019,$459
+756600891,Other current assets ($000s),2018,$0
+756600891,Other current assets ($000s),2017,$480
+756600891,Other current assets ($000s),2016,$1
+756600891,Other current assets ($000s),2015,$1
+756600891,Other current assets ($000s),2014,-
+756600891,Total current assets for continuing operations ($000s),2023,"$15,018"
+756600891,Total current assets for continuing operations ($000s),2022,"$14,517"
+756600891,Total current assets for continuing operations ($000s),2021,"$13,286"
+756600891,Total current assets for continuing operations ($000s),2020,"$11,815"
+756600891,Total current assets for continuing operations ($000s),2019,"$12,023"
+756600891,Total current assets for continuing operations ($000s),2018,"$12,471"
+756600891,Total current assets for continuing operations ($000s),2017,"$10,149"
+756600891,Total current assets for continuing operations ($000s),2016,"$9,561"
+756600891,Total current assets for continuing operations ($000s),2015,"$8,929"
+756600891,Total current assets for continuing operations ($000s),2014,-
+756600891,Assets held for sale ($000s),2023,
+756600891,Assets held for sale ($000s),2022,
+756600891,Assets held for sale ($000s),2021,
+756600891,Assets held for sale ($000s),2020,
+756600891,Assets held for sale ($000s),2019,-
+756600891,Assets held for sale ($000s),2018,-
+756600891,Assets held for sale ($000s),2017,-
+756600891,Assets held for sale ($000s),2016,-
+756600891,Assets held for sale ($000s),2015,-
+756600891,Assets held for sale ($000s),2014,-
+756600891,Total current assets ($000s),2023,"$15,018"
+756600891,Total current assets ($000s),2022,"$14,517"
+756600891,Total current assets ($000s),2021,"$13,286"
+756600891,Total current assets ($000s),2020,"$11,815"
+756600891,Total current assets ($000s),2019,"$12,023"
+756600891,Total current assets ($000s),2018,"$12,471"
+756600891,Total current assets ($000s),2017,"$10,149"
+756600891,Total current assets ($000s),2016,"$9,561"
+756600891,Total current assets ($000s),2015,"$8,929"
+756600891,Total current assets ($000s),2014,-
+756600891,Non-current assets,2023,
+756600891,Non-current assets,2022,
+756600891,Non-current assets,2021,
+756600891,Non-current assets,2020,
+756600891,Non-current assets,2019,-
+756600891,Non-current assets,2018,-
+756600891,Non-current assets,2017,-
+756600891,Non-current assets,2016,-
+756600891,Non-current assets,2015,-
+756600891,Non-current assets,2014,-
+756600891,Receivables ($000s),2023,
+756600891,Receivables ($000s),2022,
+756600891,Receivables ($000s),2021,
+756600891,Receivables ($000s),2020,
+756600891,Receivables ($000s),2019,-
+756600891,Receivables ($000s),2018,-
+756600891,Receivables ($000s),2017,-
+756600891,Receivables ($000s),2016,-
+756600891,Receivables ($000s),2015,-
+756600891,Receivables ($000s),2014,-
+756600891,Investments in associates ($000s),2023,$0
+756600891,Investments in associates ($000s),2022,$0
+756600891,Investments in associates ($000s),2021,"$3,356"
+756600891,Investments in associates ($000s),2020,$0
+756600891,Investments in associates ($000s),2019,$0
+756600891,Investments in associates ($000s),2018,$0
+756600891,Investments in associates ($000s),2017,$0
+756600891,Investments in associates ($000s),2016,$0
+756600891,Investments in associates ($000s),2015,$0
+756600891,Investments in associates ($000s),2014,-
+756600891,Investments in subsidiaries ($000s),2023,
+756600891,Investments in subsidiaries ($000s),2022,
+756600891,Investments in subsidiaries ($000s),2021,
+756600891,Investments in subsidiaries ($000s),2020,
+756600891,Investments in subsidiaries ($000s),2019,-
+756600891,Investments in subsidiaries ($000s),2018,-
+756600891,Investments in subsidiaries ($000s),2017,-
+756600891,Investments in subsidiaries ($000s),2016,-
+756600891,Investments in subsidiaries ($000s),2015,-
+756600891,Investments in subsidiaries ($000s),2014,-
+756600891,Available for sale financial assets ($000s),2023,$0
+756600891,Available for sale financial assets ($000s),2022,$0
+756600891,Available for sale financial assets ($000s),2021,$0
+756600891,Available for sale financial assets ($000s),2020,$0
+756600891,Available for sale financial assets ($000s),2019,$0
+756600891,Available for sale financial assets ($000s),2018,$0
+756600891,Available for sale financial assets ($000s),2017,$0
+756600891,Available for sale financial assets ($000s),2016,$0
+756600891,Available for sale financial assets ($000s),2015,$0
+756600891,Available for sale financial assets ($000s),2014,-
+756600891,"Property, plant and equipment ($000s)",2023,"$4,507"
+756600891,"Property, plant and equipment ($000s)",2022,"$4,432"
+756600891,"Property, plant and equipment ($000s)",2021,"$4,250"
+756600891,"Property, plant and equipment ($000s)",2020,"$3,766"
+756600891,"Property, plant and equipment ($000s)",2019,"$4,652"
+756600891,"Property, plant and equipment ($000s)",2018,"$5,102"
+756600891,"Property, plant and equipment ($000s)",2017,"$5,218"
+756600891,"Property, plant and equipment ($000s)",2016,"$6,280"
+756600891,"Property, plant and equipment ($000s)",2015,"$6,403"
+756600891,"Property, plant and equipment ($000s)",2014,-
+756600891,Intangible assets and goodwill ($000s),2023,"$20,414"
+756600891,Intangible assets and goodwill ($000s),2022,"$18,883"
+756600891,Intangible assets and goodwill ($000s),2021,"$17,647"
+756600891,Intangible assets and goodwill ($000s),2020,"$21,408"
+756600891,Intangible assets and goodwill ($000s),2019,"$19,789"
+756600891,Intangible assets and goodwill ($000s),2018,"$20,844"
+756600891,Intangible assets and goodwill ($000s),2017,"$21,901"
+756600891,Intangible assets and goodwill ($000s),2016,"$30,458"
+756600891,Intangible assets and goodwill ($000s),2015,"$30,995"
+756600891,Intangible assets and goodwill ($000s),2014,-
+756600891,Deferred tax assets ($000s),2023,$475
+756600891,Deferred tax assets ($000s),2022,$504
+756600891,Deferred tax assets ($000s),2021,$874
+756600891,Deferred tax assets ($000s),2020,"$1,426"
+756600891,Deferred tax assets ($000s),2019,"$1,016"
+756600891,Deferred tax assets ($000s),2018,"$1,034"
+756600891,Deferred tax assets ($000s),2017,"$2,912"
+756600891,Deferred tax assets ($000s),2016,"$2,344"
+756600891,Deferred tax assets ($000s),2015,"$1,684"
+756600891,Deferred tax assets ($000s),2014,-
+756600891,Other non-current assets ($000s),2023,"$3,560"
+756600891,Other non-current assets ($000s),2022,"$3,581"
+756600891,Other non-current assets ($000s),2021,$78
+756600891,Other non-current assets ($000s),2020,$89
+756600891,Other non-current assets ($000s),2019,$71
+756600891,Other non-current assets ($000s),2018,$77
+756600891,Other non-current assets ($000s),2017,$59
+756600891,Other non-current assets ($000s),2016,$53
+756600891,Other non-current assets ($000s),2015,$49
+756600891,Other non-current assets ($000s),2014,-
+756600891,Total non-current assets ($000s),2023,"$28,956"
+756600891,Total non-current assets ($000s),2022,"$27,400"
+756600891,Total non-current assets ($000s),2021,"$26,205"
+756600891,Total non-current assets ($000s),2020,"$26,689"
+756600891,Total non-current assets ($000s),2019,"$25,527"
+756600891,Total non-current assets ($000s),2018,"$27,056"
+756600891,Total non-current assets ($000s),2017,"$30,089"
+756600891,Total non-current assets ($000s),2016,"$39,134"
+756600891,Total non-current assets ($000s),2015,"$39,131"
+756600891,Total non-current assets ($000s),2014,-
+756600891,TOTAL ASSETS ($000s),2023,"$43,974"
+756600891,TOTAL ASSETS ($000s),2022,"$41,917"
+756600891,TOTAL ASSETS ($000s),2021,"$39,491"
+756600891,TOTAL ASSETS ($000s),2020,"$38,503"
+756600891,TOTAL ASSETS ($000s),2019,"$37,550"
+756600891,TOTAL ASSETS ($000s),2018,"$39,528"
+756600891,TOTAL ASSETS ($000s),2017,"$40,238"
+756600891,TOTAL ASSETS ($000s),2016,"$48,696"
+756600891,TOTAL ASSETS ($000s),2015,"$48,059"
+756600891,TOTAL ASSETS ($000s),2014,-
+756600891,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2023,"$41,917"
+756600891,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2022,"$39,491"
+756600891,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2021,"$38,503"
+756600891,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2020,"$37,550"
+756600891,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2019,"$39,528"
+756600891,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2018,"$40,238"
+756600891,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2017,"$48,696"
+756600891,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2016,"$48,059"
+756600891,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2015,-
+756600891,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2014,-
+756600891,Current liabilities,2023,
+756600891,Current liabilities,2022,
+756600891,Current liabilities,2021,
+756600891,Current liabilities,2020,
+756600891,Current liabilities,2019,-
+756600891,Current liabilities,2018,-
+756600891,Current liabilities,2017,-
+756600891,Current liabilities,2016,-
+756600891,Current liabilities,2015,-
+756600891,Current liabilities,2014,-
+756600891,Trade payables ($000s),2023,-
+756600891,Trade payables ($000s),2022,"$4,115"
+756600891,Trade payables ($000s),2021,"$2,575"
+756600891,Trade payables ($000s),2020,"$2,487"
+756600891,Trade payables ($000s),2019,"$3,514"
+756600891,Trade payables ($000s),2018,"$4,053"
+756600891,Trade payables ($000s),2017,"$3,195"
+756600891,Trade payables ($000s),2016,"$3,156"
+756600891,Trade payables ($000s),2015,"$3,418"
+756600891,Trade payables ($000s),2014,-
+756600891,Other payables ($000s),2023,"$4,012"
+756600891,Other payables ($000s),2022,"$1,428"
+756600891,Other payables ($000s),2021,"$2,065"
+756600891,Other payables ($000s),2020,"$2,159"
+756600891,Other payables ($000s),2019,"$1,245"
+756600891,Other payables ($000s),2018,"$1,191"
+756600891,Other payables ($000s),2017,"$1,995"
+756600891,Other payables ($000s),2016,$511
+756600891,Other payables ($000s),2015,"$1,251"
+756600891,Other payables ($000s),2014,-
+756600891,Overdrafts ($000s),2023,
+756600891,Overdrafts ($000s),2022,
+756600891,Overdrafts ($000s),2021,
+756600891,Overdrafts ($000s),2020,
+756600891,Overdrafts ($000s),2019,-
+756600891,Overdrafts ($000s),2018,-
+756600891,Overdrafts ($000s),2017,-
+756600891,Overdrafts ($000s),2016,-
+756600891,Overdrafts ($000s),2015,-
+756600891,Overdrafts ($000s),2014,-
+756600891,Loans - secured ($000s),2023,"$1,300"
+756600891,Loans - secured ($000s),2022,$542
+756600891,Loans - secured ($000s),2021,$934
+756600891,Loans - secured ($000s),2020,"$1,071"
+756600891,Loans - secured ($000s),2019,"$6,363"
+756600891,Loans - secured ($000s),2018,$899
+756600891,Loans - secured ($000s),2017,"$7,442"
+756600891,Loans - secured ($000s),2016,$84
+756600891,Loans - secured ($000s),2015,"$1,722"
+756600891,Loans - secured ($000s),2014,-
+756600891,Loans - unsecured ($000s),2023,-
+756600891,Loans - unsecured ($000s),2022,-
+756600891,Loans - unsecured ($000s),2021,-
+756600891,Loans - unsecured ($000s),2020,-
+756600891,Loans - unsecured ($000s),2019,-
+756600891,Loans - unsecured ($000s),2018,-
+756600891,Loans - unsecured ($000s),2017,"$8,825"
+756600891,Loans - unsecured ($000s),2016,-
+756600891,Loans - unsecured ($000s),2015,-
+756600891,Loans - unsecured ($000s),2014,-
+756600891,Obligations under finance leases and hire purchase ($000s),2023,"$1,169"
+756600891,Obligations under finance leases and hire purchase ($000s),2022,$954
+756600891,Obligations under finance leases and hire purchase ($000s),2021,"$1,313"
+756600891,Obligations under finance leases and hire purchase ($000s),2020,$658
+756600891,Obligations under finance leases and hire purchase ($000s),2019,$414
+756600891,Obligations under finance leases and hire purchase ($000s),2018,$570
+756600891,Obligations under finance leases and hire purchase ($000s),2017,$353
+756600891,Obligations under finance leases and hire purchase ($000s),2016,$364
+756600891,Obligations under finance leases and hire purchase ($000s),2015,$346
+756600891,Obligations under finance leases and hire purchase ($000s),2014,-
+756600891,Loans from related parties ($000s),2023,-
+756600891,Loans from related parties ($000s),2022,-
+756600891,Loans from related parties ($000s),2021,-
+756600891,Loans from related parties ($000s),2020,-
+756600891,Loans from related parties ($000s),2019,"$8,825"
+756600891,Loans from related parties ($000s),2018,"$8,825"
+756600891,Loans from related parties ($000s),2017,-
+756600891,Loans from related parties ($000s),2016,"$9,825"
+756600891,Loans from related parties ($000s),2015,"$9,825"
+756600891,Loans from related parties ($000s),2014,-
+756600891,Total current interest-bearing loans and borrowings ($000s),2023,"$2,469"
+756600891,Total current interest-bearing loans and borrowings ($000s),2022,"$1,496"
+756600891,Total current interest-bearing loans and borrowings ($000s),2021,"$2,247"
+756600891,Total current interest-bearing loans and borrowings ($000s),2020,"$1,729"
+756600891,Total current interest-bearing loans and borrowings ($000s),2019,"$15,602"
+756600891,Total current interest-bearing loans and borrowings ($000s),2018,"$10,294"
+756600891,Total current interest-bearing loans and borrowings ($000s),2017,"$16,620"
+756600891,Total current interest-bearing loans and borrowings ($000s),2016,"$10,273"
+756600891,Total current interest-bearing loans and borrowings ($000s),2015,"$11,894"
+756600891,Total current interest-bearing loans and borrowings ($000s),2014,-
+756600891,Income tax payable/(refundable) ($000s),2023,-
+756600891,Income tax payable/(refundable) ($000s),2022,-
+756600891,Income tax payable/(refundable) ($000s),2021,$118
+756600891,Income tax payable/(refundable) ($000s),2020,$152
+756600891,Income tax payable/(refundable) ($000s),2019,-
+756600891,Income tax payable/(refundable) ($000s),2018,$91
+756600891,Income tax payable/(refundable) ($000s),2017,-
+756600891,Income tax payable/(refundable) ($000s),2016,$577
+756600891,Income tax payable/(refundable) ($000s),2015,$596
+756600891,Income tax payable/(refundable) ($000s),2014,-
+756600891,Provisions ($000s),2023,"$2,982"
+756600891,Provisions ($000s),2022,"$2,438"
+756600891,Provisions ($000s),2021,"$2,116"
+756600891,Provisions ($000s),2020,"$1,701"
+756600891,Provisions ($000s),2019,"$1,662"
+756600891,Provisions ($000s),2018,"$1,384"
+756600891,Provisions ($000s),2017,"$1,286"
+756600891,Provisions ($000s),2016,"$1,461"
+756600891,Provisions ($000s),2015,"$1,650"
+756600891,Provisions ($000s),2014,-
+756600891,Other current liabilities ($000s),2023,$0
+756600891,Other current liabilities ($000s),2022,$0
+756600891,Other current liabilities ($000s),2021,$0
+756600891,Other current liabilities ($000s),2020,$0
+756600891,Other current liabilities ($000s),2019,$0
+756600891,Other current liabilities ($000s),2018,$0
+756600891,Other current liabilities ($000s),2017,$0
+756600891,Other current liabilities ($000s),2016,$0
+756600891,Other current liabilities ($000s),2015,$0
+756600891,Other current liabilities ($000s),2014,-
+756600891,Total current liabilities for continuing operations ($000s),2023,"$9,462"
+756600891,Total current liabilities for continuing operations ($000s),2022,"$9,477"
+756600891,Total current liabilities for continuing operations ($000s),2021,"$9,122"
+756600891,Total current liabilities for continuing operations ($000s),2020,"$8,228"
+756600891,Total current liabilities for continuing operations ($000s),2019,"$22,023"
+756600891,Total current liabilities for continuing operations ($000s),2018,"$17,014"
+756600891,Total current liabilities for continuing operations ($000s),2017,"$23,096"
+756600891,Total current liabilities for continuing operations ($000s),2016,"$15,979"
+756600891,Total current liabilities for continuing operations ($000s),2015,"$18,808"
+756600891,Total current liabilities for continuing operations ($000s),2014,-
+756600891,Liabilities directly associated with assets held for sale ($000s),2023,
+756600891,Liabilities directly associated with assets held for sale ($000s),2022,
+756600891,Liabilities directly associated with assets held for sale ($000s),2021,
+756600891,Liabilities directly associated with assets held for sale ($000s),2020,
+756600891,Liabilities directly associated with assets held for sale ($000s),2019,-
+756600891,Liabilities directly associated with assets held for sale ($000s),2018,-
+756600891,Liabilities directly associated with assets held for sale ($000s),2017,-
+756600891,Liabilities directly associated with assets held for sale ($000s),2016,-
+756600891,Liabilities directly associated with assets held for sale ($000s),2015,-
+756600891,Liabilities directly associated with assets held for sale ($000s),2014,-
+756600891,Total current liabilities ($000s),2023,"$9,462"
+756600891,Total current liabilities ($000s),2022,"$9,477"
+756600891,Total current liabilities ($000s),2021,"$9,122"
+756600891,Total current liabilities ($000s),2020,"$8,228"
+756600891,Total current liabilities ($000s),2019,"$22,023"
+756600891,Total current liabilities ($000s),2018,"$17,014"
+756600891,Total current liabilities ($000s),2017,"$23,096"
+756600891,Total current liabilities ($000s),2016,"$15,979"
+756600891,Total current liabilities ($000s),2015,"$18,808"
+756600891,Total current liabilities ($000s),2014,-
+756600891,Total current liabilities for previous year ($000s),2023,"$9,477"
+756600891,Total current liabilities for previous year ($000s),2022,"$9,122"
+756600891,Total current liabilities for previous year ($000s),2021,"$8,228"
+756600891,Total current liabilities for previous year ($000s),2020,"$22,023"
+756600891,Total current liabilities for previous year ($000s),2019,"$17,014"
+756600891,Total current liabilities for previous year ($000s),2018,"$23,096"
+756600891,Total current liabilities for previous year ($000s),2017,"$15,979"
+756600891,Total current liabilities for previous year ($000s),2016,"$18,808"
+756600891,Total current liabilities for previous year ($000s),2015,-
+756600891,Total current liabilities for previous year ($000s),2014,-
+756600891,Non-current liabilities,2023,
+756600891,Non-current liabilities,2022,
+756600891,Non-current liabilities,2021,
+756600891,Non-current liabilities,2020,
+756600891,Non-current liabilities,2019,-
+756600891,Non-current liabilities,2018,-
+756600891,Non-current liabilities,2017,-
+756600891,Non-current liabilities,2016,-
+756600891,Non-current liabilities,2015,-
+756600891,Non-current liabilities,2014,-
+756600891,Total non-current interest-bearing loans and borrowings ($000s),2023,"$15,323"
+756600891,Total non-current interest-bearing loans and borrowings ($000s),2022,"$14,388"
+756600891,Total non-current interest-bearing loans and borrowings ($000s),2021,"$12,828"
+756600891,Total non-current interest-bearing loans and borrowings ($000s),2020,"$13,823"
+756600891,Total non-current interest-bearing loans and borrowings ($000s),2019,$676
+756600891,Total non-current interest-bearing loans and borrowings ($000s),2018,"$7,385"
+756600891,Total non-current interest-bearing loans and borrowings ($000s),2017,$856
+756600891,Total non-current interest-bearing loans and borrowings ($000s),2016,"$8,309"
+756600891,Total non-current interest-bearing loans and borrowings ($000s),2015,"$6,569"
+756600891,Total non-current interest-bearing loans and borrowings ($000s),2014,-
+756600891,Deferred tax liabilities ($000s),2023,$211
+756600891,Deferred tax liabilities ($000s),2022,$172
+756600891,Deferred tax liabilities ($000s),2021,$378
+756600891,Deferred tax liabilities ($000s),2020,$710
+756600891,Deferred tax liabilities ($000s),2019,$604
+756600891,Deferred tax liabilities ($000s),2018,$969
+756600891,Deferred tax liabilities ($000s),2017,"$3,050"
+756600891,Deferred tax liabilities ($000s),2016,"$2,289"
+756600891,Deferred tax liabilities ($000s),2015,"$2,349"
+756600891,Deferred tax liabilities ($000s),2014,-
+756600891,Convertible redeemable preference shares ($000s),2023,
+756600891,Convertible redeemable preference shares ($000s),2022,
+756600891,Convertible redeemable preference shares ($000s),2021,
+756600891,Convertible redeemable preference shares ($000s),2020,
+756600891,Convertible redeemable preference shares ($000s),2019,-
+756600891,Convertible redeemable preference shares ($000s),2018,-
+756600891,Convertible redeemable preference shares ($000s),2017,-
+756600891,Convertible redeemable preference shares ($000s),2016,-
+756600891,Convertible redeemable preference shares ($000s),2015,-
+756600891,Convertible redeemable preference shares ($000s),2014,-
+756600891,Other non-current liabilities ($000s),2023,$0
+756600891,Other non-current liabilities ($000s),2022,$0
+756600891,Other non-current liabilities ($000s),2021,$0
+756600891,Other non-current liabilities ($000s),2020,$0
+756600891,Other non-current liabilities ($000s),2019,$0
+756600891,Other non-current liabilities ($000s),2018,$0
+756600891,Other non-current liabilities ($000s),2017,$0
+756600891,Other non-current liabilities ($000s),2016,$0
+756600891,Other non-current liabilities ($000s),2015,$0
+756600891,Other non-current liabilities ($000s),2014,-
+756600891,Total non-current liabilities ($000s),2023,"$15,608"
+756600891,Total non-current liabilities ($000s),2022,"$14,763"
+756600891,Total non-current liabilities ($000s),2021,"$13,598"
+756600891,Total non-current liabilities ($000s),2020,"$14,935"
+756600891,Total non-current liabilities ($000s),2019,"$1,550"
+756600891,Total non-current liabilities ($000s),2018,"$8,756"
+756600891,Total non-current liabilities ($000s),2017,"$4,209"
+756600891,Total non-current liabilities ($000s),2016,"$10,881"
+756600891,Total non-current liabilities ($000s),2015,"$9,102"
+756600891,Total non-current liabilities ($000s),2014,-
+756600891,TOTAL LIABILITIES ($000s),2023,"$25,070"
+756600891,TOTAL LIABILITIES ($000s),2022,"$24,240"
+756600891,TOTAL LIABILITIES ($000s),2021,"$22,719"
+756600891,TOTAL LIABILITIES ($000s),2020,"$23,163"
+756600891,TOTAL LIABILITIES ($000s),2019,"$23,574"
+756600891,TOTAL LIABILITIES ($000s),2018,"$25,769"
+756600891,TOTAL LIABILITIES ($000s),2017,"$27,305"
+756600891,TOTAL LIABILITIES ($000s),2016,"$26,859"
+756600891,TOTAL LIABILITIES ($000s),2015,"$27,910"
+756600891,TOTAL LIABILITIES ($000s),2014,-
+756600891,NET ASSETS ($000s),2023,"$18,904"
+756600891,NET ASSETS ($000s),2022,"$17,677"
+756600891,NET ASSETS ($000s),2021,"$16,771"
+756600891,NET ASSETS ($000s),2020,"$15,340"
+756600891,NET ASSETS ($000s),2019,"$13,976"
+756600891,NET ASSETS ($000s),2018,"$13,758"
+756600891,NET ASSETS ($000s),2017,"$12,933"
+756600891,NET ASSETS ($000s),2016,"$21,836"
+756600891,NET ASSETS ($000s),2015,"$20,149"
+756600891,NET ASSETS ($000s),2014,-
+756600891,Equity,2023,
+756600891,Equity,2022,
+756600891,Equity,2021,
+756600891,Equity,2020,
+756600891,Equity,2019,-
+756600891,Equity,2018,-
+756600891,Equity,2017,-
+756600891,Equity,2016,-
+756600891,Equity,2015,-
+756600891,Equity,2014,-
+756600891,Equity attributable to equity holders of the parent,2023,
+756600891,Equity attributable to equity holders of the parent,2022,
+756600891,Equity attributable to equity holders of the parent,2021,
+756600891,Equity attributable to equity holders of the parent,2020,
+756600891,Equity attributable to equity holders of the parent,2019,-
+756600891,Equity attributable to equity holders of the parent,2018,-
+756600891,Equity attributable to equity holders of the parent,2017,-
+756600891,Equity attributable to equity holders of the parent,2016,-
+756600891,Equity attributable to equity holders of the parent,2015,-
+756600891,Equity attributable to equity holders of the parent,2014,-
+756600891,Contributed equity ($000s),2023,"$11,290"
+756600891,Contributed equity ($000s),2022,"$11,290"
+756600891,Contributed equity ($000s),2021,"$11,290"
+756600891,Contributed equity ($000s),2020,"$11,290"
+756600891,Contributed equity ($000s),2019,"$11,290"
+756600891,Contributed equity ($000s),2018,"$11,290"
+756600891,Contributed equity ($000s),2017,"$11,290"
+756600891,Contributed equity ($000s),2016,"$11,290"
+756600891,Contributed equity ($000s),2015,"$11,290"
+756600891,Contributed equity ($000s),2014,-
+756600891,Retained earnings ($000s),2023,"$7,694"
+756600891,Retained earnings ($000s),2022,"$6,494"
+756600891,Retained earnings ($000s),2021,"$5,481"
+756600891,Retained earnings ($000s),2020,"$4,050"
+756600891,Retained earnings ($000s),2019,"$2,686"
+756600891,Retained earnings ($000s),2018,"$2,468"
+756600891,Retained earnings ($000s),2017,"$1,643"
+756600891,Retained earnings ($000s),2016,"$10,546"
+756600891,Retained earnings ($000s),2015,"$8,859"
+756600891,Retained earnings ($000s),2014,-
+756600891,Reserves ($000s),2023,($81)
+756600891,Reserves ($000s),2022,($107)
+756600891,Reserves ($000s),2021,$0
+756600891,Reserves ($000s),2020,$0
+756600891,Reserves ($000s),2019,$0
+756600891,Reserves ($000s),2018,$0
+756600891,Reserves ($000s),2017,$0
+756600891,Reserves ($000s),2016,$0
+756600891,Reserves ($000s),2015,$0
+756600891,Reserves ($000s),2014,-
+756600891,Total Parent interests ($000s),2023,"$18,904"
+756600891,Total Parent interests ($000s),2022,"$17,677"
+756600891,Total Parent interests ($000s),2021,"$16,771"
+756600891,Total Parent interests ($000s),2020,"$15,340"
+756600891,Total Parent interests ($000s),2019,"$13,976"
+756600891,Total Parent interests ($000s),2018,"$13,758"
+756600891,Total Parent interests ($000s),2017,"$12,933"
+756600891,Total Parent interests ($000s),2016,"$21,836"
+756600891,Total Parent interests ($000s),2015,"$20,149"
+756600891,Total Parent interests ($000s),2014,-
+756600891,Minority interests ($000s),2023,
+756600891,Minority interests ($000s),2022,
+756600891,Minority interests ($000s),2021,
+756600891,Minority interests ($000s),2020,
+756600891,Minority interests ($000s),2019,-
+756600891,Minority interests ($000s),2018,-
+756600891,Minority interests ($000s),2017,-
+756600891,Minority interests ($000s),2016,-
+756600891,Minority interests ($000s),2015,-
+756600891,Minority interests ($000s),2014,-
+756600891,TOTAL EQUITY ($000s),2023,"$18,904"
+756600891,TOTAL EQUITY ($000s),2022,"$17,677"
+756600891,TOTAL EQUITY ($000s),2021,"$16,771"
+756600891,TOTAL EQUITY ($000s),2020,"$15,340"
+756600891,TOTAL EQUITY ($000s),2019,"$13,976"
+756600891,TOTAL EQUITY ($000s),2018,"$13,758"
+756600891,TOTAL EQUITY ($000s),2017,"$12,933"
+756600891,TOTAL EQUITY ($000s),2016,"$21,836"
+756600891,TOTAL EQUITY ($000s),2015,"$20,149"
+756600891,TOTAL EQUITY ($000s),2014,-
+756600891,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2023,"$17,677"
+756600891,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2022,"$16,771"
+756600891,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2021,"$15,340"
+756600891,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2020,"$13,976"
+756600891,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2019,"$13,758"
+756600891,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2018,"$12,933"
+756600891,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2017,"$21,836"
+756600891,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2016,"$20,149"
+756600891,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2015,-
+756600891,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2014,-

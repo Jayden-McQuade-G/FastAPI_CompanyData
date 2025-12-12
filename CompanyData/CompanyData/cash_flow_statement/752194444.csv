@@ -1,0 +1,301 @@
+duns,line_item,year,value
+752194444,Cash flow statement,2024,
+752194444,Cash flow statement,2023,
+752194444,Cash flow statement,2022,
+752194444,Cash flow statement,2021,
+752194444,Cash flow statement,2020,-
+752194444,Cash flow statement,2019,-
+752194444,Cash flow statement,2018,-
+752194444,Cash flow statement,2017,-
+752194444,Cash flow statement,2016,-
+752194444,Cash flow statement,2015,-
+752194444,Receipts from customers ($000s),2024,"$33,960"
+752194444,Receipts from customers ($000s),2023,"$38,528"
+752194444,Receipts from customers ($000s),2022,"$40,522"
+752194444,Receipts from customers ($000s),2021,"$37,757"
+752194444,Receipts from customers ($000s),2020,"$46,074"
+752194444,Receipts from customers ($000s),2019,"$46,606"
+752194444,Receipts from customers ($000s),2018,"$44,074"
+752194444,Receipts from customers ($000s),2017,"$36,881"
+752194444,Receipts from customers ($000s),2016,"$33,369"
+752194444,Receipts from customers ($000s),2015,"$31,503"
+752194444,Payments to suppliers and employees ($000s),2024,"($30,064)"
+752194444,Payments to suppliers and employees ($000s),2023,"($35,202)"
+752194444,Payments to suppliers and employees ($000s),2022,"($36,731)"
+752194444,Payments to suppliers and employees ($000s),2021,"($33,762)"
+752194444,Payments to suppliers and employees ($000s),2020,"($41,744)"
+752194444,Payments to suppliers and employees ($000s),2019,"($44,051)"
+752194444,Payments to suppliers and employees ($000s),2018,"($40,545)"
+752194444,Payments to suppliers and employees ($000s),2017,"($34,051)"
+752194444,Payments to suppliers and employees ($000s),2016,"($31,323)"
+752194444,Payments to suppliers and employees ($000s),2015,"($29,411)"
+752194444,Interest paid ($000s),2024,($667)
+752194444,Interest paid ($000s),2023,($774)
+752194444,Interest paid ($000s),2022,($804)
+752194444,Interest paid ($000s),2021,($855)
+752194444,Interest paid ($000s),2020,"($1,003)"
+752194444,Interest paid ($000s),2019,($352)
+752194444,Interest paid ($000s),2018,($355)
+752194444,Interest paid ($000s),2017,($310)
+752194444,Interest paid ($000s),2016,($357)
+752194444,Interest paid ($000s),2015,($328)
+752194444,Tax paid ($000s),2024,($54)
+752194444,Tax paid ($000s),2023,($473)
+752194444,Tax paid ($000s),2022,($76)
+752194444,Tax paid ($000s),2021,$109
+752194444,Tax paid ($000s),2020,($206)
+752194444,Tax paid ($000s),2019,($529)
+752194444,Tax paid ($000s),2018,($971)
+752194444,Tax paid ($000s),2017,($506)
+752194444,Tax paid ($000s),2016,-
+752194444,Tax paid ($000s),2015,-
+752194444,Other receipts ($000s),2024,$48
+752194444,Other receipts ($000s),2023,$14
+752194444,Other receipts ($000s),2022,$1
+752194444,Other receipts ($000s),2021,$1
+752194444,Other receipts ($000s),2020,$4
+752194444,Other receipts ($000s),2019,$1
+752194444,Other receipts ($000s),2018,$1
+752194444,Other receipts ($000s),2017,$0
+752194444,Other receipts ($000s),2016,$0
+752194444,Other receipts ($000s),2015,$66
+752194444,Other payments ($000s),2024,$0
+752194444,Other payments ($000s),2023,$0
+752194444,Other payments ($000s),2022,$0
+752194444,Other payments ($000s),2021,$0
+752194444,Other payments ($000s),2020,$0
+752194444,Other payments ($000s),2019,$0
+752194444,Other payments ($000s),2018,$0
+752194444,Other payments ($000s),2017,$0
+752194444,Other payments ($000s),2016,$0
+752194444,Other payments ($000s),2015,$0
+752194444,Net cashflow from/(used in) operating activities ($000s),2024,"$3,224"
+752194444,Net cashflow from/(used in) operating activities ($000s),2023,"$2,093"
+752194444,Net cashflow from/(used in) operating activities ($000s),2022,"$2,912"
+752194444,Net cashflow from/(used in) operating activities ($000s),2021,"$3,249"
+752194444,Net cashflow from/(used in) operating activities ($000s),2020,"$3,124"
+752194444,Net cashflow from/(used in) operating activities ($000s),2019,"$1,675"
+752194444,Net cashflow from/(used in) operating activities ($000s),2018,"$2,203"
+752194444,Net cashflow from/(used in) operating activities ($000s),2017,"$2,015"
+752194444,Net cashflow from/(used in) operating activities ($000s),2016,"$1,689"
+752194444,Net cashflow from/(used in) operating activities ($000s),2015,"$1,830"
+752194444,Purchase of property plant and equipment ($000s),2024,($36)
+752194444,Purchase of property plant and equipment ($000s),2023,"($1,215)"
+752194444,Purchase of property plant and equipment ($000s),2022,"($2,257)"
+752194444,Purchase of property plant and equipment ($000s),2021,($94)
+752194444,Purchase of property plant and equipment ($000s),2020,($54)
+752194444,Purchase of property plant and equipment ($000s),2019,($92)
+752194444,Purchase of property plant and equipment ($000s),2018,"($2,556)"
+752194444,Purchase of property plant and equipment ($000s),2017,($369)
+752194444,Purchase of property plant and equipment ($000s),2016,($215)
+752194444,Purchase of property plant and equipment ($000s),2015,($379)
+752194444,Purchase of intangibles ($000s),2024,
+752194444,Purchase of intangibles ($000s),2023,
+752194444,Purchase of intangibles ($000s),2022,
+752194444,Purchase of intangibles ($000s),2021,
+752194444,Purchase of intangibles ($000s),2020,-
+752194444,Purchase of intangibles ($000s),2019,-
+752194444,Purchase of intangibles ($000s),2018,-
+752194444,Purchase of intangibles ($000s),2017,-
+752194444,Purchase of intangibles ($000s),2016,-
+752194444,Purchase of intangibles ($000s),2015,-
+752194444,Proceeds from the sale of property plant and equipment ($000s),2024,$0
+752194444,Proceeds from the sale of property plant and equipment ($000s),2023,$57
+752194444,Proceeds from the sale of property plant and equipment ($000s),2022,$50
+752194444,Proceeds from the sale of property plant and equipment ($000s),2021,$0
+752194444,Proceeds from the sale of property plant and equipment ($000s),2020,$0
+752194444,Proceeds from the sale of property plant and equipment ($000s),2019,$0
+752194444,Proceeds from the sale of property plant and equipment ($000s),2018,$0
+752194444,Proceeds from the sale of property plant and equipment ($000s),2017,$0
+752194444,Proceeds from the sale of property plant and equipment ($000s),2016,$9
+752194444,Proceeds from the sale of property plant and equipment ($000s),2015,$0
+752194444,Proceeds from the disposal of investments/subsidiaries ($000s),2024,$0
+752194444,Proceeds from the disposal of investments/subsidiaries ($000s),2023,$0
+752194444,Proceeds from the disposal of investments/subsidiaries ($000s),2022,$0
+752194444,Proceeds from the disposal of investments/subsidiaries ($000s),2021,$0
+752194444,Proceeds from the disposal of investments/subsidiaries ($000s),2020,$0
+752194444,Proceeds from the disposal of investments/subsidiaries ($000s),2019,$0
+752194444,Proceeds from the disposal of investments/subsidiaries ($000s),2018,$0
+752194444,Proceeds from the disposal of investments/subsidiaries ($000s),2017,$0
+752194444,Proceeds from the disposal of investments/subsidiaries ($000s),2016,$0
+752194444,Proceeds from the disposal of investments/subsidiaries ($000s),2015,$0
+752194444,Purchase of subisidiary/investment ($000s),2024,$0
+752194444,Purchase of subisidiary/investment ($000s),2023,$0
+752194444,Purchase of subisidiary/investment ($000s),2022,$0
+752194444,Purchase of subisidiary/investment ($000s),2021,$0
+752194444,Purchase of subisidiary/investment ($000s),2020,$0
+752194444,Purchase of subisidiary/investment ($000s),2019,$0
+752194444,Purchase of subisidiary/investment ($000s),2018,$0
+752194444,Purchase of subisidiary/investment ($000s),2017,$0
+752194444,Purchase of subisidiary/investment ($000s),2016,$0
+752194444,Purchase of subisidiary/investment ($000s),2015,$0
+752194444,Interest received ($000s),2024,
+752194444,Interest received ($000s),2023,
+752194444,Interest received ($000s),2022,
+752194444,Interest received ($000s),2021,
+752194444,Interest received ($000s),2020,-
+752194444,Interest received ($000s),2019,-
+752194444,Interest received ($000s),2018,-
+752194444,Interest received ($000s),2017,-
+752194444,Interest received ($000s),2016,-
+752194444,Interest received ($000s),2015,-
+752194444,Dividends received ($000s),2024,
+752194444,Dividends received ($000s),2023,
+752194444,Dividends received ($000s),2022,
+752194444,Dividends received ($000s),2021,
+752194444,Dividends received ($000s),2020,-
+752194444,Dividends received ($000s),2019,-
+752194444,Dividends received ($000s),2018,-
+752194444,Dividends received ($000s),2017,-
+752194444,Dividends received ($000s),2016,-
+752194444,Dividends received ($000s),2015,-
+752194444,Other investing inflows/(outflows) ($000s),2024,$0
+752194444,Other investing inflows/(outflows) ($000s),2023,($5)
+752194444,Other investing inflows/(outflows) ($000s),2022,$0
+752194444,Other investing inflows/(outflows) ($000s),2021,$0
+752194444,Other investing inflows/(outflows) ($000s),2020,$0
+752194444,Other investing inflows/(outflows) ($000s),2019,$0
+752194444,Other investing inflows/(outflows) ($000s),2018,$0
+752194444,Other investing inflows/(outflows) ($000s),2017,$0
+752194444,Other investing inflows/(outflows) ($000s),2016,$0
+752194444,Other investing inflows/(outflows) ($000s),2015,$0
+752194444,Net cashflow from/(used in) investing activities ($000s),2024,($36)
+752194444,Net cashflow from/(used in) investing activities ($000s),2023,"($1,163)"
+752194444,Net cashflow from/(used in) investing activities ($000s),2022,"($2,207)"
+752194444,Net cashflow from/(used in) investing activities ($000s),2021,($94)
+752194444,Net cashflow from/(used in) investing activities ($000s),2020,($54)
+752194444,Net cashflow from/(used in) investing activities ($000s),2019,($92)
+752194444,Net cashflow from/(used in) investing activities ($000s),2018,"($2,556)"
+752194444,Net cashflow from/(used in) investing activities ($000s),2017,($369)
+752194444,Net cashflow from/(used in) investing activities ($000s),2016,($206)
+752194444,Net cashflow from/(used in) investing activities ($000s),2015,($379)
+752194444,Proceeds from the issue of shares ($000s),2024,$0
+752194444,Proceeds from the issue of shares ($000s),2023,$0
+752194444,Proceeds from the issue of shares ($000s),2022,$0
+752194444,Proceeds from the issue of shares ($000s),2021,$0
+752194444,Proceeds from the issue of shares ($000s),2020,$0
+752194444,Proceeds from the issue of shares ($000s),2019,$0
+752194444,Proceeds from the issue of shares ($000s),2018,$0
+752194444,Proceeds from the issue of shares ($000s),2017,$0
+752194444,Proceeds from the issue of shares ($000s),2016,$0
+752194444,Proceeds from the issue of shares ($000s),2015,$0
+752194444,Proceeds from borrowings ($000s),2024,$0
+752194444,Proceeds from borrowings ($000s),2023,"$1,100"
+752194444,Proceeds from borrowings ($000s),2022,"$2,132"
+752194444,Proceeds from borrowings ($000s),2021,$0
+752194444,Proceeds from borrowings ($000s),2020,$0
+752194444,Proceeds from borrowings ($000s),2019,$0
+752194444,Proceeds from borrowings ($000s),2018,"$2,343"
+752194444,Proceeds from borrowings ($000s),2017,$0
+752194444,Proceeds from borrowings ($000s),2016,$314
+752194444,Proceeds from borrowings ($000s),2015,"$2,575"
+752194444,Repayment of borrowings  ($000s),2024,"($2,154)"
+752194444,Repayment of borrowings  ($000s),2023,"($2,075)"
+752194444,Repayment of borrowings  ($000s),2022,"($2,553)"
+752194444,Repayment of borrowings  ($000s),2021,"($2,125)"
+752194444,Repayment of borrowings  ($000s),2020,"($2,294)"
+752194444,Repayment of borrowings  ($000s),2019,($300)
+752194444,Repayment of borrowings  ($000s),2018,"($1,248)"
+752194444,Repayment of borrowings  ($000s),2017,"($1,382)"
+752194444,Repayment of borrowings  ($000s),2016,"($1,457)"
+752194444,Repayment of borrowings  ($000s),2015,"($4,030)"
+752194444,Repayment of finance lease liabilities ($000s),2024,
+752194444,Repayment of finance lease liabilities ($000s),2023,
+752194444,Repayment of finance lease liabilities ($000s),2022,
+752194444,Repayment of finance lease liabilities ($000s),2021,
+752194444,Repayment of finance lease liabilities ($000s),2020,-
+752194444,Repayment of finance lease liabilities ($000s),2019,-
+752194444,Repayment of finance lease liabilities ($000s),2018,-
+752194444,Repayment of finance lease liabilities ($000s),2017,-
+752194444,Repayment of finance lease liabilities ($000s),2016,-
+752194444,Repayment of finance lease liabilities ($000s),2015,-
+752194444,Interest Paid ($000s),2024,
+752194444,Interest Paid ($000s),2023,
+752194444,Interest Paid ($000s),2022,
+752194444,Interest Paid ($000s),2021,
+752194444,Interest Paid ($000s),2020,-
+752194444,Interest Paid ($000s),2019,-
+752194444,Interest Paid ($000s),2018,-
+752194444,Interest Paid ($000s),2017,-
+752194444,Interest Paid ($000s),2016,-
+752194444,Interest Paid ($000s),2015,-
+752194444,Dividends paid ($000s),2024,-
+752194444,Dividends paid ($000s),2023,($900)
+752194444,Dividends paid ($000s),2022,-
+752194444,Dividends paid ($000s),2021,-
+752194444,Dividends paid ($000s),2020,($773)
+752194444,Dividends paid ($000s),2019,($450)
+752194444,Dividends paid ($000s),2018,($5)
+752194444,Dividends paid ($000s),2017,($160)
+752194444,Dividends paid ($000s),2016,-
+752194444,Dividends paid ($000s),2015,-
+752194444,Other inflows/(outflows) from financing activities ($000s),2024,$0
+752194444,Other inflows/(outflows) from financing activities ($000s),2023,$0
+752194444,Other inflows/(outflows) from financing activities ($000s),2022,$3
+752194444,Other inflows/(outflows) from financing activities ($000s),2021,($3)
+752194444,Other inflows/(outflows) from financing activities ($000s),2020,$2
+752194444,Other inflows/(outflows) from financing activities ($000s),2019,$4
+752194444,Other inflows/(outflows) from financing activities ($000s),2018,($16)
+752194444,Other inflows/(outflows) from financing activities ($000s),2017,$0
+752194444,Other inflows/(outflows) from financing activities ($000s),2016,$0
+752194444,Other inflows/(outflows) from financing activities ($000s),2015,$0
+752194444,Net cash flows from/(used in) financing activities ($000s),2024,"($2,154)"
+752194444,Net cash flows from/(used in) financing activities ($000s),2023,"($1,875)"
+752194444,Net cash flows from/(used in) financing activities ($000s),2022,($418)
+752194444,Net cash flows from/(used in) financing activities ($000s),2021,"($2,129)"
+752194444,Net cash flows from/(used in) financing activities ($000s),2020,"($3,065)"
+752194444,Net cash flows from/(used in) financing activities ($000s),2019,($746)
+752194444,Net cash flows from/(used in) financing activities ($000s),2018,"$1,075"
+752194444,Net cash flows from/(used in) financing activities ($000s),2017,"($1,542)"
+752194444,Net cash flows from/(used in) financing activities ($000s),2016,"($1,143)"
+752194444,Net cash flows from/(used in) financing activities ($000s),2015,"($1,455)"
+752194444,Net increase/(decrease) in cash and cash equivalents ($000s),2024,"$1,033"
+752194444,Net increase/(decrease) in cash and cash equivalents ($000s),2023,($945)
+752194444,Net increase/(decrease) in cash and cash equivalents ($000s),2022,$287
+752194444,Net increase/(decrease) in cash and cash equivalents ($000s),2021,"$1,026"
+752194444,Net increase/(decrease) in cash and cash equivalents ($000s),2020,$6
+752194444,Net increase/(decrease) in cash and cash equivalents ($000s),2019,$837
+752194444,Net increase/(decrease) in cash and cash equivalents ($000s),2018,$722
+752194444,Net increase/(decrease) in cash and cash equivalents ($000s),2017,$104
+752194444,Net increase/(decrease) in cash and cash equivalents ($000s),2016,$340
+752194444,Net increase/(decrease) in cash and cash equivalents ($000s),2015,($5)
+752194444,Other increase/(decrease) in cash and cash equivalents ($000s),2024,
+752194444,Other increase/(decrease) in cash and cash equivalents ($000s),2023,
+752194444,Other increase/(decrease) in cash and cash equivalents ($000s),2022,
+752194444,Other increase/(decrease) in cash and cash equivalents ($000s),2021,
+752194444,Other increase/(decrease) in cash and cash equivalents ($000s),2020,-
+752194444,Other increase/(decrease) in cash and cash equivalents ($000s),2019,-
+752194444,Other increase/(decrease) in cash and cash equivalents ($000s),2018,-
+752194444,Other increase/(decrease) in cash and cash equivalents ($000s),2017,-
+752194444,Other increase/(decrease) in cash and cash equivalents ($000s),2016,-
+752194444,Other increase/(decrease) in cash and cash equivalents ($000s),2015,-
+752194444,Net foreign exchange differences ($000s),2024,
+752194444,Net foreign exchange differences ($000s),2023,
+752194444,Net foreign exchange differences ($000s),2022,
+752194444,Net foreign exchange differences ($000s),2021,
+752194444,Net foreign exchange differences ($000s),2020,-
+752194444,Net foreign exchange differences ($000s),2019,-
+752194444,Net foreign exchange differences ($000s),2018,-
+752194444,Net foreign exchange differences ($000s),2017,-
+752194444,Net foreign exchange differences ($000s),2016,-
+752194444,Net foreign exchange differences ($000s),2015,-
+752194444,Cash and cash equivalents at the beginning of the period ($000s),2024,"$2,074"
+752194444,Cash and cash equivalents at the beginning of the period ($000s),2023,"$3,019"
+752194444,Cash and cash equivalents at the beginning of the period ($000s),2022,"$2,731"
+752194444,Cash and cash equivalents at the beginning of the period ($000s),2021,"$1,705"
+752194444,Cash and cash equivalents at the beginning of the period ($000s),2020,"$1,700"
+752194444,Cash and cash equivalents at the beginning of the period ($000s),2019,$863
+752194444,Cash and cash equivalents at the beginning of the period ($000s),2018,$141
+752194444,Cash and cash equivalents at the beginning of the period ($000s),2017,$37
+752194444,Cash and cash equivalents at the beginning of the period ($000s),2016,($304)
+752194444,Cash and cash equivalents at the beginning of the period ($000s),2015,($299)
+752194444,Cash and cash equivalents at the end of the period ($000s),2024,"$3,107"
+752194444,Cash and cash equivalents at the end of the period ($000s),2023,"$2,074"
+752194444,Cash and cash equivalents at the end of the period ($000s),2022,"$3,019"
+752194444,Cash and cash equivalents at the end of the period ($000s),2021,"$2,731"
+752194444,Cash and cash equivalents at the end of the period ($000s),2020,"$1,705"
+752194444,Cash and cash equivalents at the end of the period ($000s),2019,"$1,700"
+752194444,Cash and cash equivalents at the end of the period ($000s),2018,$863
+752194444,Cash and cash equivalents at the end of the period ($000s),2017,$141
+752194444,Cash and cash equivalents at the end of the period ($000s),2016,$37
+752194444,Cash and cash equivalents at the end of the period ($000s),2015,($304)

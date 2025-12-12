@@ -1,0 +1,601 @@
+duns,line_item,year,value
+746473631,Current Assets,2024,
+746473631,Current Assets,2023,
+746473631,Current Assets,2022,
+746473631,Current Assets,2021,
+746473631,Current Assets,2020,-
+746473631,Current Assets,2019,-
+746473631,Current Assets,2018,-
+746473631,Current Assets,2017,-
+746473631,Current Assets,2016,-
+746473631,Current Assets,2015,-
+746473631,Cash and cash equivalents ($000s),2024,"$18,257"
+746473631,Cash and cash equivalents ($000s),2023,"$62,269"
+746473631,Cash and cash equivalents ($000s),2022,"$3,178"
+746473631,Cash and cash equivalents ($000s),2021,"$14,255"
+746473631,Cash and cash equivalents ($000s),2020,-
+746473631,Cash and cash equivalents ($000s),2019,-
+746473631,Cash and cash equivalents ($000s),2018,-
+746473631,Cash and cash equivalents ($000s),2017,-
+746473631,Cash and cash equivalents ($000s),2016,-
+746473631,Cash and cash equivalents ($000s),2015,-
+746473631,Growth,2024,(70.68%)
+746473631,Growth,2023,"1,859.38%"
+746473631,Growth,2022,(77.71%)
+746473631,Growth,2021,-
+746473631,Growth,2020,-
+746473631,Growth,2019,-
+746473631,Growth,2018,-
+746473631,Growth,2017,-
+746473631,Growth,2016,-
+746473631,Growth,2015,-
+746473631,Trade receivables ($000s),2024,"$7,524"
+746473631,Trade receivables ($000s),2023,"$6,531"
+746473631,Trade receivables ($000s),2022,"$11,159"
+746473631,Trade receivables ($000s),2021,"$2,602"
+746473631,Trade receivables ($000s),2020,-
+746473631,Trade receivables ($000s),2019,-
+746473631,Trade receivables ($000s),2018,-
+746473631,Trade receivables ($000s),2017,-
+746473631,Trade receivables ($000s),2016,-
+746473631,Trade receivables ($000s),2015,-
+746473631,Other receivables ($000s),2024,"$1,346"
+746473631,Other receivables ($000s),2023,"$2,496"
+746473631,Other receivables ($000s),2022,"$3,365"
+746473631,Other receivables ($000s),2021,"$3,275"
+746473631,Other receivables ($000s),2020,-
+746473631,Other receivables ($000s),2019,-
+746473631,Other receivables ($000s),2018,-
+746473631,Other receivables ($000s),2017,-
+746473631,Other receivables ($000s),2016,-
+746473631,Other receivables ($000s),2015,-
+746473631,Raw materials ($000s),2024,"$8,051"
+746473631,Raw materials ($000s),2023,"$5,311"
+746473631,Raw materials ($000s),2022,"$4,546"
+746473631,Raw materials ($000s),2021,"$1,691"
+746473631,Raw materials ($000s),2020,-
+746473631,Raw materials ($000s),2019,-
+746473631,Raw materials ($000s),2018,-
+746473631,Raw materials ($000s),2017,-
+746473631,Raw materials ($000s),2016,-
+746473631,Raw materials ($000s),2015,-
+746473631,Work-in-progress ($000s),2024,
+746473631,Work-in-progress ($000s),2023,
+746473631,Work-in-progress ($000s),2022,
+746473631,Work-in-progress ($000s),2021,
+746473631,Work-in-progress ($000s),2020,-
+746473631,Work-in-progress ($000s),2019,-
+746473631,Work-in-progress ($000s),2018,-
+746473631,Work-in-progress ($000s),2017,-
+746473631,Work-in-progress ($000s),2016,-
+746473631,Work-in-progress ($000s),2015,-
+746473631,Finished goods ($000s),2024,"$7,437"
+746473631,Finished goods ($000s),2023,"$11,822"
+746473631,Finished goods ($000s),2022,"$1,823"
+746473631,Finished goods ($000s),2021,"$1,360"
+746473631,Finished goods ($000s),2020,-
+746473631,Finished goods ($000s),2019,-
+746473631,Finished goods ($000s),2018,-
+746473631,Finished goods ($000s),2017,-
+746473631,Finished goods ($000s),2016,-
+746473631,Finished goods ($000s),2015,-
+746473631,Total inventories ($000s),2024,"$15,488"
+746473631,Total inventories ($000s),2023,"$17,133"
+746473631,Total inventories ($000s),2022,"$6,369"
+746473631,Total inventories ($000s),2021,"$3,051"
+746473631,Total inventories ($000s),2020,-
+746473631,Total inventories ($000s),2019,-
+746473631,Total inventories ($000s),2018,-
+746473631,Total inventories ($000s),2017,-
+746473631,Total inventories ($000s),2016,-
+746473631,Total inventories ($000s),2015,-
+746473631,Prepayments ($000s),2024,
+746473631,Prepayments ($000s),2023,
+746473631,Prepayments ($000s),2022,
+746473631,Prepayments ($000s),2021,
+746473631,Prepayments ($000s),2020,-
+746473631,Prepayments ($000s),2019,-
+746473631,Prepayments ($000s),2018,-
+746473631,Prepayments ($000s),2017,-
+746473631,Prepayments ($000s),2016,-
+746473631,Prepayments ($000s),2015,-
+746473631,Derivative financial instruments ($000s),2024,
+746473631,Derivative financial instruments ($000s),2023,
+746473631,Derivative financial instruments ($000s),2022,
+746473631,Derivative financial instruments ($000s),2021,
+746473631,Derivative financial instruments ($000s),2020,-
+746473631,Derivative financial instruments ($000s),2019,-
+746473631,Derivative financial instruments ($000s),2018,-
+746473631,Derivative financial instruments ($000s),2017,-
+746473631,Derivative financial instruments ($000s),2016,-
+746473631,Derivative financial instruments ($000s),2015,-
+746473631,Other current assets ($000s),2024,"$18,718"
+746473631,Other current assets ($000s),2023,"$2,461"
+746473631,Other current assets ($000s),2022,"$1,405"
+746473631,Other current assets ($000s),2021,$386
+746473631,Other current assets ($000s),2020,-
+746473631,Other current assets ($000s),2019,-
+746473631,Other current assets ($000s),2018,-
+746473631,Other current assets ($000s),2017,-
+746473631,Other current assets ($000s),2016,-
+746473631,Other current assets ($000s),2015,-
+746473631,Total current assets for continuing operations ($000s),2024,"$61,334"
+746473631,Total current assets for continuing operations ($000s),2023,"$90,890"
+746473631,Total current assets for continuing operations ($000s),2022,"$25,476"
+746473631,Total current assets for continuing operations ($000s),2021,"$23,569"
+746473631,Total current assets for continuing operations ($000s),2020,-
+746473631,Total current assets for continuing operations ($000s),2019,-
+746473631,Total current assets for continuing operations ($000s),2018,-
+746473631,Total current assets for continuing operations ($000s),2017,-
+746473631,Total current assets for continuing operations ($000s),2016,-
+746473631,Total current assets for continuing operations ($000s),2015,-
+746473631,Assets held for sale ($000s),2024,
+746473631,Assets held for sale ($000s),2023,
+746473631,Assets held for sale ($000s),2022,
+746473631,Assets held for sale ($000s),2021,
+746473631,Assets held for sale ($000s),2020,-
+746473631,Assets held for sale ($000s),2019,-
+746473631,Assets held for sale ($000s),2018,-
+746473631,Assets held for sale ($000s),2017,-
+746473631,Assets held for sale ($000s),2016,-
+746473631,Assets held for sale ($000s),2015,-
+746473631,Total current assets ($000s),2024,"$61,334"
+746473631,Total current assets ($000s),2023,"$90,890"
+746473631,Total current assets ($000s),2022,"$25,476"
+746473631,Total current assets ($000s),2021,"$23,569"
+746473631,Total current assets ($000s),2020,-
+746473631,Total current assets ($000s),2019,-
+746473631,Total current assets ($000s),2018,-
+746473631,Total current assets ($000s),2017,-
+746473631,Total current assets ($000s),2016,-
+746473631,Total current assets ($000s),2015,-
+746473631,Non-current assets,2024,
+746473631,Non-current assets,2023,
+746473631,Non-current assets,2022,
+746473631,Non-current assets,2021,
+746473631,Non-current assets,2020,-
+746473631,Non-current assets,2019,-
+746473631,Non-current assets,2018,-
+746473631,Non-current assets,2017,-
+746473631,Non-current assets,2016,-
+746473631,Non-current assets,2015,-
+746473631,Receivables ($000s),2024,
+746473631,Receivables ($000s),2023,
+746473631,Receivables ($000s),2022,
+746473631,Receivables ($000s),2021,
+746473631,Receivables ($000s),2020,-
+746473631,Receivables ($000s),2019,-
+746473631,Receivables ($000s),2018,-
+746473631,Receivables ($000s),2017,-
+746473631,Receivables ($000s),2016,-
+746473631,Receivables ($000s),2015,-
+746473631,Investments in associates ($000s),2024,$0
+746473631,Investments in associates ($000s),2023,$0
+746473631,Investments in associates ($000s),2022,$0
+746473631,Investments in associates ($000s),2021,$0
+746473631,Investments in associates ($000s),2020,-
+746473631,Investments in associates ($000s),2019,-
+746473631,Investments in associates ($000s),2018,-
+746473631,Investments in associates ($000s),2017,-
+746473631,Investments in associates ($000s),2016,-
+746473631,Investments in associates ($000s),2015,-
+746473631,Investments in subsidiaries ($000s),2024,
+746473631,Investments in subsidiaries ($000s),2023,
+746473631,Investments in subsidiaries ($000s),2022,
+746473631,Investments in subsidiaries ($000s),2021,
+746473631,Investments in subsidiaries ($000s),2020,-
+746473631,Investments in subsidiaries ($000s),2019,-
+746473631,Investments in subsidiaries ($000s),2018,-
+746473631,Investments in subsidiaries ($000s),2017,-
+746473631,Investments in subsidiaries ($000s),2016,-
+746473631,Investments in subsidiaries ($000s),2015,-
+746473631,Available for sale financial assets ($000s),2024,$0
+746473631,Available for sale financial assets ($000s),2023,$0
+746473631,Available for sale financial assets ($000s),2022,$0
+746473631,Available for sale financial assets ($000s),2021,$0
+746473631,Available for sale financial assets ($000s),2020,-
+746473631,Available for sale financial assets ($000s),2019,-
+746473631,Available for sale financial assets ($000s),2018,-
+746473631,Available for sale financial assets ($000s),2017,-
+746473631,Available for sale financial assets ($000s),2016,-
+746473631,Available for sale financial assets ($000s),2015,-
+746473631,"Property, plant and equipment ($000s)",2024,"$3,754"
+746473631,"Property, plant and equipment ($000s)",2023,"$1,839"
+746473631,"Property, plant and equipment ($000s)",2022,$516
+746473631,"Property, plant and equipment ($000s)",2021,$393
+746473631,"Property, plant and equipment ($000s)",2020,-
+746473631,"Property, plant and equipment ($000s)",2019,-
+746473631,"Property, plant and equipment ($000s)",2018,-
+746473631,"Property, plant and equipment ($000s)",2017,-
+746473631,"Property, plant and equipment ($000s)",2016,-
+746473631,"Property, plant and equipment ($000s)",2015,-
+746473631,Intangible assets and goodwill ($000s),2024,"$19,595"
+746473631,Intangible assets and goodwill ($000s),2023,"$19,814"
+746473631,Intangible assets and goodwill ($000s),2022,"$12,942"
+746473631,Intangible assets and goodwill ($000s),2021,"$8,262"
+746473631,Intangible assets and goodwill ($000s),2020,-
+746473631,Intangible assets and goodwill ($000s),2019,-
+746473631,Intangible assets and goodwill ($000s),2018,-
+746473631,Intangible assets and goodwill ($000s),2017,-
+746473631,Intangible assets and goodwill ($000s),2016,-
+746473631,Intangible assets and goodwill ($000s),2015,-
+746473631,Deferred tax assets ($000s),2024,
+746473631,Deferred tax assets ($000s),2023,
+746473631,Deferred tax assets ($000s),2022,
+746473631,Deferred tax assets ($000s),2021,
+746473631,Deferred tax assets ($000s),2020,-
+746473631,Deferred tax assets ($000s),2019,-
+746473631,Deferred tax assets ($000s),2018,-
+746473631,Deferred tax assets ($000s),2017,-
+746473631,Deferred tax assets ($000s),2016,-
+746473631,Deferred tax assets ($000s),2015,-
+746473631,Other non-current assets ($000s),2024,"$4,147"
+746473631,Other non-current assets ($000s),2023,"$5,420"
+746473631,Other non-current assets ($000s),2022,"$4,552"
+746473631,Other non-current assets ($000s),2021,$503
+746473631,Other non-current assets ($000s),2020,-
+746473631,Other non-current assets ($000s),2019,-
+746473631,Other non-current assets ($000s),2018,-
+746473631,Other non-current assets ($000s),2017,-
+746473631,Other non-current assets ($000s),2016,-
+746473631,Other non-current assets ($000s),2015,-
+746473631,Total non-current assets ($000s),2024,"$27,496"
+746473631,Total non-current assets ($000s),2023,"$27,072"
+746473631,Total non-current assets ($000s),2022,"$18,010"
+746473631,Total non-current assets ($000s),2021,"$9,158"
+746473631,Total non-current assets ($000s),2020,-
+746473631,Total non-current assets ($000s),2019,-
+746473631,Total non-current assets ($000s),2018,-
+746473631,Total non-current assets ($000s),2017,-
+746473631,Total non-current assets ($000s),2016,-
+746473631,Total non-current assets ($000s),2015,-
+746473631,TOTAL ASSETS ($000s),2024,"$88,830"
+746473631,TOTAL ASSETS ($000s),2023,"$117,962"
+746473631,TOTAL ASSETS ($000s),2022,"$43,486"
+746473631,TOTAL ASSETS ($000s),2021,"$32,727"
+746473631,TOTAL ASSETS ($000s),2020,-
+746473631,TOTAL ASSETS ($000s),2019,-
+746473631,TOTAL ASSETS ($000s),2018,-
+746473631,TOTAL ASSETS ($000s),2017,-
+746473631,TOTAL ASSETS ($000s),2016,-
+746473631,TOTAL ASSETS ($000s),2015,-
+746473631,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2024,"$117,962"
+746473631,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2023,"$43,486"
+746473631,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2022,"$32,727"
+746473631,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2021,-
+746473631,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2020,-
+746473631,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2019,-
+746473631,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2018,-
+746473631,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2017,-
+746473631,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2016,-
+746473631,TOTAL ASSETS FOR PREVIOUS YEAR ($000s),2015,-
+746473631,Current liabilities,2024,
+746473631,Current liabilities,2023,
+746473631,Current liabilities,2022,
+746473631,Current liabilities,2021,
+746473631,Current liabilities,2020,-
+746473631,Current liabilities,2019,-
+746473631,Current liabilities,2018,-
+746473631,Current liabilities,2017,-
+746473631,Current liabilities,2016,-
+746473631,Current liabilities,2015,-
+746473631,Trade payables ($000s),2024,"$2,175"
+746473631,Trade payables ($000s),2023,"$3,765"
+746473631,Trade payables ($000s),2022,"$3,779"
+746473631,Trade payables ($000s),2021,"$1,972"
+746473631,Trade payables ($000s),2020,-
+746473631,Trade payables ($000s),2019,-
+746473631,Trade payables ($000s),2018,-
+746473631,Trade payables ($000s),2017,-
+746473631,Trade payables ($000s),2016,-
+746473631,Trade payables ($000s),2015,-
+746473631,Other payables ($000s),2024,"$5,004"
+746473631,Other payables ($000s),2023,"$1,478"
+746473631,Other payables ($000s),2022,"$1,760"
+746473631,Other payables ($000s),2021,$211
+746473631,Other payables ($000s),2020,-
+746473631,Other payables ($000s),2019,-
+746473631,Other payables ($000s),2018,-
+746473631,Other payables ($000s),2017,-
+746473631,Other payables ($000s),2016,-
+746473631,Other payables ($000s),2015,-
+746473631,Overdrafts ($000s),2024,
+746473631,Overdrafts ($000s),2023,
+746473631,Overdrafts ($000s),2022,
+746473631,Overdrafts ($000s),2021,
+746473631,Overdrafts ($000s),2020,-
+746473631,Overdrafts ($000s),2019,-
+746473631,Overdrafts ($000s),2018,-
+746473631,Overdrafts ($000s),2017,-
+746473631,Overdrafts ($000s),2016,-
+746473631,Overdrafts ($000s),2015,-
+746473631,Loans - secured ($000s),2024,-
+746473631,Loans - secured ($000s),2023,$2
+746473631,Loans - secured ($000s),2022,"$3,652"
+746473631,Loans - secured ($000s),2021,$56
+746473631,Loans - secured ($000s),2020,-
+746473631,Loans - secured ($000s),2019,-
+746473631,Loans - secured ($000s),2018,-
+746473631,Loans - secured ($000s),2017,-
+746473631,Loans - secured ($000s),2016,-
+746473631,Loans - secured ($000s),2015,-
+746473631,Loans - unsecured ($000s),2024,
+746473631,Loans - unsecured ($000s),2023,
+746473631,Loans - unsecured ($000s),2022,
+746473631,Loans - unsecured ($000s),2021,
+746473631,Loans - unsecured ($000s),2020,-
+746473631,Loans - unsecured ($000s),2019,-
+746473631,Loans - unsecured ($000s),2018,-
+746473631,Loans - unsecured ($000s),2017,-
+746473631,Loans - unsecured ($000s),2016,-
+746473631,Loans - unsecured ($000s),2015,-
+746473631,Obligations under finance leases and hire purchase ($000s),2024,"$1,699"
+746473631,Obligations under finance leases and hire purchase ($000s),2023,"$2,449"
+746473631,Obligations under finance leases and hire purchase ($000s),2022,"$1,979"
+746473631,Obligations under finance leases and hire purchase ($000s),2021,$325
+746473631,Obligations under finance leases and hire purchase ($000s),2020,-
+746473631,Obligations under finance leases and hire purchase ($000s),2019,-
+746473631,Obligations under finance leases and hire purchase ($000s),2018,-
+746473631,Obligations under finance leases and hire purchase ($000s),2017,-
+746473631,Obligations under finance leases and hire purchase ($000s),2016,-
+746473631,Obligations under finance leases and hire purchase ($000s),2015,-
+746473631,Loans from related parties ($000s),2024,
+746473631,Loans from related parties ($000s),2023,
+746473631,Loans from related parties ($000s),2022,
+746473631,Loans from related parties ($000s),2021,
+746473631,Loans from related parties ($000s),2020,-
+746473631,Loans from related parties ($000s),2019,-
+746473631,Loans from related parties ($000s),2018,-
+746473631,Loans from related parties ($000s),2017,-
+746473631,Loans from related parties ($000s),2016,-
+746473631,Loans from related parties ($000s),2015,-
+746473631,Total current interest-bearing loans and borrowings ($000s),2024,"$1,699"
+746473631,Total current interest-bearing loans and borrowings ($000s),2023,"$2,451"
+746473631,Total current interest-bearing loans and borrowings ($000s),2022,"$5,631"
+746473631,Total current interest-bearing loans and borrowings ($000s),2021,$381
+746473631,Total current interest-bearing loans and borrowings ($000s),2020,-
+746473631,Total current interest-bearing loans and borrowings ($000s),2019,-
+746473631,Total current interest-bearing loans and borrowings ($000s),2018,-
+746473631,Total current interest-bearing loans and borrowings ($000s),2017,-
+746473631,Total current interest-bearing loans and borrowings ($000s),2016,-
+746473631,Total current interest-bearing loans and borrowings ($000s),2015,-
+746473631,Income tax payable/(refundable) ($000s),2024,
+746473631,Income tax payable/(refundable) ($000s),2023,
+746473631,Income tax payable/(refundable) ($000s),2022,
+746473631,Income tax payable/(refundable) ($000s),2021,
+746473631,Income tax payable/(refundable) ($000s),2020,-
+746473631,Income tax payable/(refundable) ($000s),2019,-
+746473631,Income tax payable/(refundable) ($000s),2018,-
+746473631,Income tax payable/(refundable) ($000s),2017,-
+746473631,Income tax payable/(refundable) ($000s),2016,-
+746473631,Income tax payable/(refundable) ($000s),2015,-
+746473631,Provisions ($000s),2024,"$1,467"
+746473631,Provisions ($000s),2023,"$1,475"
+746473631,Provisions ($000s),2022,$900
+746473631,Provisions ($000s),2021,$776
+746473631,Provisions ($000s),2020,-
+746473631,Provisions ($000s),2019,-
+746473631,Provisions ($000s),2018,-
+746473631,Provisions ($000s),2017,-
+746473631,Provisions ($000s),2016,-
+746473631,Provisions ($000s),2015,-
+746473631,Other current liabilities ($000s),2024,$174
+746473631,Other current liabilities ($000s),2023,$355
+746473631,Other current liabilities ($000s),2022,$833
+746473631,Other current liabilities ($000s),2021,$294
+746473631,Other current liabilities ($000s),2020,-
+746473631,Other current liabilities ($000s),2019,-
+746473631,Other current liabilities ($000s),2018,-
+746473631,Other current liabilities ($000s),2017,-
+746473631,Other current liabilities ($000s),2016,-
+746473631,Other current liabilities ($000s),2015,-
+746473631,Total current liabilities for continuing operations ($000s),2024,"$10,519"
+746473631,Total current liabilities for continuing operations ($000s),2023,"$9,524"
+746473631,Total current liabilities for continuing operations ($000s),2022,"$12,902"
+746473631,Total current liabilities for continuing operations ($000s),2021,"$3,634"
+746473631,Total current liabilities for continuing operations ($000s),2020,-
+746473631,Total current liabilities for continuing operations ($000s),2019,-
+746473631,Total current liabilities for continuing operations ($000s),2018,-
+746473631,Total current liabilities for continuing operations ($000s),2017,-
+746473631,Total current liabilities for continuing operations ($000s),2016,-
+746473631,Total current liabilities for continuing operations ($000s),2015,-
+746473631,Liabilities directly associated with assets held for sale ($000s),2024,
+746473631,Liabilities directly associated with assets held for sale ($000s),2023,
+746473631,Liabilities directly associated with assets held for sale ($000s),2022,
+746473631,Liabilities directly associated with assets held for sale ($000s),2021,
+746473631,Liabilities directly associated with assets held for sale ($000s),2020,-
+746473631,Liabilities directly associated with assets held for sale ($000s),2019,-
+746473631,Liabilities directly associated with assets held for sale ($000s),2018,-
+746473631,Liabilities directly associated with assets held for sale ($000s),2017,-
+746473631,Liabilities directly associated with assets held for sale ($000s),2016,-
+746473631,Liabilities directly associated with assets held for sale ($000s),2015,-
+746473631,Total current liabilities ($000s),2024,"$10,519"
+746473631,Total current liabilities ($000s),2023,"$9,524"
+746473631,Total current liabilities ($000s),2022,"$12,902"
+746473631,Total current liabilities ($000s),2021,"$3,634"
+746473631,Total current liabilities ($000s),2020,-
+746473631,Total current liabilities ($000s),2019,-
+746473631,Total current liabilities ($000s),2018,-
+746473631,Total current liabilities ($000s),2017,-
+746473631,Total current liabilities ($000s),2016,-
+746473631,Total current liabilities ($000s),2015,-
+746473631,Total current liabilities for previous year ($000s),2024,"$9,524"
+746473631,Total current liabilities for previous year ($000s),2023,"$12,902"
+746473631,Total current liabilities for previous year ($000s),2022,"$3,634"
+746473631,Total current liabilities for previous year ($000s),2021,-
+746473631,Total current liabilities for previous year ($000s),2020,-
+746473631,Total current liabilities for previous year ($000s),2019,-
+746473631,Total current liabilities for previous year ($000s),2018,-
+746473631,Total current liabilities for previous year ($000s),2017,-
+746473631,Total current liabilities for previous year ($000s),2016,-
+746473631,Total current liabilities for previous year ($000s),2015,-
+746473631,Non-current liabilities,2024,
+746473631,Non-current liabilities,2023,
+746473631,Non-current liabilities,2022,
+746473631,Non-current liabilities,2021,
+746473631,Non-current liabilities,2020,-
+746473631,Non-current liabilities,2019,-
+746473631,Non-current liabilities,2018,-
+746473631,Non-current liabilities,2017,-
+746473631,Non-current liabilities,2016,-
+746473631,Non-current liabilities,2015,-
+746473631,Total non-current interest-bearing loans and borrowings ($000s),2024,"$2,837"
+746473631,Total non-current interest-bearing loans and borrowings ($000s),2023,"$3,211"
+746473631,Total non-current interest-bearing loans and borrowings ($000s),2022,"$2,622"
+746473631,Total non-current interest-bearing loans and borrowings ($000s),2021,$172
+746473631,Total non-current interest-bearing loans and borrowings ($000s),2020,-
+746473631,Total non-current interest-bearing loans and borrowings ($000s),2019,-
+746473631,Total non-current interest-bearing loans and borrowings ($000s),2018,-
+746473631,Total non-current interest-bearing loans and borrowings ($000s),2017,-
+746473631,Total non-current interest-bearing loans and borrowings ($000s),2016,-
+746473631,Total non-current interest-bearing loans and borrowings ($000s),2015,-
+746473631,Deferred tax liabilities ($000s),2024,-
+746473631,Deferred tax liabilities ($000s),2023,-
+746473631,Deferred tax liabilities ($000s),2022,$303
+746473631,Deferred tax liabilities ($000s),2021,"$1,197"
+746473631,Deferred tax liabilities ($000s),2020,-
+746473631,Deferred tax liabilities ($000s),2019,-
+746473631,Deferred tax liabilities ($000s),2018,-
+746473631,Deferred tax liabilities ($000s),2017,-
+746473631,Deferred tax liabilities ($000s),2016,-
+746473631,Deferred tax liabilities ($000s),2015,-
+746473631,Convertible redeemable preference shares ($000s),2024,
+746473631,Convertible redeemable preference shares ($000s),2023,
+746473631,Convertible redeemable preference shares ($000s),2022,
+746473631,Convertible redeemable preference shares ($000s),2021,
+746473631,Convertible redeemable preference shares ($000s),2020,-
+746473631,Convertible redeemable preference shares ($000s),2019,-
+746473631,Convertible redeemable preference shares ($000s),2018,-
+746473631,Convertible redeemable preference shares ($000s),2017,-
+746473631,Convertible redeemable preference shares ($000s),2016,-
+746473631,Convertible redeemable preference shares ($000s),2015,-
+746473631,Other non-current liabilities ($000s),2024,$0
+746473631,Other non-current liabilities ($000s),2023,$0
+746473631,Other non-current liabilities ($000s),2022,$0
+746473631,Other non-current liabilities ($000s),2021,$0
+746473631,Other non-current liabilities ($000s),2020,-
+746473631,Other non-current liabilities ($000s),2019,-
+746473631,Other non-current liabilities ($000s),2018,-
+746473631,Other non-current liabilities ($000s),2017,-
+746473631,Other non-current liabilities ($000s),2016,-
+746473631,Other non-current liabilities ($000s),2015,-
+746473631,Total non-current liabilities ($000s),2024,"$3,037"
+746473631,Total non-current liabilities ($000s),2023,"$3,469"
+746473631,Total non-current liabilities ($000s),2022,"$3,196"
+746473631,Total non-current liabilities ($000s),2021,"$1,682"
+746473631,Total non-current liabilities ($000s),2020,-
+746473631,Total non-current liabilities ($000s),2019,-
+746473631,Total non-current liabilities ($000s),2018,-
+746473631,Total non-current liabilities ($000s),2017,-
+746473631,Total non-current liabilities ($000s),2016,-
+746473631,Total non-current liabilities ($000s),2015,-
+746473631,TOTAL LIABILITIES ($000s),2024,"$13,556"
+746473631,TOTAL LIABILITIES ($000s),2023,"$12,993"
+746473631,TOTAL LIABILITIES ($000s),2022,"$16,098"
+746473631,TOTAL LIABILITIES ($000s),2021,"$5,315"
+746473631,TOTAL LIABILITIES ($000s),2020,-
+746473631,TOTAL LIABILITIES ($000s),2019,-
+746473631,TOTAL LIABILITIES ($000s),2018,-
+746473631,TOTAL LIABILITIES ($000s),2017,-
+746473631,TOTAL LIABILITIES ($000s),2016,-
+746473631,TOTAL LIABILITIES ($000s),2015,-
+746473631,NET ASSETS ($000s),2024,"$75,274"
+746473631,NET ASSETS ($000s),2023,"$104,969"
+746473631,NET ASSETS ($000s),2022,"$27,388"
+746473631,NET ASSETS ($000s),2021,"$27,411"
+746473631,NET ASSETS ($000s),2020,-
+746473631,NET ASSETS ($000s),2019,-
+746473631,NET ASSETS ($000s),2018,-
+746473631,NET ASSETS ($000s),2017,-
+746473631,NET ASSETS ($000s),2016,-
+746473631,NET ASSETS ($000s),2015,-
+746473631,Equity,2024,
+746473631,Equity,2023,
+746473631,Equity,2022,
+746473631,Equity,2021,
+746473631,Equity,2020,-
+746473631,Equity,2019,-
+746473631,Equity,2018,-
+746473631,Equity,2017,-
+746473631,Equity,2016,-
+746473631,Equity,2015,-
+746473631,Equity attributable to equity holders of the parent,2024,
+746473631,Equity attributable to equity holders of the parent,2023,
+746473631,Equity attributable to equity holders of the parent,2022,
+746473631,Equity attributable to equity holders of the parent,2021,
+746473631,Equity attributable to equity holders of the parent,2020,-
+746473631,Equity attributable to equity holders of the parent,2019,-
+746473631,Equity attributable to equity holders of the parent,2018,-
+746473631,Equity attributable to equity holders of the parent,2017,-
+746473631,Equity attributable to equity holders of the parent,2016,-
+746473631,Equity attributable to equity holders of the parent,2015,-
+746473631,Contributed equity ($000s),2024,"$116,861"
+746473631,Contributed equity ($000s),2023,"$116,861"
+746473631,Contributed equity ($000s),2022,"$26,915"
+746473631,Contributed equity ($000s),2021,"$25,764"
+746473631,Contributed equity ($000s),2020,-
+746473631,Contributed equity ($000s),2019,-
+746473631,Contributed equity ($000s),2018,-
+746473631,Contributed equity ($000s),2017,-
+746473631,Contributed equity ($000s),2016,-
+746473631,Contributed equity ($000s),2015,-
+746473631,Retained earnings ($000s),2024,"($46,459)"
+746473631,Retained earnings ($000s),2023,"($15,040)"
+746473631,Retained earnings ($000s),2022,($420)
+746473631,Retained earnings ($000s),2021,"$1,408"
+746473631,Retained earnings ($000s),2020,-
+746473631,Retained earnings ($000s),2019,-
+746473631,Retained earnings ($000s),2018,-
+746473631,Retained earnings ($000s),2017,-
+746473631,Retained earnings ($000s),2016,-
+746473631,Retained earnings ($000s),2015,-
+746473631,Reserves ($000s),2024,"$4,871"
+746473631,Reserves ($000s),2023,"$3,148"
+746473631,Reserves ($000s),2022,$894
+746473631,Reserves ($000s),2021,$239
+746473631,Reserves ($000s),2020,-
+746473631,Reserves ($000s),2019,-
+746473631,Reserves ($000s),2018,-
+746473631,Reserves ($000s),2017,-
+746473631,Reserves ($000s),2016,-
+746473631,Reserves ($000s),2015,-
+746473631,Total Parent interests ($000s),2024,"$75,274"
+746473631,Total Parent interests ($000s),2023,"$104,969"
+746473631,Total Parent interests ($000s),2022,"$27,388"
+746473631,Total Parent interests ($000s),2021,"$27,411"
+746473631,Total Parent interests ($000s),2020,-
+746473631,Total Parent interests ($000s),2019,-
+746473631,Total Parent interests ($000s),2018,-
+746473631,Total Parent interests ($000s),2017,-
+746473631,Total Parent interests ($000s),2016,-
+746473631,Total Parent interests ($000s),2015,-
+746473631,Minority interests ($000s),2024,
+746473631,Minority interests ($000s),2023,
+746473631,Minority interests ($000s),2022,
+746473631,Minority interests ($000s),2021,
+746473631,Minority interests ($000s),2020,-
+746473631,Minority interests ($000s),2019,-
+746473631,Minority interests ($000s),2018,-
+746473631,Minority interests ($000s),2017,-
+746473631,Minority interests ($000s),2016,-
+746473631,Minority interests ($000s),2015,-
+746473631,TOTAL EQUITY ($000s),2024,"$75,274"
+746473631,TOTAL EQUITY ($000s),2023,"$104,969"
+746473631,TOTAL EQUITY ($000s),2022,"$27,388"
+746473631,TOTAL EQUITY ($000s),2021,"$27,411"
+746473631,TOTAL EQUITY ($000s),2020,-
+746473631,TOTAL EQUITY ($000s),2019,-
+746473631,TOTAL EQUITY ($000s),2018,-
+746473631,TOTAL EQUITY ($000s),2017,-
+746473631,TOTAL EQUITY ($000s),2016,-
+746473631,TOTAL EQUITY ($000s),2015,-
+746473631,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2024,"$104,969"
+746473631,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2023,"$27,388"
+746473631,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2022,"$27,411"
+746473631,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2021,-
+746473631,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2020,-
+746473631,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2019,-
+746473631,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2018,-
+746473631,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2017,-
+746473631,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2016,-
+746473631,TOTAL EQUITY FOR PREVIOUS YEAR ($000s),2015,-
